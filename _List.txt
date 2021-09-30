@@ -106,6 +106,8 @@ https://github.com/ACINQ/bitcoin-lib
 https://github.com/ACINQ/lightning-kmp
 https://github.com/ACINQ/bitcoin-kmp
 https://github.com/runcitadel/compose-nonfree
+https://github.com/runcitadel/manager
+https://github.com/runcitadel/dashboard
 https://github.com/LN-Zap/node-lnd-grpc
 https://github.com/LN-Zap/zap-desktop
 https://github.com/LN-Zap/zap-android
