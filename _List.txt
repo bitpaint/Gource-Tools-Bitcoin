@@ -42,6 +42,7 @@ https://github.com/spesmilo/electrum
 https://github.com/spesmilo/electrumx
 https://github.com/JoinMarket-Org/joinmarket-clientserver
 https://github.com/JoinMarket-Org/joinmarket
+https://github.com/JoinMarket-Org/jm-web-client
 https://github.com/ElementsProject/lightning
 https://github.com/ElementsProject/lightning-charge
 https://github.com/fiatjaf/lntxbot
@@ -64,7 +65,6 @@ https://github.com/fiatjaf/satdress
 https://github.com/smallworlnd/LNnodeInsight
 https://github.com/yzernik/squeaknode
 https://github.com/bucko13/lit-subscriptions
-https://github.com/agora-org/agora
 https://github.com/bitcoinanatomy/bitcoinanatomy
 https://github.com/getumbrel/umbrel-website
 https://github.com/getumbrel/umbrel-apps-gallery
@@ -177,7 +177,7 @@ https://github.com/arcbtc/where39
 https://github.com/arcbtc/arcbtc.github.io
 https://github.com/arcbtc/little-bowser
 https://github.com/arcbtc/lntrigger
-https://github.com/arcbtc/bowser-bitcoin-hardware-wallet	
+https://github.com/arcbtc/bowser-bitcoin-hardware-wallet
 https://github.com/arcbtc/lnbits-captcha-faucet
 https://github.com/arcbtc/M5Stack121
 https://github.com/arcbtc/M5StackSats
