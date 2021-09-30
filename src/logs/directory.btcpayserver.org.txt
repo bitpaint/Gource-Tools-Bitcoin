@@ -1,0 +1,713 @@
+1584956104|Pavlenex|A|/directory.btcpayserver.org/LICENSE
+1584956104|Pavlenex|A|/directory.btcpayserver.org/README.md
+1584956342|Pavlenex|M|/directory.btcpayserver.org/README.md
+1586009100|Jonathan Erlich|A|/directory.btcpayserver.org/.DS_Store
+1586009100|Jonathan Erlich|A|/directory.btcpayserver.org/directory/.gitignore
+1586009100|Jonathan Erlich|A|/directory.btcpayserver.org/directory/README.md
+1586009100|Jonathan Erlich|A|/directory.btcpayserver.org/directory/_headers
+1586009100|Jonathan Erlich|A|/directory.btcpayserver.org/directory/_redirects
+1586009100|Jonathan Erlich|A|/directory.btcpayserver.org/directory/package-lock.json
+1586009100|Jonathan Erlich|A|/directory.btcpayserver.org/directory/package.json
+1586009100|Jonathan Erlich|A|/directory.btcpayserver.org/directory/public/_redirects
+1586009100|Jonathan Erlich|A|/directory.btcpayserver.org/directory/public/android-icon-144x144.png
+1586009100|Jonathan Erlich|A|/directory.btcpayserver.org/directory/public/android-icon-192x192.png
+1586009100|Jonathan Erlich|A|/directory.btcpayserver.org/directory/public/android-icon-36x36.png
+1586009100|Jonathan Erlich|A|/directory.btcpayserver.org/directory/public/android-icon-48x48.png
+1586009100|Jonathan Erlich|A|/directory.btcpayserver.org/directory/public/android-icon-72x72.png
+1586009100|Jonathan Erlich|A|/directory.btcpayserver.org/directory/public/android-icon-96x96.png
+1586009100|Jonathan Erlich|A|/directory.btcpayserver.org/directory/public/apple-icon-114x114.png
+1586009100|Jonathan Erlich|A|/directory.btcpayserver.org/directory/public/apple-icon-120x120.png
+1586009100|Jonathan Erlich|A|/directory.btcpayserver.org/directory/public/apple-icon-144x144.png
+1586009100|Jonathan Erlich|A|/directory.btcpayserver.org/directory/public/apple-icon-152x152.png
+1586009100|Jonathan Erlich|A|/directory.btcpayserver.org/directory/public/apple-icon-180x180.png
+1586009100|Jonathan Erlich|A|/directory.btcpayserver.org/directory/public/apple-icon-57x57.png
+1586009100|Jonathan Erlich|A|/directory.btcpayserver.org/directory/public/apple-icon-60x60.png
+1586009100|Jonathan Erlich|A|/directory.btcpayserver.org/directory/public/apple-icon-72x72.png
+1586009100|Jonathan Erlich|A|/directory.btcpayserver.org/directory/public/apple-icon-76x76.png
+1586009100|Jonathan Erlich|A|/directory.btcpayserver.org/directory/public/apple-icon-precomposed.png
+1586009100|Jonathan Erlich|A|/directory.btcpayserver.org/directory/public/apple-icon.png
+1586009100|Jonathan Erlich|A|/directory.btcpayserver.org/directory/public/browserconfig.xml
+1586009100|Jonathan Erlich|A|/directory.btcpayserver.org/directory/public/favicon-16x16.png
+1586009100|Jonathan Erlich|A|/directory.btcpayserver.org/directory/public/favicon-32x32.png
+1586009100|Jonathan Erlich|A|/directory.btcpayserver.org/directory/public/favicon-96x96.png
+1586009100|Jonathan Erlich|A|/directory.btcpayserver.org/directory/public/favicon.ico
+1586009100|Jonathan Erlich|A|/directory.btcpayserver.org/directory/public/index.html
+1586009100|Jonathan Erlich|A|/directory.btcpayserver.org/directory/public/logo192.png
+1586009100|Jonathan Erlich|A|/directory.btcpayserver.org/directory/public/logo512.png
+1586009100|Jonathan Erlich|A|/directory.btcpayserver.org/directory/public/manifest.json
+1586009100|Jonathan Erlich|A|/directory.btcpayserver.org/directory/public/ms-icon-144x144.png
+1586009100|Jonathan Erlich|A|/directory.btcpayserver.org/directory/public/ms-icon-150x150.png
+1586009100|Jonathan Erlich|A|/directory.btcpayserver.org/directory/public/ms-icon-310x310.png
+1586009100|Jonathan Erlich|A|/directory.btcpayserver.org/directory/public/ms-icon-70x70.png
+1586009100|Jonathan Erlich|A|/directory.btcpayserver.org/directory/public/robots.txt
+1586009100|Jonathan Erlich|A|/directory.btcpayserver.org/directory/src/App.js
+1586009100|Jonathan Erlich|A|/directory.btcpayserver.org/directory/src/App.scss
+1586009100|Jonathan Erlich|A|/directory.btcpayserver.org/directory/src/App.test.js
+1586009100|Jonathan Erlich|A|/directory.btcpayserver.org/directory/src/components/Directory/Directory.js
+1586009100|Jonathan Erlich|A|/directory.btcpayserver.org/directory/src/components/Directory/Directory.scss
+1586009100|Jonathan Erlich|A|/directory.btcpayserver.org/directory/src/components/Directory/DirectoryItem.js
+1586009100|Jonathan Erlich|A|/directory.btcpayserver.org/directory/src/components/Directory/Icons.js
+1586009100|Jonathan Erlich|A|/directory.btcpayserver.org/directory/src/components/Directory/List.js
+1586009100|Jonathan Erlich|A|/directory.btcpayserver.org/directory/src/components/Drawer/NestedList.js
+1586009100|Jonathan Erlich|A|/directory.btcpayserver.org/directory/src/components/Drawer/NestedList.scss
+1586009100|Jonathan Erlich|A|/directory.btcpayserver.org/directory/src/components/Drawer/TemporaryDrawer.js
+1586009100|Jonathan Erlich|A|/directory.btcpayserver.org/directory/src/components/Drawer/TemporaryDrawer2.js
+1586009100|Jonathan Erlich|A|/directory.btcpayserver.org/directory/src/components/Drawer/TemporaryDrawer2.scss
+1586009100|Jonathan Erlich|A|/directory.btcpayserver.org/directory/src/components/NewEntry/NewEntry.js
+1586009100|Jonathan Erlich|A|/directory.btcpayserver.org/directory/src/components/NewEntry/NewEntry.scss
+1586009100|Jonathan Erlich|A|/directory.btcpayserver.org/directory/src/constants.scss
+1586009100|Jonathan Erlich|A|/directory.btcpayserver.org/directory/src/images/btcpay-directory-logo-os.svg
+1586009100|Jonathan Erlich|A|/directory.btcpayserver.org/directory/src/images/btcpay-directory-logo-rob.svg
+1586009100|Jonathan Erlich|A|/directory.btcpayserver.org/directory/src/images/btcpay-directory-logo.svg
+1586009100|Jonathan Erlich|A|/directory.btcpayserver.org/directory/src/images/btcpay-logo.svg
+1586009100|Jonathan Erlich|A|/directory.btcpayserver.org/directory/src/images/darkMode.svg
+1586009100|Jonathan Erlich|A|/directory.btcpayserver.org/directory/src/index.js
+1586009100|Jonathan Erlich|A|/directory.btcpayserver.org/directory/src/index.scss
+1586009100|Jonathan Erlich|A|/directory.btcpayserver.org/directory/src/setupTests.js
+1586022770|Jonathan Erlich|M|/directory.btcpayserver.org/directory/src/App.js
+1586022770|Jonathan Erlich|D|/directory.btcpayserver.org/directory/src/images/btcpay-directory-logo-os.svg
+1586022770|Jonathan Erlich|D|/directory.btcpayserver.org/directory/src/images/btcpay-directory-logo-rob.svg
+1586022770|Jonathan Erlich|M|/directory.btcpayserver.org/directory/src/images/btcpay-directory-logo.svg
+1586022770|Jonathan Erlich|D|/directory.btcpayserver.org/directory/src/images/btcpay-logo.svg
+1586028439|Jonathan Erlich|M|/directory.btcpayserver.org/directory/src/App.scss
+1586028439|Jonathan Erlich|M|/directory.btcpayserver.org/directory/src/components/Directory/Directory.scss
+1586028439|Jonathan Erlich|M|/directory.btcpayserver.org/directory/src/components/Drawer/NestedList.scss
+1586028439|Jonathan Erlich|M|/directory.btcpayserver.org/directory/src/components/Drawer/TemporaryDrawer2.js
+1586028439|Jonathan Erlich|M|/directory.btcpayserver.org/directory/src/components/Drawer/TemporaryDrawer2.scss
+1586028439|Jonathan Erlich|M|/directory.btcpayserver.org/directory/src/components/NewEntry/NewEntry.scss
+1586200628|joerlop|M|/directory.btcpayserver.org/directory/src/components/Directory/List.js
+1586201040|joerlop|M|/directory.btcpayserver.org/directory/src/components/Directory/List.js
+1586201311|joerlop|D|/directory.btcpayserver.org/directory/.gitignore
+1586201311|joerlop|D|/directory.btcpayserver.org/directory/README.md
+1586201311|joerlop|D|/directory.btcpayserver.org/directory/_headers
+1586201311|joerlop|D|/directory.btcpayserver.org/directory/_redirects
+1586201311|joerlop|D|/directory.btcpayserver.org/directory/package-lock.json
+1586201311|joerlop|D|/directory.btcpayserver.org/directory/package.json
+1586201311|joerlop|D|/directory.btcpayserver.org/directory/public/_redirects
+1586201311|joerlop|D|/directory.btcpayserver.org/directory/public/android-icon-144x144.png
+1586201311|joerlop|D|/directory.btcpayserver.org/directory/public/android-icon-192x192.png
+1586201311|joerlop|D|/directory.btcpayserver.org/directory/public/android-icon-36x36.png
+1586201311|joerlop|D|/directory.btcpayserver.org/directory/public/android-icon-48x48.png
+1586201311|joerlop|D|/directory.btcpayserver.org/directory/public/android-icon-72x72.png
+1586201311|joerlop|D|/directory.btcpayserver.org/directory/public/android-icon-96x96.png
+1586201311|joerlop|D|/directory.btcpayserver.org/directory/public/apple-icon-114x114.png
+1586201311|joerlop|D|/directory.btcpayserver.org/directory/public/apple-icon-120x120.png
+1586201311|joerlop|D|/directory.btcpayserver.org/directory/public/apple-icon-144x144.png
+1586201311|joerlop|D|/directory.btcpayserver.org/directory/public/apple-icon-152x152.png
+1586201311|joerlop|D|/directory.btcpayserver.org/directory/public/apple-icon-180x180.png
+1586201311|joerlop|D|/directory.btcpayserver.org/directory/public/apple-icon-57x57.png
+1586201311|joerlop|D|/directory.btcpayserver.org/directory/public/apple-icon-60x60.png
+1586201311|joerlop|D|/directory.btcpayserver.org/directory/public/apple-icon-72x72.png
+1586201311|joerlop|D|/directory.btcpayserver.org/directory/public/apple-icon-76x76.png
+1586201311|joerlop|D|/directory.btcpayserver.org/directory/public/apple-icon-precomposed.png
+1586201311|joerlop|D|/directory.btcpayserver.org/directory/public/apple-icon.png
+1586201311|joerlop|D|/directory.btcpayserver.org/directory/public/browserconfig.xml
+1586201311|joerlop|D|/directory.btcpayserver.org/directory/public/favicon-16x16.png
+1586201311|joerlop|D|/directory.btcpayserver.org/directory/public/favicon-32x32.png
+1586201311|joerlop|D|/directory.btcpayserver.org/directory/public/favicon-96x96.png
+1586201311|joerlop|D|/directory.btcpayserver.org/directory/public/favicon.ico
+1586201311|joerlop|D|/directory.btcpayserver.org/directory/public/index.html
+1586201311|joerlop|D|/directory.btcpayserver.org/directory/public/logo192.png
+1586201311|joerlop|D|/directory.btcpayserver.org/directory/public/logo512.png
+1586201311|joerlop|D|/directory.btcpayserver.org/directory/public/manifest.json
+1586201311|joerlop|D|/directory.btcpayserver.org/directory/public/ms-icon-144x144.png
+1586201311|joerlop|D|/directory.btcpayserver.org/directory/public/ms-icon-150x150.png
+1586201311|joerlop|D|/directory.btcpayserver.org/directory/public/ms-icon-310x310.png
+1586201311|joerlop|D|/directory.btcpayserver.org/directory/public/ms-icon-70x70.png
+1586201311|joerlop|D|/directory.btcpayserver.org/directory/public/robots.txt
+1586201311|joerlop|D|/directory.btcpayserver.org/directory/src/App.js
+1586201311|joerlop|D|/directory.btcpayserver.org/directory/src/App.scss
+1586201311|joerlop|D|/directory.btcpayserver.org/directory/src/App.test.js
+1586201311|joerlop|D|/directory.btcpayserver.org/directory/src/components/Directory/Directory.js
+1586201311|joerlop|D|/directory.btcpayserver.org/directory/src/components/Directory/Directory.scss
+1586201311|joerlop|D|/directory.btcpayserver.org/directory/src/components/Directory/DirectoryItem.js
+1586201311|joerlop|D|/directory.btcpayserver.org/directory/src/components/Directory/Icons.js
+1586201311|joerlop|D|/directory.btcpayserver.org/directory/src/components/Directory/List.js
+1586201311|joerlop|D|/directory.btcpayserver.org/directory/src/components/Drawer/NestedList.js
+1586201311|joerlop|D|/directory.btcpayserver.org/directory/src/components/Drawer/NestedList.scss
+1586201311|joerlop|D|/directory.btcpayserver.org/directory/src/components/Drawer/TemporaryDrawer.js
+1586201311|joerlop|D|/directory.btcpayserver.org/directory/src/components/Drawer/TemporaryDrawer2.js
+1586201311|joerlop|D|/directory.btcpayserver.org/directory/src/components/Drawer/TemporaryDrawer2.scss
+1586201311|joerlop|D|/directory.btcpayserver.org/directory/src/components/NewEntry/NewEntry.js
+1586201311|joerlop|D|/directory.btcpayserver.org/directory/src/components/NewEntry/NewEntry.scss
+1586201311|joerlop|D|/directory.btcpayserver.org/directory/src/constants.scss
+1586201311|joerlop|D|/directory.btcpayserver.org/directory/src/images/btcpay-directory-logo.svg
+1586201311|joerlop|D|/directory.btcpayserver.org/directory/src/images/darkMode.svg
+1586201311|joerlop|D|/directory.btcpayserver.org/directory/src/index.js
+1586201311|joerlop|D|/directory.btcpayserver.org/directory/src/index.scss
+1586201311|joerlop|D|/directory.btcpayserver.org/directory/src/setupTests.js
+1586201398|joerlop|A|/directory.btcpayserver.org/directory/.gitignore
+1586201398|joerlop|A|/directory.btcpayserver.org/directory/README.md
+1586201398|joerlop|A|/directory.btcpayserver.org/directory/_headers
+1586201398|joerlop|A|/directory.btcpayserver.org/directory/_redirects
+1586201398|joerlop|A|/directory.btcpayserver.org/directory/package-lock.json
+1586201398|joerlop|A|/directory.btcpayserver.org/directory/package.json
+1586201398|joerlop|A|/directory.btcpayserver.org/directory/public/_redirects
+1586201398|joerlop|A|/directory.btcpayserver.org/directory/public/android-icon-144x144.png
+1586201398|joerlop|A|/directory.btcpayserver.org/directory/public/android-icon-192x192.png
+1586201398|joerlop|A|/directory.btcpayserver.org/directory/public/android-icon-36x36.png
+1586201398|joerlop|A|/directory.btcpayserver.org/directory/public/android-icon-48x48.png
+1586201398|joerlop|A|/directory.btcpayserver.org/directory/public/android-icon-72x72.png
+1586201398|joerlop|A|/directory.btcpayserver.org/directory/public/android-icon-96x96.png
+1586201398|joerlop|A|/directory.btcpayserver.org/directory/public/apple-icon-114x114.png
+1586201398|joerlop|A|/directory.btcpayserver.org/directory/public/apple-icon-120x120.png
+1586201398|joerlop|A|/directory.btcpayserver.org/directory/public/apple-icon-144x144.png
+1586201398|joerlop|A|/directory.btcpayserver.org/directory/public/apple-icon-152x152.png
+1586201398|joerlop|A|/directory.btcpayserver.org/directory/public/apple-icon-180x180.png
+1586201398|joerlop|A|/directory.btcpayserver.org/directory/public/apple-icon-57x57.png
+1586201398|joerlop|A|/directory.btcpayserver.org/directory/public/apple-icon-60x60.png
+1586201398|joerlop|A|/directory.btcpayserver.org/directory/public/apple-icon-72x72.png
+1586201398|joerlop|A|/directory.btcpayserver.org/directory/public/apple-icon-76x76.png
+1586201398|joerlop|A|/directory.btcpayserver.org/directory/public/apple-icon-precomposed.png
+1586201398|joerlop|A|/directory.btcpayserver.org/directory/public/apple-icon.png
+1586201398|joerlop|A|/directory.btcpayserver.org/directory/public/browserconfig.xml
+1586201398|joerlop|A|/directory.btcpayserver.org/directory/public/favicon-16x16.png
+1586201398|joerlop|A|/directory.btcpayserver.org/directory/public/favicon-32x32.png
+1586201398|joerlop|A|/directory.btcpayserver.org/directory/public/favicon-96x96.png
+1586201398|joerlop|A|/directory.btcpayserver.org/directory/public/favicon.ico
+1586201398|joerlop|A|/directory.btcpayserver.org/directory/public/index.html
+1586201398|joerlop|A|/directory.btcpayserver.org/directory/public/logo192.png
+1586201398|joerlop|A|/directory.btcpayserver.org/directory/public/logo512.png
+1586201398|joerlop|A|/directory.btcpayserver.org/directory/public/manifest.json
+1586201398|joerlop|A|/directory.btcpayserver.org/directory/public/ms-icon-144x144.png
+1586201398|joerlop|A|/directory.btcpayserver.org/directory/public/ms-icon-150x150.png
+1586201398|joerlop|A|/directory.btcpayserver.org/directory/public/ms-icon-310x310.png
+1586201398|joerlop|A|/directory.btcpayserver.org/directory/public/ms-icon-70x70.png
+1586201398|joerlop|A|/directory.btcpayserver.org/directory/public/robots.txt
+1586201398|joerlop|A|/directory.btcpayserver.org/directory/src/App.js
+1586201398|joerlop|A|/directory.btcpayserver.org/directory/src/App.scss
+1586201398|joerlop|A|/directory.btcpayserver.org/directory/src/App.test.js
+1586201398|joerlop|A|/directory.btcpayserver.org/directory/src/components/Directory/Directory.js
+1586201398|joerlop|A|/directory.btcpayserver.org/directory/src/components/Directory/Directory.scss
+1586201398|joerlop|A|/directory.btcpayserver.org/directory/src/components/Directory/DirectoryItem.js
+1586201398|joerlop|A|/directory.btcpayserver.org/directory/src/components/Directory/Icons.js
+1586201398|joerlop|A|/directory.btcpayserver.org/directory/src/components/Directory/List.js
+1586201398|joerlop|A|/directory.btcpayserver.org/directory/src/components/Drawer/NestedList.js
+1586201398|joerlop|A|/directory.btcpayserver.org/directory/src/components/Drawer/NestedList.scss
+1586201398|joerlop|A|/directory.btcpayserver.org/directory/src/components/Drawer/TemporaryDrawer.js
+1586201398|joerlop|A|/directory.btcpayserver.org/directory/src/components/Drawer/TemporaryDrawer2.js
+1586201398|joerlop|A|/directory.btcpayserver.org/directory/src/components/Drawer/TemporaryDrawer2.scss
+1586201398|joerlop|A|/directory.btcpayserver.org/directory/src/components/NewEntry/NewEntry.js
+1586201398|joerlop|A|/directory.btcpayserver.org/directory/src/components/NewEntry/NewEntry.scss
+1586201398|joerlop|A|/directory.btcpayserver.org/directory/src/constants.scss
+1586201398|joerlop|A|/directory.btcpayserver.org/directory/src/images/btcpay-directory-logo.svg
+1586201398|joerlop|A|/directory.btcpayserver.org/directory/src/images/darkMode.svg
+1586201398|joerlop|A|/directory.btcpayserver.org/directory/src/index.js
+1586201398|joerlop|A|/directory.btcpayserver.org/directory/src/index.scss
+1586201398|joerlop|A|/directory.btcpayserver.org/directory/src/setupTests.js
+1586201678|Jonathan Erlich|D|/directory.btcpayserver.org/.DS_Store
+1586220051|joerlop|M|/directory.btcpayserver.org/directory/src/components/Directory/List.js
+1586472828|joerlop|M|/directory.btcpayserver.org/directory/src/App.js
+1586472828|joerlop|M|/directory.btcpayserver.org/directory/src/App.scss
+1586472828|joerlop|M|/directory.btcpayserver.org/directory/src/components/Directory/Directory.js
+1586472828|joerlop|M|/directory.btcpayserver.org/directory/src/components/Directory/Directory.scss
+1586472828|joerlop|M|/directory.btcpayserver.org/directory/src/components/Drawer/NestedList.js
+1586472828|joerlop|M|/directory.btcpayserver.org/directory/src/components/Drawer/TemporaryDrawer2.js
+1586472828|joerlop|M|/directory.btcpayserver.org/directory/src/constants.scss
+1586472828|joerlop|A|/directory.btcpayserver.org/directory/src/helpers.js
+1586472828|joerlop|A|/directory.btcpayserver.org/directory/src/images/btcpay-directory-logo-white.png
+1586472828|joerlop|A|/directory.btcpayserver.org/directory/src/images/btcpay-directory-logo-white.svg
+1586472828|joerlop|A|/directory.btcpayserver.org/directory/src/images/moonFilled.svg
+1586472828|joerlop|A|/directory.btcpayserver.org/directory/src/images/moonOutlined.svg
+1586476300|joerlop|M|/directory.btcpayserver.org/directory/src/App.js
+1586476300|joerlop|M|/directory.btcpayserver.org/directory/src/App.scss
+1586476300|joerlop|M|/directory.btcpayserver.org/directory/src/components/Drawer/NestedList.js
+1586476300|joerlop|M|/directory.btcpayserver.org/directory/src/components/Drawer/NestedList.scss
+1586476300|joerlop|M|/directory.btcpayserver.org/directory/src/components/Drawer/TemporaryDrawer2.js
+1586476300|joerlop|M|/directory.btcpayserver.org/directory/src/components/Drawer/TemporaryDrawer2.scss
+1586476300|joerlop|M|/directory.btcpayserver.org/directory/src/components/NewEntry/NewEntry.js
+1586476300|joerlop|M|/directory.btcpayserver.org/directory/src/components/NewEntry/NewEntry.scss
+1586476300|joerlop|A|/directory.btcpayserver.org/directory/src/images/moon.svg
+1586476300|joerlop|A|/directory.btcpayserver.org/directory/src/images/sunFilled.svg
+1586476300|joerlop|A|/directory.btcpayserver.org/directory/src/images/sunFilled2.svg
+1586476300|joerlop|A|/directory.btcpayserver.org/directory/src/images/sunOutlined.svg
+1586476300|joerlop|A|/directory.btcpayserver.org/directory/src/images/sunOutlined2.svg
+1586477770|joerlop|M|/directory.btcpayserver.org/directory/src/App.js
+1586477770|joerlop|M|/directory.btcpayserver.org/directory/src/App.scss
+1586477972|joerlop|M|/directory.btcpayserver.org/directory/src/App.scss
+1586478116|joerlop|M|/directory.btcpayserver.org/directory/src/App.scss
+1586478278|joerlop|M|/directory.btcpayserver.org/directory/src/App.scss
+1586478296|joerlop|M|/directory.btcpayserver.org/directory/src/App.scss
+1586478435|joerlop|M|/directory.btcpayserver.org/directory/src/App.scss
+1586528143|joerlop|M|/directory.btcpayserver.org/directory/package-lock.json
+1586528143|joerlop|M|/directory.btcpayserver.org/directory/package.json
+1586528811|joerlop|M|/directory.btcpayserver.org/directory/.gitignore
+1586528811|joerlop|A|/directory.btcpayserver.org/directory/build/_redirects
+1586528811|joerlop|A|/directory.btcpayserver.org/directory/build/android-icon-144x144.png
+1586528811|joerlop|A|/directory.btcpayserver.org/directory/build/android-icon-192x192.png
+1586528811|joerlop|A|/directory.btcpayserver.org/directory/build/android-icon-36x36.png
+1586528811|joerlop|A|/directory.btcpayserver.org/directory/build/android-icon-48x48.png
+1586528811|joerlop|A|/directory.btcpayserver.org/directory/build/android-icon-72x72.png
+1586528811|joerlop|A|/directory.btcpayserver.org/directory/build/android-icon-96x96.png
+1586528811|joerlop|A|/directory.btcpayserver.org/directory/build/apple-icon-114x114.png
+1586528811|joerlop|A|/directory.btcpayserver.org/directory/build/apple-icon-120x120.png
+1586528811|joerlop|A|/directory.btcpayserver.org/directory/build/apple-icon-144x144.png
+1586528811|joerlop|A|/directory.btcpayserver.org/directory/build/apple-icon-152x152.png
+1586528811|joerlop|A|/directory.btcpayserver.org/directory/build/apple-icon-180x180.png
+1586528811|joerlop|A|/directory.btcpayserver.org/directory/build/apple-icon-57x57.png
+1586528811|joerlop|A|/directory.btcpayserver.org/directory/build/apple-icon-60x60.png
+1586528811|joerlop|A|/directory.btcpayserver.org/directory/build/apple-icon-72x72.png
+1586528811|joerlop|A|/directory.btcpayserver.org/directory/build/apple-icon-76x76.png
+1586528811|joerlop|A|/directory.btcpayserver.org/directory/build/apple-icon-precomposed.png
+1586528811|joerlop|A|/directory.btcpayserver.org/directory/build/apple-icon.png
+1586528811|joerlop|A|/directory.btcpayserver.org/directory/build/asset-manifest.json
+1586528811|joerlop|A|/directory.btcpayserver.org/directory/build/browserconfig.xml
+1586528811|joerlop|A|/directory.btcpayserver.org/directory/build/favicon-16x16.png
+1586528811|joerlop|A|/directory.btcpayserver.org/directory/build/favicon-32x32.png
+1586528811|joerlop|A|/directory.btcpayserver.org/directory/build/favicon-96x96.png
+1586528811|joerlop|A|/directory.btcpayserver.org/directory/build/favicon.ico
+1586528811|joerlop|A|/directory.btcpayserver.org/directory/build/index.html
+1586528811|joerlop|A|/directory.btcpayserver.org/directory/build/logo192.png
+1586528811|joerlop|A|/directory.btcpayserver.org/directory/build/logo512.png
+1586528811|joerlop|A|/directory.btcpayserver.org/directory/build/manifest.json
+1586528811|joerlop|A|/directory.btcpayserver.org/directory/build/ms-icon-144x144.png
+1586528811|joerlop|A|/directory.btcpayserver.org/directory/build/ms-icon-150x150.png
+1586528811|joerlop|A|/directory.btcpayserver.org/directory/build/ms-icon-310x310.png
+1586528811|joerlop|A|/directory.btcpayserver.org/directory/build/ms-icon-70x70.png
+1586528811|joerlop|A|/directory.btcpayserver.org/directory/build/precache-manifest.25fa8f7e6e711d09c0b712a63c562ed9.js
+1586528811|joerlop|A|/directory.btcpayserver.org/directory/build/robots.txt
+1586528811|joerlop|A|/directory.btcpayserver.org/directory/build/service-worker.js
+1586528811|joerlop|A|/directory.btcpayserver.org/directory/build/static/css/main.53db9320.chunk.css
+1586528811|joerlop|A|/directory.btcpayserver.org/directory/build/static/css/main.53db9320.chunk.css.map
+1586528811|joerlop|A|/directory.btcpayserver.org/directory/build/static/js/2.37fe268a.chunk.js
+1586528811|joerlop|A|/directory.btcpayserver.org/directory/build/static/js/2.37fe268a.chunk.js.LICENSE.txt
+1586528811|joerlop|A|/directory.btcpayserver.org/directory/build/static/js/2.37fe268a.chunk.js.map
+1586528811|joerlop|A|/directory.btcpayserver.org/directory/build/static/js/main.370a4237.chunk.js
+1586528811|joerlop|A|/directory.btcpayserver.org/directory/build/static/js/main.370a4237.chunk.js.map
+1586528811|joerlop|A|/directory.btcpayserver.org/directory/build/static/js/runtime-main.b16a841f.js
+1586528811|joerlop|A|/directory.btcpayserver.org/directory/build/static/js/runtime-main.b16a841f.js.map
+1586528811|joerlop|A|/directory.btcpayserver.org/directory/build/static/media/btcpay-directory-logo-white.a51d790b.png
+1586528811|joerlop|A|/directory.btcpayserver.org/directory/build/static/media/btcpay-directory-logo.6e3359f9.svg
+1586528811|joerlop|A|/directory.btcpayserver.org/directory/build/static/media/moonFilled.7fe50f25.svg
+1586528811|joerlop|A|/directory.btcpayserver.org/directory/build/static/media/sunFilled2.eae3aacd.svg
+1586528930|joerlop|A|/directory.btcpayserver.org/directory/build/static/css/main.53db9320.chunk 2.css
+1586528930|joerlop|A|/directory.btcpayserver.org/directory/build/static/js/main.370a4237.chunk 2.js
+1586528930|joerlop|A|/directory.btcpayserver.org/directory/build/static/media/moonFilled.7fe50f25 2.svg
+1586528930|joerlop|A|/directory.btcpayserver.org/directory/build/static/media/sunFilled2.eae3aacd 2.svg
+1586530532|joerlop|D|/directory.btcpayserver.org/directory/build/static/css/main.53db9320.chunk 2.css
+1586530532|joerlop|D|/directory.btcpayserver.org/directory/build/static/js/main.370a4237.chunk 2.js
+1586530532|joerlop|D|/directory.btcpayserver.org/directory/build/static/media/moonFilled.7fe50f25 2.svg
+1586530532|joerlop|D|/directory.btcpayserver.org/directory/build/static/media/sunFilled2.eae3aacd 2.svg
+1586530532|joerlop|A|/directory.btcpayserver.org/directory/src/.env
+1586530532|joerlop|M|/directory.btcpayserver.org/directory/src/index.js
+1586531138|joerlop|M|/directory.btcpayserver.org/directory/build/asset-manifest.json
+1586531138|joerlop|M|/directory.btcpayserver.org/directory/build/index.html
+1586531138|joerlop|D|/directory.btcpayserver.org/directory/build/precache-manifest.25fa8f7e6e711d09c0b712a63c562ed9.js
+1586531138|joerlop|A|/directory.btcpayserver.org/directory/build/precache-manifest.a00630dee996f82022c6e85474a2cfbc.js
+1586531138|joerlop|M|/directory.btcpayserver.org/directory/build/service-worker.js
+1586531138|joerlop|D|/directory.btcpayserver.org/directory/build/static/js/main.370a4237.chunk.js
+1586531138|joerlop|D|/directory.btcpayserver.org/directory/build/static/js/main.370a4237.chunk.js.map
+1586531138|joerlop|A|/directory.btcpayserver.org/directory/build/static/js/main.6ff86844.chunk.js
+1586531138|joerlop|A|/directory.btcpayserver.org/directory/build/static/js/main.6ff86844.chunk.js.map
+1586531138|joerlop|M|/directory.btcpayserver.org/directory/src/App.js
+1586531138|joerlop|M|/directory.btcpayserver.org/directory/src/components/Drawer/NestedList.js
+1586531751|joerlop|A|/directory.btcpayserver.org/directory/.env
+1586531751|joerlop|M|/directory.btcpayserver.org/directory/build/asset-manifest.json
+1586531751|joerlop|M|/directory.btcpayserver.org/directory/build/index.html
+1586531751|joerlop|D|/directory.btcpayserver.org/directory/build/precache-manifest.a00630dee996f82022c6e85474a2cfbc.js
+1586531751|joerlop|A|/directory.btcpayserver.org/directory/build/precache-manifest.e9340da6778657f40ccb10ae1338f176.js
+1586531751|joerlop|M|/directory.btcpayserver.org/directory/build/service-worker.js
+1586531751|joerlop|A|/directory.btcpayserver.org/directory/build/static/js/main.0a504cd9.chunk.js
+1586531751|joerlop|A|/directory.btcpayserver.org/directory/build/static/js/main.0a504cd9.chunk.js.map
+1586531751|joerlop|D|/directory.btcpayserver.org/directory/build/static/js/main.6ff86844.chunk.js
+1586531751|joerlop|D|/directory.btcpayserver.org/directory/build/static/js/main.6ff86844.chunk.js.map
+1586532221|joerlop|M|/directory.btcpayserver.org/directory/src/App.js
+1586533823|joerlop|D|/directory.btcpayserver.org/directory/.env
+1586533823|joerlop|D|/directory.btcpayserver.org/directory/src/.env
+1586533823|joerlop|M|/directory.btcpayserver.org/directory/src/App.js
+1586534346|joerlop|M|/directory.btcpayserver.org/directory/build/asset-manifest.json
+1586534346|joerlop|M|/directory.btcpayserver.org/directory/build/index.html
+1586534346|joerlop|A|/directory.btcpayserver.org/directory/build/precache-manifest.e60a11e6b463d2b77f2bc3d655f82139.js
+1586534346|joerlop|D|/directory.btcpayserver.org/directory/build/precache-manifest.e9340da6778657f40ccb10ae1338f176.js
+1586534346|joerlop|M|/directory.btcpayserver.org/directory/build/service-worker.js
+1586534346|joerlop|D|/directory.btcpayserver.org/directory/build/static/js/main.0a504cd9.chunk.js
+1586534346|joerlop|D|/directory.btcpayserver.org/directory/build/static/js/main.0a504cd9.chunk.js.map
+1586534346|joerlop|A|/directory.btcpayserver.org/directory/build/static/js/main.37bb262e.chunk.js
+1586534346|joerlop|A|/directory.btcpayserver.org/directory/build/static/js/main.37bb262e.chunk.js.map
+1586534346|joerlop|M|/directory.btcpayserver.org/directory/src/App.js
+1586534346|joerlop|M|/directory.btcpayserver.org/directory/src/index.js
+1586534887|joerlop|D|/directory.btcpayserver.org/directory/build/_redirects
+1586534887|joerlop|D|/directory.btcpayserver.org/directory/build/android-icon-144x144.png
+1586534887|joerlop|D|/directory.btcpayserver.org/directory/build/android-icon-192x192.png
+1586534887|joerlop|D|/directory.btcpayserver.org/directory/build/android-icon-36x36.png
+1586534887|joerlop|D|/directory.btcpayserver.org/directory/build/android-icon-48x48.png
+1586534887|joerlop|D|/directory.btcpayserver.org/directory/build/android-icon-72x72.png
+1586534887|joerlop|D|/directory.btcpayserver.org/directory/build/android-icon-96x96.png
+1586534887|joerlop|D|/directory.btcpayserver.org/directory/build/apple-icon-114x114.png
+1586534887|joerlop|D|/directory.btcpayserver.org/directory/build/apple-icon-120x120.png
+1586534887|joerlop|D|/directory.btcpayserver.org/directory/build/apple-icon-144x144.png
+1586534887|joerlop|D|/directory.btcpayserver.org/directory/build/apple-icon-152x152.png
+1586534887|joerlop|D|/directory.btcpayserver.org/directory/build/apple-icon-180x180.png
+1586534887|joerlop|D|/directory.btcpayserver.org/directory/build/apple-icon-57x57.png
+1586534887|joerlop|D|/directory.btcpayserver.org/directory/build/apple-icon-60x60.png
+1586534887|joerlop|D|/directory.btcpayserver.org/directory/build/apple-icon-72x72.png
+1586534887|joerlop|D|/directory.btcpayserver.org/directory/build/apple-icon-76x76.png
+1586534887|joerlop|D|/directory.btcpayserver.org/directory/build/apple-icon-precomposed.png
+1586534887|joerlop|D|/directory.btcpayserver.org/directory/build/apple-icon.png
+1586534887|joerlop|D|/directory.btcpayserver.org/directory/build/asset-manifest.json
+1586534887|joerlop|D|/directory.btcpayserver.org/directory/build/browserconfig.xml
+1586534887|joerlop|D|/directory.btcpayserver.org/directory/build/favicon-16x16.png
+1586534887|joerlop|D|/directory.btcpayserver.org/directory/build/favicon-32x32.png
+1586534887|joerlop|D|/directory.btcpayserver.org/directory/build/favicon-96x96.png
+1586534887|joerlop|D|/directory.btcpayserver.org/directory/build/favicon.ico
+1586534887|joerlop|D|/directory.btcpayserver.org/directory/build/index.html
+1586534887|joerlop|D|/directory.btcpayserver.org/directory/build/logo192.png
+1586534887|joerlop|D|/directory.btcpayserver.org/directory/build/logo512.png
+1586534887|joerlop|D|/directory.btcpayserver.org/directory/build/manifest.json
+1586534887|joerlop|D|/directory.btcpayserver.org/directory/build/ms-icon-144x144.png
+1586534887|joerlop|D|/directory.btcpayserver.org/directory/build/ms-icon-150x150.png
+1586534887|joerlop|D|/directory.btcpayserver.org/directory/build/ms-icon-310x310.png
+1586534887|joerlop|D|/directory.btcpayserver.org/directory/build/ms-icon-70x70.png
+1586534887|joerlop|D|/directory.btcpayserver.org/directory/build/precache-manifest.e60a11e6b463d2b77f2bc3d655f82139.js
+1586534887|joerlop|D|/directory.btcpayserver.org/directory/build/robots.txt
+1586534887|joerlop|D|/directory.btcpayserver.org/directory/build/service-worker.js
+1586534887|joerlop|D|/directory.btcpayserver.org/directory/build/static/css/main.53db9320.chunk.css
+1586534887|joerlop|D|/directory.btcpayserver.org/directory/build/static/css/main.53db9320.chunk.css.map
+1586534887|joerlop|D|/directory.btcpayserver.org/directory/build/static/js/2.37fe268a.chunk.js
+1586534887|joerlop|D|/directory.btcpayserver.org/directory/build/static/js/2.37fe268a.chunk.js.LICENSE.txt
+1586534887|joerlop|D|/directory.btcpayserver.org/directory/build/static/js/2.37fe268a.chunk.js.map
+1586534887|joerlop|D|/directory.btcpayserver.org/directory/build/static/js/main.37bb262e.chunk.js
+1586534887|joerlop|D|/directory.btcpayserver.org/directory/build/static/js/main.37bb262e.chunk.js.map
+1586534887|joerlop|D|/directory.btcpayserver.org/directory/build/static/js/runtime-main.b16a841f.js
+1586534887|joerlop|D|/directory.btcpayserver.org/directory/build/static/js/runtime-main.b16a841f.js.map
+1586534887|joerlop|D|/directory.btcpayserver.org/directory/build/static/media/btcpay-directory-logo-white.a51d790b.png
+1586534887|joerlop|D|/directory.btcpayserver.org/directory/build/static/media/btcpay-directory-logo.6e3359f9.svg
+1586534887|joerlop|D|/directory.btcpayserver.org/directory/build/static/media/moonFilled.7fe50f25.svg
+1586534887|joerlop|D|/directory.btcpayserver.org/directory/build/static/media/sunFilled2.eae3aacd.svg
+1586534887|joerlop|M|/directory.btcpayserver.org/directory/src/App.js
+1586534887|joerlop|M|/directory.btcpayserver.org/directory/src/components/Drawer/NestedList.js
+1586535499|joerlop|M|/directory.btcpayserver.org/directory/src/App.js
+1586535499|joerlop|M|/directory.btcpayserver.org/directory/src/components/Drawer/NestedList.js
+1586535540|joerlop|M|/directory.btcpayserver.org/directory/.gitignore
+1586541810|Dennis Reimann|A|/directory.btcpayserver.org/.github/workflows/nodejs.yml
+1586541810|Dennis Reimann|A|/directory.btcpayserver.org/directory/deploy/.nojekyll
+1586541810|Dennis Reimann|A|/directory.btcpayserver.org/directory/deploy/404.html
+1586541810|Dennis Reimann|A|/directory.btcpayserver.org/directory/deploy/CNAME
+1586541810|Dennis Reimann|A|/directory.btcpayserver.org/directory/deploy/gh-pages-spa.js
+1586541810|Dennis Reimann|M|/directory.btcpayserver.org/directory/package-lock.json
+1586541810|Dennis Reimann|M|/directory.btcpayserver.org/directory/package.json
+1586609577|Dennis Reimann|M|/directory.btcpayserver.org/directory/src/App.js
+1586609577|Dennis Reimann|M|/directory.btcpayserver.org/directory/src/components/Directory/Directory.js
+1586609577|Dennis Reimann|M|/directory.btcpayserver.org/directory/src/components/Directory/DirectoryItem.js
+1586609577|Dennis Reimann|M|/directory.btcpayserver.org/directory/src/components/Directory/Icons.js
+1586609577|Dennis Reimann|M|/directory.btcpayserver.org/directory/src/components/Drawer/TemporaryDrawer2.js
+1586609577|Dennis Reimann|M|/directory.btcpayserver.org/directory/src/components/NewEntry/NewEntry.js
+1586609577|Dennis Reimann|M|/directory.btcpayserver.org/directory/src/helpers.js
+1586610043|Dennis Reimann|M|/directory.btcpayserver.org/directory/deploy/404.html
+1586610043|Dennis Reimann|D|/directory.btcpayserver.org/directory/deploy/CNAME
+1586610043|Dennis Reimann|M|/directory.btcpayserver.org/directory/package.json
+1586610900|Dennis Reimann|M|/directory.btcpayserver.org/directory/src/App.js
+1586611570|Dennis Reimann|D|/directory.btcpayserver.org/directory/_headers
+1586611570|Dennis Reimann|D|/directory.btcpayserver.org/directory/_redirects
+1586611570|Dennis Reimann|D|/directory.btcpayserver.org/directory/public/_redirects
+1586611849|Dennis Reimann|M|/directory.btcpayserver.org/.github/workflows/nodejs.yml
+1586611849|Dennis Reimann|M|/directory.btcpayserver.org/README.md
+1586611849|Dennis Reimann|D|/directory.btcpayserver.org/directory/deploy/.nojekyll
+1586611849|Dennis Reimann|D|/directory.btcpayserver.org/directory/deploy/404.html
+1586611849|Dennis Reimann|D|/directory.btcpayserver.org/directory/deploy/gh-pages-spa.js
+1586611849|Dennis Reimann|M|/directory.btcpayserver.org/directory/package.json
+1586611849|Dennis Reimann|A|/directory.btcpayserver.org/directory/public/.nojekyll
+1586611849|Dennis Reimann|A|/directory.btcpayserver.org/directory/public/404.html
+1586611849|Dennis Reimann|A|/directory.btcpayserver.org/directory/public/gh-pages-spa.js
+1586611849|Dennis Reimann|M|/directory.btcpayserver.org/directory/public/index.html
+1586619160|Dennis Reimann|M|/directory.btcpayserver.org/directory/public/index.html
+1586619160|Dennis Reimann|M|/directory.btcpayserver.org/directory/src/App.js
+1586619160|Dennis Reimann|M|/directory.btcpayserver.org/directory/src/components/Drawer/NestedList.js
+1586619443|joerlop|M|/directory.btcpayserver.org/directory/src/components/Drawer/TemporaryDrawer2.js
+1586622878|Dennis Reimann|M|/directory.btcpayserver.org/directory/src/App.js
+1586622878|Dennis Reimann|M|/directory.btcpayserver.org/directory/src/components/Directory/Directory.js
+1586622878|Dennis Reimann|M|/directory.btcpayserver.org/directory/src/components/NewEntry/NewEntry.js
+1586622878|Dennis Reimann|D|/directory.btcpayserver.org/directory/src/helpers.js
+1586622878|Dennis Reimann|M|/directory.btcpayserver.org/directory/src/index.js
+1586622896|Dennis Reimann|M|/directory.btcpayserver.org/directory/src/components/Drawer/NestedList.js
+1586623907|joerlop|M|/directory.btcpayserver.org/directory/src/App.js
+1586623907|joerlop|M|/directory.btcpayserver.org/directory/src/index.js
+1586625739|joerlop|M|/directory.btcpayserver.org/directory/src/App.js
+1586625739|joerlop|M|/directory.btcpayserver.org/directory/src/App.scss
+1586625894|Dennis Reimann|M|/directory.btcpayserver.org/directory/src/App.js
+1586625894|Dennis Reimann|M|/directory.btcpayserver.org/directory/src/index.js
+1586626533|Dennis Reimann|M|/directory.btcpayserver.org/directory/package.json
+1586626533|Dennis Reimann|A|/directory.btcpayserver.org/directory/public/CNAME
+1586626713|joerlop|M|/directory.btcpayserver.org/directory/src/App.scss
+1586628164|joerlop|M|/directory.btcpayserver.org/directory/src/components/Directory/Directory.js
+1586628164|joerlop|A|/directory.btcpayserver.org/directory/src/helpers.js
+1586628740|joerlop|M|/directory.btcpayserver.org/directory/package-lock.json
+1586628740|joerlop|M|/directory.btcpayserver.org/directory/package.json
+1586628740|joerlop|M|/directory.btcpayserver.org/directory/src/components/Directory/Directory.js
+1586633264|joerlop|M|/directory.btcpayserver.org/directory/src/components/Directory/Directory.js
+1586633264|joerlop|M|/directory.btcpayserver.org/directory/src/components/Directory/List.js
+1586633264|joerlop|M|/directory.btcpayserver.org/directory/src/components/Drawer/NestedList.js
+1586633666|joerlop|M|/directory.btcpayserver.org/directory/src/components/Directory/Directory.js
+1586649924|joerlop|M|/directory.btcpayserver.org/directory/src/components/NewEntry/NewEntry.scss
+1586650109|joerlop|M|/directory.btcpayserver.org/directory/src/components/Drawer/NestedList.scss
+1586650109|joerlop|M|/directory.btcpayserver.org/directory/src/components/Drawer/TemporaryDrawer2.js
+1586658126|joerlop|M|/directory.btcpayserver.org/directory/src/components/NewEntry/NewEntry.js
+1586658598|joerlop|M|/directory.btcpayserver.org/directory/src/components/Directory/Directory.js
+1586658598|joerlop|M|/directory.btcpayserver.org/directory/src/components/Drawer/TemporaryDrawer.js
+1586658598|joerlop|A|/directory.btcpayserver.org/directory/src/components/Drawer/TemporaryDrawer.scss
+1586658598|joerlop|D|/directory.btcpayserver.org/directory/src/components/Drawer/TemporaryDrawer2.js
+1586658598|joerlop|D|/directory.btcpayserver.org/directory/src/components/Drawer/TemporaryDrawer2.scss
+1586682775|Pavlenex|M|/directory.btcpayserver.org/directory/src/components/Directory/Directory.js
+1587077107|joerlop|M|/directory.btcpayserver.org/directory/src/components/NewEntry/NewEntry.js
+1587077529|joerlop|M|/directory.btcpayserver.org/directory/src/components/Directory/List.js
+1587077876|joerlop|M|/directory.btcpayserver.org/directory/src/components/Directory/List.js
+1587078407|joerlop|M|/directory.btcpayserver.org/directory/src/components/Directory/List.js
+1587132996|pavlenex|M|/directory.btcpayserver.org/directory/src/components/Directory/List.js
+1587134026|pavlenex|M|/directory.btcpayserver.org/README.md
+1587195156|pavlenex|M|/directory.btcpayserver.org/directory/src/components/Directory/List.js
+1587322102|Dennis Reimann|M|/directory.btcpayserver.org/directory/src/App.js
+1587413336|joerlop|M|/directory.btcpayserver.org/directory/src/components/NewEntry/NewEntry.js
+1587413782|pavlenex|M|/directory.btcpayserver.org/directory/src/components/Directory/List.js
+1587846040|Zaxounette|M|/directory.btcpayserver.org/directory/src/components/Directory/List.js
+1587856769|Zaxounette|M|/directory.btcpayserver.org/directory/src/components/Directory/List.js
+1587897610|Zaxounette|M|/directory.btcpayserver.org/directory/src/components/Directory/List.js
+1587928275|Dennis Reimann|M|/directory.btcpayserver.org/directory/src/components/NewEntry/NewEntry.js
+1587930166|Dennis Reimann|M|/directory.btcpayserver.org/directory/src/components/NewEntry/NewEntry.scss
+1588015164|Dennis Reimann|A|/directory.btcpayserver.org/directory/public/android-chrome-192x192.png
+1588015164|Dennis Reimann|A|/directory.btcpayserver.org/directory/public/android-chrome-512x512.png
+1588015164|Dennis Reimann|D|/directory.btcpayserver.org/directory/public/android-icon-144x144.png
+1588015164|Dennis Reimann|D|/directory.btcpayserver.org/directory/public/android-icon-192x192.png
+1588015164|Dennis Reimann|D|/directory.btcpayserver.org/directory/public/android-icon-36x36.png
+1588015164|Dennis Reimann|D|/directory.btcpayserver.org/directory/public/android-icon-48x48.png
+1588015164|Dennis Reimann|D|/directory.btcpayserver.org/directory/public/android-icon-72x72.png
+1588015164|Dennis Reimann|D|/directory.btcpayserver.org/directory/public/android-icon-96x96.png
+1588015164|Dennis Reimann|D|/directory.btcpayserver.org/directory/public/apple-icon-114x114.png
+1588015164|Dennis Reimann|D|/directory.btcpayserver.org/directory/public/apple-icon-120x120.png
+1588015164|Dennis Reimann|D|/directory.btcpayserver.org/directory/public/apple-icon-144x144.png
+1588015164|Dennis Reimann|D|/directory.btcpayserver.org/directory/public/apple-icon-152x152.png
+1588015164|Dennis Reimann|D|/directory.btcpayserver.org/directory/public/apple-icon-180x180.png
+1588015164|Dennis Reimann|D|/directory.btcpayserver.org/directory/public/apple-icon-57x57.png
+1588015164|Dennis Reimann|D|/directory.btcpayserver.org/directory/public/apple-icon-60x60.png
+1588015164|Dennis Reimann|D|/directory.btcpayserver.org/directory/public/apple-icon-72x72.png
+1588015164|Dennis Reimann|D|/directory.btcpayserver.org/directory/public/apple-icon-76x76.png
+1588015164|Dennis Reimann|D|/directory.btcpayserver.org/directory/public/apple-icon-precomposed.png
+1588015164|Dennis Reimann|D|/directory.btcpayserver.org/directory/public/apple-icon.png
+1588015164|Dennis Reimann|A|/directory.btcpayserver.org/directory/public/apple-touch-icon.png
+1588015164|Dennis Reimann|M|/directory.btcpayserver.org/directory/public/browserconfig.xml
+1588015164|Dennis Reimann|M|/directory.btcpayserver.org/directory/public/favicon-16x16.png
+1588015164|Dennis Reimann|M|/directory.btcpayserver.org/directory/public/favicon-32x32.png
+1588015164|Dennis Reimann|D|/directory.btcpayserver.org/directory/public/favicon-96x96.png
+1588015164|Dennis Reimann|M|/directory.btcpayserver.org/directory/public/favicon.ico
+1588015164|Dennis Reimann|M|/directory.btcpayserver.org/directory/public/index.html
+1588015164|Dennis Reimann|D|/directory.btcpayserver.org/directory/public/logo192.png
+1588015164|Dennis Reimann|D|/directory.btcpayserver.org/directory/public/logo512.png
+1588015164|Dennis Reimann|D|/directory.btcpayserver.org/directory/public/manifest.json
+1588015164|Dennis Reimann|D|/directory.btcpayserver.org/directory/public/ms-icon-144x144.png
+1588015164|Dennis Reimann|D|/directory.btcpayserver.org/directory/public/ms-icon-150x150.png
+1588015164|Dennis Reimann|D|/directory.btcpayserver.org/directory/public/ms-icon-310x310.png
+1588015164|Dennis Reimann|D|/directory.btcpayserver.org/directory/public/ms-icon-70x70.png
+1588015164|Dennis Reimann|A|/directory.btcpayserver.org/directory/public/mstile-150x150.png
+1588015164|Dennis Reimann|A|/directory.btcpayserver.org/directory/public/safari-pinned-tab.svg
+1588015164|Dennis Reimann|A|/directory.btcpayserver.org/directory/public/site.webmanifest
+1588087180|Zaxounette|M|/directory.btcpayserver.org/directory/src/components/Directory/List.js
+1588331336|Zaxounette|M|/directory.btcpayserver.org/directory/src/components/Directory/List.js
+1588937191|Zaxounette|M|/directory.btcpayserver.org/directory/src/components/Directory/List.js
+1589306238|Zaxounette|M|/directory.btcpayserver.org/directory/src/components/Directory/List.js
+1589562155|Zaxounette|M|/directory.btcpayserver.org/directory/src/components/Directory/List.js
+1589562909|Zaxounette|M|/directory.btcpayserver.org/directory/src/App.js
+1589566278|Zaxounette|M|/directory.btcpayserver.org/directory/src/components/NewEntry/NewEntry.js
+1589566688|Zaxounette|M|/directory.btcpayserver.org/directory/src/components/Directory/List.js
+1589566855|Zaxounette|M|/directory.btcpayserver.org/directory/src/components/NewEntry/NewEntry.js
+1589567124|Zaxounette|M|/directory.btcpayserver.org/directory/src/components/NewEntry/NewEntry.js
+1589567343|Zaxounette|M|/directory.btcpayserver.org/directory/src/components/NewEntry/NewEntry.js
+1589567351|Zaxounette|M|/directory.btcpayserver.org/directory/src/components/NewEntry/NewEntry.js
+1590431615|Vincent MOROUX|M|/directory.btcpayserver.org/directory/src/components/NewEntry/NewEntry.js
+1590478453|Dennis Reimann|M|/directory.btcpayserver.org/directory/package-lock.json
+1590478453|Dennis Reimann|M|/directory.btcpayserver.org/directory/package.json
+1590478492|Dennis Reimann|M|/directory.btcpayserver.org/directory/package-lock.json
+1590478492|Dennis Reimann|M|/directory.btcpayserver.org/directory/package.json
+1590498159|Dennis Reimann|M|/directory.btcpayserver.org/.github/workflows/nodejs.yml
+1590498159|Dennis Reimann|A|/directory.btcpayserver.org/.gitignore
+1590498159|Dennis Reimann|M|/directory.btcpayserver.org/README.md
+1590498159|Dennis Reimann|D|/directory.btcpayserver.org/directory/.gitignore
+1590498159|Dennis Reimann|D|/directory.btcpayserver.org/directory/README.md
+1590498159|Dennis Reimann|D|/directory.btcpayserver.org/directory/package-lock.json
+1590498159|Dennis Reimann|D|/directory.btcpayserver.org/directory/package.json
+1590498159|Dennis Reimann|D|/directory.btcpayserver.org/directory/public/.nojekyll
+1590498159|Dennis Reimann|D|/directory.btcpayserver.org/directory/public/404.html
+1590498159|Dennis Reimann|D|/directory.btcpayserver.org/directory/public/CNAME
+1590498159|Dennis Reimann|D|/directory.btcpayserver.org/directory/public/android-chrome-192x192.png
+1590498159|Dennis Reimann|D|/directory.btcpayserver.org/directory/public/android-chrome-512x512.png
+1590498159|Dennis Reimann|D|/directory.btcpayserver.org/directory/public/apple-touch-icon.png
+1590498159|Dennis Reimann|D|/directory.btcpayserver.org/directory/public/browserconfig.xml
+1590498159|Dennis Reimann|D|/directory.btcpayserver.org/directory/public/favicon-16x16.png
+1590498159|Dennis Reimann|D|/directory.btcpayserver.org/directory/public/favicon-32x32.png
+1590498159|Dennis Reimann|D|/directory.btcpayserver.org/directory/public/favicon.ico
+1590498159|Dennis Reimann|D|/directory.btcpayserver.org/directory/public/gh-pages-spa.js
+1590498159|Dennis Reimann|D|/directory.btcpayserver.org/directory/public/index.html
+1590498159|Dennis Reimann|D|/directory.btcpayserver.org/directory/public/mstile-150x150.png
+1590498159|Dennis Reimann|D|/directory.btcpayserver.org/directory/public/robots.txt
+1590498159|Dennis Reimann|D|/directory.btcpayserver.org/directory/public/safari-pinned-tab.svg
+1590498159|Dennis Reimann|D|/directory.btcpayserver.org/directory/public/site.webmanifest
+1590498159|Dennis Reimann|D|/directory.btcpayserver.org/directory/src/App.js
+1590498159|Dennis Reimann|D|/directory.btcpayserver.org/directory/src/App.scss
+1590498159|Dennis Reimann|D|/directory.btcpayserver.org/directory/src/App.test.js
+1590498159|Dennis Reimann|D|/directory.btcpayserver.org/directory/src/components/Directory/Directory.js
+1590498159|Dennis Reimann|D|/directory.btcpayserver.org/directory/src/components/Directory/Directory.scss
+1590498159|Dennis Reimann|D|/directory.btcpayserver.org/directory/src/components/Directory/DirectoryItem.js
+1590498159|Dennis Reimann|D|/directory.btcpayserver.org/directory/src/components/Directory/Icons.js
+1590498159|Dennis Reimann|D|/directory.btcpayserver.org/directory/src/components/Directory/List.js
+1590498159|Dennis Reimann|D|/directory.btcpayserver.org/directory/src/components/Drawer/NestedList.js
+1590498159|Dennis Reimann|D|/directory.btcpayserver.org/directory/src/components/Drawer/NestedList.scss
+1590498159|Dennis Reimann|D|/directory.btcpayserver.org/directory/src/components/Drawer/TemporaryDrawer.js
+1590498159|Dennis Reimann|D|/directory.btcpayserver.org/directory/src/components/Drawer/TemporaryDrawer.scss
+1590498159|Dennis Reimann|D|/directory.btcpayserver.org/directory/src/components/NewEntry/NewEntry.js
+1590498159|Dennis Reimann|D|/directory.btcpayserver.org/directory/src/components/NewEntry/NewEntry.scss
+1590498159|Dennis Reimann|D|/directory.btcpayserver.org/directory/src/constants.scss
+1590498159|Dennis Reimann|D|/directory.btcpayserver.org/directory/src/helpers.js
+1590498159|Dennis Reimann|D|/directory.btcpayserver.org/directory/src/images/btcpay-directory-logo-white.png
+1590498159|Dennis Reimann|D|/directory.btcpayserver.org/directory/src/images/btcpay-directory-logo-white.svg
+1590498159|Dennis Reimann|D|/directory.btcpayserver.org/directory/src/images/btcpay-directory-logo.svg
+1590498159|Dennis Reimann|D|/directory.btcpayserver.org/directory/src/images/darkMode.svg
+1590498159|Dennis Reimann|D|/directory.btcpayserver.org/directory/src/images/moon.svg
+1590498159|Dennis Reimann|D|/directory.btcpayserver.org/directory/src/images/moonFilled.svg
+1590498159|Dennis Reimann|D|/directory.btcpayserver.org/directory/src/images/moonOutlined.svg
+1590498159|Dennis Reimann|D|/directory.btcpayserver.org/directory/src/images/sunFilled.svg
+1590498159|Dennis Reimann|D|/directory.btcpayserver.org/directory/src/images/sunFilled2.svg
+1590498159|Dennis Reimann|D|/directory.btcpayserver.org/directory/src/images/sunOutlined.svg
+1590498159|Dennis Reimann|D|/directory.btcpayserver.org/directory/src/images/sunOutlined2.svg
+1590498159|Dennis Reimann|D|/directory.btcpayserver.org/directory/src/index.js
+1590498159|Dennis Reimann|D|/directory.btcpayserver.org/directory/src/index.scss
+1590498159|Dennis Reimann|D|/directory.btcpayserver.org/directory/src/setupTests.js
+1590498159|Dennis Reimann|A|/directory.btcpayserver.org/package-lock.json
+1590498159|Dennis Reimann|A|/directory.btcpayserver.org/package.json
+1590498159|Dennis Reimann|A|/directory.btcpayserver.org/public/.nojekyll
+1590498159|Dennis Reimann|A|/directory.btcpayserver.org/public/404.html
+1590498159|Dennis Reimann|A|/directory.btcpayserver.org/public/CNAME
+1590498159|Dennis Reimann|A|/directory.btcpayserver.org/public/android-chrome-192x192.png
+1590498159|Dennis Reimann|A|/directory.btcpayserver.org/public/android-chrome-512x512.png
+1590498159|Dennis Reimann|A|/directory.btcpayserver.org/public/apple-touch-icon.png
+1590498159|Dennis Reimann|A|/directory.btcpayserver.org/public/browserconfig.xml
+1590498159|Dennis Reimann|A|/directory.btcpayserver.org/public/favicon-16x16.png
+1590498159|Dennis Reimann|A|/directory.btcpayserver.org/public/favicon-32x32.png
+1590498159|Dennis Reimann|A|/directory.btcpayserver.org/public/favicon.ico
+1590498159|Dennis Reimann|A|/directory.btcpayserver.org/public/gh-pages-spa.js
+1590498159|Dennis Reimann|A|/directory.btcpayserver.org/public/index.html
+1590498159|Dennis Reimann|A|/directory.btcpayserver.org/public/mstile-150x150.png
+1590498159|Dennis Reimann|A|/directory.btcpayserver.org/public/robots.txt
+1590498159|Dennis Reimann|A|/directory.btcpayserver.org/public/safari-pinned-tab.svg
+1590498159|Dennis Reimann|A|/directory.btcpayserver.org/public/site.webmanifest
+1590498159|Dennis Reimann|A|/directory.btcpayserver.org/src/App.js
+1590498159|Dennis Reimann|A|/directory.btcpayserver.org/src/App.scss
+1590498159|Dennis Reimann|A|/directory.btcpayserver.org/src/App.test.js
+1590498159|Dennis Reimann|A|/directory.btcpayserver.org/src/components/Directory/Directory.js
+1590498159|Dennis Reimann|A|/directory.btcpayserver.org/src/components/Directory/Directory.scss
+1590498159|Dennis Reimann|A|/directory.btcpayserver.org/src/components/Directory/DirectoryItem.js
+1590498159|Dennis Reimann|A|/directory.btcpayserver.org/src/components/Directory/Icons.js
+1590498159|Dennis Reimann|A|/directory.btcpayserver.org/src/components/Directory/List.js
+1590498159|Dennis Reimann|A|/directory.btcpayserver.org/src/components/Drawer/NestedList.js
+1590498159|Dennis Reimann|A|/directory.btcpayserver.org/src/components/Drawer/NestedList.scss
+1590498159|Dennis Reimann|A|/directory.btcpayserver.org/src/components/Drawer/TemporaryDrawer.js
+1590498159|Dennis Reimann|A|/directory.btcpayserver.org/src/components/Drawer/TemporaryDrawer.scss
+1590498159|Dennis Reimann|A|/directory.btcpayserver.org/src/components/NewEntry/NewEntry.js
+1590498159|Dennis Reimann|A|/directory.btcpayserver.org/src/components/NewEntry/NewEntry.scss
+1590498159|Dennis Reimann|A|/directory.btcpayserver.org/src/constants.scss
+1590498159|Dennis Reimann|A|/directory.btcpayserver.org/src/helpers.js
+1590498159|Dennis Reimann|A|/directory.btcpayserver.org/src/images/btcpay-directory-logo-white.png
+1590498159|Dennis Reimann|A|/directory.btcpayserver.org/src/images/btcpay-directory-logo-white.svg
+1590498159|Dennis Reimann|A|/directory.btcpayserver.org/src/images/btcpay-directory-logo.svg
+1590498159|Dennis Reimann|A|/directory.btcpayserver.org/src/images/darkMode.svg
+1590498159|Dennis Reimann|A|/directory.btcpayserver.org/src/images/moon.svg
+1590498159|Dennis Reimann|A|/directory.btcpayserver.org/src/images/moonFilled.svg
+1590498159|Dennis Reimann|A|/directory.btcpayserver.org/src/images/moonOutlined.svg
+1590498159|Dennis Reimann|A|/directory.btcpayserver.org/src/images/sunFilled.svg
+1590498159|Dennis Reimann|A|/directory.btcpayserver.org/src/images/sunFilled2.svg
+1590498159|Dennis Reimann|A|/directory.btcpayserver.org/src/images/sunOutlined.svg
+1590498159|Dennis Reimann|A|/directory.btcpayserver.org/src/images/sunOutlined2.svg
+1590498159|Dennis Reimann|A|/directory.btcpayserver.org/src/index.js
+1590498159|Dennis Reimann|A|/directory.btcpayserver.org/src/index.scss
+1590498159|Dennis Reimann|A|/directory.btcpayserver.org/src/setupTests.js
+1590519417|Dennis Reimann|M|/directory.btcpayserver.org/.github/workflows/nodejs.yml
+1590519689|Dennis Reimann|M|/directory.btcpayserver.org/src/components/NewEntry/NewEntry.scss
+1590685827|Zaxounette|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1590930123|Zaxounette|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1590957071|jodobear|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1591135594|jodobear|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1591286144|Zaxounette|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1591816106|Zaxounette|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1591819835|Zaxounette|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1592512047|Zaxounette|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1592770023|Zaxounette|M|/directory.btcpayserver.org/src/components/NewEntry/NewEntry.js
+1593026684|Zaxounette|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1593026716|Zaxounette|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1593026816|Zaxounette|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1593029500|Zaxounette|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1593099234|Zaxounette|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1593186031|Zaxounette|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1593335735|Zaxounette|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1593791506|Zaxounette|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1595271589|Zaxounette|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1595280218|Zaxounette|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1596870539|Zaxounette|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1597083080|Zaxounette|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1597083655|Zaxounette|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1597083898|Zaxounette|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1598368833|Zaxounette|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1598730347|Zaxounette|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1599151254|Zaxounette|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1599232696|Zaxounette|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1599492247|Zaxounette|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1600109731|Zaxounette|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1600393169|Daniel Leedan|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1601034688|Zaxounette|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1601334256|Daniel Leedan|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1601334943|Zaxounette|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1601775131|Daniel Leedan|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1601860257|Daniel Leedan|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1601860355|Daniel Leedan|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1601860462|Daniel Leedan|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1601860571|Daniel Leedan|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1601860689|Daniel Leedan|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1601886959|Zaxounette|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1602200551|Daniel Leedan|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1602202925|Zaxounette|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1602265547|Zaxounette|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1602290604|Daniel Leedan|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1602380058|Daniel Leedan|M|/directory.btcpayserver.org/src/App.js
+1603741743|Zaxounette|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1603811735|Prayank|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1605147229|Daniel Leedan|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1605147340|Daniel Leedan|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1606033344|Zaxounette|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1606071892|Zaxounette|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1606589374|Zaxounette|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1607180650|Zaxounette|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1607446354|Zaxounette|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1608192324|Daniel Leedan|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1608316633|Zaxounette|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1608316755|Zaxounette|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1608791239|Daniel Leedan|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1609556862|Daniel Leedan|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1610199659|Zaxounette|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1610200320|Zaxounette|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1611260564|Zaxounette|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1614784323|Daniel Leedan|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1615032235|Zaxounette|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1615033081|Zaxounette|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1615343138|Daniel Leedan|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1615371588|Max Hillebrand|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1615373038|Max Hillebrand|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1615373076|Max Hillebrand|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1615374170|Zaxounette|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1615374494|Zaxounette|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1617079053|Daniel Leedan|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1617724198|Dennis Reimann|A|/directory.btcpayserver.org/.github/workflows/build.yml
+1617724198|Dennis Reimann|D|/directory.btcpayserver.org/.github/workflows/nodejs.yml
+1617724198|Dennis Reimann|M|/directory.btcpayserver.org/package-lock.json
+1617724198|Dennis Reimann|M|/directory.btcpayserver.org/package.json
+1617724351|Zaxounette|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1618470853|Zaxounette|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1618475011|Zaxounette|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1619990572|Zaxounette|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1620144478|Daniel Leedan|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1620145893|Zaxounette|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1620393064|Daniel Leedan|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1622479316|Zaxounette|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1623342932|Konstantin Nosov|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1623343239|Zaxounette|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1623343261|Konstantin Nosov|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1623344177|Zaxounette|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1623347672|Konstantin Nosov|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1626769204|FKrauss|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1628062365|Daniel Leedan|M|/directory.btcpayserver.org/src/components/Directory/List.js
+1630765326|Zaxounette|M|/directory.btcpayserver.org/src/components/Directory/List.js

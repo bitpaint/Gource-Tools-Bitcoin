@@ -1,0 +1,104 @@
+1503598356|MarcoFalke|A|/docs/LICENSE
+1506349571|MarcoFalke|A|/docs/gitian-building.md
+1506349571|MarcoFalke|A|/docs/gitian-building/figs/all_files_in_one_partition.png
+1506349571|MarcoFalke|A|/docs/gitian-building/figs/create_new_vm_debian.png
+1506349571|MarcoFalke|A|/docs/gitian-building/figs/create_new_vm_fedora.png
+1506349571|MarcoFalke|A|/docs/gitian-building/figs/create_vm_file_location_size.png
+1506349571|MarcoFalke|A|/docs/gitian-building/figs/create_vm_hard_disk.png
+1506349571|MarcoFalke|A|/docs/gitian-building/figs/create_vm_hard_disk_file_type.png
+1506349571|MarcoFalke|A|/docs/gitian-building/figs/create_vm_memsize.png
+1506349571|MarcoFalke|A|/docs/gitian-building/figs/create_vm_storage_physical_hard_disk.png
+1506349571|MarcoFalke|A|/docs/gitian-building/figs/debian_install_10_configure_clock.png
+1506349571|MarcoFalke|A|/docs/gitian-building/figs/debian_install_11_partition_disks.png
+1506349571|MarcoFalke|A|/docs/gitian-building/figs/debian_install_12_choose_disk.png
+1506349571|MarcoFalke|A|/docs/gitian-building/figs/debian_install_14_finish.png
+1506349571|MarcoFalke|A|/docs/gitian-building/figs/debian_install_15_write_changes.png
+1506349571|MarcoFalke|A|/docs/gitian-building/figs/debian_install_16_choose_a_mirror.png
+1506349571|MarcoFalke|A|/docs/gitian-building/figs/debian_install_18_proxy_settings.png
+1506349571|MarcoFalke|A|/docs/gitian-building/figs/debian_install_19_software_selection.png
+1506349571|MarcoFalke|A|/docs/gitian-building/figs/debian_install_1_boot_menu.png
+1506349571|MarcoFalke|A|/docs/gitian-building/figs/debian_install_20_install_grub.png
+1506349571|MarcoFalke|A|/docs/gitian-building/figs/debian_install_21_install_grub_bootloader.png
+1506349571|MarcoFalke|A|/docs/gitian-building/figs/debian_install_22_finish_installation.png
+1506349571|MarcoFalke|A|/docs/gitian-building/figs/debian_install_2_select_a_language.png
+1506349571|MarcoFalke|A|/docs/gitian-building/figs/debian_install_3_select_location.png
+1506349571|MarcoFalke|A|/docs/gitian-building/figs/debian_install_4_configure_keyboard.png
+1506349571|MarcoFalke|A|/docs/gitian-building/figs/debian_install_5_configure_the_network.png
+1506349571|MarcoFalke|A|/docs/gitian-building/figs/debian_install_6_domain_name.png
+1506349571|MarcoFalke|A|/docs/gitian-building/figs/debian_install_6a_set_up_root_password.png
+1506349571|MarcoFalke|A|/docs/gitian-building/figs/debian_install_7_set_up_user_fullname.png
+1506349571|MarcoFalke|A|/docs/gitian-building/figs/debian_install_8_set_up_username.png
+1506349571|MarcoFalke|A|/docs/gitian-building/figs/debian_install_9_user_password.png
+1506349571|MarcoFalke|A|/docs/gitian-building/figs/debian_root_login.png
+1506349571|MarcoFalke|A|/docs/gitian-building/figs/fedora_install_1_boot_menu.png
+1506349571|MarcoFalke|A|/docs/gitian-building/figs/fedora_install_2_summary.png
+1506349571|MarcoFalke|A|/docs/gitian-building/figs/fedora_install_3_users.png
+1506349571|MarcoFalke|A|/docs/gitian-building/figs/fedora_root_login.png
+1506349571|MarcoFalke|A|/docs/gitian-building/figs/network_settings.png
+1506349571|MarcoFalke|A|/docs/gitian-building/figs/port_forwarding_rules.png
+1506349571|MarcoFalke|A|/docs/gitian-building/figs/select_startup_disk_debian.png
+1506349571|MarcoFalke|A|/docs/gitian-building/figs/select_startup_disk_fedora.png
+1506349571|MarcoFalke|A|/docs/gitian-building/figs/system_settings.png
+1506349571|MarcoFalke|A|/docs/gitian-building/gitian-building-create-vm-debian.md
+1506349571|MarcoFalke|A|/docs/gitian-building/gitian-building-create-vm-fedora.md
+1506349571|MarcoFalke|A|/docs/gitian-building/gitian-building-setup-gitian-debian.md
+1506349571|MarcoFalke|A|/docs/gitian-building/gitian-building-setup-gitian-fedora.md
+1506349571|Shooter|M|/docs/gitian-building.md
+1506377671|MarcoFalke|M|/docs/gitian-building.md
+1506377671|MarcoFalke|M|/docs/gitian-building/gitian-building-create-vm-debian.md
+1506377671|MarcoFalke|M|/docs/gitian-building/gitian-building-create-vm-fedora.md
+1509898169|Sjors Provoost|M|/docs/gitian-building/gitian-building-create-vm-debian.md
+1509976413|Sjors Provoost|D|/docs/gitian-building/figs/debian_root_login.png
+1509976413|Sjors Provoost|M|/docs/gitian-building/gitian-building-create-vm-debian.md
+1509976413|Sjors Provoost|M|/docs/gitian-building/gitian-building-setup-gitian-debian.md
+1516711467|MarcoFalke|M|/docs/gitian-building/gitian-building-create-vm-fedora.md
+1517867939|Mitchell Cash|M|/docs/gitian-building/gitian-building-create-vm-debian.md
+1517878039|MarcoFalke|M|/docs/gitian-building/figs/debian_install_7_set_up_user_fullname.png
+1517878039|MarcoFalke|M|/docs/gitian-building/figs/debian_install_8_set_up_username.png
+1517948890|MarcoFalke|M|/docs/gitian-building/gitian-building-setup-gitian-debian.md
+1518170567|Sjors Provoost|M|/docs/gitian-building/gitian-building-setup-gitian-debian.md
+1518170567|Sjors Provoost|M|/docs/gitian-building/gitian-building-setup-gitian-fedora.md
+1518284920|MarcoFalke|M|/docs/gitian-building/gitian-building-create-vm-fedora.md
+1518288514|MarcoFalke|M|/docs/gitian-building/figs/fedora_install_2_summary.png
+1518288514|MarcoFalke|M|/docs/gitian-building/figs/fedora_install_3_users.png
+1518288514|MarcoFalke|A|/docs/gitian-building/figs/fedora_install_4_users.png
+1518288514|MarcoFalke|M|/docs/gitian-building/gitian-building-create-vm-debian.md
+1518288514|MarcoFalke|M|/docs/gitian-building/gitian-building-create-vm-fedora.md
+1518288514|MarcoFalke|M|/docs/gitian-building/gitian-building-setup-gitian-fedora.md
+1520433991|kallewoof|M|/docs/gitian-building.md
+1525108367|Sjors Provoost|M|/docs/gitian-building.md
+1525108367|Sjors Provoost|A|/docs/gitian-building/gitian-building-mac-os-sdk.md
+1525108367|Sjors Provoost|A|/docs/gitian-building/gitian-building-manual.md
+1525193206|MarcoFalke|M|/docs/gitian-building/gitian-building-setup-gitian-debian.md
+1525193206|MarcoFalke|M|/docs/gitian-building/gitian-building-setup-gitian-fedora.md
+1527685846|Sjors Provoost|M|/docs/gitian-building.md
+1531957220|Mitchell Cash|M|/docs/gitian-building.md
+1531957220|Mitchell Cash|M|/docs/gitian-building/gitian-building-manual.md
+1534673010|Hennadii Stepanov|M|/docs/gitian-building/gitian-building-create-vm-debian.md
+1534673010|Hennadii Stepanov|M|/docs/gitian-building/gitian-building-create-vm-fedora.md
+1535260313|fivepiece|M|/docs/gitian-building.md
+1536265632|MarcoFalke|M|/docs/gitian-building.md
+1536340283|Emanuele Cisbani|M|/docs/gitian-building/gitian-building-mac-os-sdk.md
+1536348609|Hennadii Stepanov|M|/docs/gitian-building/gitian-building-setup-gitian-debian.md
+1538078368|TheCharlatan|M|/docs/gitian-building/gitian-building-setup-gitian-debian.md
+1538078368|TheCharlatan|M|/docs/gitian-building/gitian-building-setup-gitian-fedora.md
+1545421886|MarcoFalke|M|/docs/gitian-building/gitian-building-setup-gitian-fedora.md
+1545422792|MarcoFalke|M|/docs/gitian-building/gitian-building-create-vm-fedora.md
+1552746435|KanoczTomas|M|/docs/gitian-building.md
+1567713248|Chuf|M|/docs/gitian-building.md
+1567864408|Hennadii Stepanov|M|/docs/gitian-building.md
+1571445653|randymcmillan|M|/docs/gitian-building/gitian-building-mac-os-sdk.md
+1571473484|@RandyMcMillan|M|/docs/gitian-building.md
+1578110694|-k|M|/docs/gitian-building.md
+1578110694|-k|M|/docs/gitian-building/gitian-building-create-vm-debian.md
+1578110694|-k|M|/docs/gitian-building/gitian-building-create-vm-fedora.md
+1578110694|-k|M|/docs/gitian-building/gitian-building-mac-os-sdk.md
+1578110694|-k|M|/docs/gitian-building/gitian-building-manual.md
+1579986393|Stephan Oeste|M|/docs/gitian-building.md
+1606848124|Michael Tidwell|M|/docs/gitian-building.md
+1608552333|Hennadii Stepanov|M|/docs/gitian-building/gitian-building-mac-os-sdk.md
+1608552945|Hennadii Stepanov|M|/docs/gitian-building.md
+1608552945|Hennadii Stepanov|D|/docs/gitian-building/gitian-building-mac-os-sdk.md
+1608575768|MarcoFalke|M|/docs/gitian-building.md
+1612953638|Hennadii Stepanov|M|/docs/gitian-building/gitian-building-setup-gitian-debian.md
+1612953638|Hennadii Stepanov|M|/docs/gitian-building/gitian-building-setup-gitian-fedora.md

@@ -1,0 +1,109 @@
+1525190652|Wladimir J. van der Laan|A|/packaging/debian/README.md
+1525190652|Wladimir J. van der Laan|A|/packaging/debian/bitcoin-qt.desktop
+1525190652|Wladimir J. van der Laan|A|/packaging/debian/bitcoin-qt.install
+1525190652|Wladimir J. van der Laan|A|/packaging/debian/bitcoin-qt.lintian-overrides
+1525190652|Wladimir J. van der Laan|A|/packaging/debian/bitcoin-qt.manpages
+1525190652|Wladimir J. van der Laan|A|/packaging/debian/bitcoin-qt.protocol
+1525190652|Wladimir J. van der Laan|A|/packaging/debian/bitcoin-tx.bash-completion
+1525190652|Wladimir J. van der Laan|A|/packaging/debian/bitcoin-tx.install
+1525190652|Wladimir J. van der Laan|A|/packaging/debian/bitcoin-tx.manpages
+1525190652|Wladimir J. van der Laan|A|/packaging/debian/bitcoind.bash-completion
+1525190652|Wladimir J. van der Laan|A|/packaging/debian/bitcoind.examples
+1525190652|Wladimir J. van der Laan|A|/packaging/debian/bitcoind.install
+1525190652|Wladimir J. van der Laan|A|/packaging/debian/bitcoind.lintian-overrides
+1525190652|Wladimir J. van der Laan|A|/packaging/debian/bitcoind.manpages
+1525190652|Wladimir J. van der Laan|A|/packaging/debian/changelog
+1525190652|Wladimir J. van der Laan|A|/packaging/debian/compat
+1525190652|Wladimir J. van der Laan|A|/packaging/debian/control
+1525190652|Wladimir J. van der Laan|A|/packaging/debian/copyright
+1525190652|Wladimir J. van der Laan|A|/packaging/debian/examples/bitcoin.conf
+1525190652|Wladimir J. van der Laan|A|/packaging/debian/gbp.conf
+1525190652|Wladimir J. van der Laan|A|/packaging/debian/patches/README
+1525190652|Wladimir J. van der Laan|A|/packaging/debian/patches/series
+1525190652|Wladimir J. van der Laan|A|/packaging/debian/rules
+1525190652|Wladimir J. van der Laan|A|/packaging/debian/source/format
+1525190652|Wladimir J. van der Laan|A|/packaging/debian/watch
+1525190714|Wladimir J. van der Laan|A|/packaging/rpm/README.md
+1525190714|Wladimir J. van der Laan|A|/packaging/rpm/bitcoin-0.12.0-libressl.patch
+1525190714|Wladimir J. van der Laan|A|/packaging/rpm/bitcoin.fc
+1525190714|Wladimir J. van der Laan|A|/packaging/rpm/bitcoin.if
+1525190714|Wladimir J. van der Laan|A|/packaging/rpm/bitcoin.spec
+1525190714|Wladimir J. van der Laan|A|/packaging/rpm/bitcoin.te
+1525257428|Thomas M Steenholdt|M|/packaging/debian/bitcoin-qt.desktop
+1525257428|Thomas M Steenholdt|M|/packaging/debian/changelog
+1525257428|Thomas M Steenholdt|M|/packaging/debian/control
+1525257428|Thomas M Steenholdt|M|/packaging/debian/examples/bitcoin.conf
+1525257428|Thomas M Steenholdt|M|/packaging/debian/patches/series
+1525257428|Thomas M Steenholdt|M|/packaging/debian/rules
+1525257527|Thomas M Steenholdt|M|/packaging/debian/bitcoind.install
+1525257527|Thomas M Steenholdt|A|/packaging/debian/bitcoind.postinst
+1525257527|Thomas M Steenholdt|A|/packaging/debian/bitcoind.postrm
+1525257527|Thomas M Steenholdt|A|/packaging/debian/bitcoind.service
+1525257527|Thomas M Steenholdt|M|/packaging/debian/changelog
+1525257527|Thomas M Steenholdt|M|/packaging/debian/control
+1525257527|Thomas M Steenholdt|M|/packaging/debian/rules
+1532967100|Matt Corallo|M|/packaging/debian/bitcoin-qt.desktop
+1532967598|Matt Corallo|M|/packaging/debian/changelog
+1534253054|Matt Corallo|M|/packaging/debian/bitcoin-qt.desktop
+1534253812|Matt Corallo|M|/packaging/debian/changelog
+1534253812|Matt Corallo|M|/packaging/debian/rules
+1534253842|Matt Corallo|M|/packaging/debian/bitcoind.postinst
+1534253842|Matt Corallo|M|/packaging/debian/changelog
+1534277456|Matt Corallo|M|/packaging/debian/bitcoind.postinst
+1534277456|Matt Corallo|M|/packaging/debian/changelog
+1546135191|Cristian Mircea Messel|M|/packaging/debian/copyright
+1547658711|Russell Yanofsky|A|/packaging/snap/LICENSE
+1547658711|Russell Yanofsky|A|/packaging/snap/gui/bitcoin.desktop
+1547658711|Russell Yanofsky|A|/packaging/snap/gui/bitcoin128.png
+1547658711|Russell Yanofsky|A|/packaging/snap/patches/default_data_dir.patch
+1547658711|Russell Yanofsky|A|/packaging/snap/snap/gui/bitcoin-qt.desktop
+1547658711|Russell Yanofsky|A|/packaging/snap/snap/gui/bitcoin128.png
+1547658711|Russell Yanofsky|A|/packaging/snap/snapcraft.yaml
+1547658870|Russell Yanofsky|M|/packaging/snap/LICENSE
+1547658870|Gal Buki|M|/packaging/snap/snapcraft.yaml
+1547760447|Russell Yanofsky|M|/packaging/snap/snapcraft.yaml
+1547760536|Russell Yanofsky|M|/packaging/snap/snapcraft.yaml
+1547760562|Russell Yanofsky|M|/packaging/snap/snapcraft.yaml
+1547761293|Russell Yanofsky|M|/packaging/snap/snapcraft.yaml
+1547763052|Russell Yanofsky|A|/packaging/snap/gui/bitcoin-qt.desktop
+1547763052|Russell Yanofsky|D|/packaging/snap/gui/bitcoin.desktop
+1547763052|Russell Yanofsky|D|/packaging/snap/gui/bitcoin128.png
+1547763052|Russell Yanofsky|D|/packaging/snap/snap/gui/bitcoin-qt.desktop
+1547763052|Russell Yanofsky|D|/packaging/snap/snap/gui/bitcoin128.png
+1547763052|Russell Yanofsky|M|/packaging/snap/snapcraft.yaml
+1548274579|Russell Yanofsky|M|/packaging/snap/snapcraft.yaml
+1549385442|Russell Yanofsky|M|/packaging/snap/snapcraft.yaml
+1549401957|Russell Yanofsky|D|/packaging/snap/patches/default_data_dir.patch
+1549401957|Russell Yanofsky|M|/packaging/snap/snapcraft.yaml
+1550778530|MarcoFalke|M|/packaging/snap/snapcraft.yaml
+1550872118|MarcoFalke|M|/packaging/snap/snapcraft.yaml
+1552147107|MarcoFalke|A|/packaging/.travis.yml
+1552147107|MarcoFalke|M|/packaging/snap/snapcraft.yaml
+1556803675|MarcoFalke|M|/packaging/snap/snapcraft.yaml
+1561726918|MarcoFalke|M|/packaging/snap/snapcraft.yaml
+1565268498|MarcoFalke|M|/packaging/snap/gui/bitcoin-qt.desktop
+1565286667|MarcoFalke|M|/packaging/snap/snapcraft.yaml
+1565351487|MarcoFalke|M|/packaging/snap/snapcraft.yaml
+1565361749|MarcoFalke|D|/packaging/rpm/README.md
+1565361749|MarcoFalke|D|/packaging/rpm/bitcoin-0.12.0-libressl.patch
+1565361749|MarcoFalke|D|/packaging/rpm/bitcoin.fc
+1565361749|MarcoFalke|D|/packaging/rpm/bitcoin.if
+1565361749|MarcoFalke|D|/packaging/rpm/bitcoin.spec
+1565361749|MarcoFalke|D|/packaging/rpm/bitcoin.te
+1565362312|MarcoFalke|A|/packaging/README.md
+1574610324|MarcoFalke|M|/packaging/snap/snapcraft.yaml
+1584042794|MarcoFalke|M|/packaging/README.md
+1584043351|MarcoFalke|M|/packaging/snap/snapcraft.yaml
+1591226686|MarcoFalke|M|/packaging/README.md
+1591226703|MarcoFalke|M|/packaging/snap/snapcraft.yaml
+1591719762|MarcoFalke|M|/packaging/snap/snapcraft.yaml
+1596355150|MarcoFalke|M|/packaging/snap/snapcraft.yaml
+1598855863|MarcoFalke|M|/packaging/snap/snapcraft.yaml
+1606739129|MarcoFalke|A|/packaging/.cirrus.yml
+1606739129|MarcoFalke|D|/packaging/.travis.yml
+1610800157|MarcoFalke|M|/packaging/snap/snapcraft.yaml
+1610800961|MarcoFalke|M|/packaging/snap/snapcraft.yaml
+1620663236|MarcoFalke|M|/packaging/snap/snapcraft.yaml
+1631614675|MarcoFalke|M|/packaging/.cirrus.yml
+1631614675|MarcoFalke|M|/packaging/snap/snapcraft.yaml
+1631616417|MarcoFalke|A|/packaging/snap/build.md

@@ -1,0 +1,222 @@
+1286192132|m0mchil|A|/poclbm/btc_miner.cl
+1286192132|m0mchil|A|/poclbm/poclbm.py
+1286205834|m0mchil|M|/poclbm/poclbm.py
+1286285859|m0mchil|M|/poclbm/poclbm.py
+1286291706|m0mchil|M|/poclbm/poclbm.py
+1286361441|m0mchil|M|/poclbm/btc_miner.cl
+1286439100|m0mchil|M|/poclbm/poclbm.py
+1286873345|m0mchil|M|/poclbm/poclbm.py
+1286979917|m0mchil|M|/poclbm/btc_miner.cl
+1286979917|m0mchil|M|/poclbm/poclbm.py
+1287058474|m0mchil|M|/poclbm/poclbm.py
+1287061093|m0mchil|M|/poclbm/poclbm.py
+1287157728|m0mchil|M|/poclbm/btc_miner.cl
+1287157728|m0mchil|M|/poclbm/poclbm.py
+1287498055|m0mchil|M|/poclbm/btc_miner.cl
+1287498402|m0mchil|M|/poclbm/poclbm.py
+1287666910|m0mchil|M|/poclbm/btc_miner.cl
+1287666910|m0mchil|M|/poclbm/poclbm.py
+1288687959|m0mchil|M|/poclbm/btc_miner.cl
+1288687959|m0mchil|M|/poclbm/poclbm.py
+1288874992|m0mchil|M|/poclbm/btc_miner.cl
+1288874992|m0mchil|M|/poclbm/poclbm.py
+1289181452|brock|A|/poclbm/.gitignore
+1289181452|brock|A|/poclbm/default.cfg
+1289181452|brock|A|/poclbm/minerd.py
+1290049258|Brock Tice|D|/poclbm/default.cfg
+1290049258|Brock Tice|A|/poclbm/default.cfg.example
+1290310485|Brock Tice|A|/poclbm/check_gpus.sh
+1290357706|Brock Tice|M|/poclbm/default.cfg.example
+1290357706|Brock Tice|M|/poclbm/minerd.py
+1290441652|Brock Tice|M|/poclbm/check_gpus.sh
+1290441652|Brock Tice|M|/poclbm/minerd.py
+1290680061|m0mchil|M|/poclbm/btc_miner.cl
+1290680061|m0mchil|M|/poclbm/poclbm.py
+1290753293|m0mchil|M|/poclbm/poclbm.py
+1291044853|Brock Tice|M|/poclbm/.gitignore
+1291044853|Brock Tice|A|/poclbm/BitcoinMiner.py
+1291044853|Brock Tice|A|/poclbm/client.py
+1291044853|Brock Tice|A|/poclbm/daemon.cfg.example
+1291044853|Brock Tice|A|/poclbm/daemon.py
+1291044853|Brock Tice|D|/poclbm/minerd.py
+1291044853|Brock Tice|A|/poclbm/test_bitcoinminer.py
+1291426706|Brock Tice|M|/poclbm/client.py
+1291426706|Brock Tice|M|/poclbm/test_bitcoinminer.py
+1291728888|m0mchil|M|/poclbm/BitcoinMiner.py
+1291728888|m0mchil|M|/poclbm/poclbm.py
+1291729317|m0mchil|A|/poclbm/BitcoinMiner.cl
+1291729317|m0mchil|M|/poclbm/BitcoinMiner.py
+1291729317|m0mchil|D|/poclbm/btc_miner.cl
+1291730201|m0mchil|D|/poclbm/.gitignore
+1291730201|m0mchil|D|/poclbm/check_gpus.sh
+1291730201|m0mchil|D|/poclbm/client.py
+1291730201|m0mchil|D|/poclbm/daemon.cfg.example
+1291730201|m0mchil|D|/poclbm/daemon.py
+1291730201|m0mchil|D|/poclbm/default.cfg.example
+1291730201|m0mchil|D|/poclbm/test_bitcoinminer.py
+1291908513|m0mchil|M|/poclbm/BitcoinMiner.cl
+1291908513|m0mchil|M|/poclbm/BitcoinMiner.py
+1292323349|m0mchil|M|/poclbm/BitcoinMiner.py
+1292507589|m0mchil|M|/poclbm/BitcoinMiner.py
+1292661422|m0mchil|M|/poclbm/BitcoinMiner.py
+1292670996|m0mchil|M|/poclbm/BitcoinMiner.py
+1293116415|m0mchil|M|/poclbm/BitcoinMiner.py
+1293554540|m0mchil|M|/poclbm/BitcoinMiner.py
+1294058705|m0mchil|M|/poclbm/BitcoinMiner.cl
+1294151152|m0mchil|M|/poclbm/BitcoinMiner.py
+1294153398|m0mchil|M|/poclbm/BitcoinMiner.py
+1294153398|m0mchil|M|/poclbm/poclbm.py
+1295626909|m0mchil|M|/poclbm/BitcoinMiner.py
+1295964755|m0mchil|M|/poclbm/BitcoinMiner.cl
+1295964755|m0mchil|M|/poclbm/BitcoinMiner.py
+1295964755|m0mchil|M|/poclbm/poclbm.py
+1296145840|m0mchil|M|/poclbm/BitcoinMiner.cl
+1296145840|m0mchil|M|/poclbm/BitcoinMiner.py
+1296833133|m0mchil|M|/poclbm/BitcoinMiner.cl
+1296833133|m0mchil|M|/poclbm/BitcoinMiner.py
+1296833133|m0mchil|M|/poclbm/poclbm.py
+1297762207|m0mchil|M|/poclbm/BitcoinMiner.py
+1297762207|m0mchil|M|/poclbm/poclbm.py
+1297762305|m0mchil|A|/poclbm/LICENSE
+1297763077|m0mchil|M|/poclbm/BitcoinMiner.py
+1297779136|m0mchil|M|/poclbm/poclbm.py
+1297865596|m0mchil|M|/poclbm/BitcoinMiner.py
+1298363270|m0mchil|M|/poclbm/BitcoinMiner.py
+1298369542|m0mchil|M|/poclbm/BitcoinMiner.py
+1298369542|m0mchil|M|/poclbm/poclbm.py
+1298374584|m0mchil|M|/poclbm/BitcoinMiner.py
+1298379127|m0mchil|M|/poclbm/BitcoinMiner.py
+1298379277|m0mchil|M|/poclbm/BitcoinMiner.py
+1298556151|m0mchil|M|/poclbm/BitcoinMiner.py
+1298556151|m0mchil|M|/poclbm/poclbm.py
+1299076497|m0mchil|M|/poclbm/BitcoinMiner.py
+1299083224|m0mchil|M|/poclbm/BitcoinMiner.py
+1299083224|m0mchil|M|/poclbm/poclbm.py
+1299083438|m0mchil|M|/poclbm/BitcoinMiner.py
+1299408269|m0mchil|M|/poclbm/BitcoinMiner.py
+1299442125|m0mchil|M|/poclbm/BitcoinMiner.py
+1299501123|m0mchil|M|/poclbm/BitcoinMiner.py
+1299501123|m0mchil|M|/poclbm/poclbm.py
+1299509584|m0mchil|M|/poclbm/BitcoinMiner.py
+1299856217|m0mchil|M|/poclbm/BitcoinMiner.py
+1299864775|m0mchil|M|/poclbm/BitcoinMiner.py
+1299878978|m0mchil|M|/poclbm/BitcoinMiner.py
+1299880143|m0mchil|M|/poclbm/poclbm.py
+1300206166|m0mchil|M|/poclbm/BitcoinMiner.py
+1300206166|m0mchil|M|/poclbm/poclbm.py
+1300980281|m0mchil|M|/poclbm/BitcoinMiner.py
+1301058159|m0mchil|M|/poclbm/BitcoinMiner.py
+1301058159|m0mchil|A|/poclbm/sha256.py
+1301058986|m0mchil|M|/poclbm/BitcoinMiner.py
+1301059451|m0mchil|M|/poclbm/BitcoinMiner.py
+1301469558|m0mchil|M|/poclbm/BitcoinMiner.py
+1303824018|m0mchil|M|/poclbm/BitcoinMiner.py
+1303831938|m0mchil|M|/poclbm/BitcoinMiner.cl
+1303831938|m0mchil|M|/poclbm/BitcoinMiner.py
+1303975606|m0mchil|M|/poclbm/BitcoinMiner.py
+1305379942|Wladimir J. van der Laan|M|/poclbm/BitcoinMiner.py
+1305379942|Wladimir J. van der Laan|M|/poclbm/poclbm.py
+1306814422|Kyle Gibson|M|/poclbm/BitcoinMiner.py
+1306814422|Kyle Gibson|M|/poclbm/poclbm.py
+1306814542|Kyle Gibson|A|/poclbm/README
+1306814589|Kyle Gibson|M|/poclbm/README
+1306815046|Kyle Gibson|D|/poclbm/README
+1306815046|Kyle Gibson|A|/poclbm/README.mkd
+1306815287|Kyle Gibson|M|/poclbm/README.mkd
+1306815518|Kyle Gibson|M|/poclbm/README.mkd
+1306815833|Kyle Gibson|M|/poclbm/README.mkd
+1306815913|Kyle Gibson|M|/poclbm/README.mkd
+1306824580|Kyle Gibson|M|/poclbm/BitcoinMiner.py
+1306824580|Kyle Gibson|M|/poclbm/poclbm.py
+1306828078|Kyle Gibson|M|/poclbm/BitcoinMiner.py
+1306828078|Kyle Gibson|M|/poclbm/README.mkd
+1306828078|Kyle Gibson|M|/poclbm/poclbm.py
+1306915409|Kyle Gibson|M|/poclbm/BitcoinMiner.py
+1307163795|Kyle Gibson|M|/poclbm/BitcoinMiner.py
+1307163795|Kyle Gibson|M|/poclbm/poclbm.py
+1307164134|Kyle Gibson|M|/poclbm/README.mkd
+1308097678|Luke Dashjr|M|/poclbm/BitcoinMiner.py
+1308101006|Luke Dashjr|M|/poclbm/BitcoinMiner.py
+1308317230|m0mchil|M|/poclbm/BitcoinMiner.py
+1308317989|m0mchil|M|/poclbm/BitcoinMiner.py
+1308321287|m0mchil|M|/poclbm/BitcoinMiner.py
+1308321287|m0mchil|M|/poclbm/README.mkd
+1308321287|m0mchil|M|/poclbm/poclbm.py
+1308405874|Luke Dashjr|M|/poclbm/BitcoinMiner.py
+1308406501|Luke Dashjr|M|/poclbm/BitcoinMiner.py
+1308407101|Luke Dashjr|M|/poclbm/BitcoinMiner.py
+1308425768|Luke Dashjr|M|/poclbm/BitcoinMiner.py
+1308438044|progranism|M|/poclbm/BitcoinMiner.py
+1308438044|progranism|A|/poclbm/phatk.cl
+1308438044|progranism|M|/poclbm/sha256.py
+1308618058|Luke Dashjr|M|/poclbm/BitcoinMiner.py
+1309166086|m0mchil|M|/poclbm/phatk.cl
+1309166144|m0mchil|D|/poclbm/BitcoinMiner.cl
+1309167087|m0mchil|M|/poclbm/BitcoinMiner.py
+1309221041|Luke Dashjr|M|/poclbm/BitcoinMiner.cl
+1309507629|m0mchil|M|/poclbm/BitcoinMiner.py
+1309507629|m0mchil|M|/poclbm/poclbm.py
+1309515510|m0mchil|M|/poclbm/BitcoinMiner.py
+1309515510|m0mchil|M|/poclbm/poclbm.py
+1309520788|m0mchil|M|/poclbm/BitcoinMiner.py
+1309521733|m0mchil|M|/poclbm/BitcoinMiner.py
+1309923611|m0mchil|M|/poclbm/BitcoinMiner.py
+1310087307|Go Minoa|M|/poclbm/README.mkd
+1310087470|Go Minoa|M|/poclbm/poclbm.py
+1310124647|m0mchil|M|/poclbm/BitcoinMiner.py
+1310126514|Echo Nolan|A|/poclbm/.gitignore
+1310129824|m0mchil|M|/poclbm/BitcoinMiner.py
+1310138169|m0mchil|M|/poclbm/BitcoinMiner.py
+1310138307|m0mchil|M|/poclbm/poclbm.py
+1310144578|Go Minoa|M|/poclbm/BitcoinMiner.py
+1310144578|Go Minoa|M|/poclbm/poclbm.py
+1310150266|Go Minoa|M|/poclbm/BitcoinMiner.py
+1310150515|Go Minoa|M|/poclbm/README.mkd
+1310150515|Go Minoa|M|/poclbm/poclbm.py
+1310158277|Go Minoa|M|/poclbm/BitcoinMiner.py
+1310158277|Go Minoa|M|/poclbm/README.mkd
+1310158277|Go Minoa|M|/poclbm/poclbm.py
+1310185794|m0mchil|M|/poclbm/BitcoinMiner.py
+1310185860|m0mchil|M|/poclbm/poclbm.py
+1310187026|m0mchil|M|/poclbm/BitcoinMiner.py
+1310188302|m0mchil|M|/poclbm/BitcoinMiner.py
+1310188642|m0mchil|M|/poclbm/README.mkd
+1310188763|m0mchil|M|/poclbm/BitcoinMiner.py
+1310626992|m0mchil|M|/poclbm/phatk.cl
+1310627088|m0mchil|M|/poclbm/README.mkd
+1310627088|m0mchil|M|/poclbm/poclbm.py
+1310629528|m0mchil|M|/poclbm/BitcoinMiner.py
+1310629765|m0mchil|M|/poclbm/BitcoinMiner.py
+1310629765|m0mchil|A|/poclbm/HttpTransport.py
+1310629765|m0mchil|A|/poclbm/log.py
+1310629765|m0mchil|M|/poclbm/poclbm.py
+1310629765|m0mchil|M|/poclbm/sha256.py
+1310629765|m0mchil|A|/poclbm/util.py
+1310630165|m0mchil|A|/poclbm/Transport.py
+1310644431|m0mchil|M|/poclbm/BitcoinMiner.py
+1310644431|m0mchil|M|/poclbm/HttpTransport.py
+1310644431|m0mchil|M|/poclbm/Transport.py
+1310656668|m0mchil|M|/poclbm/HttpTransport.py
+1310656668|m0mchil|M|/poclbm/Transport.py
+1310735443|m0mchil|M|/poclbm/BitcoinMiner.py
+1310735443|m0mchil|M|/poclbm/HttpTransport.py
+1310735443|m0mchil|M|/poclbm/Transport.py
+1310740243|m0mchil|M|/poclbm/BitcoinMiner.py
+1310740243|m0mchil|M|/poclbm/Transport.py
+1310741660|m0mchil|M|/poclbm/BitcoinMiner.py
+1311145966|m0mchil|M|/poclbm/Transport.py
+1311764375|m0mchil|M|/poclbm/HttpTransport.py
+1311764477|m0mchil|M|/poclbm/BitcoinMiner.py
+1311764477|m0mchil|M|/poclbm/poclbm.py
+1312296739|m0mchil|M|/poclbm/Transport.py
+1320422746|m0mchil|M|/poclbm/BitcoinMiner.py
+1320422746|m0mchil|M|/poclbm/HttpTransport.py
+1320422746|m0mchil|M|/poclbm/Transport.py
+1323947488|m0mchil|M|/poclbm/Transport.py
+1323947488|m0mchil|M|/poclbm/poclbm.py
+1326902383|m0mchil|M|/poclbm/HttpTransport.py
+1326902383|m0mchil|M|/poclbm/Transport.py
+1326902383|m0mchil|M|/poclbm/poclbm.py
+1326902383|m0mchil|A|/poclbm/socks.py
+1326905669|m0mchil|M|/poclbm/BitcoinMiner.py
+1326964928|m0mchil|M|/poclbm/BitcoinMiner.py

@@ -1,0 +1,104 @@
+1609170548|Mayank|A|/umbrel-apps-gallery/.gitignore
+1609170548|Mayank|A|/umbrel-apps-gallery/README.md
+1609170548|Mayank|A|/umbrel-apps-gallery/btc-rpc-explorer/1.jpg
+1609170548|Mayank|A|/umbrel-apps-gallery/btc-rpc-explorer/2.jpg
+1609170548|Mayank|A|/umbrel-apps-gallery/btc-rpc-explorer/3.jpg
+1609170548|Mayank|A|/umbrel-apps-gallery/btc-rpc-explorer/icon.svg
+1609170548|Mayank|A|/umbrel-apps-gallery/btcpay-server/1.jpg
+1609170548|Mayank|A|/umbrel-apps-gallery/btcpay-server/2.jpg
+1609170548|Mayank|A|/umbrel-apps-gallery/btcpay-server/3.jpg
+1609170548|Mayank|A|/umbrel-apps-gallery/btcpay-server/icon.svg
+1609170548|Mayank|A|/umbrel-apps-gallery/lightning-terminal/1.jpg
+1609170548|Mayank|A|/umbrel-apps-gallery/lightning-terminal/2.jpg
+1609170548|Mayank|A|/umbrel-apps-gallery/lightning-terminal/3.jpg
+1609170548|Mayank|A|/umbrel-apps-gallery/lightning-terminal/icon.svg
+1609170548|Mayank|A|/umbrel-apps-gallery/ride-the-lightning/1.jpg
+1609170548|Mayank|A|/umbrel-apps-gallery/ride-the-lightning/2.jpg
+1609170548|Mayank|A|/umbrel-apps-gallery/ride-the-lightning/3.jpg
+1609170548|Mayank|A|/umbrel-apps-gallery/ride-the-lightning/icon.svg
+1609170548|Mayank|A|/umbrel-apps-gallery/specter-desktop/1.jpg
+1609170548|Mayank|A|/umbrel-apps-gallery/specter-desktop/2.jpg
+1609170548|Mayank|A|/umbrel-apps-gallery/specter-desktop/3.jpg
+1609170548|Mayank|A|/umbrel-apps-gallery/specter-desktop/icon.svg
+1609170548|Mayank|A|/umbrel-apps-gallery/sphinx-relay/1.jpg
+1609170548|Mayank|A|/umbrel-apps-gallery/sphinx-relay/2.jpg
+1609170548|Mayank|A|/umbrel-apps-gallery/sphinx-relay/3.jpg
+1609170548|Mayank|A|/umbrel-apps-gallery/sphinx-relay/icon.svg
+1609170548|Mayank|A|/umbrel-apps-gallery/thunderhub/1.jpg
+1609170548|Mayank|A|/umbrel-apps-gallery/thunderhub/2.jpg
+1609170548|Mayank|A|/umbrel-apps-gallery/thunderhub/3.jpg
+1609170548|Mayank|A|/umbrel-apps-gallery/thunderhub/icon.svg
+1609332400|Mayank|A|/umbrel-apps-gallery/index.html
+1613114265|Mayank Chhabra|A|/umbrel-apps-gallery/mempool/1.jpg
+1613114265|Mayank Chhabra|A|/umbrel-apps-gallery/mempool/2.jpg
+1613114265|Mayank Chhabra|A|/umbrel-apps-gallery/mempool/3.jpg
+1613114265|Mayank Chhabra|A|/umbrel-apps-gallery/mempool/icon.svg
+1613158841|Mayank Chhabra|A|/umbrel-apps-gallery/samourai-server/1.jpg
+1613158841|Mayank Chhabra|A|/umbrel-apps-gallery/samourai-server/2.jpg
+1613158841|Mayank Chhabra|A|/umbrel-apps-gallery/samourai-server/3.jpg
+1613158841|Mayank Chhabra|A|/umbrel-apps-gallery/samourai-server/icon.svg
+1613210276|Mayank Chhabra|M|/umbrel-apps-gallery/mempool/3.jpg
+1613297837|Mayank Chhabra|A|/umbrel-apps-gallery/lnbits/1.jpg
+1613297837|Mayank Chhabra|A|/umbrel-apps-gallery/lnbits/2.jpg
+1613297837|Mayank Chhabra|A|/umbrel-apps-gallery/lnbits/3.jpg
+1613297837|Mayank Chhabra|A|/umbrel-apps-gallery/lnbits/icon.svg
+1613396736|Mayank Chhabra|M|/umbrel-apps-gallery/lightning-terminal/1.jpg
+1613396736|Mayank Chhabra|M|/umbrel-apps-gallery/lightning-terminal/2.jpg
+1613396736|Mayank Chhabra|M|/umbrel-apps-gallery/lightning-terminal/3.jpg
+1613396736|Mayank Chhabra|A|/umbrel-apps-gallery/lightning-terminal/4.jpg
+1619950129|Nuno Coelho|A|/umbrel-apps-gallery/bluewallet-server/1.jpg
+1619950129|Nuno Coelho|A|/umbrel-apps-gallery/bluewallet-server/2.jpg
+1619950129|Nuno Coelho|A|/umbrel-apps-gallery/bluewallet-server/3.jpg
+1619950129|Nuno Coelho|A|/umbrel-apps-gallery/bluewallet-server/icon.svg
+1619953978|Luke Childs|D|/umbrel-apps-gallery/bluewallet-server/1.jpg
+1619953978|Luke Childs|D|/umbrel-apps-gallery/bluewallet-server/2.jpg
+1619953978|Luke Childs|D|/umbrel-apps-gallery/bluewallet-server/3.jpg
+1619953978|Luke Childs|D|/umbrel-apps-gallery/bluewallet-server/icon.svg
+1619953978|Luke Childs|A|/umbrel-apps-gallery/bluewallet/1.jpg
+1619953978|Luke Childs|A|/umbrel-apps-gallery/bluewallet/2.jpg
+1619953978|Luke Childs|A|/umbrel-apps-gallery/bluewallet/3.jpg
+1619953978|Luke Childs|A|/umbrel-apps-gallery/bluewallet/icon.svg
+1628001809|Mayank Chhabra|A|/umbrel-apps-gallery/pi-hole/1.jpg
+1628001809|Mayank Chhabra|A|/umbrel-apps-gallery/pi-hole/2.jpg
+1628001809|Mayank Chhabra|A|/umbrel-apps-gallery/pi-hole/3.jpg
+1628001809|Mayank Chhabra|A|/umbrel-apps-gallery/pi-hole/icon.svg
+1628001871|Mayank Chhabra|A|/umbrel-apps-gallery/simple-torrent/1.jpg
+1628001871|Mayank Chhabra|A|/umbrel-apps-gallery/simple-torrent/2.jpg
+1628001871|Mayank Chhabra|A|/umbrel-apps-gallery/simple-torrent/3.jpg
+1628001871|Mayank Chhabra|A|/umbrel-apps-gallery/simple-torrent/icon.svg
+1628002021|Mayank Chhabra|A|/umbrel-apps-gallery/vaultwarden/1.jpg
+1628002021|Mayank Chhabra|A|/umbrel-apps-gallery/vaultwarden/2.jpg
+1628002021|Mayank Chhabra|A|/umbrel-apps-gallery/vaultwarden/3.jpg
+1628002021|Mayank Chhabra|A|/umbrel-apps-gallery/vaultwarden/icon.svg
+1628002061|Mayank Chhabra|A|/umbrel-apps-gallery/code-server/1.jpg
+1628002061|Mayank Chhabra|A|/umbrel-apps-gallery/code-server/2.jpg
+1628002061|Mayank Chhabra|A|/umbrel-apps-gallery/code-server/3.jpg
+1628002061|Mayank Chhabra|A|/umbrel-apps-gallery/code-server/icon.svg
+1628002104|Mayank Chhabra|A|/umbrel-apps-gallery/gitea/1.jpg
+1628002104|Mayank Chhabra|A|/umbrel-apps-gallery/gitea/2.jpg
+1628002104|Mayank Chhabra|A|/umbrel-apps-gallery/gitea/3.jpg
+1628002104|Mayank Chhabra|A|/umbrel-apps-gallery/gitea/icon.svg
+1628002141|Mayank Chhabra|A|/umbrel-apps-gallery/synapse/1.jpg
+1628002141|Mayank Chhabra|A|/umbrel-apps-gallery/synapse/2.jpg
+1628002141|Mayank Chhabra|A|/umbrel-apps-gallery/synapse/3.jpg
+1628002141|Mayank Chhabra|A|/umbrel-apps-gallery/synapse/icon.svg
+1628002184|Mayank Chhabra|A|/umbrel-apps-gallery/element/1.jpg
+1628002184|Mayank Chhabra|A|/umbrel-apps-gallery/element/2.jpg
+1628002184|Mayank Chhabra|A|/umbrel-apps-gallery/element/3.jpg
+1628002184|Mayank Chhabra|A|/umbrel-apps-gallery/element/icon.svg
+1628163878|Mayank Chhabra|A|/umbrel-apps-gallery/photoprism/1.jpg
+1628163878|Mayank Chhabra|A|/umbrel-apps-gallery/photoprism/2.jpg
+1628163878|Mayank Chhabra|A|/umbrel-apps-gallery/photoprism/3.jpg
+1628163878|Mayank Chhabra|A|/umbrel-apps-gallery/photoprism/icon.svg
+1628163935|Mayank Chhabra|A|/umbrel-apps-gallery/home-assistant/1.jpg
+1628163935|Mayank Chhabra|A|/umbrel-apps-gallery/home-assistant/2.jpg
+1628163935|Mayank Chhabra|A|/umbrel-apps-gallery/home-assistant/3.jpg
+1628163935|Mayank Chhabra|A|/umbrel-apps-gallery/home-assistant/icon.svg
+1628163949|Mayank Chhabra|A|/umbrel-apps-gallery/nextcloud/1.jpg
+1628163949|Mayank Chhabra|A|/umbrel-apps-gallery/nextcloud/2.jpg
+1628163949|Mayank Chhabra|A|/umbrel-apps-gallery/nextcloud/3.jpg
+1628163949|Mayank Chhabra|A|/umbrel-apps-gallery/nextcloud/icon.svg
+1631545450|Mayank Chhabra|A|/umbrel-apps-gallery/squeaknode/1.jpg
+1631545450|Mayank Chhabra|A|/umbrel-apps-gallery/squeaknode/2.jpg
+1631545450|Mayank Chhabra|A|/umbrel-apps-gallery/squeaknode/3.jpg
+1631545450|Mayank Chhabra|A|/umbrel-apps-gallery/squeaknode/icon.svg

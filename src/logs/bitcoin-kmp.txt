@@ -1,0 +1,649 @@
+1585067662|Fabrice Drouin|A|/bitcoin-kmp/.gitignore
+1585067662|Fabrice Drouin|A|/bitcoin-kmp/README.md
+1585067662|Fabrice Drouin|A|/bitcoin-kmp/build.gradle.kts
+1585067662|Fabrice Drouin|A|/bitcoin-kmp/gradle/wrapper/gradle-wrapper.jar
+1585067662|Fabrice Drouin|A|/bitcoin-kmp/gradle/wrapper/gradle-wrapper.properties
+1585067662|Fabrice Drouin|A|/bitcoin-kmp/gradlew
+1585067662|Fabrice Drouin|A|/bitcoin-kmp/gradlew.bat
+1585067662|Fabrice Drouin|A|/bitcoin-kmp/settings.gradle.kts
+1585067662|Fabrice Drouin|A|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Base58.kt
+1585067662|Fabrice Drouin|A|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Bech32.kt
+1585067662|Fabrice Drouin|A|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Bitcoin.kt
+1585067662|Fabrice Drouin|A|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Block.kt
+1585067662|Fabrice Drouin|A|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/BtcAmount.kt
+1585067662|Fabrice Drouin|A|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/BtcSerializer.kt
+1585067662|Fabrice Drouin|A|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/ByteVector.kt
+1585067662|Fabrice Drouin|A|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Hex.kt
+1585067662|Fabrice Drouin|A|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Protocol.kt
+1585067662|Fabrice Drouin|A|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Script.kt
+1585067662|Fabrice Drouin|A|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/ScriptElt.kt
+1585067662|Fabrice Drouin|A|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/ScriptFlags.kt
+1585067662|Fabrice Drouin|A|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/SigHash.kt
+1585067662|Fabrice Drouin|A|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Transaction.kt
+1585067662|Fabrice Drouin|A|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/crypto/Crypto.kt
+1585067662|Fabrice Drouin|A|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/crypto/Digest.kt
+1585067662|Fabrice Drouin|A|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/crypto/Pack.kt
+1585067662|Fabrice Drouin|A|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/crypto/PrivateKey.kt
+1585067662|Fabrice Drouin|A|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/crypto/PublicKey.kt
+1585067662|Fabrice Drouin|A|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/crypto/Ripemd160.kt
+1585067662|Fabrice Drouin|A|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/crypto/Secp256k1.kt
+1585067662|Fabrice Drouin|A|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/crypto/Sha1.kt
+1585067662|Fabrice Drouin|A|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/crypto/Sha256.kt
+1585067662|Fabrice Drouin|A|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/crypto/Sha512.kt
+1585067662|Fabrice Drouin|A|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/Bech32TestsCommon.kt
+1585067662|Fabrice Drouin|A|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/PuzzleTestsCommon.kt
+1585067662|Fabrice Drouin|A|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/SegwitTestsCommon.kt
+1585067662|Fabrice Drouin|A|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/SigHashTestsCommon.kt
+1585067662|Fabrice Drouin|A|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/TransactionTestsCommon.kt
+1585067662|Fabrice Drouin|A|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/crypto/Base58TestsCommon.kt
+1585067662|Fabrice Drouin|A|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/crypto/CryptoTestsCommon.kt
+1585067662|Fabrice Drouin|A|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/crypto/Ripemd160TestsCommon.kt
+1585067662|Fabrice Drouin|A|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/crypto/Sha1TestsCommon.kt
+1585067662|Fabrice Drouin|A|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/crypto/Sha256TestsCommon.kt
+1585067662|Fabrice Drouin|A|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/crypto/Sha512TestsCommon.kt
+1585067662|Fabrice Drouin|A|/bitcoin-kmp/src/jvmMain/kotlin/fr/acinq/bitcoin/crypto/Secp256k1.kt
+1585067662|Fabrice Drouin|A|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/BlockTestsJvm.kt
+1585067662|Fabrice Drouin|A|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/TransactionTestsJvm.kt
+1585067662|Fabrice Drouin|A|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/crypto/CryptoTestsJvm.kt
+1585067662|Fabrice Drouin|A|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/crypto/Sha256TestsJvm.kt
+1585067662|Fabrice Drouin|A|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/reference/Base58RerenceTestsJvm.kt
+1585067662|Fabrice Drouin|A|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/reference/KeyEncodingTestsJvm.kt
+1585067662|Fabrice Drouin|A|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/reference/ScriptTestsJvm.kt
+1585067662|Fabrice Drouin|A|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/reference/SigHashTestsJvm.kt
+1585067662|Fabrice Drouin|A|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/reference/TransactionTestsJvm.kt
+1585067662|Fabrice Drouin|A|/bitcoin-kmp/src/jvmTest/resources/block1.dat
+1585067662|Fabrice Drouin|A|/bitcoin-kmp/src/jvmTest/resources/data/base58_encode_decode.json
+1585067662|Fabrice Drouin|A|/bitcoin-kmp/src/jvmTest/resources/data/base58_keys_valid.json
+1585067662|Fabrice Drouin|A|/bitcoin-kmp/src/jvmTest/resources/data/key_io_invalid.json
+1585067662|Fabrice Drouin|A|/bitcoin-kmp/src/jvmTest/resources/data/key_io_valid.json
+1585067662|Fabrice Drouin|A|/bitcoin-kmp/src/jvmTest/resources/data/script_tests.json
+1585067662|Fabrice Drouin|A|/bitcoin-kmp/src/jvmTest/resources/data/sighash.json
+1585067662|Fabrice Drouin|A|/bitcoin-kmp/src/jvmTest/resources/data/tx_invalid.json
+1585067662|Fabrice Drouin|A|/bitcoin-kmp/src/jvmTest/resources/data/tx_valid.json
+1585082513|sstone|M|/bitcoin-kmp/build.gradle.kts
+1585166059|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/BtcSerializer.kt
+1585166059|sstone|A|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/DeterministicWallet.kt
+1585166059|sstone|A|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/UInt256.kt
+1585166059|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/crypto/Crypto.kt
+1585166059|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/crypto/Digest.kt
+1585166059|sstone|A|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/crypto/HMac.kt
+1585166059|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/crypto/Pack.kt
+1585166059|sstone|M|/bitcoin-kmp/src/jvmMain/kotlin/fr/acinq/bitcoin/crypto/Secp256k1.kt
+1585166059|sstone|A|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/DeterministicWalletTestsJvm.kt
+1585166059|sstone|A|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/UInt256TestsJvm.kt
+1585166059|sstone|A|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/crypto/HMacTestsJvm.kt
+1585175617|sstone|A|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/MnemonicCode.kt
+1585175617|sstone|A|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/crypto/Pbkdf2.kt
+1585175617|sstone|A|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/MnemonicCodeTestsJvm.kt
+1585175617|sstone|A|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/crypto/Pkbdf2TestsJvm.kt
+1585175617|sstone|A|/bitcoin-kmp/src/jvmTest/resources/bip39_vectors.json
+1585259026|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Block.kt
+1585259026|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/MnemonicCode.kt
+1585259026|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/UInt256.kt
+1585259026|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/crypto/Pack.kt
+1585259026|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/crypto/Pbkdf2.kt
+1585259026|sstone|M|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/BlockTestsJvm.kt
+1585259026|sstone|M|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/crypto/Pkbdf2TestsJvm.kt
+1585259816|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Bitcoin.kt
+1585259816|sstone|A|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/BIP49TestsCommon.kt
+1585259816|sstone|A|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/BIP84TestsCommon.kt
+1585259839|sstone|A|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/CheckLockTimeVerifyTestsCommon.kt
+1585260156|sstone|A|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/LexicographicalOrdering.kt
+1585260156|sstone|A|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/LexicographicalOrderingTestsCommon.kt
+1585328664|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Base58.kt
+1585328664|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Bech32.kt
+1585328664|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Bitcoin.kt
+1585328664|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Block.kt
+1585328664|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/BtcAmount.kt
+1585328664|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/BtcSerializer.kt
+1585328664|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/ByteVector.kt
+1585328664|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/DeterministicWallet.kt
+1585328664|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/MnemonicCode.kt
+1585328664|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Script.kt
+1585328664|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/ScriptElt.kt
+1585328664|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Transaction.kt
+1585328664|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/UInt256.kt
+1585328664|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/crypto/Crypto.kt
+1585328664|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/crypto/Digest.kt
+1585328664|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/crypto/HMac.kt
+1585328664|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/crypto/Pack.kt
+1585328664|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/crypto/Pbkdf2.kt
+1585328664|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/crypto/PublicKey.kt
+1585328664|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/crypto/Ripemd160.kt
+1585328664|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/crypto/Secp256k1.kt
+1585328664|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/crypto/Sha1.kt
+1585328664|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/crypto/Sha256.kt
+1585328664|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/crypto/Sha512.kt
+1585328664|sstone|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/BIP49TestsCommon.kt
+1585328664|sstone|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/BIP84TestsCommon.kt
+1585328664|sstone|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/CheckLockTimeVerifyTestsCommon.kt
+1585328664|sstone|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/PuzzleTestsCommon.kt
+1585328664|sstone|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/SegwitTestsCommon.kt
+1585328664|sstone|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/SigHashTestsCommon.kt
+1585328664|sstone|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/TransactionTestsCommon.kt
+1585328664|sstone|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/crypto/CryptoTestsCommon.kt
+1585328664|sstone|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/crypto/Sha1TestsCommon.kt
+1585328664|sstone|M|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/BlockTestsJvm.kt
+1585328664|sstone|M|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/DeterministicWalletTestsJvm.kt
+1585328664|sstone|M|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/MnemonicCodeTestsJvm.kt
+1585328664|sstone|M|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/TransactionTestsJvm.kt
+1585328664|sstone|M|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/UInt256TestsJvm.kt
+1585328664|sstone|M|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/crypto/CryptoTestsJvm.kt
+1585328664|sstone|M|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/crypto/HMacTestsJvm.kt
+1585328664|sstone|M|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/crypto/Pkbdf2TestsJvm.kt
+1585328664|sstone|M|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/reference/Base58RerenceTestsJvm.kt
+1585328664|sstone|M|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/reference/KeyEncodingTestsJvm.kt
+1585328664|sstone|M|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/reference/ScriptTestsJvm.kt
+1585328664|sstone|M|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/reference/TransactionTestsJvm.kt
+1585328763|sstone|M|/bitcoin-kmp/src/jvmTest/resources/data/script_tests.json
+1585328763|sstone|M|/bitcoin-kmp/src/jvmTest/resources/data/tx_invalid.json
+1585328763|sstone|M|/bitcoin-kmp/src/jvmTest/resources/data/tx_valid.json
+1586177270|Fabrice Drouin|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Base58.kt
+1586177270|Fabrice Drouin|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Bech32.kt
+1586177270|Fabrice Drouin|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Bitcoin.kt
+1586177270|Fabrice Drouin|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Block.kt
+1586177270|Fabrice Drouin|D|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/BtcAmount.kt
+1586177270|Fabrice Drouin|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/BtcSerializer.kt
+1586177270|Fabrice Drouin|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/ByteVector.kt
+1586177270|Fabrice Drouin|A|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Crypto.kt
+1586177270|Fabrice Drouin|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/DeterministicWallet.kt
+1586177270|Fabrice Drouin|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Hex.kt
+1586177270|Fabrice Drouin|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/LexicographicalOrdering.kt
+1586177270|Fabrice Drouin|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/MnemonicCode.kt
+1586177270|Fabrice Drouin|A|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/PrivateKey.kt
+1586177270|Fabrice Drouin|A|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/PublicKey.kt
+1586177270|Fabrice Drouin|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Script.kt
+1586177270|Fabrice Drouin|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/ScriptElt.kt
+1586177270|Fabrice Drouin|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Transaction.kt
+1586177270|Fabrice Drouin|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/UInt256.kt
+1586177270|Fabrice Drouin|D|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/crypto/Crypto.kt
+1586177270|Fabrice Drouin|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/crypto/Pack.kt
+1586177270|Fabrice Drouin|D|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/crypto/PrivateKey.kt
+1586177270|Fabrice Drouin|D|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/crypto/PublicKey.kt
+1586177270|Fabrice Drouin|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/crypto/Secp256k1.kt
+1586177270|Fabrice Drouin|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/BIP49TestsCommon.kt
+1586177270|Fabrice Drouin|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/BIP84TestsCommon.kt
+1586177270|Fabrice Drouin|A|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/Base58TestsCommon.kt
+1586177270|Fabrice Drouin|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/CheckLockTimeVerifyTestsCommon.kt
+1586177270|Fabrice Drouin|A|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/CryptoTestsCommon.kt
+1586177270|Fabrice Drouin|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/LexicographicalOrderingTestsCommon.kt
+1586177270|Fabrice Drouin|A|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/ScriptTestsCommon.kt
+1586177270|Fabrice Drouin|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/SegwitTestsCommon.kt
+1586177270|Fabrice Drouin|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/SigHashTestsCommon.kt
+1586177270|Fabrice Drouin|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/TransactionTestsCommon.kt
+1586177270|Fabrice Drouin|D|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/crypto/Base58TestsCommon.kt
+1586177270|Fabrice Drouin|D|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/crypto/CryptoTestsCommon.kt
+1586177270|Fabrice Drouin|M|/bitcoin-kmp/src/jvmMain/kotlin/fr/acinq/bitcoin/crypto/Secp256k1.kt
+1586177270|Fabrice Drouin|A|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/CryptoTestsJvm.kt
+1586177270|Fabrice Drouin|M|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/TransactionTestsJvm.kt
+1586177270|Fabrice Drouin|D|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/crypto/CryptoTestsJvm.kt
+1586177270|Fabrice Drouin|M|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/crypto/HMacTestsJvm.kt
+1586177270|Fabrice Drouin|M|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/reference/KeyEncodingTestsJvm.kt
+1586177270|Fabrice Drouin|M|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/reference/ScriptTestsJvm.kt
+1586177270|Fabrice Drouin|M|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/reference/TransactionTestsJvm.kt
+1586177270|Fabrice Drouin|A|/bitcoin-kmp/src/jvmTest/resources/recid.txt
+1586359456|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/ByteVector.kt
+1586359491|sstone|M|/bitcoin-kmp/build.gradle.kts
+1586510147|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/UInt256.kt
+1586513746|sstone|M|/bitcoin-kmp/gradle/wrapper/gradle-wrapper.properties
+1586513746|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Base58.kt
+1586513746|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Bech32.kt
+1586513746|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Bitcoin.kt
+1586513746|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Block.kt
+1586513746|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/BtcSerializer.kt
+1586513746|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/ByteVector.kt
+1586513746|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Crypto.kt
+1586513746|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/DeterministicWallet.kt
+1586513746|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Hex.kt
+1586513746|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/LexicographicalOrdering.kt
+1586513746|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/MnemonicCode.kt
+1586513746|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/PrivateKey.kt
+1586513746|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Protocol.kt
+1586513746|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/PublicKey.kt
+1586513746|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Script.kt
+1586513746|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/ScriptElt.kt
+1586513746|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/ScriptFlags.kt
+1586513746|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/SigHash.kt
+1586513746|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Transaction.kt
+1586513746|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/UInt256.kt
+1586513746|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/crypto/Digest.kt
+1586513746|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/crypto/HMac.kt
+1586513746|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/crypto/Pack.kt
+1586513746|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/crypto/Pbkdf2.kt
+1586513746|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/crypto/Ripemd160.kt
+1586513746|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/crypto/Secp256k1.kt
+1586513746|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/crypto/Sha1.kt
+1586513746|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/crypto/Sha256.kt
+1586513746|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/crypto/Sha512.kt
+1586513746|sstone|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/BIP49TestsCommon.kt
+1586513746|sstone|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/BIP84TestsCommon.kt
+1586513746|sstone|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/Base58TestsCommon.kt
+1586513746|sstone|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/CheckLockTimeVerifyTestsCommon.kt
+1586513746|sstone|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/CryptoTestsCommon.kt
+1586513746|sstone|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/LexicographicalOrderingTestsCommon.kt
+1586513746|sstone|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/PuzzleTestsCommon.kt
+1586513746|sstone|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/ScriptTestsCommon.kt
+1586513746|sstone|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/SegwitTestsCommon.kt
+1586513746|sstone|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/SigHashTestsCommon.kt
+1586513746|sstone|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/TransactionTestsCommon.kt
+1586513746|sstone|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/crypto/Ripemd160TestsCommon.kt
+1586513746|sstone|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/crypto/Sha1TestsCommon.kt
+1586513746|sstone|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/crypto/Sha256TestsCommon.kt
+1586513746|sstone|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/crypto/Sha512TestsCommon.kt
+1586513746|sstone|M|/bitcoin-kmp/src/jvmMain/kotlin/fr/acinq/bitcoin/crypto/Secp256k1.kt
+1586513746|sstone|M|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/BlockTestsJvm.kt
+1586513746|sstone|M|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/CryptoTestsJvm.kt
+1586513746|sstone|M|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/DeterministicWalletTestsJvm.kt
+1586513746|sstone|M|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/MnemonicCodeTestsJvm.kt
+1586513746|sstone|M|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/TransactionTestsJvm.kt
+1586513746|sstone|M|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/UInt256TestsJvm.kt
+1586513746|sstone|M|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/crypto/HMacTestsJvm.kt
+1586513746|sstone|M|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/crypto/Pkbdf2TestsJvm.kt
+1586513746|sstone|M|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/crypto/Sha256TestsJvm.kt
+1586513746|sstone|M|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/reference/KeyEncodingTestsJvm.kt
+1586513746|sstone|M|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/reference/ScriptTestsJvm.kt
+1586513746|sstone|M|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/reference/TransactionTestsJvm.kt
+1586513812|sstone|A|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/PowTestsCommon.kt
+1587367804|sstone|A|/bitcoin-kmp/.gitmodules
+1587367804|sstone|M|/bitcoin-kmp/build.gradle.kts
+1587367804|sstone|A|/bitcoin-kmp/c/secp256k1
+1587367804|sstone|A|/bitcoin-kmp/c/xbuild-secp256k1.sh
+1587367804|sstone|A|/bitcoin-kmp/c/xconfigure.sh
+1587367804|sstone|A|/bitcoin-kmp/gradle.properties
+1587367804|sstone|M|/bitcoin-kmp/gradle/wrapper/gradle-wrapper.properties
+1587367804|sstone|M|/bitcoin-kmp/settings.gradle.kts
+1587367804|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Bitcoin.kt
+1587367804|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Crypto.kt
+1587367804|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Script.kt
+1587367804|sstone|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/CryptoTestsCommon.kt
+1587367804|sstone|A|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/DeterministicWalletTestsCommon.kt
+1587367804|sstone|A|/bitcoin-kmp/src/linuxMain/kotlin/fr/acinq/bitcoin/crypto/Secp256k1.kt
+1587367804|sstone|A|/bitcoin-kmp/src/linuxTest/kotlin/fr/acinq/bitcoin/crypto/Secp256k1Test.kt
+1587367804|sstone|A|/bitcoin-kmp/src/nativeInterop/cinterop/libsecp256k1.def
+1587932783|sstone|M|/bitcoin-kmp/c/xbuild-secp256k1.sh
+1588189776|sstone|M|/bitcoin-kmp/build.gradle.kts
+1588189776|sstone|A|/bitcoin-kmp/src/iosMain/kotlin/fr/acinq/bitcoin/crypto/Secp256k1.kt
+1591288763|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Block.kt
+1591288763|sstone|A|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Satoshi.kt
+1591288763|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Script.kt
+1591288763|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Transaction.kt
+1591288763|sstone|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/CheckLockTimeVerifyTestsCommon.kt
+1591288763|sstone|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/LexicographicalOrderingTestsCommon.kt
+1591288763|sstone|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/SegwitTestsCommon.kt
+1591288763|sstone|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/SigHashTestsCommon.kt
+1591288763|sstone|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/TransactionTestsCommon.kt
+1591288763|sstone|M|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/TransactionTestsJvm.kt
+1591288763|sstone|M|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/reference/ScriptTestsJvm.kt
+1591288763|sstone|M|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/reference/TransactionTestsJvm.kt
+1591289428|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/ByteVector.kt
+1591348656|sstone|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/CryptoTestsCommon.kt
+1591348656|sstone|M|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/CryptoTestsJvm.kt
+1591629249|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Hex.kt
+1591866388|Fabrice Drouin|M|/bitcoin-kmp/README.md
+1591866618|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/ByteVector.kt
+1592853540|sstone|A|/bitcoin-kmp/.github/workflows/snapshot.yml
+1592853540|sstone|A|/bitcoin-kmp/.github/workflows/test.yml
+1592853540|sstone|M|/bitcoin-kmp/build.gradle.kts
+1592853540|sstone|M|/bitcoin-kmp/gradle.properties
+1592853540|sstone|M|/bitcoin-kmp/gradle/wrapper/gradle-wrapper.properties
+1592853540|sstone|M|/bitcoin-kmp/settings.gradle.kts
+1592853540|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Base58.kt
+1592853540|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Bech32.kt
+1592853540|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Bitcoin.kt
+1592853540|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Block.kt
+1592853540|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/BtcSerializer.kt
+1592853540|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/ByteVector.kt
+1592853540|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Crypto.kt
+1592853540|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/DeterministicWallet.kt
+1592853540|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Hex.kt
+1592853540|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/LexicographicalOrdering.kt
+1592853540|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/MnemonicCode.kt
+1592853540|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/PrivateKey.kt
+1592853540|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Protocol.kt
+1592853540|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/PublicKey.kt
+1592853540|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Satoshi.kt
+1592853540|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Script.kt
+1592853540|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/ScriptElt.kt
+1592853540|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/ScriptFlags.kt
+1592853540|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/SigHash.kt
+1592853540|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Transaction.kt
+1592853540|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/UInt256.kt
+1592853540|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/crypto/Digest.kt
+1592853540|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/crypto/HMac.kt
+1592853540|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/crypto/Pack.kt
+1592853540|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/crypto/Pbkdf2.kt
+1592853540|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/crypto/Ripemd160.kt
+1592853540|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/crypto/Secp256k1.kt
+1592853540|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/crypto/Sha1.kt
+1592853540|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/crypto/Sha256.kt
+1592853540|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/crypto/Sha512.kt
+1592853540|sstone|A|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/io/ByteArrayInput.kt
+1592853540|sstone|A|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/io/ByteArrayOutput.kt
+1592853540|sstone|A|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/io/Input.kt
+1592853540|sstone|A|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/io/Output.kt
+1592853540|sstone|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/BIP49TestsCommon.kt
+1592853540|sstone|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/BIP84TestsCommon.kt
+1592853540|sstone|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/Base58TestsCommon.kt
+1592853540|sstone|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/CheckLockTimeVerifyTestsCommon.kt
+1592853540|sstone|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/CryptoTestsCommon.kt
+1592853540|sstone|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/DeterministicWalletTestsCommon.kt
+1592853540|sstone|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/LexicographicalOrderingTestsCommon.kt
+1592853540|sstone|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/PowTestsCommon.kt
+1592853540|sstone|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/PuzzleTestsCommon.kt
+1592853540|sstone|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/ScriptTestsCommon.kt
+1592853540|sstone|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/SegwitTestsCommon.kt
+1592853540|sstone|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/SigHashTestsCommon.kt
+1592853540|sstone|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/TransactionTestsCommon.kt
+1592853540|sstone|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/crypto/Ripemd160TestsCommon.kt
+1592853540|sstone|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/crypto/Sha1TestsCommon.kt
+1592853540|sstone|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/crypto/Sha512TestsCommon.kt
+1592853540|sstone|M|/bitcoin-kmp/src/iosMain/kotlin/fr/acinq/bitcoin/crypto/Secp256k1.kt
+1592853540|sstone|M|/bitcoin-kmp/src/jvmMain/kotlin/fr/acinq/bitcoin/crypto/Secp256k1.kt
+1592853540|sstone|A|/bitcoin-kmp/src/jvmMain/kotlin/fr/acinq/bitcoin/io/InputStreamInput.kt
+1592853540|sstone|A|/bitcoin-kmp/src/jvmMain/kotlin/fr/acinq/bitcoin/io/OutputStreamOutput.kt
+1592853540|sstone|M|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/BlockTestsJvm.kt
+1592853540|sstone|M|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/CryptoTestsJvm.kt
+1592853540|sstone|M|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/DeterministicWalletTestsJvm.kt
+1592853540|sstone|M|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/MnemonicCodeTestsJvm.kt
+1592853540|sstone|M|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/TransactionTestsJvm.kt
+1592853540|sstone|M|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/UInt256TestsJvm.kt
+1592853540|sstone|M|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/reference/KeyEncodingTestsJvm.kt
+1592853540|sstone|M|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/reference/ScriptTestsJvm.kt
+1592853540|sstone|M|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/reference/SigHashTestsJvm.kt
+1592853540|sstone|M|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/reference/TransactionTestsJvm.kt
+1592853540|sstone|M|/bitcoin-kmp/src/linuxMain/kotlin/fr/acinq/bitcoin/crypto/Secp256k1.kt
+1592853540|sstone|M|/bitcoin-kmp/src/nativeInterop/cinterop/libsecp256k1.def
+1592856816|sstone|M|/bitcoin-kmp/src/iosMain/kotlin/fr/acinq/bitcoin/crypto/Secp256k1.kt
+1593770380|Salomon BRYS|M|/bitcoin-kmp/.gitignore
+1593770380|Salomon BRYS|M|/bitcoin-kmp/README.md
+1593770380|Salomon BRYS|M|/bitcoin-kmp/build.gradle.kts
+1593770380|Salomon BRYS|D|/bitcoin-kmp/c/secp256k1
+1593770380|Salomon BRYS|D|/bitcoin-kmp/c/xbuild-secp256k1.sh
+1593770380|Salomon BRYS|D|/bitcoin-kmp/c/xconfigure.sh
+1593770380|Salomon BRYS|M|/bitcoin-kmp/gradle.properties
+1593770380|Salomon BRYS|M|/bitcoin-kmp/settings.gradle.kts
+1593770380|Salomon BRYS|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Base58.kt
+1593770380|Salomon BRYS|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Block.kt
+1593770380|Salomon BRYS|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/BtcSerializer.kt
+1593770380|Salomon BRYS|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Crypto.kt
+1593770380|Salomon BRYS|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/DeterministicWallet.kt
+1593770380|Salomon BRYS|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/PrivateKey.kt
+1593770380|Salomon BRYS|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/PublicKey.kt
+1593770380|Salomon BRYS|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Satoshi.kt
+1593770380|Salomon BRYS|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Script.kt
+1593770380|Salomon BRYS|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Transaction.kt
+1593770380|Salomon BRYS|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/UInt256.kt
+1593770380|Salomon BRYS|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/crypto/Pack.kt
+1593770380|Salomon BRYS|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/crypto/Pbkdf2.kt
+1593770380|Salomon BRYS|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/crypto/Ripemd160.kt
+1593770380|Salomon BRYS|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/crypto/Secp256k1.kt
+1593770380|Salomon BRYS|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/crypto/Sha1.kt
+1593770380|Salomon BRYS|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/crypto/Sha256.kt
+1593770380|Salomon BRYS|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/io/Input.kt
+1593770380|Salomon BRYS|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/CryptoTestsCommon.kt
+1593770380|Salomon BRYS|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/crypto/Ripemd160TestsCommon.kt
+1593770380|Salomon BRYS|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/crypto/Sha512TestsCommon.kt
+1593770380|Salomon BRYS|M|/bitcoin-kmp/src/iosMain/kotlin/fr/acinq/bitcoin/crypto/Secp256k1.kt
+1593770380|Salomon BRYS|D|/bitcoin-kmp/src/jvmMain/kotlin/fr/acinq/bitcoin/crypto/Secp256k1.kt
+1593770380|Salomon BRYS|M|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/BlockTestsJvm.kt
+1593770380|Salomon BRYS|A|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/crypto/Ripemd160TestsJvm.kt
+1593770380|Salomon BRYS|D|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/crypto/Sha256TestsJvm.kt
+1593770380|Salomon BRYS|A|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/crypto/Sha512TestsJvm.kt
+1593770380|Salomon BRYS|M|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/reference/Base58RerenceTestsJvm.kt
+1593770380|Salomon BRYS|D|/bitcoin-kmp/src/linuxMain/kotlin/fr/acinq/bitcoin/crypto/Secp256k1.kt
+1593770380|Salomon BRYS|D|/bitcoin-kmp/src/linuxTest/kotlin/fr/acinq/bitcoin/crypto/Secp256k1Test.kt
+1593770380|Salomon BRYS|D|/bitcoin-kmp/src/nativeInterop/cinterop/libsecp256k1.def
+1594038555|Salomon BRYS|A|/bitcoin-kmp/.github/workflows/release.yml
+1594038555|Salomon BRYS|M|/bitcoin-kmp/.github/workflows/snapshot.yml
+1594038555|Salomon BRYS|M|/bitcoin-kmp/.github/workflows/test.yml
+1594038555|Salomon BRYS|A|/bitcoin-kmp/LICENSE
+1594038555|Salomon BRYS|M|/bitcoin-kmp/build.gradle.kts
+1594043573|Salomon BRYS|M|/bitcoin-kmp/.github/workflows/test.yml
+1594636747|Salomon BRYS|M|/bitcoin-kmp/.github/workflows/release.yml
+1594636747|Salomon BRYS|M|/bitcoin-kmp/.github/workflows/snapshot.yml
+1594636747|Salomon BRYS|M|/bitcoin-kmp/.github/workflows/test.yml
+1594636747|Salomon BRYS|M|/bitcoin-kmp/README.md
+1594636747|Salomon BRYS|M|/bitcoin-kmp/build.gradle.kts
+1594636747|Salomon BRYS|M|/bitcoin-kmp/gradle.properties
+1594636747|Salomon BRYS|M|/bitcoin-kmp/gradle/wrapper/gradle-wrapper.properties
+1594636747|Salomon BRYS|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Bech32.kt
+1594636747|Salomon BRYS|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Block.kt
+1594636747|Salomon BRYS|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/BtcSerializer.kt
+1594636747|Salomon BRYS|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/ByteVector.kt
+1594636747|Salomon BRYS|D|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Hex.kt
+1594636747|Salomon BRYS|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/PrivateKey.kt
+1594636747|Salomon BRYS|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/PublicKey.kt
+1594636747|Salomon BRYS|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Script.kt
+1594636747|Salomon BRYS|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Transaction.kt
+1594636747|Salomon BRYS|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/UInt256.kt
+1594636747|Salomon BRYS|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/BIP49TestsCommon.kt
+1594636747|Salomon BRYS|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/BIP84TestsCommon.kt
+1594636747|Salomon BRYS|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/Bech32TestsCommon.kt
+1594636747|Salomon BRYS|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/CheckLockTimeVerifyTestsCommon.kt
+1594636747|Salomon BRYS|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/CryptoTestsCommon.kt
+1594636747|Salomon BRYS|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/DeterministicWalletTestsCommon.kt
+1594636747|Salomon BRYS|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/ScriptTestsCommon.kt
+1594636747|Salomon BRYS|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/SegwitTestsCommon.kt
+1594636747|Salomon BRYS|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/TransactionTestsCommon.kt
+1594636747|Salomon BRYS|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/crypto/Ripemd160TestsCommon.kt
+1594636747|Salomon BRYS|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/crypto/Sha1TestsCommon.kt
+1594636747|Salomon BRYS|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/crypto/Sha256TestsCommon.kt
+1594636747|Salomon BRYS|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/crypto/Sha512TestsCommon.kt
+1594636747|Salomon BRYS|D|/bitcoin-kmp/src/iosMain/kotlin/fr/acinq/bitcoin/crypto/Secp256k1.kt
+1594636747|Salomon BRYS|M|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/BlockTestsJvm.kt
+1594636747|Salomon BRYS|M|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/CryptoTestsJvm.kt
+1594636747|Salomon BRYS|M|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/DeterministicWalletTestsJvm.kt
+1594636747|Salomon BRYS|M|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/MnemonicCodeTestsJvm.kt
+1594636747|Salomon BRYS|M|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/TransactionTestsJvm.kt
+1594636747|Salomon BRYS|M|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/UInt256TestsJvm.kt
+1594636747|Salomon BRYS|M|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/crypto/HMacTestsJvm.kt
+1594636747|Salomon BRYS|M|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/crypto/Pkbdf2TestsJvm.kt
+1594636747|Salomon BRYS|M|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/crypto/Ripemd160TestsJvm.kt
+1594636747|Salomon BRYS|M|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/crypto/Sha512TestsJvm.kt
+1594636747|Salomon BRYS|M|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/reference/Base58RerenceTestsJvm.kt
+1594636747|Salomon BRYS|M|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/reference/KeyEncodingTestsJvm.kt
+1594636747|Salomon BRYS|M|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/reference/ScriptTestsJvm.kt
+1594636747|Salomon BRYS|M|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/reference/SigHashTestsJvm.kt
+1596456431|Romain Boisselle|M|/bitcoin-kmp/build.gradle.kts
+1596701423|Salomon BRYS|M|/bitcoin-kmp/build.gradle.kts
+1596701423|Salomon BRYS|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Block.kt
+1596701423|Salomon BRYS|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/ByteVector.kt
+1596701423|Salomon BRYS|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/DeterministicWallet.kt
+1596701423|Salomon BRYS|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/PrivateKey.kt
+1596701423|Salomon BRYS|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/PublicKey.kt
+1596701423|Salomon BRYS|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Satoshi.kt
+1596701423|Salomon BRYS|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Transaction.kt
+1596701423|Salomon BRYS|A|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/ByteVectorTestsCommon.kt
+1596734500|Salomon BRYS|M|/bitcoin-kmp/build.gradle.kts
+1596734500|Salomon BRYS|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Block.kt
+1596734500|Salomon BRYS|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/ByteVector.kt
+1596734500|Salomon BRYS|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/DeterministicWallet.kt
+1596734500|Salomon BRYS|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/PrivateKey.kt
+1596734500|Salomon BRYS|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/PublicKey.kt
+1596734500|Salomon BRYS|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Satoshi.kt
+1596734500|Salomon BRYS|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Transaction.kt
+1597661644|sstone|M|/bitcoin-kmp/build.gradle.kts
+1597739862|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Bech32.kt
+1597745082|Salomon BRYS|M|/bitcoin-kmp/build.gradle.kts
+1597745082|Salomon BRYS|M|/bitcoin-kmp/gradle/wrapper/gradle-wrapper.properties
+1597745082|Salomon BRYS|M|/bitcoin-kmp/settings.gradle.kts
+1599555957|Fabrice Drouin|M|/bitcoin-kmp/README.md
+1599555957|Fabrice Drouin|M|/bitcoin-kmp/build.gradle.kts
+1599555957|Fabrice Drouin|M|/bitcoin-kmp/settings.gradle.kts
+1599647751|Salomon BRYS|M|/bitcoin-kmp/build.gradle.kts
+1600261064|sstone|M|/bitcoin-kmp/build.gradle.kts
+1606233129|Fabrice Drouin|M|/bitcoin-kmp/build.gradle.kts
+1606233129|Fabrice Drouin|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/BtcSerializer.kt
+1606233129|Fabrice Drouin|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/ByteVector.kt
+1606233129|Fabrice Drouin|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Crypto.kt
+1606233129|Fabrice Drouin|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/MnemonicCode.kt
+1606233129|Fabrice Drouin|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Script.kt
+1606233129|Fabrice Drouin|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/ScriptFlags.kt
+1606233129|Fabrice Drouin|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/crypto/Pack.kt
+1606233129|Fabrice Drouin|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/crypto/Sha512.kt
+1606233129|Fabrice Drouin|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/BIP49TestsCommon.kt
+1606233129|Fabrice Drouin|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/BIP84TestsCommon.kt
+1606233129|Fabrice Drouin|A|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/BlockTestsCommon.kt
+1606233129|Fabrice Drouin|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/ByteVectorTestsCommon.kt
+1606233129|Fabrice Drouin|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/CheckLockTimeVerifyTestsCommon.kt
+1606233129|Fabrice Drouin|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/CryptoTestsCommon.kt
+1606233129|Fabrice Drouin|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/LexicographicalOrderingTestsCommon.kt
+1606233129|Fabrice Drouin|A|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/MnemonicCodeTestsCommon.kt
+1606233129|Fabrice Drouin|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/PuzzleTestsCommon.kt
+1606233129|Fabrice Drouin|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/TransactionTestsCommon.kt
+1606233129|Fabrice Drouin|A|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/UInt256TestsCommon.kt
+1606233129|Fabrice Drouin|A|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/crypto/HMacTestsCommon.kt
+1606233129|Fabrice Drouin|A|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/crypto/Pkbdf2TestsCommon.kt
+1606233129|Fabrice Drouin|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/crypto/Ripemd160TestsCommon.kt
+1606233129|Fabrice Drouin|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/crypto/Sha512TestsCommon.kt
+1606233129|Fabrice Drouin|A|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/reference/Base58RerenceTestsCommon.kt
+1606233129|Fabrice Drouin|A|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/reference/KeyEncodingTestsCommon.kt
+1606233129|Fabrice Drouin|A|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/reference/ScriptTestsCommon.kt
+1606233129|Fabrice Drouin|A|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/reference/SigHashTestsCommon.kt
+1606233129|Fabrice Drouin|A|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/reference/TransactionTestsCommon.kt
+1606233129|Fabrice Drouin|A|/bitcoin-kmp/src/commonTest/resources/bip39_vectors.json
+1606233129|Fabrice Drouin|A|/bitcoin-kmp/src/commonTest/resources/block1.dat
+1606233129|Fabrice Drouin|A|/bitcoin-kmp/src/commonTest/resources/data/base58_encode_decode.json
+1606233129|Fabrice Drouin|A|/bitcoin-kmp/src/commonTest/resources/data/base58_keys_valid.json
+1606233129|Fabrice Drouin|A|/bitcoin-kmp/src/commonTest/resources/data/key_io_invalid.json
+1606233129|Fabrice Drouin|A|/bitcoin-kmp/src/commonTest/resources/data/key_io_valid.json
+1606233129|Fabrice Drouin|A|/bitcoin-kmp/src/commonTest/resources/data/script_tests.json
+1606233129|Fabrice Drouin|A|/bitcoin-kmp/src/commonTest/resources/data/sighash.json
+1606233129|Fabrice Drouin|A|/bitcoin-kmp/src/commonTest/resources/data/tx_invalid.json
+1606233129|Fabrice Drouin|A|/bitcoin-kmp/src/commonTest/resources/data/tx_valid.json
+1606233129|Fabrice Drouin|A|/bitcoin-kmp/src/commonTest/resources/recid.txt
+1606233129|Fabrice Drouin|M|/bitcoin-kmp/src/jvmMain/kotlin/fr/acinq/bitcoin/io/OutputStreamOutput.kt
+1606233129|Fabrice Drouin|D|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/BlockTestsJvm.kt
+1606233129|Fabrice Drouin|M|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/CryptoTestsJvm.kt
+1606233129|Fabrice Drouin|D|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/MnemonicCodeTestsJvm.kt
+1606233129|Fabrice Drouin|D|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/UInt256TestsJvm.kt
+1606233129|Fabrice Drouin|D|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/crypto/HMacTestsJvm.kt
+1606233129|Fabrice Drouin|D|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/crypto/Pkbdf2TestsJvm.kt
+1606233129|Fabrice Drouin|M|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/crypto/Sha512TestsJvm.kt
+1606233129|Fabrice Drouin|D|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/reference/Base58RerenceTestsJvm.kt
+1606233129|Fabrice Drouin|D|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/reference/KeyEncodingTestsJvm.kt
+1606233129|Fabrice Drouin|D|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/reference/ScriptTestsJvm.kt
+1606233129|Fabrice Drouin|D|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/reference/SigHashTestsJvm.kt
+1606233129|Fabrice Drouin|D|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/reference/TransactionTestsJvm.kt
+1606233129|Fabrice Drouin|D|/bitcoin-kmp/src/jvmTest/resources/bip39_vectors.json
+1606233129|Fabrice Drouin|D|/bitcoin-kmp/src/jvmTest/resources/block1.dat
+1606233129|Fabrice Drouin|D|/bitcoin-kmp/src/jvmTest/resources/data/base58_encode_decode.json
+1606233129|Fabrice Drouin|D|/bitcoin-kmp/src/jvmTest/resources/data/base58_keys_valid.json
+1606233129|Fabrice Drouin|D|/bitcoin-kmp/src/jvmTest/resources/data/key_io_invalid.json
+1606233129|Fabrice Drouin|D|/bitcoin-kmp/src/jvmTest/resources/data/key_io_valid.json
+1606233129|Fabrice Drouin|D|/bitcoin-kmp/src/jvmTest/resources/data/script_tests.json
+1606233129|Fabrice Drouin|D|/bitcoin-kmp/src/jvmTest/resources/data/sighash.json
+1606233129|Fabrice Drouin|D|/bitcoin-kmp/src/jvmTest/resources/data/tx_invalid.json
+1606233129|Fabrice Drouin|D|/bitcoin-kmp/src/jvmTest/resources/data/tx_valid.json
+1606233129|Fabrice Drouin|D|/bitcoin-kmp/src/jvmTest/resources/recid.txt
+1615987300|Salomon BRYS|M|/bitcoin-kmp/build.gradle.kts
+1615987300|Salomon BRYS|M|/bitcoin-kmp/gradle/wrapper/gradle-wrapper.properties
+1615987300|Salomon BRYS|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Crypto.kt
+1615987300|Salomon BRYS|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/MnemonicCode.kt
+1615987300|Salomon BRYS|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/crypto/Digest.kt
+1615987300|Salomon BRYS|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/crypto/HMac.kt
+1615987300|Salomon BRYS|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/crypto/Pbkdf2.kt
+1615987300|Salomon BRYS|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/crypto/Ripemd160.kt
+1615987300|Salomon BRYS|D|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/crypto/Secp256k1.kt
+1615987300|Salomon BRYS|D|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/crypto/Sha1.kt
+1615987300|Salomon BRYS|D|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/crypto/Sha256.kt
+1615987300|Salomon BRYS|D|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/crypto/Sha512.kt
+1615987300|Salomon BRYS|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/BIP84TestsCommon.kt
+1615987300|Salomon BRYS|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/SigHashTestsCommon.kt
+1615987300|Salomon BRYS|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/crypto/Pkbdf2TestsCommon.kt
+1615987300|Salomon BRYS|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/crypto/Ripemd160TestsCommon.kt
+1615987300|Salomon BRYS|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/crypto/Sha1TestsCommon.kt
+1615987300|Salomon BRYS|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/crypto/Sha256TestsCommon.kt
+1615987300|Salomon BRYS|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/crypto/Sha512TestsCommon.kt
+1615987300|Salomon BRYS|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/reference/SigHashTestsCommon.kt
+1615987300|Salomon BRYS|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/reference/TransactionTestsCommon.kt
+1615987300|Salomon BRYS|A|/bitcoin-kmp/src/iosMain/kotlin/fr/acinq/bitcoin/crypto/DigestIos.kt
+1615987300|Salomon BRYS|A|/bitcoin-kmp/src/iosMain/kotlin/fr/acinq/bitcoin/crypto/pbkdf2Ios.kt
+1615987300|Salomon BRYS|A|/bitcoin-kmp/src/jvmMain/kotlin/fr/acinq/bitcoin/crypto/DigestJvm.kt
+1615987300|Salomon BRYS|A|/bitcoin-kmp/src/jvmMain/kotlin/fr/acinq/bitcoin/crypto/pbkdf2Jvm.kt
+1615987300|Salomon BRYS|A|/bitcoin-kmp/src/jvmTest/java/fr/acinq/bitcoin/crypto/CryptoJavaTests.java
+1615987300|Salomon BRYS|A|/bitcoin-kmp/src/jvmTest/java/fr/acinq/bitcoin/crypto/Pbkdf2JavaTests.java
+1615987300|Salomon BRYS|M|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/crypto/Sha512TestsJvm.kt
+1615987300|Salomon BRYS|A|/bitcoin-kmp/src/linuxMain/kotlin/fr/acinq/bitcoin/crypto/DigestLinux.kt
+1615987300|Salomon BRYS|A|/bitcoin-kmp/src/linuxMain/kotlin/fr/acinq/bitcoin/crypto/Sha1Linux.kt
+1615987300|Salomon BRYS|A|/bitcoin-kmp/src/linuxMain/kotlin/fr/acinq/bitcoin/crypto/Sha256Linux.kt
+1615987300|Salomon BRYS|A|/bitcoin-kmp/src/linuxMain/kotlin/fr/acinq/bitcoin/crypto/Sha512Linux.kt
+1615987300|Salomon BRYS|A|/bitcoin-kmp/src/linuxMain/kotlin/fr/acinq/bitcoin/crypto/pbkdf2Linux.kt
+1615987300|Salomon BRYS|A|/bitcoin-kmp/src/nativeInterop/cinterop/CoreCrypto.def
+1615990893|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/ByteVector.kt
+1615991215|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/DeterministicWallet.kt
+1615991424|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Bitcoin.kt
+1615991424|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/DeterministicWallet.kt
+1615991424|sstone|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/PublicKey.kt
+1615991424|sstone|A|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/DeriveWalletKeysTestsCommon.kt
+1616148310|Romain Boisselle|M|/bitcoin-kmp/.github/workflows/release.yml
+1616148310|Romain Boisselle|M|/bitcoin-kmp/.github/workflows/snapshot.yml
+1616148310|Romain Boisselle|M|/bitcoin-kmp/.github/workflows/test.yml
+1616148310|Romain Boisselle|M|/bitcoin-kmp/build.gradle.kts
+1616512533|Fabrice Drouin|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Bitcoin.kt
+1616512533|Fabrice Drouin|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/BIP49TestsCommon.kt
+1616512533|Fabrice Drouin|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/BIP84TestsCommon.kt
+1616512533|Fabrice Drouin|A|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/BitcoinTestsCommon.kt
+1616512533|Fabrice Drouin|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/DeriveWalletKeysTestsCommon.kt
+1616688427|Fabrice Drouin|M|/bitcoin-kmp/build.gradle.kts
+1616710212|sstone|M|/bitcoin-kmp/build.gradle.kts
+1616773312|Fabrice Drouin|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Block.kt
+1616773312|Fabrice Drouin|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Crypto.kt
+1616773312|Fabrice Drouin|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/DeterministicWallet.kt
+1616773312|Fabrice Drouin|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/LexicographicalOrdering.kt
+1616773312|Fabrice Drouin|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/MnemonicCode.kt
+1616773312|Fabrice Drouin|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/PrivateKey.kt
+1616773312|Fabrice Drouin|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/PublicKey.kt
+1616773312|Fabrice Drouin|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Script.kt
+1616773312|Fabrice Drouin|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/ScriptElt.kt
+1616773312|Fabrice Drouin|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Transaction.kt
+1616773312|Fabrice Drouin|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/UInt256.kt
+1616773312|Fabrice Drouin|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/ByteVectorTestsCommon.kt
+1616773312|Fabrice Drouin|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/CheckLockTimeVerifyTestsCommon.kt
+1616773312|Fabrice Drouin|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/CryptoTestsCommon.kt
+1616773312|Fabrice Drouin|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/MnemonicCodeTestsCommon.kt
+1616773312|Fabrice Drouin|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/SegwitTestsCommon.kt
+1616773312|Fabrice Drouin|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/SigHashTestsCommon.kt
+1616773312|Fabrice Drouin|A|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/reference/Base58ReferenceTestsCommon.kt
+1616773312|Fabrice Drouin|D|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/reference/Base58RerenceTestsCommon.kt
+1616773312|Fabrice Drouin|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/reference/ScriptTestsCommon.kt
+1616773312|Fabrice Drouin|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/reference/TransactionTestsCommon.kt
+1616773312|Fabrice Drouin|M|/bitcoin-kmp/src/jvmTest/kotlin/fr/acinq/bitcoin/TransactionTestsJvm.kt
+1616777301|Fabrice Drouin|M|/bitcoin-kmp/build.gradle.kts
+1616796808|Fabrice Drouin|M|/bitcoin-kmp/README.md
+1622018676|t-bast|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/LexicographicalOrdering.kt
+1622018676|t-bast|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/LexicographicalOrderingTestsCommon.kt
+1622111353|Bastien Teinturier|M|/bitcoin-kmp/README.md
+1622111353|Bastien Teinturier|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/BtcSerializer.kt
+1622111353|Bastien Teinturier|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/ByteVector.kt
+1622111353|Bastien Teinturier|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/DeterministicWallet.kt
+1622111353|Bastien Teinturier|A|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Psbt.kt
+1622111353|Bastien Teinturier|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Satoshi.kt
+1622111353|Bastien Teinturier|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Script.kt
+1622111353|Bastien Teinturier|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Transaction.kt
+1622111353|Bastien Teinturier|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/io/Input.kt
+1622111353|Bastien Teinturier|A|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/utils/Either.kt
+1622111353|Bastien Teinturier|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/ByteVectorTestsCommon.kt
+1622111353|Bastien Teinturier|A|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/PsbtTestsCommon.kt
+1622111353|Bastien Teinturier|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/TransactionTestsCommon.kt
+1623244810|Bastien Teinturier|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Psbt.kt
+1623244810|Bastien Teinturier|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/crypto/Pack.kt
+1623244810|Bastien Teinturier|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/io/Input.kt
+1623678383|Bastien Teinturier|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/DeterministicWalletTestsCommon.kt
+1624980645|Bastien Teinturier|M|/bitcoin-kmp/README.md
+1624980645|Bastien Teinturier|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Bech32.kt
+1624980645|Bastien Teinturier|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/Bech32TestsCommon.kt
+1624980645|Bastien Teinturier|M|/bitcoin-kmp/src/commonTest/resources/data/key_io_valid.json
+1625043700|Fabrice Drouin|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Transaction.kt
+1625043700|Fabrice Drouin|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/TransactionTestsCommon.kt
+1625149969|Fabrice Drouin|M|/bitcoin-kmp/build.gradle.kts
+1625167896|Fabrice Drouin|M|/bitcoin-kmp/build.gradle.kts
+1632326497|Fabrice Drouin|M|/bitcoin-kmp/build.gradle.kts
+1632326497|Fabrice Drouin|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Base58.kt
+1632326497|Fabrice Drouin|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/Bech32.kt
+1632326497|Fabrice Drouin|M|/bitcoin-kmp/src/commonMain/kotlin/fr/acinq/bitcoin/BtcSerializer.kt
+1632326497|Fabrice Drouin|M|/bitcoin-kmp/src/commonTest/kotlin/fr/acinq/bitcoin/Bech32TestsCommon.kt
+1632326497|Fabrice Drouin|M|/bitcoin-kmp/src/jvmMain/kotlin/fr/acinq/bitcoin/crypto/pbkdf2Jvm.kt
+1632327236|Fabrice Drouin|M|/bitcoin-kmp/build.gradle.kts
+1632386402|Fabrice Drouin|M|/bitcoin-kmp/README.md
+1632398637|sstone|M|/bitcoin-kmp/build.gradle.kts

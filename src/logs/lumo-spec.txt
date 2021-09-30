@@ -1,0 +1,14 @@
+1583870880|Evan Feenstra|A|/lumo-spec/.gitignore
+1583870880|Evan Feenstra|A|/lumo-spec/interfaces.ts
+1583870880|Evan Feenstra|A|/lumo-spec/mediaToken/spec.md
+1583870880|Evan Feenstra|A|/lumo-spec/spec.md
+1583870880|Evan Feenstra|A|/lumo-spec/type.md
+1583871296|Evan Feenstra|M|/lumo-spec/interfaces.ts
+1585326932|Evan Feenstra|A|/lumo-spec/README.md
+1585326932|Evan Feenstra|D|/lumo-spec/spec.md
+1588269891|Evan Feenstra|M|/lumo-spec/README.md
+1588269891|Evan Feenstra|A|/lumo-spec/mediaToken.md
+1588269891|Evan Feenstra|D|/lumo-spec/mediaToken/spec.md
+1588358487|Evan Feenstra|M|/lumo-spec/README.md
+1591747401|Evan Feenstra|M|/lumo-spec/interfaces.ts
+1607538755|Evan Feenstra|M|/lumo-spec/interfaces.ts

@@ -1,0 +1,230 @@
+1592333287|Olaoluwa Osuntokun|A|/lndclient/.gitignore
+1592333287|Olaoluwa Osuntokun|A|/lndclient/LICENSE
+1592424386|Joost Jager|A|/lndclient/chainnotifier_client.go
+1592424386|Joost Jager|A|/lndclient/invoices_client.go
+1592424386|Joost Jager|A|/lndclient/lightning_client.go
+1592424386|Joost Jager|A|/lndclient/lnd_services.go
+1592424386|Joost Jager|A|/lndclient/log.go
+1592424386|Joost Jager|A|/lndclient/signer_client.go
+1592424386|Joost Jager|A|/lndclient/walletkit_client.go
+1592424386|Olaoluwa Osuntokun|M|/lndclient/chainnotifier_client.go
+1592424386|Olaoluwa Osuntokun|M|/lndclient/lnd_services.go
+1592424386|Olaoluwa Osuntokun|M|/lndclient/signer_client.go
+1592424386|Olaoluwa Osuntokun|M|/lndclient/walletkit_client.go
+1592424386|Olaoluwa Osuntokun|M|/lndclient/chainnotifier_client.go
+1592424386|Olaoluwa Osuntokun|M|/lndclient/lnd_services.go
+1592424386|Olaoluwa Osuntokun|M|/lndclient/signer_client.go
+1592424386|Olaoluwa Osuntokun|M|/lndclient/walletkit_client.go
+1592424386|Joost Jager|M|/lndclient/lnd_services.go
+1592424386|Olaoluwa Osuntokun|M|/lndclient/invoices_client.go
+1592424386|Olaoluwa Osuntokun|M|/lndclient/lightning_client.go
+1592424386|Joost Jager|M|/lndclient/chainnotifier_client.go
+1592424386|Joost Jager|M|/lndclient/invoices_client.go
+1592424386|Joost Jager|M|/lndclient/lightning_client.go
+1592424386|Olaoluwa Osuntokun|M|/lndclient/lnd_services.go
+1592424386|Olaoluwa Osuntokun|A|/lndclient/macaroon_pouch.go
+1592424386|Olaoluwa Osuntokun|M|/lndclient/lnd_services.go
+1592424386|Olaoluwa Osuntokun|M|/lndclient/chainnotifier_client.go
+1592424386|Olaoluwa Osuntokun|M|/lndclient/invoices_client.go
+1592424386|Olaoluwa Osuntokun|M|/lndclient/lightning_client.go
+1592424386|Olaoluwa Osuntokun|M|/lndclient/lnd_services.go
+1592424386|Olaoluwa Osuntokun|M|/lndclient/signer_client.go
+1592424386|Olaoluwa Osuntokun|M|/lndclient/walletkit_client.go
+1592424386|Olaoluwa Osuntokun|M|/lndclient/lnd_services.go
+1592424386|Olaoluwa Osuntokun|A|/lndclient/basic_client.go
+1592424386|Olaoluwa Osuntokun|M|/lndclient/basic_client.go
+1592424386|Valentine Wallace|M|/lndclient/basic_client.go
+1592424386|Valentine Wallace|M|/lndclient/lnd_services.go
+1592424386|Joost Jager|M|/lndclient/invoices_client.go
+1592424386|Joost Jager|M|/lndclient/lightning_client.go
+1592424386|Joost Jager|M|/lndclient/lnd_services.go
+1592424386|Joost Jager|M|/lndclient/macaroon_pouch.go
+1592424386|Joost Jager|A|/lndclient/router_client.go
+1592424386|Valentine Wallace|M|/lndclient/basic_client.go
+1592424386|Oliver Gugger|M|/lndclient/invoices_client.go
+1592424386|Oliver Gugger|M|/lndclient/log.go
+1592424386|Oliver Gugger|M|/lndclient/router_client.go
+1592424386|Oliver Gugger|M|/lndclient/lightning_client.go
+1592424386|Oliver Gugger|M|/lndclient/lnd_services.go
+1592424386|Oliver Gugger|M|/lndclient/log.go
+1592424386|Oliver Gugger|M|/lndclient/lnd_services.go
+1592424386|Wilmer Paulino|M|/lndclient/walletkit_client.go
+1592424386|Joost Jager|M|/lndclient/router_client.go
+1592424386|Oliver Gugger|M|/lndclient/invoices_client.go
+1592424386|Oliver Gugger|M|/lndclient/lightning_client.go
+1592424386|Oliver Gugger|M|/lndclient/invoices_client.go
+1592424386|Oliver Gugger|M|/lndclient/lightning_client.go
+1592424386|Oliver Gugger|M|/lndclient/lightning_client.go
+1592424386|Oliver Gugger|M|/lndclient/signer_client.go
+1592424386|Oliver Gugger|M|/lndclient/signer_client.go
+1592424386|Wilmer Paulino|M|/lndclient/lightning_client.go
+1592424386|Johan T. Halseth|M|/lndclient/basic_client.go
+1592424386|Johan T. Halseth|M|/lndclient/lnd_services.go
+1592424386|Johan T. Halseth|M|/lndclient/lnd_services.go
+1592424386|Wilmer Paulino|M|/lndclient/signer_client.go
+1592424386|Wilmer Paulino|M|/lndclient/lightning_client.go
+1592424386|Joost Jager|M|/lndclient/router_client.go
+1592424386|Wilmer Paulino|M|/lndclient/signer_client.go
+1592424386|Joost Jager|M|/lndclient/router_client.go
+1592424386|Joost Jager|M|/lndclient/router_client.go
+1592424386|Joost Jager|M|/lndclient/router_client.go
+1592424386|Joost Jager|M|/lndclient/router_client.go
+1592424386|Oliver Gugger|M|/lndclient/lnd_services.go
+1592424386|Oliver Gugger|M|/lndclient/macaroon_pouch.go
+1592424386|Oliver Gugger|M|/lndclient/lnd_services.go
+1592424386|Oliver Gugger|M|/lndclient/lnd_services.go
+1592424386|Oliver Gugger|A|/lndclient/versioner_client.go
+1592424386|Oliver Gugger|M|/lndclient/lnd_services.go
+1592424386|Oliver Gugger|M|/lndclient/lnd_services.go
+1592424386|Oliver Gugger|A|/lndclient/lnd_services_test.go
+1592424386|Joost Jager|M|/lndclient/router_client.go
+1592424386|Joost Jager|M|/lndclient/router_client.go
+1592424386|carla|M|/lndclient/lightning_client.go
+1592424386|carla|M|/lndclient/lightning_client.go
+1592424386|Joost Jager|M|/lndclient/lnd_services.go
+1592424386|Joost Jager|M|/lndclient/router_client.go
+1592424386|Joost Jager|M|/lndclient/router_client.go
+1592424386|Andras Banki-Horvath|M|/lndclient/lightning_client.go
+1592424386|Andras Banki-Horvath|M|/lndclient/router_client.go
+1592424386|Olaoluwa Osuntokun|M|/lndclient/lnd_services.go
+1592424386|Andras Banki-Horvath|M|/lndclient/router_client.go
+1592424386|carla|M|/lndclient/router_client.go
+1592424386|Joost Jager|M|/lndclient/lnd_services.go
+1592424386|Wilmer Paulino|M|/lndclient/walletkit_client.go
+1592424386|carla|M|/lndclient/lightning_client.go
+1592424386|carla|M|/lndclient/lightning_client.go
+1592424386|carla|M|/lndclient/lightning_client.go
+1592424386|carla|M|/lndclient/lightning_client.go
+1592424386|carla|M|/lndclient/lightning_client.go
+1592424386|carla|M|/lndclient/lightning_client.go
+1592424386|carla|M|/lndclient/walletkit_client.go
+1592424386|Joost Jager|M|/lndclient/basic_client.go
+1592425700|Joost Jager|A|/lndclient/go.mod
+1592425700|Joost Jager|A|/lndclient/go.sum
+1592477903|Joost Jager|M|/lndclient/chainnotifier_client.go
+1592477903|Joost Jager|M|/lndclient/go.mod
+1592477903|Joost Jager|M|/lndclient/go.sum
+1592477903|Joost Jager|M|/lndclient/lnd_services.go
+1592477903|Joost Jager|A|/lndclient/network.go
+1592477903|Joost Jager|M|/lndclient/signer_client.go
+1592477903|Joost Jager|A|/lndclient/tx_utils.go
+1592477903|Joost Jager|M|/lndclient/walletkit_client.go
+1592813135|carla|M|/lndclient/lightning_client.go
+1592903470|carla|M|/lndclient/lightning_client.go
+1592903471|carla|M|/lndclient/lightning_client.go
+1594189410|Joost Jager|M|/lndclient/signer_client.go
+1595231196|carla|M|/lndclient/lightning_client.go
+1595231290|carla|M|/lndclient/lightning_client.go
+1595231293|carla|M|/lndclient/router_client.go
+1596437005|carla|M|/lndclient/lightning_client.go
+1596437042|carla|M|/lndclient/lightning_client.go
+1596437062|carla|M|/lndclient/lightning_client.go
+1596437062|carla|M|/lndclient/tx_utils.go
+1596437120|carla|M|/lndclient/go.mod
+1596437120|carla|M|/lndclient/go.sum
+1596437120|carla|M|/lndclient/lnd_services.go
+1597048728|Oliver Gugger|M|/lndclient/go.mod
+1597048728|Oliver Gugger|M|/lndclient/go.sum
+1597072276|Oliver Gugger|M|/lndclient/lnd_services.go
+1598484559|Wilmer Paulino|M|/lndclient/walletkit_client.go
+1598858035|Joost Jager|M|/lndclient/go.mod
+1598858035|Joost Jager|M|/lndclient/go.sum
+1598866055|Joost Jager|A|/lndclient/.github/workflows/main.yml
+1599652444|Juan Ignacio Donoso|M|/lndclient/lightning_client.go
+1599837760|Andras Banki-Horvath|M|/lndclient/router_client.go
+1601644264|Andras Banki-Horvath|M|/lndclient/lightning_client.go
+1601652961|Andras Banki-Horvath|M|/lndclient/lightning_client.go
+1601925902|Olaoluwa Osuntokun|M|/lndclient/walletkit_client.go
+1602251220|Andras Banki-Horvath|M|/lndclient/lightning_client.go
+1602510678|Andras Banki-Horvath|M|/lndclient/lightning_client.go
+1602666976|Andras Banki-Horvath|M|/lndclient/lightning_client.go
+1602847727|Andras Banki-Horvath|M|/lndclient/lightning_client.go
+1603184744|carla|M|/lndclient/lightning_client.go
+1603184745|carla|M|/lndclient/lightning_client.go
+1603184746|carla|M|/lndclient/lightning_client.go
+1603186866|carla|M|/lndclient/lightning_client.go
+1604306923|carla|M|/lndclient/lightning_client.go
+1604307015|carla|M|/lndclient/lightning_client.go
+1604404030|carla|M|/lndclient/lightning_client.go
+1604404030|carla|M|/lndclient/lightning_client.go
+1604404031|carla|M|/lndclient/lightning_client.go
+1604404032|carla|M|/lndclient/lightning_client.go
+1604404033|carla|M|/lndclient/lightning_client.go
+1604404034|carla|M|/lndclient/lightning_client.go
+1604404035|carla|M|/lndclient/lightning_client.go
+1604404893|carla|M|/lndclient/lightning_client.go
+1604591672|Andras Banki-Horvath|M|/lndclient/lightning_client.go
+1605515413|carla|M|/lndclient/router_client.go
+1605542389|Oliver Gugger|M|/lndclient/lnd_services.go
+1605542389|Oliver Gugger|M|/lndclient/macaroon_pouch.go
+1605542399|Oliver Gugger|M|/lndclient/lnd_services.go
+1606819708|Stephane Bres|M|/lndclient/lightning_client.go
+1607013885|Andras Banki-Horvath|M|/lndclient/lightning_client.go
+1607101717|Andras Banki-Horvath|M|/lndclient/lightning_client.go
+1607893955|Andras Banki-Horvath|M|/lndclient/lightning_client.go
+1607930559|carla|M|/lndclient/lightning_client.go
+1608026208|Oliver Gugger|A|/lndclient/.github/pull_request_template.md
+1608026208|Oliver Gugger|A|/lndclient/README.md
+1609856216|carla|M|/lndclient/lnd_services.go
+1609856235|carla|M|/lndclient/lnd_services.go
+1610371300|carla|M|/lndclient/go.mod
+1610371300|carla|M|/lndclient/lightning_client.go
+1610371300|carla|M|/lndclient/lnd_services.go
+1610371300|carla|M|/lndclient/lnd_services_test.go
+1610373821|Oliver Gugger|M|/lndclient/README.md
+1612741204|Stephane Bres|M|/lndclient/lightning_client.go
+1614092069|Andras Banki-Horvath|M|/lndclient/lightning_client.go
+1616423658|Andras Banki-Horvath|M|/lndclient/lnd_services.go
+1619190307|Andras Banki-Horvath|M|/lndclient/router_client.go
+1620287571|carla|M|/lndclient/chainnotifier_client.go
+1620287571|carla|M|/lndclient/invoices_client.go
+1620287571|carla|M|/lndclient/lightning_client.go
+1620287571|carla|M|/lndclient/lnd_services.go
+1620287571|carla|M|/lndclient/router_client.go
+1620287571|carla|M|/lndclient/signer_client.go
+1620287571|carla|M|/lndclient/versioner_client.go
+1620287571|carla|M|/lndclient/walletkit_client.go
+1620719668|carla|M|/lndclient/lnd_services.go
+1620738875|carla|M|/lndclient/router_client.go
+1621250577|Oliver Gugger|M|/lndclient/invoices_client.go
+1621250577|Oliver Gugger|M|/lndclient/signer_client.go
+1621250903|Oliver Gugger|A|/lndclient/Makefile
+1621251034|Oliver Gugger|A|/lndclient/.golangci.yml
+1621251034|Oliver Gugger|M|/lndclient/chainnotifier_client.go
+1621251034|Oliver Gugger|M|/lndclient/lightning_client.go
+1621251034|Oliver Gugger|M|/lndclient/walletkit_client.go
+1621254358|Oliver Gugger|M|/lndclient/.github/workflows/main.yml
+1621254358|Oliver Gugger|M|/lndclient/go.mod
+1621254880|Oliver Gugger|M|/lndclient/go.mod
+1621254880|Oliver Gugger|M|/lndclient/go.sum
+1621254880|Oliver Gugger|M|/lndclient/lnd_services.go
+1621255115|Oliver Gugger|M|/lndclient/lightning_client.go
+1621255119|Oliver Gugger|A|/lndclient/macaroon_recipes.go
+1621255195|Oliver Gugger|A|/lndclient/macaroon_recipes_test.go
+1621255195|Oliver Gugger|A|/lndclient/testdata/permissions.json
+1621255195|Oliver Gugger|M|/lndclient/.github/pull_request_template.md
+1621255195|Oliver Gugger|M|/lndclient/Makefile
+1621255195|Andras Banki-Horvath|M|/lndclient/lightning_client.go
+1621255196|Andras Banki-Horvath|M|/lndclient/macaroon_recipes.go
+1621255318|Oliver Gugger|M|/lndclient/README.md
+1621425712|Oliver Gugger|M|/lndclient/lnd_services.go
+1622018816|Andras Banki-Horvath|M|/lndclient/lightning_client.go
+1622018899|Andras Banki-Horvath|M|/lndclient/lightning_client.go
+1622711701|Andras Banki-Horvath|M|/lndclient/router_client.go
+1623052846|carla|M|/lndclient/invoices_client.go
+1628082336|carla|M|/lndclient/lightning_client.go
+1628579273|carla|M|/lndclient/go.mod
+1628579273|carla|M|/lndclient/go.sum
+1628579273|carla|M|/lndclient/lnd_services.go
+1628579274|carla|M|/lndclient/lightning_client.go
+1628579275|Andras Banki-Horvath|M|/lndclient/lightning_client.go
+1628579276|Oliver Gugger|M|/lndclient/go.mod
+1628579276|Oliver Gugger|M|/lndclient/go.sum
+1628579276|Oliver Gugger|M|/lndclient/lnd_services.go
+1629277971|Stephane Bres|M|/lndclient/lightning_client.go
+1630354322|Harsha Goli|M|/lndclient/lightning_client.go
+1630428537|carla|M|/lndclient/lightning_client.go
+1630485472|carla|M|/lndclient/lightning_client.go
+1631518135|carla|M|/lndclient/lnd_services.go
+1631518135|carla|M|/lndclient/macaroon_recipes.go
+1631518135|carla|M|/lndclient/router_client.go

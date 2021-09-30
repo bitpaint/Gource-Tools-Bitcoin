@@ -1,0 +1,1071 @@
+1412258482|sstone|A|/bitcoin-lib/.gitignore
+1412258482|sstone|A|/bitcoin-lib/LICENSE
+1412258482|sstone|A|/bitcoin-lib/README.md
+1412261533|sstone|M|/bitcoin-lib/.gitignore
+1412261533|sstone|M|/bitcoin-lib/LICENSE
+1412261533|sstone|A|/bitcoin-lib/pom.xml
+1412261533|sstone|A|/bitcoin-lib/src/main/java/org/bitcoin/protocols/payments/Protos.java
+1412261533|sstone|A|/bitcoin-lib/src/main/protobuf/paymentrequest.proto
+1412261533|sstone|A|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Base58.scala
+1412261533|sstone|A|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Cli.scala
+1412261533|sstone|A|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Crypto.scala
+1412261533|sstone|A|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/DeterministicWallet.scala
+1412261533|sstone|A|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Json.scala
+1412261533|sstone|A|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/MakePay2PKTransaction.scala
+1412261533|sstone|A|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/PaymentProtocol.scala
+1412261533|sstone|A|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Protocol.scala
+1412261533|sstone|A|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/ReadBlockChain.scala
+1412261533|sstone|A|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Script.scala
+1412261533|sstone|A|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/ScriptElt.scala
+1412261533|sstone|A|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/package.scala
+1412261533|sstone|A|/bitcoin-lib/src/test/resources/block1.dat
+1412261533|sstone|A|/bitcoin-lib/src/test/resources/cacert.pem
+1412261533|sstone|A|/bitcoin-lib/src/test/resources/cacerts
+1412261533|sstone|A|/bitcoin-lib/src/test/resources/cakey.pem
+1412261533|sstone|A|/bitcoin-lib/src/test/resources/logback-test.xml
+1412261533|sstone|A|/bitcoin-lib/src/test/resources/r1411736682.bitcoinpaymentrequest
+1412261533|sstone|A|/bitcoin-lib/src/test/resources/servercert.pem
+1412261533|sstone|A|/bitcoin-lib/src/test/resources/serverkey.pem
+1412261533|sstone|A|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/Base58Spec.scala
+1412261533|sstone|A|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/CryptoSpec.scala
+1412261533|sstone|A|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/DeterministicWalletSpec.scala
+1412261533|sstone|A|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/MerkleTreeSpec.scala
+1412261533|sstone|A|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/MultisigSpec.scala
+1412261533|sstone|A|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/PaymentProtocolSpec.scala
+1412261533|sstone|A|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/ProtocolSpec.scala
+1412261533|sstone|A|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/ScriptSpec.scala
+1412261533|sstone|A|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/ToolsSpec.scala
+1412261533|sstone|A|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/TransactionSpec.scala
+1412591175|sstone|M|/bitcoin-lib/README.md
+1412591814|sstone|M|/bitcoin-lib/pom.xml
+1412591922|sstone|M|/bitcoin-lib/pom.xml
+1412684336|sstone|M|/bitcoin-lib/pom.xml
+1412686659|sstone|M|/bitcoin-lib/pom.xml
+1412686715|sstone|M|/bitcoin-lib/pom.xml
+1412689932|sstone|M|/bitcoin-lib/README.md
+1412689932|sstone|M|/bitcoin-lib/pom.xml
+1412691152|sstone|M|/bitcoin-lib/pom.xml
+1412691158|sstone|M|/bitcoin-lib/pom.xml
+1412853785|sstone|M|/bitcoin-lib/README.md
+1412853785|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/MultisigSpec.scala
+1412937409|sstone|A|/bitcoin-lib/.travis.yml
+1412937941|sstone|M|/bitcoin-lib/README.md
+1413213475|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Protocol.scala
+1413213475|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Script.scala
+1413213475|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/MultisigSpec.scala
+1413213475|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/TransactionSpec.scala
+1413820488|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Base58.scala
+1413820488|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Protocol.scala
+1413820488|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/ScriptElt.scala
+1413820488|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/ProtocolSpec.scala
+1414182447|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Protocol.scala
+1414182447|sstone|A|/bitcoin-lib/src/test/resources/inv.dat
+1414182447|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/ProtocolSpec.scala
+1414358187|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Protocol.scala
+1414358187|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/ProtocolSpec.scala
+1414358244|sstone|A|/bitcoin-lib/src/test/resources/getdata.dat
+1414425540|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Protocol.scala
+1414425540|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/package.scala
+1414425540|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/ProtocolSpec.scala
+1414427547|pm47|M|/bitcoin-lib/README.md
+1414764277|sstone|M|/bitcoin-lib/pom.xml
+1414764277|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Crypto.scala
+1415373449|sstone|M|/bitcoin-lib/pom.xml
+1415373449|sstone|A|/bitcoin-lib/src/test/resources/base58_encode_decode.json
+1415373449|sstone|A|/bitcoin-lib/src/test/resources/base58_keys_valid.json
+1415373449|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/Base58Spec.scala
+1415378666|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Protocol.scala
+1415378666|sstone|A|/bitcoin-lib/src/test/resources/addr.dat
+1415378666|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/ProtocolSpec.scala
+1416422791|sstone|M|/bitcoin-lib/pom.xml
+1416422791|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Crypto.scala
+1416422791|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Protocol.scala
+1416422791|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/package.scala
+1416422791|sstone|A|/bitcoin-lib/src/test/resources/sighash.json
+1416422791|sstone|A|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/SighashSpec.scala
+1416512796|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Protocol.scala
+1416512796|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/package.scala
+1416512796|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/TransactionSpec.scala
+1416828770|pm47|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/TransactionSpec.scala
+1417105599|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Script.scala
+1417105599|sstone|A|/bitcoin-lib/src/test/resources/script_valid.json
+1417105599|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/ScriptSpec.scala
+1417466822|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Crypto.scala
+1417466822|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Protocol.scala
+1417466822|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Script.scala
+1417466822|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/ScriptElt.scala
+1417466822|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/package.scala
+1417466822|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/ScriptSpec.scala
+1417772511|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Script.scala
+1417985706|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Crypto.scala
+1417985706|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Script.scala
+1417985706|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/package.scala
+1417985706|sstone|M|/bitcoin-lib/src/test/resources/script_valid.json
+1417985706|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/ScriptSpec.scala
+1418246732|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Script.scala
+1418246732|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/ScriptSpec.scala
+1418735905|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Crypto.scala
+1418735905|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Script.scala
+1418735905|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/ScriptElt.scala
+1418735905|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/package.scala
+1418735905|sstone|M|/bitcoin-lib/src/test/resources/script_valid.json
+1418735905|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/MultisigSpec.scala
+1418735905|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/ScriptSpec.scala
+1418735905|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/TransactionSpec.scala
+1420629678|sstone|M|/bitcoin-lib/pom.xml
+1420629678|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Protocol.scala
+1420629678|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/package.scala
+1421962172|sstone|M|/bitcoin-lib/pom.xml
+1421962181|sstone|M|/bitcoin-lib/pom.xml
+1422461140|sstone|M|/bitcoin-lib/README.md
+1423132455|sstone|D|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Cli.scala
+1423132455|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/DeterministicWallet.scala
+1423132455|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Protocol.scala
+1423132455|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/package.scala
+1423132455|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/DeterministicWalletSpec.scala
+1423132455|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/MultisigSpec.scala
+1423132455|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/ProtocolSpec.scala
+1423344314|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/DeterministicWallet.scala
+1423344314|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/DeterministicWalletSpec.scala
+1423344714|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Crypto.scala
+1423344714|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/DeterministicWallet.scala
+1423344714|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/DeterministicWalletSpec.scala
+1424120129|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Protocol.scala
+1424120129|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/TransactionSpec.scala
+1424125192|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/TransactionSpec.scala
+1425065685|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Crypto.scala
+1425065685|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Script.scala
+1425065685|sstone|M|/bitcoin-lib/src/test/resources/script_valid.json
+1425065685|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/ScriptSpec.scala
+1425218502|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Script.scala
+1425218502|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/ScriptSpec.scala
+1425331161|sstone|M|/bitcoin-lib/README.md
+1426855161|sstone|M|/bitcoin-lib/pom.xml
+1426855161|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Crypto.scala
+1426855161|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/DeterministicWallet.scala
+1426855161|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Protocol.scala
+1426855161|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/package.scala
+1426855161|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/DeterministicWalletSpec.scala
+1426874930|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Protocol.scala
+1426874930|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/package.scala
+1426874930|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/ProtocolSpec.scala
+1427051665|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Protocol.scala
+1427129858|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Protocol.scala
+1427134255|pm47|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Protocol.scala
+1427216154|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Protocol.scala
+1427216154|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/ProtocolSpec.scala
+1427218950|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Protocol.scala
+1427218950|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/package.scala
+1427218950|sstone|A|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/PuzzleSpec.scala
+1427219229|sstone|M|/bitcoin-lib/README.md
+1427310524|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Json.scala
+1427310524|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Script.scala
+1427310524|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/ScriptElt.scala
+1427310524|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/MultisigSpec.scala
+1427310524|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/PuzzleSpec.scala
+1427310524|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/ScriptSpec.scala
+1427310524|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/TransactionSpec.scala
+1427982607|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Protocol.scala
+1427982607|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Script.scala
+1427982607|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/package.scala
+1427982607|sstone|M|/bitcoin-lib/src/test/resources/script_valid.json
+1427982607|sstone|A|/bitcoin-lib/src/test/resources/tx_invalid.json
+1427982607|sstone|A|/bitcoin-lib/src/test/resources/tx_valid.json
+1427982607|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/ProtocolSpec.scala
+1427982607|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/PuzzleSpec.scala
+1427982607|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/ScriptSpec.scala
+1427982607|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/TransactionSpec.scala
+1428074409|sstone|M|/bitcoin-lib/pom.xml
+1428074409|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Crypto.scala
+1428074409|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Script.scala
+1428074409|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/ScriptElt.scala
+1428074409|sstone|A|/bitcoin-lib/src/test/resources/script_invalid.json
+1428074409|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/ScriptSpec.scala
+1428074891|sstone|M|/bitcoin-lib/pom.xml
+1428074891|sstone|D|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/MakePay2PKTransaction.scala
+1428074891|sstone|D|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/ReadBlockChain.scala
+1430167887|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Json.scala
+1430167887|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Protocol.scala
+1430167887|sstone|M|/bitcoin-lib/src/test/resources/script_invalid.json
+1430167887|sstone|M|/bitcoin-lib/src/test/resources/script_valid.json
+1432718475|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Base58.scala
+1432718475|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Crypto.scala
+1432718475|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Protocol.scala
+1432718475|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/package.scala
+1432718723|sstone|A|/bitcoin-lib/src/main/resources/bip39_english_wordlist.txt
+1432718723|sstone|A|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/MnemonicCode.scala
+1432718723|sstone|A|/bitcoin-lib/src/test/resources/bip39_vectors.json
+1432718723|sstone|A|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/MnemonicCodeSpec.scala
+1432726306|sstone|M|/bitcoin-lib/README.md
+1434620869|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Base58.scala
+1434620869|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/DeterministicWallet.scala
+1434620869|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/MnemonicCode.scala
+1434620869|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Protocol.scala
+1434620869|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Script.scala
+1434620869|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/package.scala
+1434620869|sstone|M|/bitcoin-lib/src/test/resources/script_invalid.json
+1434620869|sstone|M|/bitcoin-lib/src/test/resources/script_valid.json
+1434620869|sstone|M|/bitcoin-lib/src/test/resources/tx_invalid.json
+1437650378|sstone|M|/bitcoin-lib/pom.xml
+1437650378|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Protocol.scala
+1437650378|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Script.scala
+1437650378|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/Base58Spec.scala
+1437650378|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/MultisigSpec.scala
+1437650378|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/PuzzleSpec.scala
+1437650378|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/ScriptSpec.scala
+1437650378|sstone|D|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/SighashSpec.scala
+1437650378|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/TransactionSpec.scala
+1437650378|sstone|A|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/reference/Base58Spec.scala
+1437650378|sstone|A|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/reference/ScriptSpec.scala
+1437650378|sstone|A|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/reference/SighashSpec.scala
+1437650378|sstone|A|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/reference/TransactionSpec.scala
+1437650432|sstone|A|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/TransactionMalleabilitySpec.scala
+1437751033|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Crypto.scala
+1437751033|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Protocol.scala
+1437751033|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Script.scala
+1437751033|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/CryptoSpec.scala
+1437751033|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/TransactionSpec.scala
+1438166797|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Protocol.scala
+1438166797|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Script.scala
+1438166797|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/ScriptElt.scala
+1438166797|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/package.scala
+1438166797|sstone|M|/bitcoin-lib/src/test/resources/tx_invalid.json
+1438166797|sstone|M|/bitcoin-lib/src/test/resources/tx_valid.json
+1438166797|sstone|A|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/CheckLockTimeVerifySpec.scala
+1438166797|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/TransactionMalleabilitySpec.scala
+1438166797|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/reference/ScriptSpec.scala
+1438169408|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Protocol.scala
+1438169408|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/reference/TransactionSpec.scala
+1438443614|sstone|M|/bitcoin-lib/.gitignore
+1438443614|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Protocol.scala
+1438443614|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/CheckLockTimeVerifySpec.scala
+1438961787|sstone|M|/bitcoin-lib/pom.xml
+1438961787|sstone|D|/bitcoin-lib/src/test/resources/base58_encode_decode.json
+1438961787|sstone|D|/bitcoin-lib/src/test/resources/base58_keys_valid.json
+1438961787|sstone|A|/bitcoin-lib/src/test/resources/data/base58_encode_decode.json
+1438961787|sstone|A|/bitcoin-lib/src/test/resources/data/base58_keys_valid.json
+1438961787|sstone|A|/bitcoin-lib/src/test/resources/data/script_invalid.json
+1438961787|sstone|A|/bitcoin-lib/src/test/resources/data/script_valid.json
+1438961787|sstone|A|/bitcoin-lib/src/test/resources/data/sighash.json
+1438961787|sstone|A|/bitcoin-lib/src/test/resources/data/tx_invalid.json
+1438961787|sstone|A|/bitcoin-lib/src/test/resources/data/tx_valid.json
+1438961787|sstone|D|/bitcoin-lib/src/test/resources/script_invalid.json
+1438961787|sstone|D|/bitcoin-lib/src/test/resources/script_valid.json
+1438961787|sstone|D|/bitcoin-lib/src/test/resources/sighash.json
+1438961787|sstone|D|/bitcoin-lib/src/test/resources/tx_invalid.json
+1438961787|sstone|D|/bitcoin-lib/src/test/resources/tx_valid.json
+1438961787|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/reference/Base58Spec.scala
+1438961787|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/reference/ScriptSpec.scala
+1438961787|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/reference/SighashSpec.scala
+1438961787|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/reference/TransactionSpec.scala
+1439311514|sstone|M|/bitcoin-lib/pom.xml
+1439311514|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Crypto.scala
+1439311514|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/DeterministicWallet.scala
+1439311514|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Protocol.scala
+1439311514|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Script.scala
+1439311514|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/package.scala
+1439311514|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/DeterministicWalletSpec.scala
+1439311514|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/MultisigSpec.scala
+1439311514|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/ToolsSpec.scala
+1439311514|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/TransactionSpec.scala
+1439315423|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Script.scala
+1439315423|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/ScriptElt.scala
+1439315423|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/package.scala
+1439315423|sstone|M|/bitcoin-lib/src/test/resources/data/tx_invalid.json
+1439315423|sstone|M|/bitcoin-lib/src/test/resources/data/tx_valid.json
+1439315423|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/reference/ScriptSpec.scala
+1439984437|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Base58.scala
+1439984437|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Json.scala
+1439984437|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Protocol.scala
+1439984437|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Script.scala
+1439984437|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/CheckLockTimeVerifySpec.scala
+1439984437|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/CryptoSpec.scala
+1439984437|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/MultisigSpec.scala
+1439984437|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/ProtocolSpec.scala
+1439984437|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/ScriptSpec.scala
+1439984437|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/TransactionSpec.scala
+1439984437|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/reference/Base58Spec.scala
+1440579485|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Crypto.scala
+1440579485|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Protocol.scala
+1440579485|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/CheckLockTimeVerifySpec.scala
+1440579485|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/MultisigSpec.scala
+1440579995|sstone|M|/bitcoin-lib/pom.xml
+1440579998|sstone|M|/bitcoin-lib/pom.xml
+1440580254|sstone|M|/bitcoin-lib/README.md
+1443035065|sstone|M|/bitcoin-lib/README.md
+1443035065|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Base58.scala
+1443035065|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/MnemonicCode.scala
+1443035065|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Script.scala
+1443035065|sstone|M|/bitcoin-lib/src/test/resources/data/tx_invalid.json
+1443035065|sstone|M|/bitcoin-lib/src/test/resources/data/tx_valid.json
+1452119375|sstone|M|/bitcoin-lib/pom.xml
+1452119375|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Protocol.scala
+1452119375|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Script.scala
+1452119375|sstone|M|/bitcoin-lib/src/test/resources/data/script_invalid.json
+1452119375|sstone|M|/bitcoin-lib/src/test/resources/data/script_valid.json
+1452119375|sstone|M|/bitcoin-lib/src/test/resources/data/tx_invalid.json
+1452119375|sstone|M|/bitcoin-lib/src/test/resources/data/tx_valid.json
+1453759952|sstone|M|/bitcoin-lib/src/test/resources/servercert.pem
+1454711443|sstone|M|/bitcoin-lib/.travis.yml
+1454711443|sstone|M|/bitcoin-lib/pom.xml
+1455905071|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Protocol.scala
+1455905071|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Script.scala
+1455905071|sstone|M|/bitcoin-lib/src/test/resources/data/tx_invalid.json
+1455905071|sstone|M|/bitcoin-lib/src/test/resources/data/tx_valid.json
+1456314668|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/DeterministicWallet.scala
+1456314668|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Protocol.scala
+1456314668|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/reference/TransactionSpec.scala
+1456317149|sstone|M|/bitcoin-lib/pom.xml
+1456317149|sstone|M|/bitcoin-lib/pom.xml
+1456320444|Fabrice Drouin|M|/bitcoin-lib/README.md
+1458582056|Fabrice Drouin|M|/bitcoin-lib/README.md
+1460406020|sstone|M|/bitcoin-lib/src/test/resources/data/script_invalid.json
+1466797040|sstone|M|/bitcoin-lib/README.md
+1466797040|sstone|M|/bitcoin-lib/pom.xml
+1466797040|sstone|A|/bitcoin-lib/src/main/resources/reference.conf
+1466797040|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Base58.scala
+1466797040|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Crypto.scala
+1466797040|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/DeterministicWallet.scala
+1466797040|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Json.scala
+1466797040|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Protocol.scala
+1466797040|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Script.scala
+1466797040|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/ScriptElt.scala
+1466797040|sstone|A|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Transaction.scala
+1466797040|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/package.scala
+1466797040|sstone|A|/bitcoin-lib/src/test/resources/data/script_tests.json
+1466797040|sstone|M|/bitcoin-lib/src/test/resources/data/tx_invalid.json
+1466797040|sstone|M|/bitcoin-lib/src/test/resources/data/tx_valid.json
+1466797040|sstone|A|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/BtcAmountSpec.scala
+1466797040|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/CheckLockTimeVerifySpec.scala
+1466797040|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/MerkleTreeSpec.scala
+1466797040|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/MultisigSpec.scala
+1466797040|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/ProtocolSpec.scala
+1466797040|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/ScriptSpec.scala
+1466797040|sstone|A|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/SegwitSpec.scala
+1466797040|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/TransactionMalleabilitySpec.scala
+1466797040|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/TransactionSpec.scala
+1466797040|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/reference/ScriptSpec.scala
+1466797040|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/reference/TransactionSpec.scala
+1466971294|Fabrice Drouin|M|/bitcoin-lib/README.md
+1467204674|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/PuzzleSpec.scala
+1467789198|sstone|M|/bitcoin-lib/pom.xml
+1467789198|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Crypto.scala
+1467789198|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/DeterministicWallet.scala
+1467789198|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/MnemonicCode.scala
+1467789198|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/PaymentProtocolSpec.scala
+1468225019|sstone|D|/bitcoin-lib/src/test/resources/data/script_invalid.json
+1468225019|sstone|M|/bitcoin-lib/src/test/resources/data/script_tests.json
+1468225019|sstone|D|/bitcoin-lib/src/test/resources/data/script_valid.json
+1468225019|sstone|M|/bitcoin-lib/src/test/resources/data/tx_invalid.json
+1468225019|sstone|M|/bitcoin-lib/src/test/resources/data/tx_valid.json
+1468255191|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Crypto.scala
+1468255191|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Transaction.scala
+1468255191|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/CryptoSpec.scala
+1468255191|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/MultisigSpec.scala
+1468255191|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/SegwitSpec.scala
+1468255191|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/TransactionSpec.scala
+1468314167|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/CryptoSpec.scala
+1471454523|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/DeterministicWallet.scala
+1471454523|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/DeterministicWalletSpec.scala
+1471454607|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Crypto.scala
+1471454607|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Script.scala
+1471454607|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/ScriptElt.scala
+1471454607|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Transaction.scala
+1471454607|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/package.scala
+1471454607|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/SegwitSpec.scala
+1471454607|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/reference/ScriptSpec.scala
+1471454607|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/reference/TransactionSpec.scala
+1471713381|sstone|M|/bitcoin-lib/pom.xml
+1471713381|sstone|M|/bitcoin-lib/pom.xml
+1471714287|Fabrice Drouin|M|/bitcoin-lib/README.md
+1475272065|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Script.scala
+1475272065|sstone|M|/bitcoin-lib/src/test/resources/data/script_tests.json
+1475272065|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/reference/ScriptSpec.scala
+1475272559|sstone|M|/bitcoin-lib/pom.xml
+1475327784|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Script.scala
+1475327784|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Transaction.scala
+1475327784|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/package.scala
+1475327784|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/SegwitSpec.scala
+1476790566|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Crypto.scala
+1476790566|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Script.scala
+1476790566|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Transaction.scala
+1476790566|sstone|M|/bitcoin-lib/src/test/resources/data/script_tests.json
+1476790566|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/reference/ScriptSpec.scala
+1476956314|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Script.scala
+1476956314|sstone|M|/bitcoin-lib/src/test/resources/data/tx_invalid.json
+1476956314|sstone|M|/bitcoin-lib/src/test/resources/data/tx_valid.json
+1477406752|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Crypto.scala
+1477406752|sstone|A|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/SighashSpec.scala
+1478767823|sstone|M|/bitcoin-lib/pom.xml
+1478767823|sstone|D|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Json.scala
+1478790982|sstone|M|/bitcoin-lib/pom.xml
+1478791591|sstone|M|/bitcoin-lib/pom.xml
+1478791591|sstone|M|/bitcoin-lib/pom.xml
+1479116961|Fabrice Drouin|M|/bitcoin-lib/README.md
+1479302991|pm47|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Protocol.scala
+1479557464|sstone|M|/bitcoin-lib/pom.xml
+1480080802|sstone|M|/bitcoin-lib/src/test/resources/data/tx_valid.json
+1480415989|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Transaction.scala
+1480415989|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/TransactionSpec.scala
+1480503201|sstone|A|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/LexicographicalOrdering.scala
+1480503201|sstone|A|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/LexicographicalOrderingSpec.scala
+1480513897|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Script.scala
+1480513897|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/SighashSpec.scala
+1481646838|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Base58.scala
+1481646838|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Crypto.scala
+1481646838|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/DeterministicWallet.scala
+1481646838|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Protocol.scala
+1481646838|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Script.scala
+1481646838|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Transaction.scala
+1481646838|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/CryptoSpec.scala
+1481646838|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/MultisigSpec.scala
+1481646838|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/ProtocolSpec.scala
+1481646838|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/SegwitSpec.scala
+1481646838|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/SighashSpec.scala
+1481646838|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/TransactionSpec.scala
+1481646838|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/reference/Base58Spec.scala
+1481733289|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Crypto.scala
+1481733289|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/DeterministicWallet.scala
+1481733289|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/DeterministicWalletSpec.scala
+1481796944|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Protocol.scala
+1481898010|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Crypto.scala
+1481898010|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/DeterministicWallet.scala
+1481898010|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/MnemonicCode.scala
+1481898010|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Protocol.scala
+1481898010|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Script.scala
+1481898010|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/DeterministicWalletSpec.scala
+1481911621|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/LexicographicalOrdering.scala
+1481911621|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/package.scala
+1481911621|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/BtcAmountSpec.scala
+1481911621|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/LexicographicalOrderingSpec.scala
+1481911923|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/LexicographicalOrdering.scala
+1481911923|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/LexicographicalOrderingSpec.scala
+1482148490|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Crypto.scala
+1482148490|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/LexicographicalOrderingSpec.scala
+1482148810|sstone|M|/bitcoin-lib/pom.xml
+1482148810|sstone|M|/bitcoin-lib/pom.xml
+1482260582|Fabrice Drouin|M|/bitcoin-lib/README.md
+1482260689|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Crypto.scala
+1482260689|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/SegwitSpec.scala
+1482260689|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/TransactionSpec.scala
+1483711790|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/DeterministicWallet.scala
+1483711790|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Protocol.scala
+1483711790|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Transaction.scala
+1483711790|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/DeterministicWalletSpec.scala
+1483711790|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/ToolsSpec.scala
+1483711800|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/MerkleTreeSpec.scala
+1483711800|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/MnemonicCodeSpec.scala
+1483711800|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/MultisigSpec.scala
+1483711800|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/ProtocolSpec.scala
+1483711800|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/TransactionSpec.scala
+1483712624|sstone|M|/bitcoin-lib/pom.xml
+1483712624|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Protocol.scala
+1483722902|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/PuzzleSpec.scala
+1483723583|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/package.scala
+1484330684|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Crypto.scala
+1484330684|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/DeterministicWallet.scala
+1484330684|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Script.scala
+1484330684|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Transaction.scala
+1484330684|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/CheckLockTimeVerifySpec.scala
+1484330684|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/CryptoSpec.scala
+1484330684|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/MultisigSpec.scala
+1484330684|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/SegwitSpec.scala
+1484330684|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/SighashSpec.scala
+1484330684|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/TransactionMalleabilitySpec.scala
+1484330684|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/TransactionSpec.scala
+1484830904|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Crypto.scala
+1484830904|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Protocol.scala
+1484832974|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Crypto.scala
+1484832974|sstone|A|/bitcoin-lib/src/test/java/org/bitcoin/NativeSecp256k1.java
+1484832974|sstone|A|/bitcoin-lib/src/test/java/org/bitcoin/NativeSecp256k1Test.java
+1484832974|sstone|A|/bitcoin-lib/src/test/java/org/bitcoin/NativeSecp256k1Util.java
+1484832974|sstone|A|/bitcoin-lib/src/test/java/org/bitcoin/Secp256k1Context.java
+1484832974|sstone|A|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/Secp256k1Spec.scala
+1484833429|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Crypto.scala
+1484833429|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/Secp256k1Spec.scala
+1484834394|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Script.scala
+1484836226|sstone|M|/bitcoin-lib/pom.xml
+1484836226|sstone|M|/bitcoin-lib/pom.xml
+1485011126|Fabrice Drouin|M|/bitcoin-lib/README.md
+1486560140|sstone|M|/bitcoin-lib/pom.xml
+1486560162|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Crypto.scala
+1486560391|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Crypto.scala
+1486560391|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/CryptoSpec.scala
+1487762429|sstone|D|/bitcoin-lib/src/main/resources/reference.conf
+1487762429|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Crypto.scala
+1487762429|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/package.scala
+1487762429|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/BtcAmountSpec.scala
+1488188144|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/DeterministicWallet.scala
+1488188144|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/DeterministicWalletSpec.scala
+1489743060|sstone|M|/bitcoin-lib/pom.xml
+1489743061|sstone|M|/bitcoin-lib/pom.xml
+1491918414|Fabrice Drouin|M|/bitcoin-lib/README.md
+1492619683|sstone|A|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Bech32.scala
+1492619683|sstone|A|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/Bech32Spec.scala
+1493889615|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Bech32.scala
+1493889615|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/Bech32Spec.scala
+1493906717|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Crypto.scala
+1493906717|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/CryptoSpec.scala
+1495635137|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Crypto.scala
+1495635137|sstone|A|/bitcoin-lib/src/test/resources/recid.txt
+1495635137|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/CryptoSpec.scala
+1495651357|sstone|A|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/BtcAmount.scala
+1495651357|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/package.scala
+1495651405|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Crypto.scala
+1495791144|sstone|M|/bitcoin-lib/pom.xml
+1496936585|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Protocol.scala
+1496936585|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Transaction.scala
+1496936747|sstone|M|/bitcoin-lib/pom.xml
+1496999875|sstone|M|/bitcoin-lib/pom.xml
+1496999875|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Crypto.scala
+1497019004|sstone|M|/bitcoin-lib/pom.xml
+1497019004|sstone|M|/bitcoin-lib/pom.xml
+1497019409|Fabrice Drouin|M|/bitcoin-lib/README.md
+1497541120|sstone|M|/bitcoin-lib/pom.xml
+1497541120|sstone|A|/bitcoin-lib/src/main/java/org/bitcoin/NativeSecp256k1.java
+1497541120|sstone|A|/bitcoin-lib/src/main/java/org/bitcoin/NativeSecp256k1Util.java
+1497541120|sstone|A|/bitcoin-lib/src/main/java/org/bitcoin/Preconditions.java
+1497541120|sstone|A|/bitcoin-lib/src/main/java/org/bitcoin/Secp256k1Context.java
+1497541120|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Crypto.scala
+1497541120|sstone|D|/bitcoin-lib/src/test/java/org/bitcoin/NativeSecp256k1.java
+1497541120|sstone|D|/bitcoin-lib/src/test/java/org/bitcoin/NativeSecp256k1Util.java
+1497541120|sstone|D|/bitcoin-lib/src/test/java/org/bitcoin/Secp256k1Context.java
+1497541456|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Crypto.scala
+1497543006|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Crypto.scala
+1497543006|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/CryptoSpec.scala
+1497810851|sstone|M|/bitcoin-lib/.travis.yml
+1497810851|sstone|A|/bitcoin-lib/src/test/resources/libsecp256k1.so
+1499623543|sstone|M|/bitcoin-lib/.travis.yml
+1499623543|sstone|M|/bitcoin-lib/src/main/java/org/bitcoin/NativeSecp256k1Util.java
+1499623543|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Crypto.scala
+1499699285|sstone|M|/bitcoin-lib/pom.xml
+1499699477|sstone|M|/bitcoin-lib/src/test/resources/data/script_tests.json
+1499699477|sstone|M|/bitcoin-lib/src/test/resources/data/tx_invalid.json
+1499699477|sstone|M|/bitcoin-lib/src/test/resources/data/tx_valid.json
+1500469644|sstone|M|/bitcoin-lib/pom.xml
+1500469644|sstone|M|/bitcoin-lib/pom.xml
+1500891175|pm47|M|/bitcoin-lib/pom.xml
+1500891175|pm47|M|/bitcoin-lib/src/main/java/org/bitcoin/Secp256k1Context.java
+1500891175|pm47|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Crypto.scala
+1500891642|pm47|M|/bitcoin-lib/pom.xml
+1500891642|pm47|M|/bitcoin-lib/src/main/java/org/bitcoin/NativeSecp256k1.java
+1500891642|pm47|M|/bitcoin-lib/src/main/java/org/bitcoin/NativeSecp256k1Util.java
+1500891642|pm47|M|/bitcoin-lib/src/main/java/org/bitcoin/Preconditions.java
+1500891642|pm47|M|/bitcoin-lib/src/main/java/org/bitcoin/Secp256k1Context.java
+1500891642|pm47|M|/bitcoin-lib/src/main/java/org/bitcoin/protocols/payments/Protos.java
+1500891642|pm47|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Base58.scala
+1500891642|pm47|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Bech32.scala
+1500891642|pm47|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Crypto.scala
+1500891642|pm47|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/DeterministicWallet.scala
+1500891642|pm47|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/PaymentProtocol.scala
+1500891642|pm47|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Protocol.scala
+1500891642|pm47|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Script.scala
+1500891642|pm47|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Transaction.scala
+1500891642|pm47|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/package.scala
+1500891642|pm47|M|/bitcoin-lib/src/test/java/org/bitcoin/NativeSecp256k1Test.java
+1500891642|pm47|M|/bitcoin-lib/src/test/resources/logback-test.xml
+1500891642|pm47|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/Base58Spec.scala
+1500891642|pm47|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/Bech32Spec.scala
+1500891642|pm47|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/CheckLockTimeVerifySpec.scala
+1500891642|pm47|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/CryptoSpec.scala
+1500891642|pm47|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/DeterministicWalletSpec.scala
+1500891642|pm47|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/MultisigSpec.scala
+1500891642|pm47|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/PaymentProtocolSpec.scala
+1500891642|pm47|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/PuzzleSpec.scala
+1500891642|pm47|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/ScriptSpec.scala
+1500891642|pm47|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/SighashSpec.scala
+1500891642|pm47|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/ToolsSpec.scala
+1500891642|pm47|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/TransactionSpec.scala
+1500891642|pm47|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/reference/Base58Spec.scala
+1500891642|pm47|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/reference/ScriptSpec.scala
+1500891642|pm47|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/reference/TransactionSpec.scala
+1500892142|pm47|M|/bitcoin-lib/pom.xml
+1500892587|pm47|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Base58.scala
+1500892587|pm47|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Transaction.scala
+1502268014|sstone|M|/bitcoin-lib/pom.xml
+1502268014|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Transaction.scala
+1502268014|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/CheckLockTimeVerifySpec.scala
+1502268014|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/MultisigSpec.scala
+1502268014|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/TransactionMalleabilitySpec.scala
+1502268014|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/TransactionSpec.scala
+1502362880|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Protocol.scala
+1502362880|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Transaction.scala
+1502362880|sstone|A|/bitcoin-lib/src/test/resources/000000000001e5cc02215a70dc832f3d66c724ce1f9662f83ef36f1e9e4a0371.block
+1502362880|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/MerkleTreeSpec.scala
+1502362880|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/SegwitSpec.scala
+1503331132|sstone|M|/bitcoin-lib/pom.xml
+1503331132|sstone|M|/bitcoin-lib/pom.xml
+1503410493|Fabrice Drouin|M|/bitcoin-lib/README.md
+1505677159|sstone|M|/bitcoin-lib/pom.xml
+1505677159|sstone|A|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Block.scala
+1505677159|sstone|A|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/MerkleBlock.scala
+1505677159|sstone|A|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/MerkleTree.scala
+1505677159|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Protocol.scala
+1505677159|sstone|A|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/MerkleBlockSpec.scala
+1513202579|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Bech32.scala
+1513202579|sstone|M|/bitcoin-lib/src/test/resources/data/base58_keys_valid.json
+1513202579|sstone|M|/bitcoin-lib/src/test/resources/data/script_tests.json
+1513202579|sstone|M|/bitcoin-lib/src/test/resources/data/tx_invalid.json
+1513202579|sstone|M|/bitcoin-lib/src/test/resources/data/tx_valid.json
+1513202579|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/reference/Base58Spec.scala
+1513689125|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/MerkleBlockSpec.scala
+1513689328|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/BtcAmount.scala
+1513689328|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/BtcAmountSpec.scala
+1513689424|sstone|M|/bitcoin-lib/src/test/resources/data/script_tests.json
+1513689462|sstone|A|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/samples/FindMyAddresses.scala
+1513691598|sstone|M|/bitcoin-lib/pom.xml
+1513691824|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Transaction.scala
+1513691824|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/MultisigSpec.scala
+1513691824|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/SegwitSpec.scala
+1513691824|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/TransactionSpec.scala
+1513692298|sstone|M|/bitcoin-lib/pom.xml
+1513692298|sstone|M|/bitcoin-lib/pom.xml
+1514833425|anton|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/BtcAmount.scala
+1514833425|anton|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/BtcAmountSpec.scala
+1521454252|sstone|A|/bitcoin-lib/src/test/resources/paymentrequest.bin
+1521454252|sstone|D|/bitcoin-lib/src/test/resources/r1411736682.bitcoinpaymentrequest
+1521454252|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/PaymentProtocolSpec.scala
+1521454923|Pierre-Marie Padiou|A|/bitcoin-lib/.gitmodules
+1521454923|Pierre-Marie Padiou|M|/bitcoin-lib/.travis.yml
+1521454923|Pierre-Marie Padiou|M|/bitcoin-lib/pom.xml
+1521454923|Pierre-Marie Padiou|A|/bitcoin-lib/secp256k1
+1521454923|Pierre-Marie Padiou|D|/bitcoin-lib/src/main/java/org/bitcoin/NativeSecp256k1.java
+1521454923|Pierre-Marie Padiou|D|/bitcoin-lib/src/main/java/org/bitcoin/NativeSecp256k1Util.java
+1521454923|Pierre-Marie Padiou|D|/bitcoin-lib/src/main/java/org/bitcoin/Preconditions.java
+1521454923|Pierre-Marie Padiou|D|/bitcoin-lib/src/main/java/org/bitcoin/Secp256k1Context.java
+1521454923|Pierre-Marie Padiou|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Crypto.scala
+1521454923|Pierre-Marie Padiou|D|/bitcoin-lib/src/test/java/org/bitcoin/NativeSecp256k1Test.java
+1521454923|Pierre-Marie Padiou|D|/bitcoin-lib/src/test/resources/libsecp256k1.so
+1521454923|Pierre-Marie Padiou|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/Secp256k1Spec.scala
+1521542459|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Block.scala
+1521542459|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/ProtocolSpec.scala
+1522072300|sstone|M|/bitcoin-lib/pom.xml
+1522074888|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Bech32.scala
+1522074888|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/Bech32Spec.scala
+1522074888|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/reference/Base58Spec.scala
+1522075165|sstone|M|/bitcoin-lib/pom.xml
+1522075165|sstone|M|/bitcoin-lib/pom.xml
+1522258095|pm47|M|/bitcoin-lib/secp256k1
+1522259649|sstone|M|/bitcoin-lib/pom.xml
+1522259649|sstone|M|/bitcoin-lib/pom.xml
+1524060584|Fabrice Drouin|M|/bitcoin-lib/README.md
+1524211402|Alex Dupre|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Base58.scala
+1524211420|Alex Dupre|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/PaymentProtocol.scala
+1524211438|Alex Dupre|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Crypto.scala
+1524211438|Alex Dupre|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/DeterministicWallet.scala
+1524212965|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/DeterministicWallet.scala
+1524212965|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/DeterministicWalletSpec.scala
+1524223623|sstone|M|/bitcoin-lib/src/test/resources/bip39_vectors.json
+1524223623|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/MnemonicCodeSpec.scala
+1524223623|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/samples/FindMyAddresses.scala
+1524483725|sstone|M|/bitcoin-lib/src/test/resources/data/script_tests.json
+1524483725|sstone|M|/bitcoin-lib/src/test/resources/data/tx_invalid.json
+1524483725|sstone|M|/bitcoin-lib/src/test/resources/data/tx_valid.json
+1524489395|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/DeterministicWallet.scala
+1524489395|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/package.scala
+1524489395|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/DeterministicWalletSpec.scala
+1524494018|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/DeterministicWallet.scala
+1524494018|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/package.scala
+1524494018|sstone|A|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/BIP49Spec.scala
+1524494018|sstone|A|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/samples/BIP84Spec.scala
+1524498497|sstone|D|/bitcoin-lib/src/test/resources/data/base58_keys_valid.json
+1524498497|sstone|A|/bitcoin-lib/src/test/resources/data/key_io_invalid.json
+1524498497|sstone|A|/bitcoin-lib/src/test/resources/data/key_io_valid.json
+1524498497|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/reference/Base58Spec.scala
+1524498497|sstone|A|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/reference/KeyEncodingSpec.scala
+1524573504|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/MnemonicCode.scala
+1524573504|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/MnemonicCodeSpec.scala
+1524664006|sstone|A|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/BIP84Spec.scala
+1524664006|sstone|D|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/samples/BIP84Spec.scala
+1524664006|sstone|A|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/samples/KeysFromXpub.scala
+1524664056|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/samples/KeysFromXpub.scala
+1524835169|Alex Dupre|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Bech32.scala
+1524835169|Alex Dupre|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Block.scala
+1524835169|Alex Dupre|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Crypto.scala
+1524835169|Alex Dupre|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/DeterministicWallet.scala
+1524835169|Alex Dupre|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/MerkleBlock.scala
+1524835169|Alex Dupre|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/MnemonicCode.scala
+1524835169|Alex Dupre|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Protocol.scala
+1524835169|Alex Dupre|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Script.scala
+1524835169|Alex Dupre|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Transaction.scala
+1524835169|Alex Dupre|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/package.scala
+1524835169|Alex Dupre|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/DeterministicWalletSpec.scala
+1524849411|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/package.scala
+1524849411|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/reference/KeyEncodingSpec.scala
+1525259585|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/DeterministicWallet.scala
+1525259585|sstone|A|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/DeriveWalletKeysSpec.scala
+1525270297|sstone|M|/bitcoin-lib/README.md
+1525270472|sstone|M|/bitcoin-lib/pom.xml
+1525270472|sstone|M|/bitcoin-lib/pom.xml
+1530115941|Alex Dupre|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Script.scala
+1530115941|Alex Dupre|A|/bitcoin-lib/src/test/resources/data/base58_keys_invalid.json
+1530115941|Alex Dupre|A|/bitcoin-lib/src/test/resources/data/base58_keys_valid.json
+1530115941|Alex Dupre|D|/bitcoin-lib/src/test/resources/data/key_io_invalid.json
+1530115941|Alex Dupre|D|/bitcoin-lib/src/test/resources/data/key_io_valid.json
+1530115941|Alex Dupre|M|/bitcoin-lib/src/test/resources/data/script_tests.json
+1530115941|Alex Dupre|M|/bitcoin-lib/src/test/resources/data/tx_invalid.json
+1530115941|Alex Dupre|M|/bitcoin-lib/src/test/resources/data/tx_valid.json
+1530115941|Alex Dupre|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/reference/KeyEncodingSpec.scala
+1530115941|Alex Dupre|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/reference/ScriptSpec.scala
+1540569868|sstone|M|/bitcoin-lib/src/test/resources/data/base58_encode_decode.json
+1540569868|sstone|M|/bitcoin-lib/src/test/resources/data/script_tests.json
+1540569868|sstone|M|/bitcoin-lib/src/test/resources/data/tx_invalid.json
+1540569868|sstone|M|/bitcoin-lib/src/test/resources/data/tx_valid.json
+1540569935|sstone|M|/bitcoin-lib/.travis.yml
+1540569935|sstone|M|/bitcoin-lib/pom.xml
+1540569935|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/BIP49Spec.scala
+1540569935|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/BIP84Spec.scala
+1540569935|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/Base58Spec.scala
+1540569935|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/Bech32Spec.scala
+1540569935|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/BtcAmountSpec.scala
+1540569935|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/CheckLockTimeVerifySpec.scala
+1540569935|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/CryptoSpec.scala
+1540569935|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/DeriveWalletKeysSpec.scala
+1540569935|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/DeterministicWalletSpec.scala
+1540569935|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/LexicographicalOrderingSpec.scala
+1540569935|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/MerkleBlockSpec.scala
+1540569935|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/MerkleTreeSpec.scala
+1540569935|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/MnemonicCodeSpec.scala
+1540569935|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/MultisigSpec.scala
+1540569935|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/PaymentProtocolSpec.scala
+1540569935|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/ProtocolSpec.scala
+1540569935|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/PuzzleSpec.scala
+1540569935|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/ScriptSpec.scala
+1540569935|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/Secp256k1Spec.scala
+1540569935|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/SegwitSpec.scala
+1540569935|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/ToolsSpec.scala
+1540569935|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/TransactionMalleabilitySpec.scala
+1540569935|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/TransactionSpec.scala
+1540569935|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/reference/Base58Spec.scala
+1540569935|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/reference/ScriptSpec.scala
+1540569935|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/reference/SighashSpec.scala
+1540569935|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/reference/TransactionSpec.scala
+1540570024|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Block.scala
+1540570024|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/package.scala
+1540570024|sstone|A|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/reference/PowSpec.scala
+1544021479|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Bech32.scala
+1544021479|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/Bech32Spec.scala
+1544026296|sstone|D|/bitcoin-lib/src/test/resources/data/base58_keys_invalid.json
+1544026296|sstone|D|/bitcoin-lib/src/test/resources/data/base58_keys_valid.json
+1544026296|sstone|A|/bitcoin-lib/src/test/resources/data/key_io_invalid.json
+1544026296|sstone|A|/bitcoin-lib/src/test/resources/data/key_io_valid.json
+1544026296|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/reference/KeyEncodingSpec.scala
+1544026787|sstone|M|/bitcoin-lib/pom.xml
+1544026787|sstone|M|/bitcoin-lib/pom.xml
+1549969650|Pierre-Marie Padiou|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Crypto.scala
+1549969650|Pierre-Marie Padiou|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/CryptoSpec.scala
+1549969871|sstone|M|/bitcoin-lib/pom.xml
+1549969872|sstone|M|/bitcoin-lib/pom.xml
+1550581787|Alex Dupre|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Script.scala
+1550763427|pm47|M|/bitcoin-lib/pom.xml
+1550763427|pm47|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Block.scala
+1550763427|pm47|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/LexicographicalOrdering.scala
+1550763427|pm47|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/MerkleTree.scala
+1550763427|pm47|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Protocol.scala
+1550763427|pm47|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Transaction.scala
+1550763427|pm47|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/package.scala
+1550763427|pm47|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/LexicographicalOrderingSpec.scala
+1550763427|pm47|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/MultisigSpec.scala
+1550763427|pm47|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/ScriptSpec.scala
+1550763427|pm47|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/SegwitSpec.scala
+1550763427|pm47|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/reference/PowSpec.scala
+1550763427|pm47|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/reference/ScriptSpec.scala
+1550763427|pm47|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/reference/TransactionSpec.scala
+1550764914|pm47|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Block.scala
+1550764914|pm47|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Protocol.scala
+1550764914|pm47|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/package.scala
+1550764914|pm47|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/DeterministicWalletSpec.scala
+1550764914|pm47|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/ProtocolSpec.scala
+1550764914|pm47|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/reference/PowSpec.scala
+1550845390|pm47|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Base58.scala
+1550845390|pm47|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Bech32.scala
+1550845390|pm47|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Block.scala
+1550845390|pm47|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Crypto.scala
+1550845390|pm47|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/DeterministicWallet.scala
+1550845390|pm47|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/MerkleBlock.scala
+1550845390|pm47|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/MnemonicCode.scala
+1550845390|pm47|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Protocol.scala
+1550845390|pm47|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Script.scala
+1550845390|pm47|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/ScriptElt.scala
+1550845390|pm47|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Transaction.scala
+1550845390|pm47|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/package.scala
+1550845390|pm47|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/BIP49Spec.scala
+1550845390|pm47|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/BIP84Spec.scala
+1550845390|pm47|D|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/Base58Spec.scala
+1550845390|pm47|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/Bech32Spec.scala
+1550845390|pm47|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/CheckLockTimeVerifySpec.scala
+1550845390|pm47|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/CryptoSpec.scala
+1550845390|pm47|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/DeterministicWalletSpec.scala
+1550845390|pm47|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/LexicographicalOrderingSpec.scala
+1550845390|pm47|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/MerkleBlockSpec.scala
+1550845390|pm47|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/MnemonicCodeSpec.scala
+1550845390|pm47|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/MultisigSpec.scala
+1550845390|pm47|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/ProtocolSpec.scala
+1550845390|pm47|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/ScriptSpec.scala
+1550845390|pm47|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/Secp256k1Spec.scala
+1550845390|pm47|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/SegwitSpec.scala
+1550845390|pm47|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/SighashSpec.scala
+1550845390|pm47|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/TransactionMalleabilitySpec.scala
+1550845390|pm47|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/TransactionSpec.scala
+1550845390|pm47|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/reference/Base58Spec.scala
+1550845390|pm47|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/reference/KeyEncodingSpec.scala
+1550845390|pm47|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/reference/ScriptSpec.scala
+1550845390|pm47|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/reference/SighashSpec.scala
+1550845390|pm47|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/reference/TransactionSpec.scala
+1551109507|sstone|M|/bitcoin-lib/.travis.yml
+1551109507|sstone|M|/bitcoin-lib/pom.xml
+1551109507|sstone|A|/bitcoin-lib/src/main/java/org/bitcoin/NativeSecp256k1.java
+1551109507|sstone|A|/bitcoin-lib/src/main/java/org/bitcoin/NativeSecp256k1Util.java
+1551109507|sstone|A|/bitcoin-lib/src/main/java/org/bitcoin/Secp256k1Context.java
+1551459945|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Bech32.scala
+1551704590|Pierre-Marie Padiou|M|/bitcoin-lib/.travis.yml
+1551704590|Pierre-Marie Padiou|M|/bitcoin-lib/pom.xml
+1551704590|Pierre-Marie Padiou|D|/bitcoin-lib/src/main/java/org/bitcoin/NativeSecp256k1.java
+1551704590|Pierre-Marie Padiou|D|/bitcoin-lib/src/main/java/org/bitcoin/NativeSecp256k1Util.java
+1551704590|Pierre-Marie Padiou|D|/bitcoin-lib/src/main/java/org/bitcoin/Secp256k1Context.java
+1552233241|pm47|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/MerkleTree.scala
+1552234037|pm47|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/ProtocolSpec.scala
+1552399894|pm47|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Block.scala
+1552399894|pm47|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Crypto.scala
+1552399894|pm47|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/MerkleTree.scala
+1552399894|pm47|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Protocol.scala
+1552399894|pm47|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Transaction.scala
+1552399894|pm47|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/package.scala
+1552399894|pm47|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/LexicographicalOrderingSpec.scala
+1552399894|pm47|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/MultisigSpec.scala
+1552399894|pm47|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/ProtocolSpec.scala
+1552399894|pm47|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/ScriptSpec.scala
+1552399894|pm47|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/SegwitSpec.scala
+1552399894|pm47|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/reference/PowSpec.scala
+1552399894|pm47|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/reference/ScriptSpec.scala
+1552399894|pm47|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/reference/SighashSpec.scala
+1552399894|pm47|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/reference/TransactionSpec.scala
+1552400028|pm47|M|/bitcoin-lib/pom.xml
+1552403762|pm47|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Crypto.scala
+1552404477|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Bech32.scala
+1552405979|pm47|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Protocol.scala
+1552466313|pm47|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Crypto.scala
+1552466313|pm47|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/DeterministicWallet.scala
+1552482938|pm47|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Protocol.scala
+1552484509|pm47|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Crypto.scala
+1552490014|pm47|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Base58.scala
+1552490014|pm47|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Bech32.scala
+1552490014|pm47|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Block.scala
+1552490014|pm47|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Crypto.scala
+1552490014|pm47|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/DeterministicWallet.scala
+1552490014|pm47|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/MnemonicCode.scala
+1552490014|pm47|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Protocol.scala
+1552490014|pm47|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Script.scala
+1552490014|pm47|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Transaction.scala
+1552490014|pm47|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/CryptoSpec.scala
+1552490014|pm47|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/DeterministicWalletSpec.scala
+1552490014|pm47|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/TransactionSpec.scala
+1552493058|pm47|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Protocol.scala
+1552498598|pm47|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Base58.scala
+1552498598|pm47|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Bech32.scala
+1552498598|pm47|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Block.scala
+1552498598|pm47|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/BtcAmount.scala
+1552498598|pm47|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Crypto.scala
+1552498598|pm47|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/DeterministicWallet.scala
+1552498598|pm47|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/MerkleBlock.scala
+1552498598|pm47|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/MnemonicCode.scala
+1552498598|pm47|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/PaymentProtocol.scala
+1552498598|pm47|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Script.scala
+1552498598|pm47|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Transaction.scala
+1552498598|pm47|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/package.scala
+1552498598|pm47|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/BIP49Spec.scala
+1552498598|pm47|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/BIP84Spec.scala
+1552498598|pm47|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/Bech32Spec.scala
+1552498598|pm47|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/CheckLockTimeVerifySpec.scala
+1552498598|pm47|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/CryptoSpec.scala
+1552498598|pm47|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/DeriveWalletKeysSpec.scala
+1552498598|pm47|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/DeterministicWalletSpec.scala
+1552498598|pm47|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/LexicographicalOrderingSpec.scala
+1552498598|pm47|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/MerkleBlockSpec.scala
+1552498598|pm47|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/MnemonicCodeSpec.scala
+1552498598|pm47|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/MultisigSpec.scala
+1552498598|pm47|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/ProtocolSpec.scala
+1552498598|pm47|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/PuzzleSpec.scala
+1552498598|pm47|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/ScriptSpec.scala
+1552498598|pm47|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/SegwitSpec.scala
+1552498598|pm47|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/reference/ScriptSpec.scala
+1552498628|pm47|M|/bitcoin-lib/pom.xml
+1552500197|sstone|M|/bitcoin-lib/pom.xml
+1552500422|sstone|M|/bitcoin-lib/pom.xml
+1552500422|sstone|M|/bitcoin-lib/pom.xml
+1552991858|Fabrice Drouin|M|/bitcoin-lib/.travis.yml
+1552991858|Fabrice Drouin|A|/bitcoin-lib/BUILDING.md
+1552991858|Fabrice Drouin|M|/bitcoin-lib/README.md
+1552991858|Fabrice Drouin|M|/bitcoin-lib/pom.xml
+1552991858|Fabrice Drouin|A|/bitcoin-lib/src/main/java/fr/acinq/OSInfo.java
+1552991858|Fabrice Drouin|A|/bitcoin-lib/src/main/java/fr/acinq/Secp256k1Loader.java
+1552991858|Fabrice Drouin|A|/bitcoin-lib/src/main/resources/fr/acinq/native/Linux/x86_64/libsecp256k1.so
+1552991858|Fabrice Drouin|A|/bitcoin-lib/src/main/resources/fr/acinq/native/Mac/x86_64/libsecp256k1.jnilib
+1552991858|Fabrice Drouin|A|/bitcoin-lib/src/main/resources/fr/acinq/native/Windows/x86_64/secp256k1.dll
+1552991858|Fabrice Drouin|A|/bitcoin-lib/src/main/scala/org/bitcoin/Secp256k1Context.scala
+1553093751|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Crypto.scala
+1553093751|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/CryptoSpec.scala
+1553094289|sstone|M|/bitcoin-lib/README.md
+1553096358|sstone|M|/bitcoin-lib/pom.xml
+1553096358|sstone|M|/bitcoin-lib/pom.xml
+1558102620|sstone|M|/bitcoin-lib/README.md
+1558102620|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/PaymentProtocol.scala
+1558102620|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/PaymentProtocolSpec.scala
+1558626636|Fabrice Drouin|M|/bitcoin-lib/pom.xml
+1558626636|Fabrice Drouin|D|/bitcoin-lib/secp256k1
+1558626636|Fabrice Drouin|D|/bitcoin-lib/src/main/java/fr/acinq/OSInfo.java
+1558626636|Fabrice Drouin|D|/bitcoin-lib/src/main/java/fr/acinq/Secp256k1Loader.java
+1558626636|Fabrice Drouin|D|/bitcoin-lib/src/main/resources/fr/acinq/native/Linux/x86_64/libsecp256k1.so
+1558626636|Fabrice Drouin|D|/bitcoin-lib/src/main/resources/fr/acinq/native/Mac/x86_64/libsecp256k1.jnilib
+1558626636|Fabrice Drouin|D|/bitcoin-lib/src/main/resources/fr/acinq/native/Windows/x86_64/secp256k1.dll
+1558626636|Fabrice Drouin|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Crypto.scala
+1558626636|Fabrice Drouin|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Protocol.scala
+1558626636|Fabrice Drouin|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Script.scala
+1558626636|Fabrice Drouin|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Transaction.scala
+1558626636|Fabrice Drouin|D|/bitcoin-lib/src/main/scala/org/bitcoin/Secp256k1Context.scala
+1558626636|Fabrice Drouin|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/CryptoSpec.scala
+1558626636|Fabrice Drouin|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/Secp256k1Spec.scala
+1558626636|Fabrice Drouin|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/SegwitSpec.scala
+1558626636|Fabrice Drouin|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/TransactionSpec.scala
+1558959680|sstone|M|/bitcoin-lib/pom.xml
+1558959680|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Crypto.scala
+1558959680|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/DeterministicWallet.scala
+1558959680|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/CryptoSpec.scala
+1558960032|sstone|M|/bitcoin-lib/pom.xml
+1558960032|sstone|M|/bitcoin-lib/pom.xml
+1560431742|Fabrice Drouin|D|/bitcoin-lib/.gitmodules
+1560431742|Fabrice Drouin|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Crypto.scala
+1560431742|Fabrice Drouin|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/DeterministicWallet.scala
+1560431742|Fabrice Drouin|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Script.scala
+1560431742|Fabrice Drouin|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/ScriptElt.scala
+1560431742|Fabrice Drouin|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Transaction.scala
+1560431742|Fabrice Drouin|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/BIP49Spec.scala
+1560431742|Fabrice Drouin|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/BIP84Spec.scala
+1560431742|Fabrice Drouin|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/CheckLockTimeVerifySpec.scala
+1560431742|Fabrice Drouin|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/CryptoSpec.scala
+1560431742|Fabrice Drouin|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/MultisigSpec.scala
+1560431742|Fabrice Drouin|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/Secp256k1Spec.scala
+1560431742|Fabrice Drouin|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/SegwitSpec.scala
+1560431742|Fabrice Drouin|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/SighashSpec.scala
+1560431742|Fabrice Drouin|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/TransactionMalleabilitySpec.scala
+1560431742|Fabrice Drouin|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/TransactionSpec.scala
+1560431742|Fabrice Drouin|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/reference/KeyEncodingSpec.scala
+1560431981|sstone|M|/bitcoin-lib/pom.xml
+1560431981|sstone|M|/bitcoin-lib/pom.xml
+1560956123|sstone|M|/bitcoin-lib/pom.xml
+1564572927|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/BtcAmount.scala
+1564572927|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/package.scala
+1564572927|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/BtcAmountSpec.scala
+1564573682|sstone|M|/bitcoin-lib/pom.xml
+1565179254|sstone|M|/bitcoin-lib/pom.xml
+1565179576|sstone|M|/bitcoin-lib/pom.xml
+1565179576|sstone|M|/bitcoin-lib/pom.xml
+1566564857|Bastien Teinturier|M|/bitcoin-lib/README.md
+1566564857|Bastien Teinturier|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/BtcAmount.scala
+1566564857|Bastien Teinturier|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Transaction.scala
+1566564857|Bastien Teinturier|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/package.scala
+1566564857|Bastien Teinturier|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/BtcAmountSpec.scala
+1566564857|Bastien Teinturier|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/CheckLockTimeVerifySpec.scala
+1566564857|Bastien Teinturier|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/LexicographicalOrderingSpec.scala
+1566564857|Bastien Teinturier|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/MultisigSpec.scala
+1566564857|Bastien Teinturier|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/ScriptSpec.scala
+1566564857|Bastien Teinturier|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/SegwitSpec.scala
+1566564857|Bastien Teinturier|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/TransactionMalleabilitySpec.scala
+1566564857|Bastien Teinturier|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/TransactionSpec.scala
+1566564857|Bastien Teinturier|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/reference/TransactionSpec.scala
+1566819095|sstone|M|/bitcoin-lib/pom.xml
+1566819095|sstone|D|/bitcoin-lib/src/main/java/org/bitcoin/protocols/payments/Protos.java
+1566819095|sstone|D|/bitcoin-lib/src/main/protobuf/paymentrequest.proto
+1566819095|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/DeterministicWallet.scala
+1566819095|sstone|D|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/PaymentProtocol.scala
+1566819095|sstone|D|/bitcoin-lib/src/test/resources/cacert.pem
+1566819095|sstone|D|/bitcoin-lib/src/test/resources/cacerts
+1566819095|sstone|D|/bitcoin-lib/src/test/resources/cakey.pem
+1566819095|sstone|D|/bitcoin-lib/src/test/resources/paymentrequest.bin
+1566819095|sstone|D|/bitcoin-lib/src/test/resources/servercert.pem
+1566819095|sstone|D|/bitcoin-lib/src/test/resources/serverkey.pem
+1566819095|sstone|D|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/PaymentProtocolSpec.scala
+1566819314|sstone|M|/bitcoin-lib/pom.xml
+1566819314|sstone|M|/bitcoin-lib/pom.xml
+1566831027|sstone|M|/bitcoin-lib/README.md
+1572531312|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Crypto.scala
+1572531312|sstone|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/CryptoSpec.scala
+1572531325|sstone|M|/bitcoin-lib/pom.xml
+1572531341|sstone|M|/bitcoin-lib/src/test/resources/data/script_tests.json
+1572531576|sstone|M|/bitcoin-lib/.travis.yml
+1572532480|sstone|M|/bitcoin-lib/pom.xml
+1572532962|sstone|M|/bitcoin-lib/pom.xml
+1572532962|sstone|M|/bitcoin-lib/pom.xml
+1573205526|Fabrice Drouin|M|/bitcoin-lib/README.md
+1573828159|sstone|A|/bitcoin-lib/.github/ISSUE_TEMPLATE.md
+1578665073|sstone|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Bech32.scala
+1579030952|sstone|M|/bitcoin-lib/pom.xml
+1579030952|sstone|M|/bitcoin-lib/pom.xml
+1602857782|Bastien Teinturier|M|/bitcoin-lib/README.md
+1602857782|Bastien Teinturier|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/DeterministicWallet.scala
+1602857782|Bastien Teinturier|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Protocol.scala
+1602857782|Bastien Teinturier|A|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Psbt.scala
+1602857782|Bastien Teinturier|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/MultisigSpec.scala
+1602857782|Bastien Teinturier|A|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/PsbtSpec.scala
+1602857782|Bastien Teinturier|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/TransactionSpec.scala
+1603113498|Bastien Teinturier|M|/bitcoin-lib/README.md
+1603113498|Bastien Teinturier|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Psbt.scala
+1603113498|Bastien Teinturier|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Script.scala
+1603113498|Bastien Teinturier|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/PsbtSpec.scala
+1603113498|Bastien Teinturier|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/ScriptSpec.scala
+1603196425|Bastien Teinturier|M|/bitcoin-lib/pom.xml
+1603196425|Bastien Teinturier|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/BtcAmount.scala
+1603196425|Bastien Teinturier|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/DeterministicWallet.scala
+1603196425|Bastien Teinturier|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/MnemonicCode.scala
+1603196425|Bastien Teinturier|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Protocol.scala
+1603196425|Bastien Teinturier|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/ScriptElt.scala
+1603196425|Bastien Teinturier|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Transaction.scala
+1603196425|Bastien Teinturier|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/package.scala
+1603196425|Bastien Teinturier|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/BIP49Spec.scala
+1603196425|Bastien Teinturier|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/BIP84Spec.scala
+1603196425|Bastien Teinturier|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/samples/FindMyAddresses.scala
+1607074028|sstone|M|/bitcoin-lib/pom.xml
+1612531314|Bastien Teinturier|M|/bitcoin-lib/README.md
+1612531314|Bastien Teinturier|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Psbt.scala
+1612531314|Bastien Teinturier|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/PsbtSpec.scala
+1618820471|Bastien Teinturier|M|/bitcoin-lib/pom.xml
+1618820471|Bastien Teinturier|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Crypto.scala
+1618820471|Bastien Teinturier|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/MnemonicCode.scala
+1618820471|Bastien Teinturier|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/CryptoSpec.scala
+1618941166|Fabrice Drouin|M|/bitcoin-lib/pom.xml
+1618941166|Fabrice Drouin|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Crypto.scala
+1618941166|Fabrice Drouin|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/Secp256k1Spec.scala
+1618941471|Bastien Teinturier|A|/bitcoin-lib/.github/workflows/main.yml
+1618941471|Bastien Teinturier|M|/bitcoin-lib/README.md
+1619028750|sstone|M|/bitcoin-lib/pom.xml
+1619028759|sstone|M|/bitcoin-lib/pom.xml
+1621435257|Bastien Teinturier|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/BtcAmount.scala
+1621435257|Bastien Teinturier|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Psbt.scala
+1621435257|Bastien Teinturier|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Script.scala
+1621435257|Bastien Teinturier|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/ScriptElt.scala
+1621435257|Bastien Teinturier|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/PsbtSpec.scala
+1621435257|Bastien Teinturier|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/TransactionSpec.scala
+1621961321|sstone|M|/bitcoin-lib/pom.xml
+1621961324|sstone|M|/bitcoin-lib/pom.xml
+1623252088|Bastien Teinturier|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/LexicographicalOrdering.scala
+1623252088|Bastien Teinturier|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/LexicographicalOrderingSpec.scala
+1623678369|Bastien Teinturier|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/DeterministicWalletSpec.scala
+1628591658|Thebora Kompanioni|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Bech32.scala
+1628591658|Thebora Kompanioni|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/Bech32Spec.scala
+1631275142|Jin Eguchi|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Block.scala
+1631275142|Jin Eguchi|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Protocol.scala
+1631275142|Jin Eguchi|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/package.scala
+1631275142|Jin Eguchi|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/ProtocolSpec.scala
+1631894332|Cryptcoin Junkey|M|/bitcoin-lib/pom.xml
+1632122001|Bastien Teinturier|M|/bitcoin-lib/README.md
+1632122001|Bastien Teinturier|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Bech32.scala
+1632122001|Bastien Teinturier|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Script.scala
+1632122001|Bastien Teinturier|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/package.scala
+1632122001|Bastien Teinturier|M|/bitcoin-lib/src/test/resources/data/key_io_valid.json
+1632122001|Bastien Teinturier|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/BIP84Spec.scala
+1632122001|Bastien Teinturier|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/Bech32Spec.scala
+1632122001|Bastien Teinturier|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/reference/KeyEncodingSpec.scala
+1632745152|Bastien Teinturier|M|/bitcoin-lib/README.md
+1632745152|Bastien Teinturier|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Psbt.scala
+1632745152|Bastien Teinturier|M|/bitcoin-lib/src/main/scala/fr/acinq/bitcoin/Script.scala
+1632745152|Bastien Teinturier|M|/bitcoin-lib/src/test/scala/fr/acinq/bitcoin/PsbtSpec.scala

@@ -1,0 +1,160 @@
+1474970409|Wladimir J. van der Laan|A|/bitcoin-maintainer-tools/.gitignore
+1474970409|Wladimir J. van der Laan|A|/bitcoin-maintainer-tools/COPYING
+1474970409|Wladimir J. van der Laan|A|/bitcoin-maintainer-tools/README.md
+1474970409|Wladimir J. van der Laan|A|/bitcoin-maintainer-tools/build-for-compare.py
+1474970409|Wladimir J. van der Laan|A|/bitcoin-maintainer-tools/patches/stripbuildinfo.patch
+1474970744|Wladimir J. van der Laan|M|/bitcoin-maintainer-tools/README.md
+1474971074|Wladimir J. van der Laan|M|/bitcoin-maintainer-tools/README.md
+1474971416|Wladimir J. van der Laan|M|/bitcoin-maintainer-tools/README.md
+1474971416|Wladimir J. van der Laan|M|/bitcoin-maintainer-tools/build-for-compare.py
+1474974492|Wladimir J. van der Laan|M|/bitcoin-maintainer-tools/build-for-compare.py
+1475047975|Wladimir J. van der Laan|M|/bitcoin-maintainer-tools/build-for-compare.py
+1475047975|Wladimir J. van der Laan|M|/bitcoin-maintainer-tools/patches/stripbuildinfo.patch
+1475130690|Wladimir J. van der Laan|M|/bitcoin-maintainer-tools/build-for-compare.py
+1475132645|Wladimir J. van der Laan|M|/bitcoin-maintainer-tools/build-for-compare.py
+1480325235|Karl-Johan Alm|M|/bitcoin-maintainer-tools/build-for-compare.py
+1480325235|Karl-Johan Alm|A|/bitcoin-maintainer-tools/patches/stripbuildinfo-with-using-ns.patch
+1480325235|Karl-Johan Alm|M|/bitcoin-maintainer-tools/patches/stripbuildinfo.patch
+1480476736|Karl-Johan Alm|M|/bitcoin-maintainer-tools/build-for-compare.py
+1480476736|Karl-Johan Alm|D|/bitcoin-maintainer-tools/patches/stripbuildinfo-with-using-ns.patch
+1480476736|Karl-Johan Alm|A|/bitcoin-maintainer-tools/patches/stripbuildinfo-without-using-ns.patch
+1480476736|Karl-Johan Alm|M|/bitcoin-maintainer-tools/patches/stripbuildinfo.patch
+1480917099|Karl-Johan Alm|M|/bitcoin-maintainer-tools/patches/stripbuildinfo-without-using-ns.patch
+1480917099|Karl-Johan Alm|M|/bitcoin-maintainer-tools/patches/stripbuildinfo.patch
+1480923193|Karl-Johan Alm|M|/bitcoin-maintainer-tools/build-for-compare.py
+1480924356|Karl-Johan Alm|M|/bitcoin-maintainer-tools/patches/stripbuildinfo.patch
+1480925496|Karl-Johan Alm|M|/bitcoin-maintainer-tools/README.md
+1480925496|Karl-Johan Alm|M|/bitcoin-maintainer-tools/build-for-compare.py
+1480928608|Karl-Johan Alm|M|/bitcoin-maintainer-tools/build-for-compare.py
+1480929663|Karl-Johan Alm|M|/bitcoin-maintainer-tools/build-for-compare.py
+1485619819|MarcoFalke|M|/bitcoin-maintainer-tools/README.md
+1485619819|MarcoFalke|A|/bitcoin-maintainer-tools/clang-format.py
+1486753597|Andrew Chow|A|/bitcoin-maintainer-tools/release-prep.sh
+1487909965|Karl-Johan Alm|D|/bitcoin-maintainer-tools/patches/stripbuildinfo-without-using-ns.patch
+1487909965|Karl-Johan Alm|M|/bitcoin-maintainer-tools/patches/stripbuildinfo.patch
+1487910225|Karl-Johan Alm|M|/bitcoin-maintainer-tools/patches/stripbuildinfo.patch
+1489828038|Wladimir J. van der Laan|M|/bitcoin-maintainer-tools/README.md
+1489828038|Wladimir J. van der Laan|A|/bitcoin-maintainer-tools/unittest-statistics.py
+1491817123|Wladimir J. van der Laan|M|/bitcoin-maintainer-tools/README.md
+1491817123|Wladimir J. van der Laan|A|/bitcoin-maintainer-tools/treehash512.py
+1496668152|MarcoFalke|M|/bitcoin-maintainer-tools/README.md
+1496668152|MarcoFalke|A|/bitcoin-maintainer-tools/backport.py
+1502352910|Wladimir J. van der Laan|M|/bitcoin-maintainer-tools/README.md
+1502352910|Wladimir J. van der Laan|A|/bitcoin-maintainer-tools/signoff.py
+1513505630|Wladimir J. van der Laan|M|/bitcoin-maintainer-tools/README.md
+1513505630|Wladimir J. van der Laan|A|/bitcoin-maintainer-tools/check-dnsseeds.py
+1513701551|MarcoFalke|M|/bitcoin-maintainer-tools/README.md
+1516130827|MarcoFalke|M|/bitcoin-maintainer-tools/unittest-statistics.py
+1523269308|practicalswift|M|/bitcoin-maintainer-tools/patches/stripbuildinfo.patch
+1524025782|lucash-dev|M|/bitcoin-maintainer-tools/unittest-statistics.py
+1524491026|Wladimir J. van der Laan|M|/bitcoin-maintainer-tools/README.md
+1524491026|Wladimir J. van der Laan|A|/bitcoin-maintainer-tools/fastcopy-chaindata.py
+1548525266|MarcoFalke|M|/bitcoin-maintainer-tools/README.md
+1553096168|practicalswift|M|/bitcoin-maintainer-tools/patches/stripbuildinfo.patch
+1564620826|fanquake|M|/bitcoin-maintainer-tools/check-dnsseeds.py
+1564623629|fanquake|M|/bitcoin-maintainer-tools/patches/stripbuildinfo.patch
+1564629275|fanquake|M|/bitcoin-maintainer-tools/build-for-compare.py
+1564629284|fanquake|M|/bitcoin-maintainer-tools/build-for-compare.py
+1564705704|fanquake|M|/bitcoin-maintainer-tools/build-for-compare.py
+1564911897|Wladimir J. van der Laan|M|/bitcoin-maintainer-tools/build-for-compare.py
+1565166143|fanquake|M|/bitcoin-maintainer-tools/unittest-statistics.py
+1565166202|fanquake|M|/bitcoin-maintainer-tools/README.md
+1565167849|fanquake|M|/bitcoin-maintainer-tools/fastcopy-chaindata.py
+1565898114|Wladimir J. van der Laan|A|/bitcoin-maintainer-tools/github-merge.py
+1566179459|fanquake|M|/bitcoin-maintainer-tools/README.md
+1566270336|fanquake|M|/bitcoin-maintainer-tools/README.md
+1566270336|fanquake|A|/bitcoin-maintainer-tools/update-translations.py
+1566782258|fanquake|M|/bitcoin-maintainer-tools/github-merge.py
+1569658952|Wladimir J. van der Laan|M|/bitcoin-maintainer-tools/update-translations.py
+1569829160|Wladimir J. van der Laan|M|/bitcoin-maintainer-tools/update-translations.py
+1570268794|Wladimir J. van der Laan|M|/bitcoin-maintainer-tools/README.md
+1570268794|Wladimir J. van der Laan|A|/bitcoin-maintainer-tools/transifex-migrate-resource.py
+1570268830|Wladimir J. van der Laan|M|/bitcoin-maintainer-tools/transifex-migrate-resource.py
+1570352358|Wladimir J. van der Laan|M|/bitcoin-maintainer-tools/update-translations.py
+1570612490|Wladimir J. van der Laan|M|/bitcoin-maintainer-tools/README.md
+1570612490|Wladimir J. van der Laan|A|/bitcoin-maintainer-tools/list-pulls.py
+1572618162|MarcoFalke|M|/bitcoin-maintainer-tools/backport.py
+1572618162|MarcoFalke|M|/bitcoin-maintainer-tools/build-for-compare.py
+1572618162|MarcoFalke|M|/bitcoin-maintainer-tools/github-merge.py
+1572618162|MarcoFalke|M|/bitcoin-maintainer-tools/list-pulls.py
+1573244506|Wladimir J. van der Laan|M|/bitcoin-maintainer-tools/README.md
+1573244506|Wladimir J. van der Laan|A|/bitcoin-maintainer-tools/make-tag.py
+1574710877|Adam Jonas|M|/bitcoin-maintainer-tools/patches/stripbuildinfo.patch
+1574806424|fanquake|M|/bitcoin-maintainer-tools/github-merge.py
+1575303257|Emil Engler|M|/bitcoin-maintainer-tools/COPYING
+1578371214|Andrew Chow|M|/bitcoin-maintainer-tools/update-translations.py
+1584568212|MarcoFalke|M|/bitcoin-maintainer-tools/github-merge.py
+1584627947|MarcoFalke|M|/bitcoin-maintainer-tools/github-merge.py
+1586930837|fanquake|M|/bitcoin-maintainer-tools/patches/stripbuildinfo.patch
+1588448089|MarcoFalke|A|/bitcoin-maintainer-tools/optimize-pngs.py
+1588449556|MarcoFalke|M|/bitcoin-maintainer-tools/optimize-pngs.py
+1590328369|MarcoFalke|M|/bitcoin-maintainer-tools/github-merge.py
+1590328371|MarcoFalke|M|/bitcoin-maintainer-tools/github-merge.py
+1592229786|Tim Ruffing|M|/bitcoin-maintainer-tools/github-merge.py
+1593002085|MarcoFalke|M|/bitcoin-maintainer-tools/github-merge.py
+1593705566|Wladimir J. van der Laan|M|/bitcoin-maintainer-tools/check-dnsseeds.py
+1593706211|Wladimir J. van der Laan|M|/bitcoin-maintainer-tools/list-pulls.py
+1593706529|Wladimir J. van der Laan|M|/bitcoin-maintainer-tools/list-pulls.py
+1600807113|MarcoFalke|M|/bitcoin-maintainer-tools/github-merge.py
+1600807113|MarcoFalke|M|/bitcoin-maintainer-tools/github-merge.py
+1601583015|Wladimir J. van der Laan|M|/bitcoin-maintainer-tools/transifex-migrate-resource.py
+1601876709|fanquake|M|/bitcoin-maintainer-tools/check-dnsseeds.py
+1601876914|fanquake|M|/bitcoin-maintainer-tools/check-dnsseeds.py
+1601992153|Wladimir J. van der Laan|M|/bitcoin-maintainer-tools/github-merge.py
+1602039188|fanquake|M|/bitcoin-maintainer-tools/patches/stripbuildinfo.patch
+1603790741|Wladimir J. van der Laan|M|/bitcoin-maintainer-tools/github-merge.py
+1605774943|Wladimir J. van der Laan|M|/bitcoin-maintainer-tools/make-tag.py
+1610528351|Wladimir J. van der Laan|M|/bitcoin-maintainer-tools/github-merge.py
+1610548012|Wladimir J. van der Laan|M|/bitcoin-maintainer-tools/github-merge.py
+1610717064|Wladimir J. van der Laan|A|/bitcoin-maintainer-tools/gitian-verify.py
+1610743520|Wladimir J. van der Laan|M|/bitcoin-maintainer-tools/README.md
+1611516752|Wladimir J. van der Laan|M|/bitcoin-maintainer-tools/list-pulls.py
+1611763027|MarcoFalke|M|/bitcoin-maintainer-tools/README.md
+1611763027|MarcoFalke|A|/bitcoin-maintainer-tools/delete_nonreduced_fuzz_inputs.sh
+1612776005|Wladimir J. van der Laan|M|/bitcoin-maintainer-tools/README.md
+1612776005|Wladimir J. van der Laan|A|/bitcoin-maintainer-tools/ghmeta/__init__.py
+1612776005|Wladimir J. van der Laan|A|/bitcoin-maintainer-tools/ghwatch.py
+1612776005|Wladimir J. van der Laan|A|/bitcoin-maintainer-tools/termlib/__init__.py
+1612776005|Wladimir J. van der Laan|A|/bitcoin-maintainer-tools/termlib/attr.py
+1612776005|Wladimir J. van der Laan|A|/bitcoin-maintainer-tools/termlib/input.py
+1612776005|Wladimir J. van der Laan|A|/bitcoin-maintainer-tools/termlib/tableprinter.py
+1613082835|Dimitri|M|/bitcoin-maintainer-tools/ghwatch.py
+1613082835|Dimitri|M|/bitcoin-maintainer-tools/termlib/input.py
+1613235092|Dimitri|M|/bitcoin-maintainer-tools/README.md
+1613235092|Dimitri|M|/bitcoin-maintainer-tools/ghwatch.py
+1613480878|Dimitri|M|/bitcoin-maintainer-tools/README.md
+1613480878|Dimitri|M|/bitcoin-maintainer-tools/ghwatch.py
+1613569467|Dimitri|M|/bitcoin-maintainer-tools/ghwatch.py
+1613596708|Dimitri|M|/bitcoin-maintainer-tools/ghwatch.py
+1616291218|fanquake|M|/bitcoin-maintainer-tools/patches/stripbuildinfo.patch
+1617703866|MarcoFalke|M|/bitcoin-maintainer-tools/README.md
+1617882348|W. J. van der Laan|M|/bitcoin-maintainer-tools/README.md
+1617882348|W. J. van der Laan|M|/bitcoin-maintainer-tools/gitian-verify.py
+1618810253|W. J. van der Laan|M|/bitcoin-maintainer-tools/gitian-verify.py
+1618824061|MarcoFalke|M|/bitcoin-maintainer-tools/github-merge.py
+1619102278|W. J. van der Laan|M|/bitcoin-maintainer-tools/README.md
+1619102278|W. J. van der Laan|M|/bitcoin-maintainer-tools/github-merge.py
+1619966586|Sjors Provoost|M|/bitcoin-maintainer-tools/gitian-verify.py
+1619966976|Sjors Provoost|M|/bitcoin-maintainer-tools/README.md
+1620040081|coinforensics|M|/bitcoin-maintainer-tools/gitian-verify.py
+1620208591|Hennadii Stepanov|M|/bitcoin-maintainer-tools/patches/stripbuildinfo.patch
+1622744268|Hennadii Stepanov|M|/bitcoin-maintainer-tools/update-translations.py
+1622759152|Hennadii Stepanov|M|/bitcoin-maintainer-tools/update-translations.py
+1622759194|Hennadii Stepanov|M|/bitcoin-maintainer-tools/update-translations.py
+1622759993|Hennadii Stepanov|M|/bitcoin-maintainer-tools/update-translations.py
+1622762338|Hennadii Stepanov|M|/bitcoin-maintainer-tools/update-translations.py
+1622763266|Hennadii Stepanov|M|/bitcoin-maintainer-tools/update-translations.py
+1623827674|MarcoFalke|M|/bitcoin-maintainer-tools/delete_nonreduced_fuzz_inputs.sh
+1626354045|W. J. van der Laan|M|/bitcoin-maintainer-tools/README.md
+1626354045|W. J. van der Laan|D|/bitcoin-maintainer-tools/transifex-migrate-resource.py
+1626789219|W. J. van der Laan|A|/bitcoin-maintainer-tools/make-tag-pre-22.0.py
+1626789219|W. J. van der Laan|M|/bitcoin-maintainer-tools/make-tag.py
+1626864298|Hennadii Stepanov|M|/bitcoin-maintainer-tools/update-translations.py
+1626864305|Hennadii Stepanov|M|/bitcoin-maintainer-tools/update-translations.py
+1626864305|Hennadii Stepanov|M|/bitcoin-maintainer-tools/update-translations.py
+1626873148|Hennadii Stepanov|M|/bitcoin-maintainer-tools/README.md
+1626873148|Hennadii Stepanov|M|/bitcoin-maintainer-tools/backport.py
+1628682179|Hennadii Stepanov|M|/bitcoin-maintainer-tools/patches/stripbuildinfo.patch
+1630418118|W. J. van der Laan|M|/bitcoin-maintainer-tools/README.md
+1631125509|W. J. van der Laan|M|/bitcoin-maintainer-tools/list-pulls.py
+1631193849|Prayank|M|/bitcoin-maintainer-tools/github-merge.py

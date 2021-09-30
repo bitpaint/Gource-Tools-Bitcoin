@@ -1,0 +1,21 @@
+1563107966|Richard|A|/satnode.space/.gitattributes
+1563108112|Richard|A|/satnode.space/.DS_Store
+1563108112|Richard|A|/satnode.space/index.html
+1563108112|Richard|A|/satnode.space/js/app.js
+1563108112|Richard|A|/satnode.space/js/qr.min.js
+1563108112|Richard|A|/satnode.space/view-data/.DS_Store
+1563108112|Richard|A|/satnode.space/view-data/index.html
+1563108553|Richard|M|/satnode.space/index.html
+1563108553|Richard|M|/satnode.space/view-data/index.html
+1563109365|Richard|D|/satnode.space/index.html
+1563109365|Richard|A|/satnode.space/index.php
+1563109365|Richard|D|/satnode.space/view-data/index.html
+1563109365|Richard|A|/satnode.space/view-data/index.php
+1563109514|Richard|M|/satnode.space/index.php
+1563111947|Richard Hogan|D|/satnode.space/.DS_Store
+1563111955|Richard Hogan|D|/satnode.space/view-data/.DS_Store
+1563119679|Richard|M|/satnode.space/index.php
+1563119679|Richard|M|/satnode.space/view-data/index.php
+1563248594|Richard|M|/satnode.space/index.php
+1563248594|Richard|M|/satnode.space/js/app.js
+1563248594|Richard|M|/satnode.space/view-data/index.php

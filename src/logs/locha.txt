@@ -1,0 +1,1914 @@
+1533845054|Randy Brito|A|/locha/README.md
+1533845086|Randy Brito|M|/locha/README.md
+1553430227|luisan00|M|/locha/README.md
+1553430343|luisan00|A|/locha/README_ES.md
+1553430526|luisan00|A|/locha/LCENSE
+1553430595|luisan00|D|/locha/LCENSE
+1553430595|luisan00|A|/locha/LICENSE
+1553430764|luisan00|A|/locha/documents/index.md
+1553430920|luisan00|M|/locha/README.md
+1553431341|luisan00|M|/locha/README.md
+1553431395|luisan00|M|/locha/README.md
+1553431439|luisan00|M|/locha/README.md
+1553431517|luisan00|A|/locha/documents/README.md
+1553431517|luisan00|D|/locha/documents/index.md
+1553432039|luisan00|M|/locha/README_ES.md
+1553432258|luisan00|M|/locha/README_ES.md
+1553433609|luisan00|M|/locha/README.md
+1553686510|luisan00|M|/locha/README.md
+1553686820|luisan00|A|/locha/documents/en/README.md
+1553686855|luisan00|A|/locha/documents/es/README.md
+1553687129|luisan00|M|/locha/documents/es/README.md
+1553687205|luisan00|M|/locha/documents/es/README.md
+1553687270|luisan00|A|/locha/documents/es/media/README.md
+1553687414|luisan00|A|/locha/documents/es/media/star.png
+1553689493|luisan00|M|/locha/documents/es/README.md
+1553689688|luisan00|M|/locha/documents/es/README.md
+1553690697|luisan00|M|/locha/documents/es/README.md
+1553690736|luisan00|M|/locha/documents/es/README.md
+1553690780|luisan00|M|/locha/documents/es/README.md
+1553691968|luisan00|M|/locha/documents/es/README.md
+1555159074|luisan00|M|/locha/README_ES.md
+1555159839|luisan00|M|/locha/README_ES.md
+1555159954|luisan00|M|/locha/README_ES.md
+1555165937|luisan00|A|/locha/documents/README_ES.md
+1555165956|luisan00|M|/locha/documents/README_ES.md
+1555166053|luisan00|M|/locha/README_ES.md
+1555450577|Randy Brito|M|/locha/README.md
+1555450605|Randy Brito|M|/locha/README.md
+1555450773|Randy Brito|M|/locha/README.md
+1555461615|Randy Brito|M|/locha/README.md
+1555461643|Randy Brito|M|/locha/README.md
+1558021796|wimel|M|/locha/README_ES.md
+1558021796|wimel|A|/locha/images/locha1.svg
+1558022016|wimel|M|/locha/README_ES.md
+1558023670|wimel|M|/locha/README.md
+1565714255|Randy Brito|M|/locha/README.md
+1565714404|Randy Brito|M|/locha/LICENSE
+1565724972|luisan00|M|/locha/README.md
+1565727402|luisan00|A|/locha/images/locha_logo.png
+1565727633|luisan00|M|/locha/README.md
+1565727661|luisan00|M|/locha/README.md
+1565728525|luisan00|M|/locha/README.md
+1565728750|luisan00|M|/locha/README.md
+1565731791|luisan00|M|/locha/README_ES.md
+1565731957|luisan00|M|/locha/README_ES.md
+1565732643|luisan00|A|/locha/README_PT.md
+1565732852|luisan00|M|/locha/README.md
+1565732875|luisan00|M|/locha/README_ES.md
+1567767510|Randy Brito|M|/locha/README.md
+1567790830|Randy Brito|M|/locha/README.md
+1570591086|luisan00|A|/locha/.gitignore
+1570591784|luisan00|M|/locha/.gitignore
+1570591820|luisan00|M|/locha/README_ES.md
+1570591820|luisan00|A|/locha/images/LogotipoTurpial-Color.20-09-19.svg
+1570591830|luisan00|M|/locha/documents/es/README.md
+1570592082|luisan00|M|/locha/README.md
+1570592118|luisan00|M|/locha/README.md
+1570594819|luisan00|A|/locha/DS/esp32-wrover_datasheet_en.pdf
+1570594831|luisan00|M|/locha/README.md
+1570594848|luisan00|M|/locha/README_ES.md
+1570595449|luisan00|M|/locha/README_ES.md
+1570595735|luisan00|M|/locha/README_ES.md
+1570595826|luisan00|M|/locha/README_PT.md
+1570595942|luisan00|M|/locha/README_PT.md
+1571856281|luisan00|A|/locha/CODE_OF_CONDUCT.md
+1572527161|luisan00|M|/locha/documents/es/README.md
+1572688098|luisan00|A|/locha/.github/stale.yml
+1572688367|luisan00|A|/locha/.github/ISSUE_TEMPLATE/feature_request.md
+1572688964|luisan00|A|/locha/CONTRIBUTING.md
+1572689182|luisan00|M|/locha/README.md
+1576436663|Stephanie Nogales|A|/locha/.github/FUNDING.yml
+1576797113|Randy Brito|M|/locha/.github/FUNDING.yml
+1578196009|xmrhaelan|M|/locha/README.md
+1578235053|xmrhaelan|M|/locha/README.md
+1578439232|Jean Pierre Dudey|D|/locha/README_PT.md
+1578488433|Jean Pierre Dudey|A|/locha/README.es.md
+1578488433|Jean Pierre Dudey|M|/locha/README.md
+1578488433|Jean Pierre Dudey|D|/locha/README_ES.md
+1578488433|Jean Pierre Dudey|A|/locha/images/turpial-finished-board.jpg
+1578488433|Jean Pierre Dudey|A|/locha/images/turpial-size-compared.jpg
+1578628837|xmrhaelan|M|/locha/CONTRIBUTING.md
+1578628894|xmrhaelan|M|/locha/CONTRIBUTING.md
+1578629539|xmrhaelan|M|/locha/README.md
+1578630852|xmrhaelan|A|/locha/documents/turpial-description.md
+1578631285|xmrhaelan|M|/locha/CONTRIBUTING.md
+1578662547|xmrhaelan|M|/locha/README.md
+1578747277|xmrhaelan|M|/locha/documents/turpial-description.md
+1579357349|Randy Brito|M|/locha/documents/turpial-description.md
+1579378141|Randy Brito|M|/locha/README.md
+1579384484|Randy Brito|M|/locha/CODE_OF_CONDUCT.md
+1579646261|Randy Brito|D|/locha/documents/README_ES.md
+1579646261|Randy Brito|D|/locha/documents/en/README.md
+1579646261|Randy Brito|M|/locha/documents/es/README.md
+1579646261|Randy Brito|D|/locha/documents/es/media/README.md
+1579646261|Randy Brito|D|/locha/documents/es/media/star.png
+1580064054|Brito|M|/locha/README.md
+1580064541|Stephanie Nogales|M|/locha/README.md
+1580144402|Randy Brito|M|/locha/README.md
+1580145171|Randy Brito|M|/locha/README.md
+1580145802|Randy Brito|M|/locha/README.md
+1580159440|Randy Brito|M|/locha/README.md
+1583787869|Jean Pierre Dudey|M|/locha/README.md
+1583869375|Luis Ruiz|M|/locha/.gitignore
+1583869375|Luis Ruiz|D|/locha/DS/esp32-wrover_datasheet_en.pdf
+1583869375|Luis Ruiz|D|/locha/README.es.md
+1583869375|Luis Ruiz|A|/locha/documentation/index.rst
+1583869375|Luis Ruiz|D|/locha/documents/README.md
+1583869375|Luis Ruiz|D|/locha/documents/es/README.md
+1583869375|Luis Ruiz|D|/locha/documents/turpial-description.md
+1584429683|gustavosinbandera1|A|/locha/documentation/espa\303\261ol/images/LogotipoTurpial-Color.20-09-19.svg
+1584429683|gustavosinbandera1|A|/locha/documentation/espa\303\261ol/images/aodv-concept.png
+1584429683|gustavosinbandera1|A|/locha/documentation/espa\303\261ol/images/aodv-concept1.png
+1584429683|gustavosinbandera1|A|/locha/documentation/espa\303\261ol/images/aodv-concept10.png
+1584429683|gustavosinbandera1|A|/locha/documentation/espa\303\261ol/images/aodv-concept11.png
+1584429683|gustavosinbandera1|A|/locha/documentation/espa\303\261ol/images/aodv-concept12.png
+1584429683|gustavosinbandera1|A|/locha/documentation/espa\303\261ol/images/aodv-concept13.png
+1584429683|gustavosinbandera1|A|/locha/documentation/espa\303\261ol/images/aodv-concept2.png
+1584429683|gustavosinbandera1|A|/locha/documentation/espa\303\261ol/images/aodv-concept3.png
+1584429683|gustavosinbandera1|A|/locha/documentation/espa\303\261ol/images/aodv-concept4.png
+1584429683|gustavosinbandera1|A|/locha/documentation/espa\303\261ol/images/aodv-concept5.png
+1584429683|gustavosinbandera1|A|/locha/documentation/espa\303\261ol/images/aodv-concept6.png
+1584429683|gustavosinbandera1|A|/locha/documentation/espa\303\261ol/images/aodv-concept7.png
+1584429683|gustavosinbandera1|A|/locha/documentation/espa\303\261ol/images/aodv-concept8.png
+1584429683|gustavosinbandera1|A|/locha/documentation/espa\303\261ol/images/aodv-concept9.png
+1584429683|gustavosinbandera1|A|/locha/documentation/espa\303\261ol/images/flooding-ack.gif
+1584429683|gustavosinbandera1|A|/locha/documentation/espa\303\261ol/images/flooding.gif
+1584429683|gustavosinbandera1|A|/locha/documentation/espa\303\261ol/images/routing.png
+1584429683|gustavosinbandera1|A|/locha/documentation/espa\303\261ol/images/simpleRREQ-reply.gif
+1584429683|gustavosinbandera1|A|/locha/documentation/espa\303\261ol/imple_pic/ACKMSG.png
+1584429683|gustavosinbandera1|A|/locha/documentation/espa\303\261ol/imple_pic/RREPMSG.png
+1584429683|gustavosinbandera1|A|/locha/documentation/espa\303\261ol/imple_pic/RREQMSG.png
+1584429683|gustavosinbandera1|A|/locha/documentation/espa\303\261ol/imple_pic/Receive_RREQ.png
+1584429683|gustavosinbandera1|A|/locha/documentation/espa\303\261ol/imple_pic/Route_table_entry.png
+1584429683|gustavosinbandera1|A|/locha/documentation/espa\303\261ol/imple_pic/aodv-topology.png
+1584429683|gustavosinbandera1|A|/locha/documentation/espa\303\261ol/imple_pic/aodv-topology2.png
+1584429683|gustavosinbandera1|A|/locha/documentation/espa\303\261ol/imple_pic/aodv-versions.png
+1584429683|gustavosinbandera1|A|/locha/documentation/espa\303\261ol/imple_pic/fetch_route_table_entry.png
+1584429683|gustavosinbandera1|A|/locha/documentation/espa\303\261ol/imple_pic/header-rfc5444.png
+1584429683|gustavosinbandera1|A|/locha/documentation/espa\303\261ol/imple_pic/node-job.png
+1584429683|gustavosinbandera1|A|/locha/documentation/espa\303\261ol/imple_pic/process_routing_info.png
+1584429683|gustavosinbandera1|A|/locha/documentation/espa\303\261ol/imple_pic/rfc5444-pkt.png
+1584429683|gustavosinbandera1|A|/locha/documentation/espa\303\261ol/imple_pic/route-request.png
+1584429683|gustavosinbandera1|A|/locha/documentation/espa\303\261ol/imple_pic/simpleRREQ-reply.gif
+1584429683|gustavosinbandera1|A|/locha/documentation/espa\303\261ol/imple_pic/tlv-addr-block.png
+1584429683|gustavosinbandera1|A|/locha/documentation/espa\303\261ol/imple_pic/tlvOrigPrefix.png
+1584429683|gustavosinbandera1|A|/locha/documentation/espa\303\261ol/imple_pic/tlvTargetPrefix.png
+1584429683|gustavosinbandera1|A|/locha/documentation/espa\303\261ol/imple_pic/update_route_table_entry.png
+1584429683|gustavosinbandera1|A|/locha/documentation/espa\303\261ol/implementacion.MD
+1584429683|gustavosinbandera1|A|/locha/documentation/espa\303\261ol/protocolo-aodvv2.MD
+1584429683|gustavosinbandera1|A|/locha/documentation/ingles/FLOW_CHART.MD
+1584429683|gustavosinbandera1|A|/locha/documentation/ingles/aodvv2_process.md
+1584429683|gustavosinbandera1|A|/locha/documentation/ingles/pictures/LogotipoTurpial-Color.20-09-19.svg
+1584429683|gustavosinbandera1|A|/locha/documentation/ingles/pictures/discovery_route.png
+1584429683|gustavosinbandera1|A|/locha/documentation/ingles/pictures/gnrc_aodvv2_init.png
+1584501738|gustavosinbandera1|M|/locha/documentation/espa\303\261ol/protocolo-aodvv2.MD
+1584501738|gustavosinbandera1|M|/locha/documentation/ingles/aodvv2_process.md
+1584501940|gustavosinbandera1|D|/locha/documentation/ingles/pictures/LogotipoTurpial-Color.20-09-19.svg
+1584505432|gustavosinbandera1|D|/locha/documentation/espa\303\261ol/imple_pic/node-job.png
+1584505432|gustavosinbandera1|M|/locha/documentation/espa\303\261ol/imple_pic/route-request.png
+1584505432|gustavosinbandera1|M|/locha/documentation/espa\303\261ol/implementacion.MD
+1584505432|gustavosinbandera1|M|/locha/documentation/espa\303\261ol/protocolo-aodvv2.MD
+1584505762|gustavosinbandera1|A|/locha/documentation/espa\303\261ol/imple_pic/route-request-flooding.png
+1584505762|gustavosinbandera1|D|/locha/documentation/espa\303\261ol/imple_pic/route-request.png
+1584505762|gustavosinbandera1|M|/locha/documentation/espa\303\261ol/implementacion.MD
+1584511951|gustavosinbandera1|M|/locha/documentation/espa\303\261ol/implementacion.MD
+1584542901|gustavosinbandera1|M|/locha/documentation/espa\303\261ol/implementacion.MD
+1584542901|gustavosinbandera1|M|/locha/documentation/espa\303\261ol/protocolo-aodvv2.MD
+1584557013|gustavosinbandera1|D|/locha/documentation/espa\303\261ol/images/LogotipoTurpial-Color.20-09-19.svg
+1584557013|gustavosinbandera1|D|/locha/documentation/espa\303\261ol/images/aodv-concept.png
+1584557013|gustavosinbandera1|D|/locha/documentation/espa\303\261ol/images/aodv-concept1.png
+1584557013|gustavosinbandera1|D|/locha/documentation/espa\303\261ol/images/aodv-concept10.png
+1584557013|gustavosinbandera1|D|/locha/documentation/espa\303\261ol/images/aodv-concept11.png
+1584557013|gustavosinbandera1|D|/locha/documentation/espa\303\261ol/images/aodv-concept12.png
+1584557013|gustavosinbandera1|D|/locha/documentation/espa\303\261ol/images/aodv-concept13.png
+1584557013|gustavosinbandera1|D|/locha/documentation/espa\303\261ol/images/aodv-concept2.png
+1584557013|gustavosinbandera1|D|/locha/documentation/espa\303\261ol/images/aodv-concept3.png
+1584557013|gustavosinbandera1|D|/locha/documentation/espa\303\261ol/images/aodv-concept4.png
+1584557013|gustavosinbandera1|D|/locha/documentation/espa\303\261ol/images/aodv-concept5.png
+1584557013|gustavosinbandera1|D|/locha/documentation/espa\303\261ol/images/aodv-concept6.png
+1584557013|gustavosinbandera1|D|/locha/documentation/espa\303\261ol/images/aodv-concept7.png
+1584557013|gustavosinbandera1|D|/locha/documentation/espa\303\261ol/images/aodv-concept8.png
+1584557013|gustavosinbandera1|D|/locha/documentation/espa\303\261ol/images/aodv-concept9.png
+1584557013|gustavosinbandera1|D|/locha/documentation/espa\303\261ol/images/flooding-ack.gif
+1584557013|gustavosinbandera1|D|/locha/documentation/espa\303\261ol/images/flooding.gif
+1584557013|gustavosinbandera1|D|/locha/documentation/espa\303\261ol/images/routing.png
+1584557013|gustavosinbandera1|D|/locha/documentation/espa\303\261ol/images/simpleRREQ-reply.gif
+1584557013|gustavosinbandera1|M|/locha/documentation/espa\303\261ol/implementacion.MD
+1584557013|gustavosinbandera1|D|/locha/documentation/espa\303\261ol/protocolo-aodvv2.MD
+1584557013|gustavosinbandera1|D|/locha/documentation/ingles/FLOW_CHART.MD
+1584557013|gustavosinbandera1|D|/locha/documentation/ingles/aodvv2_process.md
+1584557013|gustavosinbandera1|D|/locha/documentation/ingles/pictures/discovery_route.png
+1584557013|gustavosinbandera1|D|/locha/documentation/ingles/pictures/gnrc_aodvv2_init.png
+1584557200|gustavosinbandera1|M|/locha/documentation/espa\303\261ol/implementacion.MD
+1584598526|gustavosinbandera1|A|/locha/documentation/espa\303\261ol/imple_pic/network-topology.png
+1584598526|gustavosinbandera1|M|/locha/documentation/espa\303\261ol/implementacion.MD
+1584934120|gustavosinbandera1|A|/locha/documentation/espa\303\261ol/imple_pic/RREQ-flooding.png
+1584934120|gustavosinbandera1|A|/locha/documentation/espa\303\261ol/imple_pic/RREQ-table-route.png
+1584934120|gustavosinbandera1|A|/locha/documentation/espa\303\261ol/imple_pic/RREQ1.png
+1584934120|gustavosinbandera1|A|/locha/documentation/espa\303\261ol/imple_pic/RREQ2.png
+1584934120|gustavosinbandera1|A|/locha/documentation/espa\303\261ol/imple_pic/RREQ3.png
+1584934120|gustavosinbandera1|A|/locha/documentation/espa\303\261ol/imple_pic/RREQ4.png
+1584934120|gustavosinbandera1|A|/locha/documentation/espa\303\261ol/imple_pic/RREQ5.png
+1584934120|gustavosinbandera1|A|/locha/documentation/espa\303\261ol/imple_pic/RREQ6.png
+1584934120|gustavosinbandera1|A|/locha/documentation/espa\303\261ol/imple_pic/RREQ7.png
+1584934120|gustavosinbandera1|A|/locha/documentation/espa\303\261ol/imple_pic/aodv-family.png
+1584934120|gustavosinbandera1|A|/locha/documentation/espa\303\261ol/imple_pic/protocolo_seleccion.svg
+1584934120|gustavosinbandera1|D|/locha/documentation/espa\303\261ol/imple_pic/route-request-flooding.png
+1584934120|gustavosinbandera1|M|/locha/documentation/espa\303\261ol/implementacion.MD
+1584977106|gustavosinbandera1|A|/locha/documentation/es/imple_pic/ACKMSG.png
+1584977106|gustavosinbandera1|A|/locha/documentation/es/imple_pic/RREPMSG.png
+1584977106|gustavosinbandera1|A|/locha/documentation/es/imple_pic/RREQ-flooding.png
+1584977106|gustavosinbandera1|A|/locha/documentation/es/imple_pic/RREQ-table-route.png
+1584977106|gustavosinbandera1|A|/locha/documentation/es/imple_pic/RREQ1.png
+1584977106|gustavosinbandera1|A|/locha/documentation/es/imple_pic/RREQ2.png
+1584977106|gustavosinbandera1|A|/locha/documentation/es/imple_pic/RREQ3.png
+1584977106|gustavosinbandera1|A|/locha/documentation/es/imple_pic/RREQ4.png
+1584977106|gustavosinbandera1|A|/locha/documentation/es/imple_pic/RREQ5.png
+1584977106|gustavosinbandera1|A|/locha/documentation/es/imple_pic/RREQ6.png
+1584977106|gustavosinbandera1|A|/locha/documentation/es/imple_pic/RREQ7.png
+1584977106|gustavosinbandera1|A|/locha/documentation/es/imple_pic/RREQMSG.png
+1584977106|gustavosinbandera1|A|/locha/documentation/es/imple_pic/Receive_RREQ.png
+1584977106|gustavosinbandera1|A|/locha/documentation/es/imple_pic/Route_table_entry.png
+1584977106|gustavosinbandera1|A|/locha/documentation/es/imple_pic/aodv-family.png
+1584977106|gustavosinbandera1|A|/locha/documentation/es/imple_pic/aodv-topology.png
+1584977106|gustavosinbandera1|A|/locha/documentation/es/imple_pic/aodv-topology2.png
+1584977106|gustavosinbandera1|A|/locha/documentation/es/imple_pic/aodv-versions.png
+1584977106|gustavosinbandera1|A|/locha/documentation/es/imple_pic/fetch_route_table_entry.png
+1584977106|gustavosinbandera1|A|/locha/documentation/es/imple_pic/header-rfc5444.png
+1584977106|gustavosinbandera1|A|/locha/documentation/es/imple_pic/network-topology.png
+1584977106|gustavosinbandera1|A|/locha/documentation/es/imple_pic/process_routing_info.png
+1584977106|gustavosinbandera1|A|/locha/documentation/es/imple_pic/protocolo_seleccion.svg
+1584977106|gustavosinbandera1|A|/locha/documentation/es/imple_pic/rfc5444-pkt.png
+1584977106|gustavosinbandera1|A|/locha/documentation/es/imple_pic/simpleRREQ-reply.gif
+1584977106|gustavosinbandera1|A|/locha/documentation/es/imple_pic/tlv-addr-block.png
+1584977106|gustavosinbandera1|A|/locha/documentation/es/imple_pic/tlvOrigPrefix.png
+1584977106|gustavosinbandera1|A|/locha/documentation/es/imple_pic/tlvTargetPrefix.png
+1584977106|gustavosinbandera1|A|/locha/documentation/es/imple_pic/update_route_table_entry.png
+1584977106|gustavosinbandera1|A|/locha/documentation/es/implementacion.MD
+1584977106|gustavosinbandera1|D|/locha/documentation/espa\303\261ol/imple_pic/ACKMSG.png
+1584977106|gustavosinbandera1|D|/locha/documentation/espa\303\261ol/imple_pic/RREPMSG.png
+1584977106|gustavosinbandera1|D|/locha/documentation/espa\303\261ol/imple_pic/RREQ-flooding.png
+1584977106|gustavosinbandera1|D|/locha/documentation/espa\303\261ol/imple_pic/RREQ-table-route.png
+1584977106|gustavosinbandera1|D|/locha/documentation/espa\303\261ol/imple_pic/RREQ1.png
+1584977106|gustavosinbandera1|D|/locha/documentation/espa\303\261ol/imple_pic/RREQ2.png
+1584977106|gustavosinbandera1|D|/locha/documentation/espa\303\261ol/imple_pic/RREQ3.png
+1584977106|gustavosinbandera1|D|/locha/documentation/espa\303\261ol/imple_pic/RREQ4.png
+1584977106|gustavosinbandera1|D|/locha/documentation/espa\303\261ol/imple_pic/RREQ5.png
+1584977106|gustavosinbandera1|D|/locha/documentation/espa\303\261ol/imple_pic/RREQ6.png
+1584977106|gustavosinbandera1|D|/locha/documentation/espa\303\261ol/imple_pic/RREQ7.png
+1584977106|gustavosinbandera1|D|/locha/documentation/espa\303\261ol/imple_pic/RREQMSG.png
+1584977106|gustavosinbandera1|D|/locha/documentation/espa\303\261ol/imple_pic/Receive_RREQ.png
+1584977106|gustavosinbandera1|D|/locha/documentation/espa\303\261ol/imple_pic/Route_table_entry.png
+1584977106|gustavosinbandera1|D|/locha/documentation/espa\303\261ol/imple_pic/aodv-family.png
+1584977106|gustavosinbandera1|D|/locha/documentation/espa\303\261ol/imple_pic/aodv-topology.png
+1584977106|gustavosinbandera1|D|/locha/documentation/espa\303\261ol/imple_pic/aodv-topology2.png
+1584977106|gustavosinbandera1|D|/locha/documentation/espa\303\261ol/imple_pic/aodv-versions.png
+1584977106|gustavosinbandera1|D|/locha/documentation/espa\303\261ol/imple_pic/fetch_route_table_entry.png
+1584977106|gustavosinbandera1|D|/locha/documentation/espa\303\261ol/imple_pic/header-rfc5444.png
+1584977106|gustavosinbandera1|D|/locha/documentation/espa\303\261ol/imple_pic/network-topology.png
+1584977106|gustavosinbandera1|D|/locha/documentation/espa\303\261ol/imple_pic/process_routing_info.png
+1584977106|gustavosinbandera1|D|/locha/documentation/espa\303\261ol/imple_pic/protocolo_seleccion.svg
+1584977106|gustavosinbandera1|D|/locha/documentation/espa\303\261ol/imple_pic/rfc5444-pkt.png
+1584977106|gustavosinbandera1|D|/locha/documentation/espa\303\261ol/imple_pic/simpleRREQ-reply.gif
+1584977106|gustavosinbandera1|D|/locha/documentation/espa\303\261ol/imple_pic/tlv-addr-block.png
+1584977106|gustavosinbandera1|D|/locha/documentation/espa\303\261ol/imple_pic/tlvOrigPrefix.png
+1584977106|gustavosinbandera1|D|/locha/documentation/espa\303\261ol/imple_pic/tlvTargetPrefix.png
+1584977106|gustavosinbandera1|D|/locha/documentation/espa\303\261ol/imple_pic/update_route_table_entry.png
+1584977106|gustavosinbandera1|D|/locha/documentation/espa\303\261ol/implementacion.MD
+1584977302|gustavosinbandera1|M|/locha/documentation/es/implementacion.MD
+1584977452|gustavosinbandera1|A|/locha/documentation/ES/imple_pic/ACKMSG.png
+1584977452|gustavosinbandera1|A|/locha/documentation/ES/imple_pic/RREPMSG.png
+1584977452|gustavosinbandera1|A|/locha/documentation/ES/imple_pic/RREQ-flooding.png
+1584977452|gustavosinbandera1|A|/locha/documentation/ES/imple_pic/RREQ-table-route.png
+1584977452|gustavosinbandera1|A|/locha/documentation/ES/imple_pic/RREQ1.png
+1584977452|gustavosinbandera1|A|/locha/documentation/ES/imple_pic/RREQ2.png
+1584977452|gustavosinbandera1|A|/locha/documentation/ES/imple_pic/RREQ3.png
+1584977452|gustavosinbandera1|A|/locha/documentation/ES/imple_pic/RREQ4.png
+1584977452|gustavosinbandera1|A|/locha/documentation/ES/imple_pic/RREQ5.png
+1584977452|gustavosinbandera1|A|/locha/documentation/ES/imple_pic/RREQ6.png
+1584977452|gustavosinbandera1|A|/locha/documentation/ES/imple_pic/RREQ7.png
+1584977452|gustavosinbandera1|A|/locha/documentation/ES/imple_pic/RREQMSG.png
+1584977452|gustavosinbandera1|A|/locha/documentation/ES/imple_pic/Receive_RREQ.png
+1584977452|gustavosinbandera1|A|/locha/documentation/ES/imple_pic/Route_table_entry.png
+1584977452|gustavosinbandera1|A|/locha/documentation/ES/imple_pic/aodv-family.png
+1584977452|gustavosinbandera1|A|/locha/documentation/ES/imple_pic/aodv-topology.png
+1584977452|gustavosinbandera1|A|/locha/documentation/ES/imple_pic/aodv-topology2.png
+1584977452|gustavosinbandera1|A|/locha/documentation/ES/imple_pic/aodv-versions.png
+1584977452|gustavosinbandera1|A|/locha/documentation/ES/imple_pic/fetch_route_table_entry.png
+1584977452|gustavosinbandera1|A|/locha/documentation/ES/imple_pic/header-rfc5444.png
+1584977452|gustavosinbandera1|A|/locha/documentation/ES/imple_pic/network-topology.png
+1584977452|gustavosinbandera1|A|/locha/documentation/ES/imple_pic/process_routing_info.png
+1584977452|gustavosinbandera1|A|/locha/documentation/ES/imple_pic/protocolo_seleccion.svg
+1584977452|gustavosinbandera1|A|/locha/documentation/ES/imple_pic/rfc5444-pkt.png
+1584977452|gustavosinbandera1|A|/locha/documentation/ES/imple_pic/simpleRREQ-reply.gif
+1584977452|gustavosinbandera1|A|/locha/documentation/ES/imple_pic/tlv-addr-block.png
+1584977452|gustavosinbandera1|A|/locha/documentation/ES/imple_pic/tlvOrigPrefix.png
+1584977452|gustavosinbandera1|A|/locha/documentation/ES/imple_pic/tlvTargetPrefix.png
+1584977452|gustavosinbandera1|A|/locha/documentation/ES/imple_pic/update_route_table_entry.png
+1584977452|gustavosinbandera1|A|/locha/documentation/ES/implementacion.MD
+1584977452|gustavosinbandera1|D|/locha/documentation/es/imple_pic/ACKMSG.png
+1584977452|gustavosinbandera1|D|/locha/documentation/es/imple_pic/RREPMSG.png
+1584977452|gustavosinbandera1|D|/locha/documentation/es/imple_pic/RREQ-flooding.png
+1584977452|gustavosinbandera1|D|/locha/documentation/es/imple_pic/RREQ-table-route.png
+1584977452|gustavosinbandera1|D|/locha/documentation/es/imple_pic/RREQ1.png
+1584977452|gustavosinbandera1|D|/locha/documentation/es/imple_pic/RREQ2.png
+1584977452|gustavosinbandera1|D|/locha/documentation/es/imple_pic/RREQ3.png
+1584977452|gustavosinbandera1|D|/locha/documentation/es/imple_pic/RREQ4.png
+1584977452|gustavosinbandera1|D|/locha/documentation/es/imple_pic/RREQ5.png
+1584977452|gustavosinbandera1|D|/locha/documentation/es/imple_pic/RREQ6.png
+1584977452|gustavosinbandera1|D|/locha/documentation/es/imple_pic/RREQ7.png
+1584977452|gustavosinbandera1|D|/locha/documentation/es/imple_pic/RREQMSG.png
+1584977452|gustavosinbandera1|D|/locha/documentation/es/imple_pic/Receive_RREQ.png
+1584977452|gustavosinbandera1|D|/locha/documentation/es/imple_pic/Route_table_entry.png
+1584977452|gustavosinbandera1|D|/locha/documentation/es/imple_pic/aodv-family.png
+1584977452|gustavosinbandera1|D|/locha/documentation/es/imple_pic/aodv-topology.png
+1584977452|gustavosinbandera1|D|/locha/documentation/es/imple_pic/aodv-topology2.png
+1584977452|gustavosinbandera1|D|/locha/documentation/es/imple_pic/aodv-versions.png
+1584977452|gustavosinbandera1|D|/locha/documentation/es/imple_pic/fetch_route_table_entry.png
+1584977452|gustavosinbandera1|D|/locha/documentation/es/imple_pic/header-rfc5444.png
+1584977452|gustavosinbandera1|D|/locha/documentation/es/imple_pic/network-topology.png
+1584977452|gustavosinbandera1|D|/locha/documentation/es/imple_pic/process_routing_info.png
+1584977452|gustavosinbandera1|D|/locha/documentation/es/imple_pic/protocolo_seleccion.svg
+1584977452|gustavosinbandera1|D|/locha/documentation/es/imple_pic/rfc5444-pkt.png
+1584977452|gustavosinbandera1|D|/locha/documentation/es/imple_pic/simpleRREQ-reply.gif
+1584977452|gustavosinbandera1|D|/locha/documentation/es/imple_pic/tlv-addr-block.png
+1584977452|gustavosinbandera1|D|/locha/documentation/es/imple_pic/tlvOrigPrefix.png
+1584977452|gustavosinbandera1|D|/locha/documentation/es/imple_pic/tlvTargetPrefix.png
+1584977452|gustavosinbandera1|D|/locha/documentation/es/imple_pic/update_route_table_entry.png
+1584977452|gustavosinbandera1|D|/locha/documentation/es/implementacion.MD
+1585027826|gustavosinbandera1|M|/locha/README.md
+1585027826|gustavosinbandera1|A|/locha/documentation/ES/imple_pic/RF-selection.svg
+1585027826|gustavosinbandera1|M|/locha/documentation/ES/implementacion.MD
+1585069816|gustavosinbandera1|A|/locha/documentation/ES/imple_pic/powerSupply-selection.svg
+1585069816|gustavosinbandera1|M|/locha/documentation/ES/implementacion.MD
+1585070697|gustavosinbandera1|M|/locha/README.md
+1585070899|gustavosinbandera1|M|/locha/README.md
+1585075995|gustavosinbandera1|M|/locha/documentation/ES/implementacion.MD
+1585096778|gustavosinbandera1|A|/locha/documentation/ES/imple_pic/BatteryChargerSelection.svg
+1585096778|gustavosinbandera1|A|/locha/documentation/ES/imple_pic/BatteryManagementSystem-selection.svg
+1585096778|gustavosinbandera1|M|/locha/documentation/ES/implementacion.MD
+1585181428|gustavosinbandera1|A|/locha/documentation/ES/imple_pic/Hardware-Block.svg
+1585181428|gustavosinbandera1|M|/locha/documentation/ES/implementacion.MD
+1585266831|gustavosinbandera1|M|/locha/documentation/ES/imple_pic/Hardware-Block.svg
+1585266831|gustavosinbandera1|A|/locha/documentation/ES/imple_pic/turpial.svg
+1585266831|gustavosinbandera1|M|/locha/documentation/ES/implementacion.MD
+1585427232|gustavosinbandera1|A|/locha/documentation/ES/README.MD
+1585427232|gustavosinbandera1|A|/locha/documentation/ES/capitulo_10_modelado_de_aodv.md
+1585427232|gustavosinbandera1|A|/locha/documentation/ES/capitulo_11_operaciones_generales_del_protocolo_aodv.md
+1585427232|gustavosinbandera1|A|/locha/documentation/ES/capitulo_12_tabla_de_operaciones_para_los_mensajes_de_ruta.md
+1585427232|gustavosinbandera1|A|/locha/documentation/ES/capitulo_13_generacion_y_procesamiento_de_mensajes.md
+1585427232|gustavosinbandera1|A|/locha/documentation/ES/capitulo_1_introduccion_objetivos.md
+1585427232|gustavosinbandera1|A|/locha/documentation/ES/capitulo_2_trabajo_propuesto.md
+1585427232|gustavosinbandera1|A|/locha/documentation/ES/capitulo_3_modificaciones_propuestas.md
+1585427232|gustavosinbandera1|A|/locha/documentation/ES/capitulo_4_estructuras_de_descomposicion_del_proyecto.md
+1585427232|gustavosinbandera1|A|/locha/documentation/ES/capitulo_5_base_teorica.md
+1585427232|gustavosinbandera1|A|/locha/documentation/ES/capitulo_6_seleccion_del_hardware.md
+1585427232|gustavosinbandera1|A|/locha/documentation/ES/capitulo_7_seleccion_del_sistema_operativo.md
+1585427232|gustavosinbandera1|A|/locha/documentation/ES/capitulo_8_aodvv2.md
+1585427232|gustavosinbandera1|A|/locha/documentation/ES/capitulo_9_formato_de_paquetes_para_redes_manet.md
+1585427232|gustavosinbandera1|M|/locha/documentation/ES/implementacion.MD
+1585579120|gustavosinbandera1|M|/locha/documentation/ES/README.MD
+1585579120|gustavosinbandera1|A|/locha/documentation/ES/capitulo_1.md
+1585579120|gustavosinbandera1|A|/locha/documentation/ES/capitulo_10.md
+1585579120|gustavosinbandera1|D|/locha/documentation/ES/capitulo_10_modelado_de_aodv.md
+1585579120|gustavosinbandera1|A|/locha/documentation/ES/capitulo_11.md
+1585579120|gustavosinbandera1|D|/locha/documentation/ES/capitulo_11_operaciones_generales_del_protocolo_aodv.md
+1585579120|gustavosinbandera1|A|/locha/documentation/ES/capitulo_12.md
+1585579120|gustavosinbandera1|D|/locha/documentation/ES/capitulo_12_tabla_de_operaciones_para_los_mensajes_de_ruta.md
+1585579120|gustavosinbandera1|A|/locha/documentation/ES/capitulo_13.md
+1585579120|gustavosinbandera1|D|/locha/documentation/ES/capitulo_13_generacion_y_procesamiento_de_mensajes.md
+1585579120|gustavosinbandera1|D|/locha/documentation/ES/capitulo_1_introduccion_objetivos.md
+1585579120|gustavosinbandera1|A|/locha/documentation/ES/capitulo_2.md
+1585579120|gustavosinbandera1|D|/locha/documentation/ES/capitulo_2_trabajo_propuesto.md
+1585579120|gustavosinbandera1|A|/locha/documentation/ES/capitulo_3.md
+1585579120|gustavosinbandera1|D|/locha/documentation/ES/capitulo_3_modificaciones_propuestas.md
+1585579120|gustavosinbandera1|A|/locha/documentation/ES/capitulo_4.md
+1585579120|gustavosinbandera1|D|/locha/documentation/ES/capitulo_4_estructuras_de_descomposicion_del_proyecto.md
+1585579120|gustavosinbandera1|A|/locha/documentation/ES/capitulo_5.md
+1585579120|gustavosinbandera1|D|/locha/documentation/ES/capitulo_5_base_teorica.md
+1585579120|gustavosinbandera1|A|/locha/documentation/ES/capitulo_6.md
+1585579120|gustavosinbandera1|D|/locha/documentation/ES/capitulo_6_seleccion_del_hardware.md
+1585579120|gustavosinbandera1|A|/locha/documentation/ES/capitulo_7.md
+1585579120|gustavosinbandera1|D|/locha/documentation/ES/capitulo_7_seleccion_del_sistema_operativo.md
+1585579120|gustavosinbandera1|A|/locha/documentation/ES/capitulo_8.md
+1585579120|gustavosinbandera1|D|/locha/documentation/ES/capitulo_8_aodvv2.md
+1585579120|gustavosinbandera1|A|/locha/documentation/ES/capitulo_9.md
+1585579120|gustavosinbandera1|D|/locha/documentation/ES/capitulo_9_formato_de_paquetes_para_redes_manet.md
+1585579120|gustavosinbandera1|M|/locha/documentation/ES/implementacion.MD
+1585583760|gustavosinbandera1|M|/locha/documentation/ES/capitulo_1.md
+1585591114|gustavosinbandera1|A|/locha/documentation/ES/draft_1_moduladores.md
+1585592535|gustavosinbandera1|D|/locha/documentation/ES/capitulo_1.md
+1585592535|gustavosinbandera1|D|/locha/documentation/ES/capitulo_10.md
+1585592535|gustavosinbandera1|D|/locha/documentation/ES/capitulo_11.md
+1585592535|gustavosinbandera1|D|/locha/documentation/ES/capitulo_12.md
+1585592535|gustavosinbandera1|D|/locha/documentation/ES/capitulo_13.md
+1585592535|gustavosinbandera1|D|/locha/documentation/ES/capitulo_2.md
+1585592535|gustavosinbandera1|D|/locha/documentation/ES/capitulo_3.md
+1585592535|gustavosinbandera1|D|/locha/documentation/ES/capitulo_4.md
+1585592535|gustavosinbandera1|D|/locha/documentation/ES/capitulo_5.md
+1585592535|gustavosinbandera1|D|/locha/documentation/ES/capitulo_6.md
+1585592535|gustavosinbandera1|D|/locha/documentation/ES/capitulo_7.md
+1585592535|gustavosinbandera1|D|/locha/documentation/ES/capitulo_8.md
+1585592535|gustavosinbandera1|D|/locha/documentation/ES/capitulo_9.md
+1585592535|gustavosinbandera1|A|/locha/documentation/ES/chapter_1.md
+1585592535|gustavosinbandera1|A|/locha/documentation/ES/chapter_10.md
+1585592535|gustavosinbandera1|A|/locha/documentation/ES/chapter_11.md
+1585592535|gustavosinbandera1|A|/locha/documentation/ES/chapter_12.md
+1585592535|gustavosinbandera1|A|/locha/documentation/ES/chapter_13.md
+1585592535|gustavosinbandera1|A|/locha/documentation/ES/chapter_2.md
+1585592535|gustavosinbandera1|A|/locha/documentation/ES/chapter_3.md
+1585592535|gustavosinbandera1|A|/locha/documentation/ES/chapter_4.md
+1585592535|gustavosinbandera1|A|/locha/documentation/ES/chapter_5.md
+1585592535|gustavosinbandera1|A|/locha/documentation/ES/chapter_6.md
+1585592535|gustavosinbandera1|A|/locha/documentation/ES/chapter_7.md
+1585592535|gustavosinbandera1|A|/locha/documentation/ES/chapter_8.md
+1585592535|gustavosinbandera1|A|/locha/documentation/ES/chapter_9.md
+1585593988|gustavosinbandera1|M|/locha/documentation/ES/README.MD
+1585659450|luisan00|M|/locha/documentation/ES/chapter_6.md
+1585687417|luisan00|M|/locha/documentation/ES/chapter_8.md
+1585758912|Stephanie Nogales|M|/locha/documentation/ES/chapter_1.md
+1586291114|Stephanie Nogales|M|/locha/documentation/ES/chapter_1.md
+1586291114|Stephanie Nogales|M|/locha/documentation/ES/chapter_2.md
+1586291114|Stephanie Nogales|M|/locha/documentation/ES/chapter_3.md
+1586291114|Stephanie Nogales|M|/locha/documentation/ES/chapter_4.md
+1586291114|Stephanie Nogales|M|/locha/documentation/ES/chapter_5.md
+1586291114|Stephanie Nogales|M|/locha/documentation/ES/chapter_6.md
+1586298618|gustavosinbandera1|D|/locha/documentation/ES/draft_1_moduladores.md
+1586298618|gustavosinbandera1|D|/locha/documentation/ES/implementacion.MD
+1586298618|gustavosinbandera1|A|/locha/documentation/ES/references.md
+1586299887|gustavosinbandera1|M|/locha/documentation/ES/chapter_7.md
+1586300510|gustavosinbandera1|M|/locha/documentation/ES/chapter_8.md
+1586311079|gustavosinbandera1|M|/locha/documentation/ES/chapter_8.md
+1586311079|gustavosinbandera1|A|/locha/documentation/ES/draft_1_moduladores.md
+1586311079|gustavosinbandera1|A|/locha/documentation/ES/imple_pic/AM_modulator.svg
+1586311079|gustavosinbandera1|A|/locha/documentation/ES/imple_pic/FM_modulator.svg
+1586311079|gustavosinbandera1|A|/locha/documentation/ES/imple_pic/Gaussian-filter.svg
+1586311079|gustavosinbandera1|A|/locha/documentation/ES/imple_pic/ask_modulator.svg
+1586311079|gustavosinbandera1|A|/locha/documentation/ES/imple_pic/filter-graph.svg
+1586311079|gustavosinbandera1|A|/locha/documentation/ES/imple_pic/frequency.svg
+1586311079|gustavosinbandera1|A|/locha/documentation/ES/imple_pic/fsk_modulator.svg
+1586311079|gustavosinbandera1|A|/locha/documentation/ES/imple_pic/modulation-vco.svg
+1586311079|gustavosinbandera1|A|/locha/documentation/ES/imple_pic/modulator-representation.svg
+1586311079|gustavosinbandera1|A|/locha/documentation/ES/imple_pic/modulator-switch.svg
+1586311079|gustavosinbandera1|A|/locha/documentation/ES/imple_pic/modulator-types.svg
+1586311079|gustavosinbandera1|A|/locha/documentation/ES/imple_pic/modulator1.svg
+1586311079|gustavosinbandera1|A|/locha/documentation/ES/imple_pic/wave-characteristics.svg
+1586311079|gustavosinbandera1|A|/locha/documentation/ES/imple_pic/wave.svg
+1586350559|Randy Brito|M|/locha/README.md
+1586694692|Randy Brito|M|/locha/README.md
+1586950911|TVMG20|M|/locha/documentation/ES/chapter_7.md
+1586952703|TVMG20|M|/locha/documentation/ES/chapter_7.md
+1586953636|TVMG20|M|/locha/documentation/ES/chapter_7.md
+1586970330|TVMG20|M|/locha/documentation/ES/chapter_7.md
+1586970806|TVMG20|M|/locha/documentation/ES/chapter_7.md
+1586972665|gustavosinbandera1|M|/locha/documentation/ES/chapter_2.md
+1586972665|gustavosinbandera1|M|/locha/documentation/ES/references.md
+1586980822|TVMG20|M|/locha/documentation/ES/chapter_8.md
+1586981624|TVMG20|M|/locha/documentation/ES/chapter_7.md
+1587033210|TVMG20|M|/locha/documentation/ES/chapter_8.md
+1587033887|TVMG20|M|/locha/documentation/ES/chapter_8.md
+1587034160|TVMG20|M|/locha/documentation/ES/chapter_8.md
+1587035290|TVMG20|M|/locha/documentation/ES/chapter_8.md
+1587035883|TVMG20|M|/locha/documentation/ES/chapter_8.md
+1587036198|TVMG20|M|/locha/documentation/ES/chapter_8.md
+1587037585|TVMG20|M|/locha/documentation/ES/chapter_8.md
+1587038613|TVMG20|M|/locha/documentation/ES/chapter_8.md
+1587040209|TVMG20|M|/locha/documentation/ES/chapter_8.md
+1587043635|TVMG20|M|/locha/documentation/ES/chapter_8.md
+1587046742|TVMG20|M|/locha/documentation/ES/chapter_8.md
+1587049965|Stephanie Nogales|M|/locha/documentation/ES/chapter_1.md
+1587052034|Stephanie Nogales|M|/locha/documentation/ES/chapter_2.md
+1587060100|TVMG20|M|/locha/documentation/ES/chapter_10.md
+1587060739|TVMG20|M|/locha/documentation/ES/chapter_10.md
+1587070073|Stephanie Nogales|M|/locha/documentation/ES/chapter_2.md
+1587070613|Stephanie Nogales|M|/locha/documentation/ES/chapter_3.md
+1587070971|Stephanie Nogales|M|/locha/documentation/ES/chapter_4.md
+1587116502|TVMG20|M|/locha/documentation/ES/chapter_10.md
+1587118240|TVMG20|M|/locha/documentation/ES/chapter_11.md
+1587121110|TVMG20|M|/locha/documentation/ES/chapter_11.md
+1587121637|TVMG20|M|/locha/documentation/ES/chapter_11.md
+1587122437|TVMG20|M|/locha/documentation/ES/chapter_11.md
+1587123263|TVMG20|M|/locha/documentation/ES/chapter_11.md
+1587126626|TVMG20|M|/locha/documentation/ES/chapter_12.md
+1587130154|TVMG20|M|/locha/documentation/ES/chapter_12.md
+1587140700|TVMG20|M|/locha/documentation/ES/chapter_12.md
+1587142150|TVMG20|M|/locha/documentation/ES/chapter_13.md
+1587211540|TVMG20|M|/locha/documentation/ES/chapter_8.md
+1587212149|TVMG20|A|/locha/documentation/ES/imple_pic/ACKMSG.old.png
+1587212149|TVMG20|D|/locha/documentation/ES/imple_pic/ACKMSG.png
+1587212149|TVMG20|A|/locha/documentation/ES/imple_pic/ACKMSG.svg
+1587212149|TVMG20|A|/locha/documentation/ES/imple_pic/RERRMSG.svg
+1587212149|TVMG20|A|/locha/documentation/ES/imple_pic/RREPMSG.old.png
+1587212149|TVMG20|D|/locha/documentation/ES/imple_pic/RREPMSG.png
+1587212149|TVMG20|A|/locha/documentation/ES/imple_pic/RREPMSG.svg
+1587212149|TVMG20|A|/locha/documentation/ES/imple_pic/RREQMSG.old.png
+1587212149|TVMG20|D|/locha/documentation/ES/imple_pic/RREQMSG.png
+1587212149|TVMG20|A|/locha/documentation/ES/imple_pic/RREQMSG.svg
+1587215723|TVMG20|M|/locha/documentation/ES/chapter_8.md
+1587220781|Stephanie Nogales|M|/locha/documentation/ES/chapter_5.md
+1587220988|Stephanie Nogales|M|/locha/documentation/ES/chapter_6.md
+1587221911|Stephanie Nogales|M|/locha/documentation/ES/chapter_1.md
+1587230280|TVMG20|M|/locha/documentation/ES/chapter_11.md
+1587230964|TVMG20|M|/locha/documentation/ES/chapter_10.md
+1587232149|TVMG20|M|/locha/documentation/ES/chapter_10.md
+1587241423|TVMG20|M|/locha/documentation/ES/chapter_8.md
+1587409384|gustavosinbandera1|M|/locha/documentation/ES/chapter_11.md
+1587409384|gustavosinbandera1|A|/locha/documentation/ES/imple_pic/aodvv2_init.svg
+1587409384|gustavosinbandera1|A|/locha/et --hard
+1587415716|gustavosinbandera1|M|/locha/documentation/ES/chapter_11.md
+1587418035|TVMG20|M|/locha/documentation/ES/chapter_11.md
+1587419007|TVMG20|M|/locha/documentation/ES/chapter_11.md
+1587419767|TVMG20|M|/locha/documentation/ES/chapter_11.md
+1587420209|TVMG20|M|/locha/documentation/ES/chapter_11.md
+1587420946|TVMG20|M|/locha/documentation/ES/chapter_11.md
+1587421347|TVMG20|M|/locha/documentation/ES/chapter_11.md
+1587443615|gustavosinbandera1|M|/locha/documentation/ES/chapter_11.md
+1587443615|gustavosinbandera1|M|/locha/documentation/ES/chapter_12.md
+1587450012|gustavosinbandera1|M|/locha/documentation/ES/chapter_12.md
+1587461585|TVMG20|M|/locha/documentation/ES/chapter_11.md
+1587462010|TVMG20|M|/locha/documentation/ES/chapter_11.md
+1587462344|TVMG20|M|/locha/documentation/ES/chapter_11.md
+1587462718|TVMG20|M|/locha/documentation/ES/chapter_11.md
+1587463169|TVMG20|M|/locha/documentation/ES/chapter_11.md
+1587463349|TVMG20|M|/locha/documentation/ES/chapter_11.md
+1587463902|TVMG20|M|/locha/documentation/ES/chapter_11.md
+1587464233|TVMG20|M|/locha/documentation/ES/chapter_11.md
+1587465679|TVMG20|M|/locha/documentation/ES/chapter_11.md
+1587467061|TVMG20|M|/locha/documentation/ES/chapter_11.md
+1587467950|TVMG20|M|/locha/documentation/ES/chapter_11.md
+1587468470|TVMG20|M|/locha/documentation/ES/chapter_11.md
+1587470318|TVMG20|M|/locha/documentation/ES/chapter_11.md
+1587472092|TVMG20|M|/locha/documentation/ES/chapter_11.md
+1587472888|TVMG20|M|/locha/documentation/ES/chapter_11.md
+1587473180|TVMG20|M|/locha/documentation/ES/chapter_11.md
+1587474974|TVMG20|M|/locha/documentation/ES/chapter_11.md
+1587475957|TVMG20|M|/locha/documentation/ES/chapter_11.md
+1587476781|TVMG20|M|/locha/documentation/ES/chapter_11.md
+1587477741|TVMG20|M|/locha/documentation/ES/chapter_11.md
+1587477907|gustavosinbandera1|M|/locha/documentation/ES/chapter_11.md
+1587486559|TVMG20|M|/locha/documentation/ES/chapter_11.md
+1587487593|TVMG20|M|/locha/documentation/ES/chapter_11.md
+1587488711|TVMG20|M|/locha/documentation/ES/chapter_11.md
+1587489740|TVMG20|M|/locha/documentation/ES/chapter_11.md
+1587490188|TVMG20|M|/locha/documentation/ES/chapter_11.md
+1587569041|TVMG20|M|/locha/documentation/ES/chapter_12.md
+1587569521|TVMG20|M|/locha/documentation/ES/chapter_11.md
+1587569623|TVMG20|M|/locha/documentation/ES/chapter_11.md
+1587578420|TVMG20|M|/locha/documentation/ES/chapter_9.md
+1587581459|TVMG20|A|/locha/documentation/en/Chapter_7.md
+1587594335|TVMG20|M|/locha/documentation/en/Chapter_7.md
+1587594508|TVMG20|M|/locha/documentation/en/Chapter_7.md
+1587594564|TVMG20|M|/locha/documentation/en/Chapter_7.md
+1587595310|TVMG20|M|/locha/documentation/en/Chapter_7.md
+1587595833|TVMG20|M|/locha/documentation/en/Chapter_7.md
+1587636869|TVMG20|A|/locha/documentation/en/Chapter_7.md
+1587654389|Stephanie Nogales|A|/locha/documentation/en/chapter_1.md
+1587654567|Stephanie Nogales|A|/locha/documentation/en/chapter_2.md
+1587666049|Stephanie Nogales|A|/locha/documentation/en/chapter_3.md
+1587751452|Stephanie Nogales|M|/locha/documentation/en/chapter_1.md
+1587752190|Stephanie Nogales|M|/locha/documentation/en/chapter_2.md
+1587752246|Stephanie Nogales|M|/locha/documentation/en/chapter_2.md
+1587752484|Stephanie Nogales|M|/locha/documentation/en/chapter_2.md
+1587752519|Stephanie Nogales|M|/locha/documentation/en/chapter_2.md
+1587752534|Stephanie Nogales|M|/locha/documentation/en/chapter_2.md
+1587752551|Stephanie Nogales|M|/locha/documentation/en/chapter_2.md
+1587752561|Stephanie Nogales|M|/locha/documentation/en/chapter_2.md
+1587752580|Stephanie Nogales|M|/locha/documentation/en/chapter_2.md
+1587752834|Stephanie Nogales|M|/locha/documentation/en/chapter_2.md
+1587753156|Stephanie Nogales|M|/locha/documentation/en/chapter_2.md
+1587753709|Stephanie Nogales|M|/locha/documentation/en/chapter_2.md
+1587753738|Stephanie Nogales|M|/locha/documentation/en/chapter_2.md
+1587754496|Stephanie Nogales|M|/locha/documentation/en/chapter_2.md
+1587759141|TVMG20|A|/locha/documentation/EN/chapter_8.md
+1587816342|TVMG20|A|/locha/documentation/EN/Chapter_9.md
+1587819563|Stephanie Nogales|M|/locha/documentation/en/chapter_2.md
+1587819583|TVMG20|A|/locha/documentation/EN/chapter_10.md
+1587820265|TVMG20|A|/locha/documentation/en/chapter_07.md
+1587820311|TVMG20|A|/locha/documentation/en/chapter_09.md
+1587820651|TVMG20|M|/locha/documentation/en/chapter_09.md
+1587820722|TVMG20|M|/locha/documentation/en/chapter_09.md
+1587820792|TVMG20|M|/locha/documentation/en/chapter_09.md
+1587820863|TVMG20|M|/locha/documentation/en/chapter_09.md
+1587820917|TVMG20|M|/locha/documentation/en/chapter_09.md
+1587820972|TVMG20|M|/locha/documentation/en/chapter_09.md
+1587821029|TVMG20|M|/locha/documentation/en/chapter_09.md
+1587821097|TVMG20|M|/locha/documentation/en/chapter_09.md
+1587821150|TVMG20|M|/locha/documentation/en/chapter_09.md
+1587821205|TVMG20|M|/locha/documentation/en/chapter_09.md
+1587821280|TVMG20|M|/locha/documentation/en/chapter_09.md
+1587821339|TVMG20|M|/locha/documentation/en/chapter_09.md
+1587821405|TVMG20|M|/locha/documentation/en/chapter_09.md
+1587821482|TVMG20|M|/locha/documentation/en/chapter_09.md
+1587821576|TVMG20|M|/locha/documentation/en/chapter_09.md
+1587821673|TVMG20|M|/locha/documentation/en/chapter_09.md
+1587821789|TVMG20|M|/locha/documentation/en/chapter_09.md
+1587822080|TVMG20|M|/locha/documentation/en/chapter_07.md
+1587822233|TVMG20|M|/locha/documentation/EN/chapter_8.md
+1587822943|TVMG20|M|/locha/documentation/EN/chapter_10.md
+1587823030|TVMG20|M|/locha/documentation/EN/chapter_10.md
+1587823148|TVMG20|M|/locha/documentation/EN/chapter_10.md
+1587835143|TVMG20|M|/locha/documentation/en/chapter_09.md
+1587837884|Stephanie Nogales|M|/locha/documentation/en/chapter_3.md
+1587838126|Stephanie Nogales|M|/locha/documentation/en/chapter_3.md
+1587845771|Luis Ruiz|D|/locha/documentation/EN/Chapter_9.md
+1587845771|Luis Ruiz|D|/locha/documentation/EN/chapter_10.md
+1587845771|Luis Ruiz|D|/locha/documentation/EN/chapter_8.md
+1587845771|Luis Ruiz|D|/locha/documentation/en/Chapter_7.md
+1587845771|Luis Ruiz|A|/locha/documentation/en/chapter_01.md
+1587845771|Luis Ruiz|A|/locha/documentation/en/chapter_02.md
+1587845771|Luis Ruiz|A|/locha/documentation/en/chapter_03.md
+1587845771|Luis Ruiz|A|/locha/documentation/en/chapter_08.md
+1587845771|Luis Ruiz|D|/locha/documentation/en/chapter_1.md
+1587845771|Luis Ruiz|A|/locha/documentation/en/chapter_10.md
+1587845771|Luis Ruiz|D|/locha/documentation/en/chapter_2.md
+1587845771|Luis Ruiz|D|/locha/documentation/en/chapter_3.md
+1588179554|TVMG20|A|/locha/documentation/EN/chapter_11.md
+1588179796|luisan00|D|/locha/et --hard
+1588187835|luisan00|D|/locha/documentation/EN/chapter_11.md
+1588187835|luisan00|A|/locha/documentation/en/chapter_11.md
+1588188253|Stephanie Nogales|A|/locha/documentation/EN/chapter_06.md
+1588188312|Stephanie Nogales|A|/locha/documentation/en/chapter_05.md
+1588188364|Stephanie Nogales|A|/locha/documentation/en/chapter_04.md
+1588188459|luisan00|D|/locha/documentation/EN/chapter_06.md
+1588188459|luisan00|A|/locha/documentation/en/chapter_06.md
+1588188846|luisan00|A|/locha/documentation/en/references.md
+1588188897|luisan00|A|/locha/documentation/en/pics/ACKMSG.old.png
+1588188897|luisan00|A|/locha/documentation/en/pics/ACKMSG.svg
+1588188897|luisan00|A|/locha/documentation/en/pics/AM_modulator.svg
+1588188897|luisan00|A|/locha/documentation/en/pics/BatteryChargerSelection.svg
+1588188897|luisan00|A|/locha/documentation/en/pics/BatteryManagementSystem-selection.svg
+1588188897|luisan00|A|/locha/documentation/en/pics/FM_modulator.svg
+1588188897|luisan00|A|/locha/documentation/en/pics/Gaussian-filter.svg
+1588188897|luisan00|A|/locha/documentation/en/pics/Hardware-Block.svg
+1588188897|luisan00|A|/locha/documentation/en/pics/RERRMSG.svg
+1588188897|luisan00|A|/locha/documentation/en/pics/RF-selection.svg
+1588188897|luisan00|A|/locha/documentation/en/pics/RREPMSG.old.png
+1588188897|luisan00|A|/locha/documentation/en/pics/RREPMSG.svg
+1588188897|luisan00|A|/locha/documentation/en/pics/RREQ-flooding.png
+1588188897|luisan00|A|/locha/documentation/en/pics/RREQ-table-route.png
+1588188897|luisan00|A|/locha/documentation/en/pics/RREQ1.png
+1588188897|luisan00|A|/locha/documentation/en/pics/RREQ2.png
+1588188897|luisan00|A|/locha/documentation/en/pics/RREQ3.png
+1588188897|luisan00|A|/locha/documentation/en/pics/RREQ4.png
+1588188897|luisan00|A|/locha/documentation/en/pics/RREQ5.png
+1588188897|luisan00|A|/locha/documentation/en/pics/RREQ6.png
+1588188897|luisan00|A|/locha/documentation/en/pics/RREQ7.png
+1588188897|luisan00|A|/locha/documentation/en/pics/RREQMSG.old.png
+1588188897|luisan00|A|/locha/documentation/en/pics/RREQMSG.svg
+1588188897|luisan00|A|/locha/documentation/en/pics/Receive_RREQ.png
+1588188897|luisan00|A|/locha/documentation/en/pics/Route_table_entry.png
+1588188897|luisan00|A|/locha/documentation/en/pics/aodv-family.png
+1588188897|luisan00|A|/locha/documentation/en/pics/aodv-topology.png
+1588188897|luisan00|A|/locha/documentation/en/pics/aodv-topology2.png
+1588188897|luisan00|A|/locha/documentation/en/pics/aodv-versions.png
+1588188897|luisan00|A|/locha/documentation/en/pics/aodvv2_init.svg
+1588188897|luisan00|A|/locha/documentation/en/pics/ask_modulator.svg
+1588188897|luisan00|A|/locha/documentation/en/pics/fetch_route_table_entry.png
+1588188897|luisan00|A|/locha/documentation/en/pics/filter-graph.svg
+1588188897|luisan00|A|/locha/documentation/en/pics/frequency.svg
+1588188897|luisan00|A|/locha/documentation/en/pics/fsk_modulator.svg
+1588188897|luisan00|A|/locha/documentation/en/pics/header-rfc5444.png
+1588188897|luisan00|A|/locha/documentation/en/pics/modulation-vco.svg
+1588188897|luisan00|A|/locha/documentation/en/pics/modulator-representation.svg
+1588188897|luisan00|A|/locha/documentation/en/pics/modulator-switch.svg
+1588188897|luisan00|A|/locha/documentation/en/pics/modulator-types.svg
+1588188897|luisan00|A|/locha/documentation/en/pics/modulator1.svg
+1588188897|luisan00|A|/locha/documentation/en/pics/network-topology.png
+1588188897|luisan00|A|/locha/documentation/en/pics/powerSupply-selection.svg
+1588188897|luisan00|A|/locha/documentation/en/pics/process_routing_info.png
+1588188897|luisan00|A|/locha/documentation/en/pics/protocolo_seleccion.svg
+1588188897|luisan00|A|/locha/documentation/en/pics/rfc5444-pkt.png
+1588188897|luisan00|A|/locha/documentation/en/pics/simpleRREQ-reply.gif
+1588188897|luisan00|A|/locha/documentation/en/pics/tlv-addr-block.png
+1588188897|luisan00|A|/locha/documentation/en/pics/tlvOrigPrefix.png
+1588188897|luisan00|A|/locha/documentation/en/pics/tlvTargetPrefix.png
+1588188897|luisan00|A|/locha/documentation/en/pics/turpial.svg
+1588188897|luisan00|A|/locha/documentation/en/pics/update_route_table_entry.png
+1588188897|luisan00|A|/locha/documentation/en/pics/wave-characteristics.svg
+1588188897|luisan00|A|/locha/documentation/en/pics/wave.svg
+1588191208|luisan00|M|/locha/documentation/en/chapter_01.md
+1588191208|luisan00|M|/locha/documentation/en/chapter_05.md
+1588191208|luisan00|M|/locha/documentation/en/chapter_06.md
+1588191208|luisan00|M|/locha/documentation/en/chapter_08.md
+1588191208|luisan00|M|/locha/documentation/en/chapter_09.md
+1588191208|luisan00|M|/locha/documentation/en/chapter_10.md
+1588191208|luisan00|M|/locha/documentation/en/chapter_11.md
+1588191208|luisan00|A|/locha/documentation/en/index.md
+1588191316|luisan00|D|/locha/documentation/index.rst
+1588246655|TVMG20|A|/locha/documentation/EN/Translated chapter 12 ES to EN.md
+1588247589|TVMG20|A|/locha/documentation/EN/chapter_13.md
+1588248530|luisan00|A|/locha/crowdin.yml
+1588248904|luisan00|A|/locha/documentation/es/chapter_01.md
+1588248904|luisan00|A|/locha/documentation/es/chapter_02.md
+1588248904|luisan00|A|/locha/documentation/es/chapter_03.md
+1588248904|luisan00|A|/locha/documentation/es/chapter_04.md
+1588248904|luisan00|A|/locha/documentation/es/chapter_05.md
+1588248904|luisan00|A|/locha/documentation/es/chapter_06.md
+1588248904|luisan00|A|/locha/documentation/es/chapter_07.md
+1588248904|luisan00|A|/locha/documentation/es/chapter_08.md
+1588248904|luisan00|A|/locha/documentation/es/chapter_09.md
+1588248904|luisan00|A|/locha/documentation/es/chapter_10.md
+1588248904|luisan00|A|/locha/documentation/es/chapter_11.md
+1588248904|luisan00|A|/locha/documentation/es/references.md
+1588248904|luisan00|A|/locha/documentation/nl/chapter_01.md
+1588248904|luisan00|A|/locha/documentation/nl/chapter_02.md
+1588248904|luisan00|A|/locha/documentation/nl/chapter_03.md
+1588248904|luisan00|A|/locha/documentation/nl/chapter_04.md
+1588248904|luisan00|A|/locha/documentation/nl/chapter_05.md
+1588248904|luisan00|A|/locha/documentation/nl/chapter_06.md
+1588248904|luisan00|A|/locha/documentation/nl/chapter_07.md
+1588248904|luisan00|A|/locha/documentation/nl/chapter_08.md
+1588248904|luisan00|A|/locha/documentation/nl/chapter_09.md
+1588248904|luisan00|A|/locha/documentation/nl/chapter_10.md
+1588248904|luisan00|A|/locha/documentation/nl/chapter_11.md
+1588248904|luisan00|A|/locha/documentation/nl/references.md
+1588248904|luisan00|A|/locha/documentation/ru/chapter_01.md
+1588248904|luisan00|A|/locha/documentation/ru/chapter_02.md
+1588248904|luisan00|A|/locha/documentation/ru/chapter_03.md
+1588248904|luisan00|A|/locha/documentation/ru/chapter_04.md
+1588248904|luisan00|A|/locha/documentation/ru/chapter_05.md
+1588248904|luisan00|A|/locha/documentation/ru/chapter_06.md
+1588248904|luisan00|A|/locha/documentation/ru/chapter_07.md
+1588248904|luisan00|A|/locha/documentation/ru/chapter_08.md
+1588248904|luisan00|A|/locha/documentation/ru/chapter_09.md
+1588248904|luisan00|A|/locha/documentation/ru/chapter_10.md
+1588248904|luisan00|A|/locha/documentation/ru/chapter_11.md
+1588248904|luisan00|A|/locha/documentation/ru/references.md
+1588249568|luisan00|M|/locha/crowdin.yml
+1588249990|Luis Ruiz|D|/locha/documentation/nl/chapter_01.md
+1588249990|Luis Ruiz|D|/locha/documentation/nl/chapter_02.md
+1588249990|Luis Ruiz|D|/locha/documentation/nl/chapter_03.md
+1588249990|Luis Ruiz|D|/locha/documentation/nl/chapter_04.md
+1588249990|Luis Ruiz|D|/locha/documentation/nl/chapter_05.md
+1588249990|Luis Ruiz|D|/locha/documentation/nl/chapter_06.md
+1588249990|Luis Ruiz|D|/locha/documentation/nl/chapter_07.md
+1588249990|Luis Ruiz|D|/locha/documentation/nl/chapter_08.md
+1588249990|Luis Ruiz|D|/locha/documentation/nl/chapter_09.md
+1588249990|Luis Ruiz|D|/locha/documentation/nl/chapter_10.md
+1588249990|Luis Ruiz|D|/locha/documentation/nl/chapter_11.md
+1588249990|Luis Ruiz|D|/locha/documentation/nl/references.md
+1588249990|Luis Ruiz|D|/locha/documentation/ru/chapter_01.md
+1588249990|Luis Ruiz|D|/locha/documentation/ru/chapter_02.md
+1588249990|Luis Ruiz|D|/locha/documentation/ru/chapter_03.md
+1588249990|Luis Ruiz|D|/locha/documentation/ru/chapter_04.md
+1588249990|Luis Ruiz|D|/locha/documentation/ru/chapter_05.md
+1588249990|Luis Ruiz|D|/locha/documentation/ru/chapter_06.md
+1588249990|Luis Ruiz|D|/locha/documentation/ru/chapter_07.md
+1588249990|Luis Ruiz|D|/locha/documentation/ru/chapter_08.md
+1588249990|Luis Ruiz|D|/locha/documentation/ru/chapter_09.md
+1588249990|Luis Ruiz|D|/locha/documentation/ru/chapter_10.md
+1588249990|Luis Ruiz|D|/locha/documentation/ru/chapter_11.md
+1588249990|Luis Ruiz|D|/locha/documentation/ru/references.md
+1588250242|luisan00|M|/locha/README.md
+1588250242|luisan00|A|/locha/crowdin.yml
+1588250242|luisan00|A|/locha/documentation/ES/README.MD
+1588250242|luisan00|A|/locha/documentation/ES/chapter_1.md
+1588250242|luisan00|A|/locha/documentation/ES/chapter_10.md
+1588250242|luisan00|A|/locha/documentation/ES/chapter_11.md
+1588250242|luisan00|A|/locha/documentation/ES/chapter_12.md
+1588250242|luisan00|A|/locha/documentation/ES/chapter_13.md
+1588250242|luisan00|A|/locha/documentation/ES/chapter_2.md
+1588250242|luisan00|A|/locha/documentation/ES/chapter_3.md
+1588250242|luisan00|A|/locha/documentation/ES/chapter_4.md
+1588250242|luisan00|A|/locha/documentation/ES/chapter_5.md
+1588250242|luisan00|A|/locha/documentation/ES/chapter_6.md
+1588250242|luisan00|A|/locha/documentation/ES/chapter_7.md
+1588250242|luisan00|A|/locha/documentation/ES/chapter_8.md
+1588250242|luisan00|A|/locha/documentation/ES/chapter_9.md
+1588250242|luisan00|A|/locha/documentation/ES/draft_1_moduladores.md
+1588250242|luisan00|A|/locha/documentation/ES/imple_pic/ACKMSG.old.png
+1588250242|luisan00|D|/locha/documentation/ES/imple_pic/ACKMSG.png
+1588250242|luisan00|A|/locha/documentation/ES/imple_pic/ACKMSG.svg
+1588250242|luisan00|A|/locha/documentation/ES/imple_pic/AM_modulator.svg
+1588250242|luisan00|A|/locha/documentation/ES/imple_pic/BatteryChargerSelection.svg
+1588250242|luisan00|A|/locha/documentation/ES/imple_pic/BatteryManagementSystem-selection.svg
+1588250242|luisan00|A|/locha/documentation/ES/imple_pic/FM_modulator.svg
+1588250242|luisan00|A|/locha/documentation/ES/imple_pic/Gaussian-filter.svg
+1588250242|luisan00|A|/locha/documentation/ES/imple_pic/Hardware-Block.svg
+1588250242|luisan00|A|/locha/documentation/ES/imple_pic/RERRMSG.svg
+1588250242|luisan00|A|/locha/documentation/ES/imple_pic/RF-selection.svg
+1588250242|luisan00|A|/locha/documentation/ES/imple_pic/RREPMSG.old.png
+1588250242|luisan00|D|/locha/documentation/ES/imple_pic/RREPMSG.png
+1588250242|luisan00|A|/locha/documentation/ES/imple_pic/RREPMSG.svg
+1588250242|luisan00|A|/locha/documentation/ES/imple_pic/RREQMSG.old.png
+1588250242|luisan00|D|/locha/documentation/ES/imple_pic/RREQMSG.png
+1588250242|luisan00|A|/locha/documentation/ES/imple_pic/RREQMSG.svg
+1588250242|luisan00|A|/locha/documentation/ES/imple_pic/aodvv2_init.svg
+1588250242|luisan00|A|/locha/documentation/ES/imple_pic/ask_modulator.svg
+1588250242|luisan00|A|/locha/documentation/ES/imple_pic/filter-graph.svg
+1588250242|luisan00|A|/locha/documentation/ES/imple_pic/frequency.svg
+1588250242|luisan00|A|/locha/documentation/ES/imple_pic/fsk_modulator.svg
+1588250242|luisan00|A|/locha/documentation/ES/imple_pic/modulation-vco.svg
+1588250242|luisan00|A|/locha/documentation/ES/imple_pic/modulator-representation.svg
+1588250242|luisan00|A|/locha/documentation/ES/imple_pic/modulator-switch.svg
+1588250242|luisan00|A|/locha/documentation/ES/imple_pic/modulator-types.svg
+1588250242|luisan00|A|/locha/documentation/ES/imple_pic/modulator1.svg
+1588250242|luisan00|A|/locha/documentation/ES/imple_pic/powerSupply-selection.svg
+1588250242|luisan00|A|/locha/documentation/ES/imple_pic/turpial.svg
+1588250242|luisan00|A|/locha/documentation/ES/imple_pic/wave-characteristics.svg
+1588250242|luisan00|A|/locha/documentation/ES/imple_pic/wave.svg
+1588250242|luisan00|D|/locha/documentation/ES/implementacion.MD
+1588250242|luisan00|A|/locha/documentation/ES/references.md
+1588250242|luisan00|A|/locha/documentation/en/chapter_01.md
+1588250242|luisan00|A|/locha/documentation/en/chapter_02.md
+1588250242|luisan00|A|/locha/documentation/en/chapter_03.md
+1588250242|luisan00|A|/locha/documentation/en/chapter_04.md
+1588250242|luisan00|A|/locha/documentation/en/chapter_05.md
+1588250242|luisan00|A|/locha/documentation/en/chapter_06.md
+1588250242|luisan00|A|/locha/documentation/en/chapter_07.md
+1588250242|luisan00|A|/locha/documentation/en/chapter_08.md
+1588250242|luisan00|A|/locha/documentation/en/chapter_09.md
+1588250242|luisan00|A|/locha/documentation/en/chapter_10.md
+1588250242|luisan00|A|/locha/documentation/en/chapter_11.md
+1588250242|luisan00|A|/locha/documentation/en/index.md
+1588250242|luisan00|A|/locha/documentation/en/pics/ACKMSG.old.png
+1588250242|luisan00|A|/locha/documentation/en/pics/ACKMSG.svg
+1588250242|luisan00|A|/locha/documentation/en/pics/AM_modulator.svg
+1588250242|luisan00|A|/locha/documentation/en/pics/BatteryChargerSelection.svg
+1588250242|luisan00|A|/locha/documentation/en/pics/BatteryManagementSystem-selection.svg
+1588250242|luisan00|A|/locha/documentation/en/pics/FM_modulator.svg
+1588250242|luisan00|A|/locha/documentation/en/pics/Gaussian-filter.svg
+1588250242|luisan00|A|/locha/documentation/en/pics/Hardware-Block.svg
+1588250242|luisan00|A|/locha/documentation/en/pics/RERRMSG.svg
+1588250242|luisan00|A|/locha/documentation/en/pics/RF-selection.svg
+1588250242|luisan00|A|/locha/documentation/en/pics/RREPMSG.old.png
+1588250242|luisan00|A|/locha/documentation/en/pics/RREPMSG.svg
+1588250242|luisan00|A|/locha/documentation/en/pics/RREQ-flooding.png
+1588250242|luisan00|A|/locha/documentation/en/pics/RREQ-table-route.png
+1588250242|luisan00|A|/locha/documentation/en/pics/RREQ1.png
+1588250242|luisan00|A|/locha/documentation/en/pics/RREQ2.png
+1588250242|luisan00|A|/locha/documentation/en/pics/RREQ3.png
+1588250242|luisan00|A|/locha/documentation/en/pics/RREQ4.png
+1588250242|luisan00|A|/locha/documentation/en/pics/RREQ5.png
+1588250242|luisan00|A|/locha/documentation/en/pics/RREQ6.png
+1588250242|luisan00|A|/locha/documentation/en/pics/RREQ7.png
+1588250242|luisan00|A|/locha/documentation/en/pics/RREQMSG.old.png
+1588250242|luisan00|A|/locha/documentation/en/pics/RREQMSG.svg
+1588250242|luisan00|A|/locha/documentation/en/pics/Receive_RREQ.png
+1588250242|luisan00|A|/locha/documentation/en/pics/Route_table_entry.png
+1588250242|luisan00|A|/locha/documentation/en/pics/aodv-family.png
+1588250242|luisan00|A|/locha/documentation/en/pics/aodv-topology.png
+1588250242|luisan00|A|/locha/documentation/en/pics/aodv-topology2.png
+1588250242|luisan00|A|/locha/documentation/en/pics/aodv-versions.png
+1588250242|luisan00|A|/locha/documentation/en/pics/aodvv2_init.svg
+1588250242|luisan00|A|/locha/documentation/en/pics/ask_modulator.svg
+1588250242|luisan00|A|/locha/documentation/en/pics/fetch_route_table_entry.png
+1588250242|luisan00|A|/locha/documentation/en/pics/filter-graph.svg
+1588250242|luisan00|A|/locha/documentation/en/pics/frequency.svg
+1588250242|luisan00|A|/locha/documentation/en/pics/fsk_modulator.svg
+1588250242|luisan00|A|/locha/documentation/en/pics/header-rfc5444.png
+1588250242|luisan00|A|/locha/documentation/en/pics/modulation-vco.svg
+1588250242|luisan00|A|/locha/documentation/en/pics/modulator-representation.svg
+1588250242|luisan00|A|/locha/documentation/en/pics/modulator-switch.svg
+1588250242|luisan00|A|/locha/documentation/en/pics/modulator-types.svg
+1588250242|luisan00|A|/locha/documentation/en/pics/modulator1.svg
+1588250242|luisan00|A|/locha/documentation/en/pics/network-topology.png
+1588250242|luisan00|A|/locha/documentation/en/pics/powerSupply-selection.svg
+1588250242|luisan00|A|/locha/documentation/en/pics/process_routing_info.png
+1588250242|luisan00|A|/locha/documentation/en/pics/protocolo_seleccion.svg
+1588250242|luisan00|A|/locha/documentation/en/pics/rfc5444-pkt.png
+1588250242|luisan00|A|/locha/documentation/en/pics/simpleRREQ-reply.gif
+1588250242|luisan00|A|/locha/documentation/en/pics/tlv-addr-block.png
+1588250242|luisan00|A|/locha/documentation/en/pics/tlvOrigPrefix.png
+1588250242|luisan00|A|/locha/documentation/en/pics/tlvTargetPrefix.png
+1588250242|luisan00|A|/locha/documentation/en/pics/turpial.svg
+1588250242|luisan00|A|/locha/documentation/en/pics/update_route_table_entry.png
+1588250242|luisan00|A|/locha/documentation/en/pics/wave-characteristics.svg
+1588250242|luisan00|A|/locha/documentation/en/pics/wave.svg
+1588250242|luisan00|A|/locha/documentation/en/references.md
+1588250242|luisan00|A|/locha/documentation/es/chapter_01.md
+1588250242|luisan00|A|/locha/documentation/es/chapter_02.md
+1588250242|luisan00|A|/locha/documentation/es/chapter_03.md
+1588250242|luisan00|A|/locha/documentation/es/chapter_04.md
+1588250242|luisan00|A|/locha/documentation/es/chapter_05.md
+1588250242|luisan00|A|/locha/documentation/es/chapter_06.md
+1588250242|luisan00|A|/locha/documentation/es/chapter_07.md
+1588250242|luisan00|A|/locha/documentation/es/chapter_08.md
+1588250242|luisan00|A|/locha/documentation/es/chapter_09.md
+1588250242|luisan00|A|/locha/documentation/es/chapter_10.md
+1588250242|luisan00|A|/locha/documentation/es/chapter_11.md
+1588250242|luisan00|A|/locha/documentation/es/references.md
+1588250242|luisan00|D|/locha/documentation/index.rst
+1588250658|TVMG20|A|/locha/documentation/en/chapter_12.md
+1588252089|luisan00|M|/locha/crowdin.yml
+1588252690|TVMG20|D|/locha/documentation/EN/Translated chapter 12 ES to EN.md
+1588253625|TVMG20|D|/locha/documentation/EN/chapter_13.md
+1588253625|TVMG20|A|/locha/documentation/en/chapter_13_.md
+1588253690|TVMG20|A|/locha/documentation/en/chapter_13.md
+1588253690|TVMG20|D|/locha/documentation/en/chapter_13_.md
+1588254467|TVMG20|M|/locha/documentation/en/chapter_12.md
+1588254565|TVMG20|M|/locha/documentation/en/chapter_12.md
+1588254962|luisan00|M|/locha/crowdin.yml
+1588334061|luisan00|M|/locha/documentation/ES/chapter_5.md
+1588334164|luisan00|M|/locha/documentation/en/chapter_05.md
+1588334297|luisan00|D|/locha/documentation/ES/README.MD
+1588334297|luisan00|D|/locha/documentation/ES/chapter_1.md
+1588334297|luisan00|D|/locha/documentation/ES/chapter_10.md
+1588334297|luisan00|D|/locha/documentation/ES/chapter_11.md
+1588334297|luisan00|D|/locha/documentation/ES/chapter_12.md
+1588334297|luisan00|D|/locha/documentation/ES/chapter_13.md
+1588334297|luisan00|D|/locha/documentation/ES/chapter_2.md
+1588334297|luisan00|D|/locha/documentation/ES/chapter_3.md
+1588334297|luisan00|D|/locha/documentation/ES/chapter_4.md
+1588334297|luisan00|D|/locha/documentation/ES/chapter_5.md
+1588334297|luisan00|D|/locha/documentation/ES/chapter_6.md
+1588334297|luisan00|D|/locha/documentation/ES/chapter_7.md
+1588334297|luisan00|D|/locha/documentation/ES/chapter_8.md
+1588334297|luisan00|D|/locha/documentation/ES/chapter_9.md
+1588334297|luisan00|D|/locha/documentation/ES/draft_1_moduladores.md
+1588334297|luisan00|D|/locha/documentation/ES/imple_pic/ACKMSG.old.png
+1588334297|luisan00|D|/locha/documentation/ES/imple_pic/ACKMSG.svg
+1588334297|luisan00|D|/locha/documentation/ES/imple_pic/AM_modulator.svg
+1588334297|luisan00|D|/locha/documentation/ES/imple_pic/BatteryChargerSelection.svg
+1588334297|luisan00|D|/locha/documentation/ES/imple_pic/BatteryManagementSystem-selection.svg
+1588334297|luisan00|D|/locha/documentation/ES/imple_pic/FM_modulator.svg
+1588334297|luisan00|D|/locha/documentation/ES/imple_pic/Gaussian-filter.svg
+1588334297|luisan00|D|/locha/documentation/ES/imple_pic/Hardware-Block.svg
+1588334297|luisan00|D|/locha/documentation/ES/imple_pic/RERRMSG.svg
+1588334297|luisan00|D|/locha/documentation/ES/imple_pic/RF-selection.svg
+1588334297|luisan00|D|/locha/documentation/ES/imple_pic/RREPMSG.old.png
+1588334297|luisan00|D|/locha/documentation/ES/imple_pic/RREPMSG.svg
+1588334297|luisan00|D|/locha/documentation/ES/imple_pic/RREQ-flooding.png
+1588334297|luisan00|D|/locha/documentation/ES/imple_pic/RREQ-table-route.png
+1588334297|luisan00|D|/locha/documentation/ES/imple_pic/RREQ1.png
+1588334297|luisan00|D|/locha/documentation/ES/imple_pic/RREQ2.png
+1588334297|luisan00|D|/locha/documentation/ES/imple_pic/RREQ3.png
+1588334297|luisan00|D|/locha/documentation/ES/imple_pic/RREQ4.png
+1588334297|luisan00|D|/locha/documentation/ES/imple_pic/RREQ5.png
+1588334297|luisan00|D|/locha/documentation/ES/imple_pic/RREQ6.png
+1588334297|luisan00|D|/locha/documentation/ES/imple_pic/RREQ7.png
+1588334297|luisan00|D|/locha/documentation/ES/imple_pic/RREQMSG.old.png
+1588334297|luisan00|D|/locha/documentation/ES/imple_pic/RREQMSG.svg
+1588334297|luisan00|D|/locha/documentation/ES/imple_pic/Receive_RREQ.png
+1588334297|luisan00|D|/locha/documentation/ES/imple_pic/Route_table_entry.png
+1588334297|luisan00|D|/locha/documentation/ES/imple_pic/aodv-family.png
+1588334297|luisan00|D|/locha/documentation/ES/imple_pic/aodv-topology.png
+1588334297|luisan00|D|/locha/documentation/ES/imple_pic/aodv-topology2.png
+1588334297|luisan00|D|/locha/documentation/ES/imple_pic/aodv-versions.png
+1588334297|luisan00|D|/locha/documentation/ES/imple_pic/aodvv2_init.svg
+1588334297|luisan00|D|/locha/documentation/ES/imple_pic/ask_modulator.svg
+1588334297|luisan00|D|/locha/documentation/ES/imple_pic/fetch_route_table_entry.png
+1588334297|luisan00|D|/locha/documentation/ES/imple_pic/filter-graph.svg
+1588334297|luisan00|D|/locha/documentation/ES/imple_pic/frequency.svg
+1588334297|luisan00|D|/locha/documentation/ES/imple_pic/fsk_modulator.svg
+1588334297|luisan00|D|/locha/documentation/ES/imple_pic/header-rfc5444.png
+1588334297|luisan00|D|/locha/documentation/ES/imple_pic/modulation-vco.svg
+1588334297|luisan00|D|/locha/documentation/ES/imple_pic/modulator-representation.svg
+1588334297|luisan00|D|/locha/documentation/ES/imple_pic/modulator-switch.svg
+1588334297|luisan00|D|/locha/documentation/ES/imple_pic/modulator-types.svg
+1588334297|luisan00|D|/locha/documentation/ES/imple_pic/modulator1.svg
+1588334297|luisan00|D|/locha/documentation/ES/imple_pic/network-topology.png
+1588334297|luisan00|D|/locha/documentation/ES/imple_pic/powerSupply-selection.svg
+1588334297|luisan00|D|/locha/documentation/ES/imple_pic/process_routing_info.png
+1588334297|luisan00|D|/locha/documentation/ES/imple_pic/protocolo_seleccion.svg
+1588334297|luisan00|D|/locha/documentation/ES/imple_pic/rfc5444-pkt.png
+1588334297|luisan00|D|/locha/documentation/ES/imple_pic/simpleRREQ-reply.gif
+1588334297|luisan00|D|/locha/documentation/ES/imple_pic/tlv-addr-block.png
+1588334297|luisan00|D|/locha/documentation/ES/imple_pic/tlvOrigPrefix.png
+1588334297|luisan00|D|/locha/documentation/ES/imple_pic/tlvTargetPrefix.png
+1588334297|luisan00|D|/locha/documentation/ES/imple_pic/turpial.svg
+1588334297|luisan00|D|/locha/documentation/ES/imple_pic/update_route_table_entry.png
+1588334297|luisan00|D|/locha/documentation/ES/imple_pic/wave-characteristics.svg
+1588334297|luisan00|D|/locha/documentation/ES/imple_pic/wave.svg
+1588334297|luisan00|D|/locha/documentation/ES/references.md
+1588334297|luisan00|A|/locha/documentation/es/README.MD
+1588334297|luisan00|D|/locha/documentation/es/chapter_01.md
+1588334297|luisan00|D|/locha/documentation/es/chapter_02.md
+1588334297|luisan00|D|/locha/documentation/es/chapter_03.md
+1588334297|luisan00|D|/locha/documentation/es/chapter_04.md
+1588334297|luisan00|D|/locha/documentation/es/chapter_05.md
+1588334297|luisan00|D|/locha/documentation/es/chapter_06.md
+1588334297|luisan00|D|/locha/documentation/es/chapter_07.md
+1588334297|luisan00|D|/locha/documentation/es/chapter_08.md
+1588334297|luisan00|D|/locha/documentation/es/chapter_09.md
+1588334297|luisan00|A|/locha/documentation/es/chapter_1.md
+1588334297|luisan00|M|/locha/documentation/es/chapter_10.md
+1588334297|luisan00|M|/locha/documentation/es/chapter_11.md
+1588334297|luisan00|A|/locha/documentation/es/chapter_12.md
+1588334297|luisan00|A|/locha/documentation/es/chapter_13.md
+1588334297|luisan00|A|/locha/documentation/es/chapter_2.md
+1588334297|luisan00|A|/locha/documentation/es/chapter_3.md
+1588334297|luisan00|A|/locha/documentation/es/chapter_4.md
+1588334297|luisan00|A|/locha/documentation/es/chapter_5.md
+1588334297|luisan00|A|/locha/documentation/es/chapter_6.md
+1588334297|luisan00|A|/locha/documentation/es/chapter_7.md
+1588334297|luisan00|A|/locha/documentation/es/chapter_8.md
+1588334297|luisan00|A|/locha/documentation/es/chapter_9.md
+1588334297|luisan00|A|/locha/documentation/es/draft_1_moduladores.md
+1588334297|luisan00|A|/locha/documentation/es/index.md
+1588334297|luisan00|A|/locha/documentation/es/pics/ACKMSG.old.png
+1588334297|luisan00|A|/locha/documentation/es/pics/ACKMSG.svg
+1588334297|luisan00|A|/locha/documentation/es/pics/AM_modulator.svg
+1588334297|luisan00|A|/locha/documentation/es/pics/BatteryChargerSelection.svg
+1588334297|luisan00|A|/locha/documentation/es/pics/BatteryManagementSystem-selection.svg
+1588334297|luisan00|A|/locha/documentation/es/pics/FM_modulator.svg
+1588334297|luisan00|A|/locha/documentation/es/pics/Gaussian-filter.svg
+1588334297|luisan00|A|/locha/documentation/es/pics/Hardware-Block.svg
+1588334297|luisan00|A|/locha/documentation/es/pics/RERRMSG.svg
+1588334297|luisan00|A|/locha/documentation/es/pics/RF-selection.svg
+1588334297|luisan00|A|/locha/documentation/es/pics/RREPMSG.old.png
+1588334297|luisan00|A|/locha/documentation/es/pics/RREPMSG.svg
+1588334297|luisan00|A|/locha/documentation/es/pics/RREQ-flooding.png
+1588334297|luisan00|A|/locha/documentation/es/pics/RREQ-table-route.png
+1588334297|luisan00|A|/locha/documentation/es/pics/RREQ1.png
+1588334297|luisan00|A|/locha/documentation/es/pics/RREQ2.png
+1588334297|luisan00|A|/locha/documentation/es/pics/RREQ3.png
+1588334297|luisan00|A|/locha/documentation/es/pics/RREQ4.png
+1588334297|luisan00|A|/locha/documentation/es/pics/RREQ5.png
+1588334297|luisan00|A|/locha/documentation/es/pics/RREQ6.png
+1588334297|luisan00|A|/locha/documentation/es/pics/RREQ7.png
+1588334297|luisan00|A|/locha/documentation/es/pics/RREQMSG.old.png
+1588334297|luisan00|A|/locha/documentation/es/pics/RREQMSG.svg
+1588334297|luisan00|A|/locha/documentation/es/pics/Receive_RREQ.png
+1588334297|luisan00|A|/locha/documentation/es/pics/Route_table_entry.png
+1588334297|luisan00|A|/locha/documentation/es/pics/aodv-family.png
+1588334297|luisan00|A|/locha/documentation/es/pics/aodv-topology.png
+1588334297|luisan00|A|/locha/documentation/es/pics/aodv-topology2.png
+1588334297|luisan00|A|/locha/documentation/es/pics/aodv-versions.png
+1588334297|luisan00|A|/locha/documentation/es/pics/aodvv2_init.svg
+1588334297|luisan00|A|/locha/documentation/es/pics/ask_modulator.svg
+1588334297|luisan00|A|/locha/documentation/es/pics/fetch_route_table_entry.png
+1588334297|luisan00|A|/locha/documentation/es/pics/filter-graph.svg
+1588334297|luisan00|A|/locha/documentation/es/pics/frequency.svg
+1588334297|luisan00|A|/locha/documentation/es/pics/fsk_modulator.svg
+1588334297|luisan00|A|/locha/documentation/es/pics/header-rfc5444.png
+1588334297|luisan00|A|/locha/documentation/es/pics/modulation-vco.svg
+1588334297|luisan00|A|/locha/documentation/es/pics/modulator-representation.svg
+1588334297|luisan00|A|/locha/documentation/es/pics/modulator-switch.svg
+1588334297|luisan00|A|/locha/documentation/es/pics/modulator-types.svg
+1588334297|luisan00|A|/locha/documentation/es/pics/modulator1.svg
+1588334297|luisan00|A|/locha/documentation/es/pics/network-topology.png
+1588334297|luisan00|A|/locha/documentation/es/pics/powerSupply-selection.svg
+1588334297|luisan00|A|/locha/documentation/es/pics/process_routing_info.png
+1588334297|luisan00|A|/locha/documentation/es/pics/protocolo_seleccion.svg
+1588334297|luisan00|A|/locha/documentation/es/pics/rfc5444-pkt.png
+1588334297|luisan00|A|/locha/documentation/es/pics/simpleRREQ-reply.gif
+1588334297|luisan00|A|/locha/documentation/es/pics/tlv-addr-block.png
+1588334297|luisan00|A|/locha/documentation/es/pics/tlvOrigPrefix.png
+1588334297|luisan00|A|/locha/documentation/es/pics/tlvTargetPrefix.png
+1588334297|luisan00|A|/locha/documentation/es/pics/turpial.svg
+1588334297|luisan00|A|/locha/documentation/es/pics/update_route_table_entry.png
+1588334297|luisan00|A|/locha/documentation/es/pics/wave-characteristics.svg
+1588334297|luisan00|A|/locha/documentation/es/pics/wave.svg
+1588334297|luisan00|M|/locha/documentation/es/references.md
+1588334297|luisan00|A|/locha/documentation/pics/ACKMSG.old.png
+1588334297|luisan00|A|/locha/documentation/pics/ACKMSG.svg
+1588334297|luisan00|A|/locha/documentation/pics/AM_modulator.svg
+1588334297|luisan00|A|/locha/documentation/pics/BatteryChargerSelection.svg
+1588334297|luisan00|A|/locha/documentation/pics/BatteryManagementSystem-selection.svg
+1588334297|luisan00|A|/locha/documentation/pics/FM_modulator.svg
+1588334297|luisan00|A|/locha/documentation/pics/Gaussian-filter.svg
+1588334297|luisan00|A|/locha/documentation/pics/Hardware-Block.svg
+1588334297|luisan00|A|/locha/documentation/pics/RERRMSG.svg
+1588334297|luisan00|A|/locha/documentation/pics/RF-selection.svg
+1588334297|luisan00|A|/locha/documentation/pics/RREPMSG.old.png
+1588334297|luisan00|A|/locha/documentation/pics/RREPMSG.svg
+1588334297|luisan00|A|/locha/documentation/pics/RREQ-flooding.png
+1588334297|luisan00|A|/locha/documentation/pics/RREQ-table-route.png
+1588334297|luisan00|A|/locha/documentation/pics/RREQ1.png
+1588334297|luisan00|A|/locha/documentation/pics/RREQ2.png
+1588334297|luisan00|A|/locha/documentation/pics/RREQ3.png
+1588334297|luisan00|A|/locha/documentation/pics/RREQ4.png
+1588334297|luisan00|A|/locha/documentation/pics/RREQ5.png
+1588334297|luisan00|A|/locha/documentation/pics/RREQ6.png
+1588334297|luisan00|A|/locha/documentation/pics/RREQ7.png
+1588334297|luisan00|A|/locha/documentation/pics/RREQMSG.old.png
+1588334297|luisan00|A|/locha/documentation/pics/RREQMSG.svg
+1588334297|luisan00|A|/locha/documentation/pics/Receive_RREQ.png
+1588334297|luisan00|A|/locha/documentation/pics/Route_table_entry.png
+1588334297|luisan00|A|/locha/documentation/pics/aodv-family.png
+1588334297|luisan00|A|/locha/documentation/pics/aodv-topology.png
+1588334297|luisan00|A|/locha/documentation/pics/aodv-topology2.png
+1588334297|luisan00|A|/locha/documentation/pics/aodv-versions.png
+1588334297|luisan00|A|/locha/documentation/pics/aodvv2_init.svg
+1588334297|luisan00|A|/locha/documentation/pics/ask_modulator.svg
+1588334297|luisan00|A|/locha/documentation/pics/fetch_route_table_entry.png
+1588334297|luisan00|A|/locha/documentation/pics/filter-graph.svg
+1588334297|luisan00|A|/locha/documentation/pics/frequency.svg
+1588334297|luisan00|A|/locha/documentation/pics/fsk_modulator.svg
+1588334297|luisan00|A|/locha/documentation/pics/header-rfc5444.png
+1588334297|luisan00|A|/locha/documentation/pics/modulation-vco.svg
+1588334297|luisan00|A|/locha/documentation/pics/modulator-representation.svg
+1588334297|luisan00|A|/locha/documentation/pics/modulator-switch.svg
+1588334297|luisan00|A|/locha/documentation/pics/modulator-types.svg
+1588334297|luisan00|A|/locha/documentation/pics/modulator1.svg
+1588334297|luisan00|A|/locha/documentation/pics/network-topology.png
+1588334297|luisan00|A|/locha/documentation/pics/powerSupply-selection.svg
+1588334297|luisan00|A|/locha/documentation/pics/process_routing_info.png
+1588334297|luisan00|A|/locha/documentation/pics/protocolo_seleccion.svg
+1588334297|luisan00|A|/locha/documentation/pics/rfc5444-pkt.png
+1588334297|luisan00|A|/locha/documentation/pics/simpleRREQ-reply.gif
+1588334297|luisan00|A|/locha/documentation/pics/tlv-addr-block.png
+1588334297|luisan00|A|/locha/documentation/pics/tlvOrigPrefix.png
+1588334297|luisan00|A|/locha/documentation/pics/tlvTargetPrefix.png
+1588334297|luisan00|A|/locha/documentation/pics/turpial.svg
+1588334297|luisan00|A|/locha/documentation/pics/update_route_table_entry.png
+1588334297|luisan00|A|/locha/documentation/pics/wave-characteristics.svg
+1588334297|luisan00|A|/locha/documentation/pics/wave.svg
+1588337015|luisan00|M|/locha/documentation/en/index.md
+1588337015|luisan00|M|/locha/documentation/es/index.md
+1588337026|luisan00|M|/locha/documentation/en/chapter_01.md
+1588337026|luisan00|M|/locha/documentation/en/chapter_05.md
+1588337026|luisan00|M|/locha/documentation/es/chapter_1.md
+1588337026|luisan00|M|/locha/documentation/es/chapter_5.md
+1588401739|gustavosinbandera1|A|/locha/documentation/en/chapter_XX.md
+1588401739|gustavosinbandera1|A|/locha/documentation/en/chapter_xx.md
+1588401739|gustavosinbandera1|A|/locha/documentation/en/pics/simulation_16nodesTopology.svg
+1588401739|gustavosinbandera1|A|/locha/documentation/en/pics/simulation_3nodesClient.svg
+1588401739|gustavosinbandera1|A|/locha/documentation/en/pics/simulation_3nodesIP.svg
+1588401739|gustavosinbandera1|A|/locha/documentation/en/pics/simulation_3nodesIP2.svg
+1588401739|gustavosinbandera1|A|/locha/documentation/en/pics/simulation_3nodesIP3.svg
+1588401739|gustavosinbandera1|A|/locha/documentation/en/pics/simulation_3nodesNibOut.svg
+1588401739|gustavosinbandera1|A|/locha/documentation/en/pics/simulation_3nodesNibOut2.svg
+1588401739|gustavosinbandera1|A|/locha/documentation/en/pics/simulation_3nodesNibOut3.svg
+1588401739|gustavosinbandera1|A|/locha/documentation/en/pics/simulation_3nodesNibOut4.svg
+1588401739|gustavosinbandera1|A|/locha/documentation/en/pics/simulation_3nodesNibOut5.svg
+1588401739|gustavosinbandera1|A|/locha/documentation/en/pics/simulation_3nodesRREP1.svg
+1588401739|gustavosinbandera1|A|/locha/documentation/en/pics/simulation_3nodesRREP2.svg
+1588401739|gustavosinbandera1|A|/locha/documentation/en/pics/simulation_3nodesRfcOut.svg
+1588401739|gustavosinbandera1|A|/locha/documentation/en/pics/simulation_3nodesServer copy.svg
+1588401739|gustavosinbandera1|A|/locha/documentation/en/pics/simulation_3nodesServer.svg
+1588401739|gustavosinbandera1|A|/locha/documentation/en/pics/simulation_4nodesTopology.svg
+1588401739|gustavosinbandera1|A|/locha/documentation/en/pics/simulation_6nodesTopology.svg
+1588401739|gustavosinbandera1|A|/locha/documentation/en/pics/simulation_7nodesTopology.svg
+1588417492|luisan00|M|/locha/documentation/en/chapter_01.md
+1588417620|luisan00|M|/locha/documentation/es/chapter_1.md
+1588619955|gustavosinbandera1|M|/locha/documentation/en/chapter_05.md
+1588620145|gustavosinbandera1|M|/locha/documentation/en/chapter_06.md
+1588620387|gustavosinbandera1|M|/locha/documentation/en/chapter_08.md
+1588620669|gustavosinbandera1|M|/locha/documentation/en/chapter_09.md
+1588620821|gustavosinbandera1|M|/locha/documentation/en/chapter_11.md
+1588621185|gustavosinbandera1|M|/locha/documentation/en/chapter_08.md
+1588621303|gustavosinbandera1|D|/locha/documentation/en/pics/ACKMSG.old.png
+1588621303|gustavosinbandera1|D|/locha/documentation/en/pics/ACKMSG.svg
+1588621303|gustavosinbandera1|D|/locha/documentation/en/pics/AM_modulator.svg
+1588621303|gustavosinbandera1|D|/locha/documentation/en/pics/BatteryChargerSelection.svg
+1588621303|gustavosinbandera1|D|/locha/documentation/en/pics/BatteryManagementSystem-selection.svg
+1588621303|gustavosinbandera1|D|/locha/documentation/en/pics/FM_modulator.svg
+1588621303|gustavosinbandera1|D|/locha/documentation/en/pics/Gaussian-filter.svg
+1588621303|gustavosinbandera1|D|/locha/documentation/en/pics/Hardware-Block.svg
+1588621303|gustavosinbandera1|D|/locha/documentation/en/pics/RERRMSG.svg
+1588621303|gustavosinbandera1|D|/locha/documentation/en/pics/RF-selection.svg
+1588621303|gustavosinbandera1|D|/locha/documentation/en/pics/RREPMSG.old.png
+1588621303|gustavosinbandera1|D|/locha/documentation/en/pics/RREPMSG.svg
+1588621303|gustavosinbandera1|D|/locha/documentation/en/pics/RREQ-flooding.png
+1588621303|gustavosinbandera1|D|/locha/documentation/en/pics/RREQ-table-route.png
+1588621303|gustavosinbandera1|D|/locha/documentation/en/pics/RREQ1.png
+1588621303|gustavosinbandera1|D|/locha/documentation/en/pics/RREQ2.png
+1588621303|gustavosinbandera1|D|/locha/documentation/en/pics/RREQ3.png
+1588621303|gustavosinbandera1|D|/locha/documentation/en/pics/RREQ4.png
+1588621303|gustavosinbandera1|D|/locha/documentation/en/pics/RREQ5.png
+1588621303|gustavosinbandera1|D|/locha/documentation/en/pics/RREQ6.png
+1588621303|gustavosinbandera1|D|/locha/documentation/en/pics/RREQ7.png
+1588621303|gustavosinbandera1|D|/locha/documentation/en/pics/RREQMSG.old.png
+1588621303|gustavosinbandera1|D|/locha/documentation/en/pics/RREQMSG.svg
+1588621303|gustavosinbandera1|D|/locha/documentation/en/pics/Receive_RREQ.png
+1588621303|gustavosinbandera1|D|/locha/documentation/en/pics/Route_table_entry.png
+1588621303|gustavosinbandera1|D|/locha/documentation/en/pics/aodv-family.png
+1588621303|gustavosinbandera1|D|/locha/documentation/en/pics/aodv-topology.png
+1588621303|gustavosinbandera1|D|/locha/documentation/en/pics/aodv-topology2.png
+1588621303|gustavosinbandera1|D|/locha/documentation/en/pics/aodv-versions.png
+1588621303|gustavosinbandera1|D|/locha/documentation/en/pics/aodvv2_init.svg
+1588621303|gustavosinbandera1|D|/locha/documentation/en/pics/ask_modulator.svg
+1588621303|gustavosinbandera1|D|/locha/documentation/en/pics/fetch_route_table_entry.png
+1588621303|gustavosinbandera1|D|/locha/documentation/en/pics/filter-graph.svg
+1588621303|gustavosinbandera1|D|/locha/documentation/en/pics/frequency.svg
+1588621303|gustavosinbandera1|D|/locha/documentation/en/pics/fsk_modulator.svg
+1588621303|gustavosinbandera1|D|/locha/documentation/en/pics/header-rfc5444.png
+1588621303|gustavosinbandera1|D|/locha/documentation/en/pics/modulation-vco.svg
+1588621303|gustavosinbandera1|D|/locha/documentation/en/pics/modulator-representation.svg
+1588621303|gustavosinbandera1|D|/locha/documentation/en/pics/modulator-switch.svg
+1588621303|gustavosinbandera1|D|/locha/documentation/en/pics/modulator-types.svg
+1588621303|gustavosinbandera1|D|/locha/documentation/en/pics/modulator1.svg
+1588621303|gustavosinbandera1|D|/locha/documentation/en/pics/network-topology.png
+1588621303|gustavosinbandera1|D|/locha/documentation/en/pics/powerSupply-selection.svg
+1588621303|gustavosinbandera1|D|/locha/documentation/en/pics/process_routing_info.png
+1588621303|gustavosinbandera1|D|/locha/documentation/en/pics/protocolo_seleccion.svg
+1588621303|gustavosinbandera1|D|/locha/documentation/en/pics/rfc5444-pkt.png
+1588621303|gustavosinbandera1|D|/locha/documentation/en/pics/simpleRREQ-reply.gif
+1588621303|gustavosinbandera1|D|/locha/documentation/en/pics/tlv-addr-block.png
+1588621303|gustavosinbandera1|D|/locha/documentation/en/pics/tlvOrigPrefix.png
+1588621303|gustavosinbandera1|D|/locha/documentation/en/pics/tlvTargetPrefix.png
+1588621303|gustavosinbandera1|D|/locha/documentation/en/pics/turpial.svg
+1588621303|gustavosinbandera1|D|/locha/documentation/en/pics/update_route_table_entry.png
+1588621303|gustavosinbandera1|D|/locha/documentation/en/pics/wave-characteristics.svg
+1588621303|gustavosinbandera1|D|/locha/documentation/en/pics/wave.svg
+1588622781|gustavosinbandera1|M|/locha/documentation/es/chapter_11.md
+1588622781|gustavosinbandera1|M|/locha/documentation/es/chapter_5.md
+1588622781|gustavosinbandera1|M|/locha/documentation/es/chapter_6.md
+1588622781|gustavosinbandera1|M|/locha/documentation/es/chapter_8.md
+1588622781|gustavosinbandera1|M|/locha/documentation/es/chapter_9.md
+1588622781|gustavosinbandera1|D|/locha/documentation/es/pics/ACKMSG.old.png
+1588622781|gustavosinbandera1|D|/locha/documentation/es/pics/ACKMSG.svg
+1588622781|gustavosinbandera1|D|/locha/documentation/es/pics/AM_modulator.svg
+1588622781|gustavosinbandera1|D|/locha/documentation/es/pics/BatteryChargerSelection.svg
+1588622781|gustavosinbandera1|D|/locha/documentation/es/pics/BatteryManagementSystem-selection.svg
+1588622781|gustavosinbandera1|D|/locha/documentation/es/pics/FM_modulator.svg
+1588622781|gustavosinbandera1|D|/locha/documentation/es/pics/Gaussian-filter.svg
+1588622781|gustavosinbandera1|D|/locha/documentation/es/pics/Hardware-Block.svg
+1588622781|gustavosinbandera1|D|/locha/documentation/es/pics/RERRMSG.svg
+1588622781|gustavosinbandera1|D|/locha/documentation/es/pics/RF-selection.svg
+1588622781|gustavosinbandera1|D|/locha/documentation/es/pics/RREPMSG.old.png
+1588622781|gustavosinbandera1|D|/locha/documentation/es/pics/RREPMSG.svg
+1588622781|gustavosinbandera1|D|/locha/documentation/es/pics/RREQ-flooding.png
+1588622781|gustavosinbandera1|D|/locha/documentation/es/pics/RREQ-table-route.png
+1588622781|gustavosinbandera1|D|/locha/documentation/es/pics/RREQ1.png
+1588622781|gustavosinbandera1|D|/locha/documentation/es/pics/RREQ2.png
+1588622781|gustavosinbandera1|D|/locha/documentation/es/pics/RREQ3.png
+1588622781|gustavosinbandera1|D|/locha/documentation/es/pics/RREQ4.png
+1588622781|gustavosinbandera1|D|/locha/documentation/es/pics/RREQ5.png
+1588622781|gustavosinbandera1|D|/locha/documentation/es/pics/RREQ6.png
+1588622781|gustavosinbandera1|D|/locha/documentation/es/pics/RREQ7.png
+1588622781|gustavosinbandera1|D|/locha/documentation/es/pics/RREQMSG.old.png
+1588622781|gustavosinbandera1|D|/locha/documentation/es/pics/RREQMSG.svg
+1588622781|gustavosinbandera1|D|/locha/documentation/es/pics/Receive_RREQ.png
+1588622781|gustavosinbandera1|D|/locha/documentation/es/pics/Route_table_entry.png
+1588622781|gustavosinbandera1|D|/locha/documentation/es/pics/aodv-family.png
+1588622781|gustavosinbandera1|D|/locha/documentation/es/pics/aodv-topology.png
+1588622781|gustavosinbandera1|D|/locha/documentation/es/pics/aodv-topology2.png
+1588622781|gustavosinbandera1|D|/locha/documentation/es/pics/aodv-versions.png
+1588622781|gustavosinbandera1|D|/locha/documentation/es/pics/aodvv2_init.svg
+1588622781|gustavosinbandera1|D|/locha/documentation/es/pics/ask_modulator.svg
+1588622781|gustavosinbandera1|D|/locha/documentation/es/pics/fetch_route_table_entry.png
+1588622781|gustavosinbandera1|D|/locha/documentation/es/pics/filter-graph.svg
+1588622781|gustavosinbandera1|D|/locha/documentation/es/pics/frequency.svg
+1588622781|gustavosinbandera1|D|/locha/documentation/es/pics/fsk_modulator.svg
+1588622781|gustavosinbandera1|D|/locha/documentation/es/pics/header-rfc5444.png
+1588622781|gustavosinbandera1|D|/locha/documentation/es/pics/modulation-vco.svg
+1588622781|gustavosinbandera1|D|/locha/documentation/es/pics/modulator-representation.svg
+1588622781|gustavosinbandera1|D|/locha/documentation/es/pics/modulator-switch.svg
+1588622781|gustavosinbandera1|D|/locha/documentation/es/pics/modulator-types.svg
+1588622781|gustavosinbandera1|D|/locha/documentation/es/pics/modulator1.svg
+1588622781|gustavosinbandera1|D|/locha/documentation/es/pics/network-topology.png
+1588622781|gustavosinbandera1|D|/locha/documentation/es/pics/powerSupply-selection.svg
+1588622781|gustavosinbandera1|D|/locha/documentation/es/pics/process_routing_info.png
+1588622781|gustavosinbandera1|D|/locha/documentation/es/pics/protocolo_seleccion.svg
+1588622781|gustavosinbandera1|D|/locha/documentation/es/pics/rfc5444-pkt.png
+1588622781|gustavosinbandera1|D|/locha/documentation/es/pics/simpleRREQ-reply.gif
+1588622781|gustavosinbandera1|D|/locha/documentation/es/pics/tlv-addr-block.png
+1588622781|gustavosinbandera1|D|/locha/documentation/es/pics/tlvOrigPrefix.png
+1588622781|gustavosinbandera1|D|/locha/documentation/es/pics/tlvTargetPrefix.png
+1588622781|gustavosinbandera1|D|/locha/documentation/es/pics/turpial.svg
+1588622781|gustavosinbandera1|D|/locha/documentation/es/pics/update_route_table_entry.png
+1588622781|gustavosinbandera1|D|/locha/documentation/es/pics/wave-characteristics.svg
+1588622781|gustavosinbandera1|D|/locha/documentation/es/pics/wave.svg
+1588687485|luisan00|D|/locha/documentation/en/chapter_xx.md
+1588687632|Gustavo Grisales|M|/locha/documentation/en/chapter_XX.md
+1588687662|Gustavo Grisales|M|/locha/documentation/en/chapter_XX.md
+1588687671|Gustavo Grisales|M|/locha/documentation/en/chapter_XX.md
+1588687679|Gustavo Grisales|M|/locha/documentation/en/chapter_XX.md
+1588687690|Gustavo Grisales|M|/locha/documentation/en/chapter_XX.md
+1588687700|Gustavo Grisales|M|/locha/documentation/en/chapter_XX.md
+1588687744|luisan00|A|/locha/documentation/en/chapter_14.md
+1588687744|luisan00|D|/locha/documentation/en/chapter_XX.md
+1588688828|gustavosinbandera1|M|/locha/documentation/en/chapter_14.md
+1588688828|gustavosinbandera1|A|/locha/documentation/en/pics/simulation_3nodesClient (copy).svg
+1588688828|gustavosinbandera1|A|/locha/documentation/en/pics/simulation_3nodesIP (copy).svg
+1588688828|gustavosinbandera1|A|/locha/documentation/pics/simulation_16nodesTopology.svg
+1588688828|gustavosinbandera1|A|/locha/documentation/pics/simulation_3nodesClient (copy).svg
+1588688828|gustavosinbandera1|A|/locha/documentation/pics/simulation_3nodesIP (copy).svg
+1588688828|gustavosinbandera1|A|/locha/documentation/pics/simulation_3nodesIP.svg
+1588688828|gustavosinbandera1|A|/locha/documentation/pics/simulation_3nodesIP2.svg
+1588688828|gustavosinbandera1|A|/locha/documentation/pics/simulation_3nodesIP3.svg
+1588688828|gustavosinbandera1|A|/locha/documentation/pics/simulation_3nodesNibOut.svg
+1588688828|gustavosinbandera1|A|/locha/documentation/pics/simulation_3nodesNibOut2.svg
+1588688828|gustavosinbandera1|A|/locha/documentation/pics/simulation_3nodesNibOut3.svg
+1588688828|gustavosinbandera1|A|/locha/documentation/pics/simulation_3nodesNibOut4.svg
+1588688828|gustavosinbandera1|A|/locha/documentation/pics/simulation_3nodesNibOut5.svg
+1588688828|gustavosinbandera1|A|/locha/documentation/pics/simulation_3nodesRREP1.svg
+1588688828|gustavosinbandera1|A|/locha/documentation/pics/simulation_3nodesRREP2.svg
+1588688828|gustavosinbandera1|A|/locha/documentation/pics/simulation_3nodesRfcOut.svg
+1588688828|gustavosinbandera1|A|/locha/documentation/pics/simulation_3nodesServer copy.svg
+1588688828|gustavosinbandera1|A|/locha/documentation/pics/simulation_3nodesServer.svg
+1588688828|gustavosinbandera1|A|/locha/documentation/pics/simulation_4nodesTopology.svg
+1588688828|gustavosinbandera1|A|/locha/documentation/pics/simulation_6nodesTopology.svg
+1588688828|gustavosinbandera1|A|/locha/documentation/pics/simulation_7nodesTopology.svg
+1588688927|Gustavo Grisales|M|/locha/documentation/en/chapter_14.md
+1588689185|gustavosinbandera1|M|/locha/documentation/en/chapter_14.md
+1588689185|gustavosinbandera1|D|/locha/documentation/pics/simulation_3nodesClient (copy).svg
+1588689185|gustavosinbandera1|A|/locha/documentation/pics/simulation_3nodesClient.svg
+1588689185|gustavosinbandera1|D|/locha/documentation/pics/simulation_3nodesIP (copy).svg
+1588689185|gustavosinbandera1|A|/locha/documentation/pics/simulation_3nodesIP .svg
+1588689204|Gustavo Grisales|M|/locha/documentation/en/chapter_14.md
+1588689232|Gustavo Grisales|M|/locha/documentation/en/chapter_14.md
+1588689249|Gustavo Grisales|M|/locha/documentation/en/chapter_14.md
+1588689264|Gustavo Grisales|M|/locha/documentation/en/chapter_14.md
+1588689424|gustavosinbandera1|M|/locha/documentation/en/chapter_14.md
+1588689493|gustavosinbandera1|M|/locha/documentation/en/chapter_14.md
+1588689548|Gustavo Grisales|M|/locha/documentation/en/chapter_14.md
+1588689564|Gustavo Grisales|M|/locha/documentation/en/chapter_14.md
+1588849710|luisan00|M|/locha/documentation/en/chapter_14.md
+1588849720|luisan00|M|/locha/documentation/en/chapter_14.md
+1588849728|luisan00|M|/locha/documentation/en/chapter_14.md
+1588849736|luisan00|M|/locha/documentation/en/chapter_14.md
+1588849745|luisan00|M|/locha/documentation/en/chapter_14.md
+1588853693|luisan00|M|/locha/documentation/en/chapter_14.md
+1588853739|luisan00|M|/locha/documentation/en/index.md
+1589308383|Stephanie Nogales|A|/locha/documentation/en/draft_modulators.md
+1589308383|Stephanie Nogales|M|/locha/documentation/en/references.md
+1590323207|luisan00|M|/locha/documentation/en/draft_modulators.md
+1590327403|luisan00|M|/locha/documentation/en/chapter_02.md
+1590327403|luisan00|M|/locha/documentation/en/chapter_06.md
+1590327403|luisan00|M|/locha/documentation/en/chapter_07.md
+1590327403|luisan00|M|/locha/documentation/en/chapter_08.md
+1590327403|luisan00|M|/locha/documentation/en/chapter_09.md
+1590327403|luisan00|M|/locha/documentation/en/chapter_10.md
+1590327403|luisan00|M|/locha/documentation/en/chapter_11.md
+1590327403|luisan00|M|/locha/documentation/en/chapter_12.md
+1590327403|luisan00|M|/locha/documentation/en/chapter_13.md
+1590327403|luisan00|D|/locha/documentation/en/pics/simulation_16nodesTopology.svg
+1590327403|luisan00|D|/locha/documentation/en/pics/simulation_3nodesClient (copy).svg
+1590327403|luisan00|D|/locha/documentation/en/pics/simulation_3nodesClient.svg
+1590327403|luisan00|D|/locha/documentation/en/pics/simulation_3nodesIP (copy).svg
+1590327403|luisan00|D|/locha/documentation/en/pics/simulation_3nodesIP.svg
+1590327403|luisan00|D|/locha/documentation/en/pics/simulation_3nodesIP2.svg
+1590327403|luisan00|D|/locha/documentation/en/pics/simulation_3nodesIP3.svg
+1590327403|luisan00|D|/locha/documentation/en/pics/simulation_3nodesNibOut.svg
+1590327403|luisan00|D|/locha/documentation/en/pics/simulation_3nodesNibOut2.svg
+1590327403|luisan00|D|/locha/documentation/en/pics/simulation_3nodesNibOut3.svg
+1590327403|luisan00|D|/locha/documentation/en/pics/simulation_3nodesNibOut4.svg
+1590327403|luisan00|D|/locha/documentation/en/pics/simulation_3nodesNibOut5.svg
+1590327403|luisan00|D|/locha/documentation/en/pics/simulation_3nodesRREP1.svg
+1590327403|luisan00|D|/locha/documentation/en/pics/simulation_3nodesRREP2.svg
+1590327403|luisan00|D|/locha/documentation/en/pics/simulation_3nodesRfcOut.svg
+1590327403|luisan00|D|/locha/documentation/en/pics/simulation_3nodesServer copy.svg
+1590327403|luisan00|D|/locha/documentation/en/pics/simulation_3nodesServer.svg
+1590327403|luisan00|D|/locha/documentation/en/pics/simulation_4nodesTopology.svg
+1590327403|luisan00|D|/locha/documentation/en/pics/simulation_6nodesTopology.svg
+1590327403|luisan00|D|/locha/documentation/en/pics/simulation_7nodesTopology.svg
+1590327403|luisan00|D|/locha/documentation/es/README.MD
+1590327403|luisan00|D|/locha/documentation/es/chapter_1.md
+1590327403|luisan00|D|/locha/documentation/es/chapter_10.md
+1590327403|luisan00|D|/locha/documentation/es/chapter_11.md
+1590327403|luisan00|D|/locha/documentation/es/chapter_12.md
+1590327403|luisan00|D|/locha/documentation/es/chapter_13.md
+1590327403|luisan00|D|/locha/documentation/es/chapter_2.md
+1590327403|luisan00|D|/locha/documentation/es/chapter_3.md
+1590327403|luisan00|D|/locha/documentation/es/chapter_4.md
+1590327403|luisan00|D|/locha/documentation/es/chapter_5.md
+1590327403|luisan00|D|/locha/documentation/es/chapter_6.md
+1590327403|luisan00|D|/locha/documentation/es/chapter_7.md
+1590327403|luisan00|D|/locha/documentation/es/chapter_8.md
+1590327403|luisan00|D|/locha/documentation/es/chapter_9.md
+1590327403|luisan00|D|/locha/documentation/es/draft_1_moduladores.md
+1590327403|luisan00|D|/locha/documentation/es/index.md
+1590327403|luisan00|D|/locha/documentation/es/references.md
+1590327654|luisan00|M|/locha/documentation/en/chapter_01.md
+1590328409|luisan00|M|/locha/documentation/en/chapter_01.md
+1590602263|luisan00|D|/locha/documentation/ES/README.MD
+1590602263|luisan00|D|/locha/documentation/ES/chapter_1.md
+1590602263|luisan00|D|/locha/documentation/ES/chapter_10.md
+1590602263|luisan00|D|/locha/documentation/ES/chapter_11.md
+1590602263|luisan00|D|/locha/documentation/ES/chapter_12.md
+1590602263|luisan00|D|/locha/documentation/ES/chapter_13.md
+1590602263|luisan00|D|/locha/documentation/ES/chapter_2.md
+1590602263|luisan00|D|/locha/documentation/ES/chapter_3.md
+1590602263|luisan00|D|/locha/documentation/ES/chapter_4.md
+1590602263|luisan00|D|/locha/documentation/ES/chapter_5.md
+1590602263|luisan00|D|/locha/documentation/ES/chapter_6.md
+1590602263|luisan00|D|/locha/documentation/ES/chapter_7.md
+1590602263|luisan00|D|/locha/documentation/ES/chapter_8.md
+1590602263|luisan00|D|/locha/documentation/ES/chapter_9.md
+1590602263|luisan00|D|/locha/documentation/ES/draft_1_moduladores.md
+1590602263|luisan00|D|/locha/documentation/ES/imple_pic/ACKMSG.old.png
+1590602263|luisan00|D|/locha/documentation/ES/imple_pic/ACKMSG.svg
+1590602263|luisan00|D|/locha/documentation/ES/imple_pic/AM_modulator.svg
+1590602263|luisan00|D|/locha/documentation/ES/imple_pic/BatteryChargerSelection.svg
+1590602263|luisan00|D|/locha/documentation/ES/imple_pic/BatteryManagementSystem-selection.svg
+1590602263|luisan00|D|/locha/documentation/ES/imple_pic/FM_modulator.svg
+1590602263|luisan00|D|/locha/documentation/ES/imple_pic/Gaussian-filter.svg
+1590602263|luisan00|D|/locha/documentation/ES/imple_pic/Hardware-Block.svg
+1590602263|luisan00|D|/locha/documentation/ES/imple_pic/RERRMSG.svg
+1590602263|luisan00|D|/locha/documentation/ES/imple_pic/RF-selection.svg
+1590602263|luisan00|D|/locha/documentation/ES/imple_pic/RREPMSG.old.png
+1590602263|luisan00|D|/locha/documentation/ES/imple_pic/RREPMSG.svg
+1590602263|luisan00|D|/locha/documentation/ES/imple_pic/RREQ-flooding.png
+1590602263|luisan00|D|/locha/documentation/ES/imple_pic/RREQ-table-route.png
+1590602263|luisan00|D|/locha/documentation/ES/imple_pic/RREQ1.png
+1590602263|luisan00|D|/locha/documentation/ES/imple_pic/RREQ2.png
+1590602263|luisan00|D|/locha/documentation/ES/imple_pic/RREQ3.png
+1590602263|luisan00|D|/locha/documentation/ES/imple_pic/RREQ4.png
+1590602263|luisan00|D|/locha/documentation/ES/imple_pic/RREQ5.png
+1590602263|luisan00|D|/locha/documentation/ES/imple_pic/RREQ6.png
+1590602263|luisan00|D|/locha/documentation/ES/imple_pic/RREQ7.png
+1590602263|luisan00|D|/locha/documentation/ES/imple_pic/RREQMSG.old.png
+1590602263|luisan00|D|/locha/documentation/ES/imple_pic/RREQMSG.svg
+1590602263|luisan00|D|/locha/documentation/ES/imple_pic/Receive_RREQ.png
+1590602263|luisan00|D|/locha/documentation/ES/imple_pic/Route_table_entry.png
+1590602263|luisan00|D|/locha/documentation/ES/imple_pic/aodv-family.png
+1590602263|luisan00|D|/locha/documentation/ES/imple_pic/aodv-topology.png
+1590602263|luisan00|D|/locha/documentation/ES/imple_pic/aodv-topology2.png
+1590602263|luisan00|D|/locha/documentation/ES/imple_pic/aodv-versions.png
+1590602263|luisan00|D|/locha/documentation/ES/imple_pic/aodvv2_init.svg
+1590602263|luisan00|D|/locha/documentation/ES/imple_pic/ask_modulator.svg
+1590602263|luisan00|D|/locha/documentation/ES/imple_pic/fetch_route_table_entry.png
+1590602263|luisan00|D|/locha/documentation/ES/imple_pic/filter-graph.svg
+1590602263|luisan00|D|/locha/documentation/ES/imple_pic/frequency.svg
+1590602263|luisan00|D|/locha/documentation/ES/imple_pic/fsk_modulator.svg
+1590602263|luisan00|D|/locha/documentation/ES/imple_pic/header-rfc5444.png
+1590602263|luisan00|D|/locha/documentation/ES/imple_pic/modulation-vco.svg
+1590602263|luisan00|D|/locha/documentation/ES/imple_pic/modulator-representation.svg
+1590602263|luisan00|D|/locha/documentation/ES/imple_pic/modulator-switch.svg
+1590602263|luisan00|D|/locha/documentation/ES/imple_pic/modulator-types.svg
+1590602263|luisan00|D|/locha/documentation/ES/imple_pic/modulator1.svg
+1590602263|luisan00|D|/locha/documentation/ES/imple_pic/network-topology.png
+1590602263|luisan00|D|/locha/documentation/ES/imple_pic/powerSupply-selection.svg
+1590602263|luisan00|D|/locha/documentation/ES/imple_pic/process_routing_info.png
+1590602263|luisan00|D|/locha/documentation/ES/imple_pic/protocolo_seleccion.svg
+1590602263|luisan00|D|/locha/documentation/ES/imple_pic/rfc5444-pkt.png
+1590602263|luisan00|D|/locha/documentation/ES/imple_pic/simpleRREQ-reply.gif
+1590602263|luisan00|D|/locha/documentation/ES/imple_pic/tlv-addr-block.png
+1590602263|luisan00|D|/locha/documentation/ES/imple_pic/tlvOrigPrefix.png
+1590602263|luisan00|D|/locha/documentation/ES/imple_pic/tlvTargetPrefix.png
+1590602263|luisan00|D|/locha/documentation/ES/imple_pic/turpial.svg
+1590602263|luisan00|D|/locha/documentation/ES/imple_pic/update_route_table_entry.png
+1590602263|luisan00|D|/locha/documentation/ES/imple_pic/wave-characteristics.svg
+1590602263|luisan00|D|/locha/documentation/ES/imple_pic/wave.svg
+1590602263|luisan00|D|/locha/documentation/ES/references.md
+1590602263|luisan00|D|/locha/documentation/en/chapter_01.md
+1590602263|luisan00|D|/locha/documentation/en/chapter_02.md
+1590602263|luisan00|D|/locha/documentation/en/chapter_03.md
+1590602263|luisan00|D|/locha/documentation/en/chapter_04.md
+1590602263|luisan00|D|/locha/documentation/en/chapter_05.md
+1590602263|luisan00|D|/locha/documentation/en/chapter_06.md
+1590602263|luisan00|D|/locha/documentation/en/chapter_07.md
+1590602263|luisan00|D|/locha/documentation/en/chapter_08.md
+1590602263|luisan00|D|/locha/documentation/en/chapter_09.md
+1590602263|luisan00|D|/locha/documentation/en/chapter_10.md
+1590602263|luisan00|D|/locha/documentation/en/chapter_11.md
+1590602263|luisan00|D|/locha/documentation/en/index.md
+1590602263|luisan00|D|/locha/documentation/en/pics/ACKMSG.old.png
+1590602263|luisan00|D|/locha/documentation/en/pics/ACKMSG.svg
+1590602263|luisan00|D|/locha/documentation/en/pics/AM_modulator.svg
+1590602263|luisan00|D|/locha/documentation/en/pics/BatteryChargerSelection.svg
+1590602263|luisan00|D|/locha/documentation/en/pics/BatteryManagementSystem-selection.svg
+1590602263|luisan00|D|/locha/documentation/en/pics/FM_modulator.svg
+1590602263|luisan00|D|/locha/documentation/en/pics/Gaussian-filter.svg
+1590602263|luisan00|D|/locha/documentation/en/pics/Hardware-Block.svg
+1590602263|luisan00|D|/locha/documentation/en/pics/RERRMSG.svg
+1590602263|luisan00|D|/locha/documentation/en/pics/RF-selection.svg
+1590602263|luisan00|D|/locha/documentation/en/pics/RREPMSG.old.png
+1590602263|luisan00|D|/locha/documentation/en/pics/RREPMSG.svg
+1590602263|luisan00|D|/locha/documentation/en/pics/RREQ-flooding.png
+1590602263|luisan00|D|/locha/documentation/en/pics/RREQ-table-route.png
+1590602263|luisan00|D|/locha/documentation/en/pics/RREQ1.png
+1590602263|luisan00|D|/locha/documentation/en/pics/RREQ2.png
+1590602263|luisan00|D|/locha/documentation/en/pics/RREQ3.png
+1590602263|luisan00|D|/locha/documentation/en/pics/RREQ4.png
+1590602263|luisan00|D|/locha/documentation/en/pics/RREQ5.png
+1590602263|luisan00|D|/locha/documentation/en/pics/RREQ6.png
+1590602263|luisan00|D|/locha/documentation/en/pics/RREQ7.png
+1590602263|luisan00|D|/locha/documentation/en/pics/RREQMSG.old.png
+1590602263|luisan00|D|/locha/documentation/en/pics/RREQMSG.svg
+1590602263|luisan00|D|/locha/documentation/en/pics/Receive_RREQ.png
+1590602263|luisan00|D|/locha/documentation/en/pics/Route_table_entry.png
+1590602263|luisan00|D|/locha/documentation/en/pics/aodv-family.png
+1590602263|luisan00|D|/locha/documentation/en/pics/aodv-topology.png
+1590602263|luisan00|D|/locha/documentation/en/pics/aodv-topology2.png
+1590602263|luisan00|D|/locha/documentation/en/pics/aodv-versions.png
+1590602263|luisan00|D|/locha/documentation/en/pics/aodvv2_init.svg
+1590602263|luisan00|D|/locha/documentation/en/pics/ask_modulator.svg
+1590602263|luisan00|D|/locha/documentation/en/pics/fetch_route_table_entry.png
+1590602263|luisan00|D|/locha/documentation/en/pics/filter-graph.svg
+1590602263|luisan00|D|/locha/documentation/en/pics/frequency.svg
+1590602263|luisan00|D|/locha/documentation/en/pics/fsk_modulator.svg
+1590602263|luisan00|D|/locha/documentation/en/pics/header-rfc5444.png
+1590602263|luisan00|D|/locha/documentation/en/pics/modulation-vco.svg
+1590602263|luisan00|D|/locha/documentation/en/pics/modulator-representation.svg
+1590602263|luisan00|D|/locha/documentation/en/pics/modulator-switch.svg
+1590602263|luisan00|D|/locha/documentation/en/pics/modulator-types.svg
+1590602263|luisan00|D|/locha/documentation/en/pics/modulator1.svg
+1590602263|luisan00|D|/locha/documentation/en/pics/network-topology.png
+1590602263|luisan00|D|/locha/documentation/en/pics/powerSupply-selection.svg
+1590602263|luisan00|D|/locha/documentation/en/pics/process_routing_info.png
+1590602263|luisan00|D|/locha/documentation/en/pics/protocolo_seleccion.svg
+1590602263|luisan00|D|/locha/documentation/en/pics/rfc5444-pkt.png
+1590602263|luisan00|D|/locha/documentation/en/pics/simpleRREQ-reply.gif
+1590602263|luisan00|D|/locha/documentation/en/pics/tlv-addr-block.png
+1590602263|luisan00|D|/locha/documentation/en/pics/tlvOrigPrefix.png
+1590602263|luisan00|D|/locha/documentation/en/pics/tlvTargetPrefix.png
+1590602263|luisan00|D|/locha/documentation/en/pics/turpial.svg
+1590602263|luisan00|D|/locha/documentation/en/pics/update_route_table_entry.png
+1590602263|luisan00|D|/locha/documentation/en/pics/wave-characteristics.svg
+1590602263|luisan00|D|/locha/documentation/en/pics/wave.svg
+1590602263|luisan00|D|/locha/documentation/en/references.md
+1590602263|luisan00|D|/locha/documentation/es/chapter_01.md
+1590602263|luisan00|D|/locha/documentation/es/chapter_02.md
+1590602263|luisan00|D|/locha/documentation/es/chapter_03.md
+1590602263|luisan00|D|/locha/documentation/es/chapter_04.md
+1590602263|luisan00|D|/locha/documentation/es/chapter_05.md
+1590602263|luisan00|D|/locha/documentation/es/chapter_06.md
+1590602263|luisan00|D|/locha/documentation/es/chapter_07.md
+1590602263|luisan00|D|/locha/documentation/es/chapter_08.md
+1590602263|luisan00|D|/locha/documentation/es/chapter_09.md
+1590602263|luisan00|D|/locha/documentation/es/chapter_10.md
+1590602263|luisan00|D|/locha/documentation/es/chapter_11.md
+1590602263|luisan00|D|/locha/documentation/es/references.md
+1590603158|luisan00|M|/locha/crowdin.yml
+1590603200|luisan00|A|/locha/documentation/es/chapter_01.md
+1590603202|luisan00|A|/locha/documentation/es/chapter_10.md
+1590603204|luisan00|A|/locha/documentation/es/draft_modulators.md
+1590603207|luisan00|A|/locha/documentation/es/chapter_14.md
+1590603209|luisan00|A|/locha/documentation/es/chapter_13.md
+1590603210|luisan00|A|/locha/documentation/es/chapter_12.md
+1590603212|luisan00|A|/locha/documentation/es/references.md
+1590603213|luisan00|A|/locha/documentation/es/chapter_11.md
+1590603215|luisan00|A|/locha/documentation/es/chapter_09.md
+1590603216|luisan00|A|/locha/documentation/es/chapter_02.md
+1590603218|luisan00|A|/locha/documentation/es/chapter_08.md
+1590603219|luisan00|A|/locha/documentation/es/chapter_07.md
+1590603221|luisan00|A|/locha/documentation/es/chapter_06.md
+1590603222|luisan00|A|/locha/documentation/es/chapter_05.md
+1590603223|luisan00|A|/locha/documentation/es/chapter_04.md
+1590603225|luisan00|A|/locha/documentation/es/chapter_03.md
+1590603226|luisan00|A|/locha/documentation/es/index.md
+1590606150|luisan00|A|/locha/documentation/nl/chapter_01.md
+1590606152|luisan00|A|/locha/documentation/nl/chapter_10.md
+1590606153|luisan00|A|/locha/documentation/nl/draft_modulators.md
+1590606156|luisan00|A|/locha/documentation/nl/chapter_14.md
+1590606158|luisan00|A|/locha/documentation/nl/chapter_13.md
+1590606159|luisan00|A|/locha/documentation/nl/chapter_12.md
+1590606161|luisan00|A|/locha/documentation/nl/references.md
+1590606162|luisan00|A|/locha/documentation/nl/chapter_11.md
+1590606163|luisan00|A|/locha/documentation/nl/chapter_09.md
+1590606165|luisan00|A|/locha/documentation/nl/chapter_02.md
+1590606166|luisan00|A|/locha/documentation/nl/chapter_08.md
+1590606168|luisan00|A|/locha/documentation/nl/chapter_07.md
+1590606169|luisan00|A|/locha/documentation/nl/chapter_06.md
+1590606171|luisan00|A|/locha/documentation/nl/chapter_05.md
+1590606172|luisan00|A|/locha/documentation/nl/chapter_04.md
+1590606173|luisan00|A|/locha/documentation/nl/chapter_03.md
+1590606175|luisan00|A|/locha/documentation/nl/index.md
+1590844614|luisan00|M|/locha/documentation/es/chapter_01.md
+1590844729|luisan00|M|/locha/documentation/es/chapter_02.md
+1590844790|luisan00|M|/locha/documentation/es/chapter_03.md
+1590844856|luisan00|M|/locha/documentation/es/chapter_04.md
+1590845017|luisan00|M|/locha/documentation/es/chapter_05.md
+1590845238|luisan00|M|/locha/documentation/es/chapter_06.md
+1590845280|luisan00|M|/locha/documentation/es/chapter_06.md
+1590845393|luisan00|M|/locha/documentation/es/chapter_06.md
+1590845509|luisan00|M|/locha/documentation/es/chapter_07.md
+1590846367|luisan00|M|/locha/documentation/es/chapter_08.md
+1590861919|luisan00|M|/locha/documentation/es/chapter_09.md
+1590862037|luisan00|M|/locha/documentation/es/chapter_10.md
+1590862334|luisan00|M|/locha/documentation/es/chapter_11.md
+1590862432|luisan00|M|/locha/documentation/es/chapter_12.md
+1590862594|luisan00|M|/locha/documentation/es/chapter_12.md
+1590862710|luisan00|M|/locha/documentation/es/chapter_12.md
+1590862791|luisan00|M|/locha/documentation/es/chapter_13.md
+1590862934|luisan00|M|/locha/documentation/es/chapter_13.md
+1590863246|luisan00|M|/locha/documentation/es/draft_modulators.md
+1590863412|luisan00|M|/locha/documentation/es/draft_modulators.md
+1590869976|luisan00|A|/locha/AUTHORS
+1590922309|luisan00|M|/locha/AUTHORS
+1590925361|luisan00|M|/locha/AUTHORS
+1590926396|luisan00|M|/locha/AUTHORS
+1590943788|luisan00|M|/locha/AUTHORS
+1591045599|luisan00|M|/locha/AUTHORS
+1591457351|Randy Brito|M|/locha/README.md
+1591457351|Randy Brito|A|/locha/images/329px_281px_MoneroCommunity.png
+1591457678|Randy Brito|M|/locha/README.md
+1591459169|luisan00|M|/locha/AUTHORS
+1591477146|Randy Brito|M|/locha/AUTHORS
+1591477146|Randy Brito|M|/locha/README.md
+1591729046|luisan00|A|/locha/documentation/en/anex_diy_turpial.md
+1591729046|luisan00|A|/locha/documentation/pics/basic_turpial.svg
+1591729046|luisan00|A|/locha/documentation/pics/diy.svg
+1591729046|luisan00|A|/locha/documentation/pics/diy_baby.svg
+1591729046|luisan00|A|/locha/documentation/pics/launchxl-cc1312r1_cc1312r1-top-prof1.jpg
+1591729046|luisan00|A|/locha/documentation/pics/radiocontrolli-cc1312r.jpg
+1591732223|luisan00|A|/locha/documentation/nl/anex_diy_turpial.md
+1591736220|Randy Brito|A|/locha/documentation/en/diy_turpial.md
+1591736598|Randy Brito|M|/locha/README.md
+1591736790|Randy Brito|M|/locha/documentation/es/index.md
+1591785545|Randy Brito|M|/locha/documentation/en/index.md
+1591785545|Randy Brito|M|/locha/documentation/es/index.md
+1591786950|Randy Brito|M|/locha/documentation/en/diy_turpial.md
+1591787343|Randy Brito|M|/locha/README.md
+1591788515|luisan00|A|/locha/documentation/nl/anex_diy_turpial.md
+1591819675|luisan00|M|/locha/documentation/nl/index.md
+1591819677|luisan00|A|/locha/documentation/nl/diy_turpial.md
+1591877874|Randy Brito|M|/locha/README.md
+1591878088|Randy Brito|M|/locha/README.md
+1591883491|Randy Brito|M|/locha/README.md
+1591883773|Randy Brito|M|/locha/README.md
+1591883896|Randy Brito|M|/locha/README.md
+1591884011|Randy Brito|M|/locha/AUTHORS
+1592053607|luisan00|A|/locha/documentation/fr/chapter_01.md
+1592053608|luisan00|A|/locha/documentation/fr/chapter_11.md
+1592053610|luisan00|A|/locha/documentation/fr/anex_diy_turpial.md
+1592053611|luisan00|A|/locha/documentation/fr/index.md
+1592053613|luisan00|A|/locha/documentation/fr/draft_modulators.md
+1592053615|luisan00|A|/locha/documentation/fr/chapter_14.md
+1592053616|luisan00|A|/locha/documentation/fr/chapter_13.md
+1592053617|luisan00|A|/locha/documentation/fr/chapter_12.md
+1592053619|luisan00|A|/locha/documentation/fr/references.md
+1592053620|luisan00|A|/locha/documentation/fr/chapter_10.md
+1592053622|luisan00|A|/locha/documentation/fr/chapter_02.md
+1592053623|luisan00|A|/locha/documentation/fr/chapter_09.md
+1592053625|luisan00|A|/locha/documentation/fr/chapter_08.md
+1592053626|luisan00|A|/locha/documentation/fr/chapter_07.md
+1592053628|luisan00|A|/locha/documentation/fr/chapter_06.md
+1592053629|luisan00|A|/locha/documentation/fr/chapter_05.md
+1592053631|luisan00|A|/locha/documentation/fr/chapter_04.md
+1592053632|luisan00|A|/locha/documentation/fr/chapter_03.md
+1592053633|luisan00|A|/locha/documentation/fr/diy_turpial.md
+1592093480|Randy Brito|D|/locha/documentation/en/anex_diy_turpial.md
+1592093480|Randy Brito|D|/locha/documentation/fr/anex_diy_turpial.md
+1592093480|Randy Brito|D|/locha/documentation/nl/anex_diy_turpial.md
+1592779593|luisan00|M|/locha/documentation/nl/chapter_01.md
+1592779594|luisan00|M|/locha/documentation/nl/chapter_03.md
+1592779598|luisan00|M|/locha/documentation/nl/chapter_07.md
+1592779600|luisan00|M|/locha/documentation/nl/chapter_08.md
+1592827573|Randy Brito|D|/locha/documentation/en/anex_diy_turpial.md
+1592827573|Randy Brito|A|/locha/documentation/es/diy_turpial.md
+1592827573|Randy Brito|D|/locha/documentation/fr/anex_diy_turpial.md
+1592827573|Randy Brito|D|/locha/documentation/nl/anex_diy_turpial.md
+1593540201|luisan00|A|/locha/mobile_app/en/strings.json
+1593540201|luisan00|A|/locha/mobile_app/es/strings.json
+1593540485|luisan00|M|/locha/crowdin.yml
+1593540922|luisan00|A|/locha/mobile_app/fr/strings.json
+1593540927|luisan00|A|/locha/mobile_app/nl/strings.json
+1593541537|luisan00|A|/locha/mobile_app/en/strings.json
+1593541997|Randy Brito|M|/locha/mobile_app/en/strings.json
+1593542049|luisan00|M|/locha/mobile_app/fr/strings.json
+1593542059|luisan00|M|/locha/mobile_app/nl/strings.json
+1593542440|luisan00|M|/locha/mobile_app/fr/strings.json
+1593543711|Randy Brito|M|/locha/documentation/en/chapter_14.md
+1593543711|Randy Brito|M|/locha/mobile_app/en/strings.json
+1593543955|luisan00|M|/locha/documentation/fr/chapter_14.md
+1593543961|luisan00|M|/locha/documentation/nl/chapter_14.md
+1593543969|luisan00|M|/locha/mobile_app/fr/strings.json
+1593543983|luisan00|M|/locha/mobile_app/nl/strings.json
+1593606202|Randy Brito|M|/locha/mobile_app/en/strings.json
+1593606319|Randy Brito|M|/locha/mobile_app/en/strings.json
+1593607586|Randy Brito|M|/locha/mobile_app/en/strings.json
+1593609038|xkevin190|M|/locha/mobile_app/en/strings.json
+1593609038|xkevin190|M|/locha/mobile_app/es/strings.json
+1593612526|Randy Brito|M|/locha/mobile_app/en/strings.json
+1593613320|luisan00|M|/locha/mobile_app/en/strings.json
+1593613340|luisan00|M|/locha/mobile_app/fr/strings.json
+1593613355|luisan00|M|/locha/mobile_app/nl/strings.json
+1593726343|luisan00|M|/locha/mobile_app/en/strings.json
+1593726345|luisan00|M|/locha/mobile_app/nl/strings.json
+1593729330|Randy Brito|M|/locha/mobile_app/en/strings.json
+1593730306|Randy Brito|M|/locha/mobile_app/en/strings.json
+1593730402|Randy Brito|M|/locha/mobile_app/en/strings.json
+1593730506|luisan00|M|/locha/mobile_app/fr/strings.json
+1593730518|luisan00|M|/locha/mobile_app/nl/strings.json
+1593768940|Randy Brito|M|/locha/README.md
+1593769057|Randy Brito|M|/locha/README.md
+1593817013|luisan00|M|/locha/mobile_app/nl/strings.json
+1593828923|xkevin190|M|/locha/mobile_app/en/strings.json
+1593828923|xkevin190|M|/locha/mobile_app/es/strings.json
+1593828923|xkevin190|M|/locha/mobile_app/fr/strings.json
+1593828923|xkevin190|M|/locha/mobile_app/nl/strings.json
+1593856223|Kevin Velasco|M|/locha/mobile_app/en/strings.json
+1593856223|Kevin Velasco|M|/locha/mobile_app/es/strings.json
+1593859879|luisan00|M|/locha/mobile_app/en/strings.json
+1593859962|luisan00|M|/locha/mobile_app/fr/strings.json
+1593859970|luisan00|M|/locha/mobile_app/nl/strings.json
+1593860672|luisan00|M|/locha/mobile_app/es/strings.json
+1593862085|luisan00|M|/locha/documentation/pics/Hardware-Block.svg
+1593862573|luisan00|M|/locha/documentation/en/chapter_06.md
+1593875279|luisan00|M|/locha/README.md
+1593875279|luisan00|M|/locha/crowdin.yml
+1593875279|luisan00|M|/locha/documentation/en/chapter_06.md
+1593875279|luisan00|M|/locha/documentation/en/chapter_14.md
+1593875279|luisan00|M|/locha/documentation/fr/chapter_14.md
+1593875279|luisan00|M|/locha/documentation/nl/chapter_14.md
+1593875279|luisan00|M|/locha/documentation/pics/Hardware-Block.svg
+1593875279|luisan00|A|/locha/mobile_app/en/strings.json
+1593875279|luisan00|A|/locha/mobile_app/es/strings.json
+1593875279|luisan00|A|/locha/mobile_app/fr/strings.json
+1593875279|luisan00|A|/locha/mobile_app/nl/strings.json
+1593884184|luisan00|M|/locha/documentation/en/draft_modulators.md
+1593945876|luisan00|D|/locha/documentation/es/chapter_01.md
+1593945876|luisan00|D|/locha/documentation/es/chapter_02.md
+1593945876|luisan00|D|/locha/documentation/es/chapter_03.md
+1593945876|luisan00|D|/locha/documentation/es/chapter_04.md
+1593945876|luisan00|D|/locha/documentation/es/chapter_05.md
+1593945876|luisan00|D|/locha/documentation/es/chapter_06.md
+1593945876|luisan00|D|/locha/documentation/es/chapter_07.md
+1593945876|luisan00|D|/locha/documentation/es/chapter_08.md
+1593945876|luisan00|D|/locha/documentation/es/chapter_09.md
+1593945876|luisan00|D|/locha/documentation/es/chapter_10.md
+1593945876|luisan00|D|/locha/documentation/es/chapter_11.md
+1593945876|luisan00|D|/locha/documentation/es/chapter_12.md
+1593945876|luisan00|D|/locha/documentation/es/chapter_13.md
+1593945876|luisan00|D|/locha/documentation/es/chapter_14.md
+1593945876|luisan00|D|/locha/documentation/es/diy_turpial.md
+1593945876|luisan00|D|/locha/documentation/es/draft_modulators.md
+1593945876|luisan00|D|/locha/documentation/es/index.md
+1593945876|luisan00|D|/locha/documentation/es/references.md
+1593946259|luisan00|M|/locha/documentation/en/draft_modulators.md
+1593946262|luisan00|M|/locha/documentation/es/chapter_05.md
+1593946264|luisan00|M|/locha/documentation/nl/draft_modulators.md
+1593946269|luisan00|M|/locha/documentation/es/chapter_01.md
+1593946270|luisan00|M|/locha/documentation/es/chapter_02.md
+1593946272|luisan00|M|/locha/documentation/es/chapter_03.md
+1593946273|luisan00|M|/locha/documentation/es/chapter_04.md
+1593946274|luisan00|M|/locha/documentation/es/chapter_06.md
+1593946277|luisan00|M|/locha/documentation/es/chapter_07.md
+1593946280|luisan00|M|/locha/documentation/es/chapter_08.md
+1593946282|luisan00|M|/locha/documentation/es/chapter_09.md
+1593946283|luisan00|M|/locha/documentation/es/chapter_10.md
+1593946285|luisan00|M|/locha/documentation/es/chapter_11.md
+1593946287|luisan00|M|/locha/documentation/es/chapter_12.md
+1593946289|luisan00|M|/locha/documentation/es/chapter_13.md
+1593946290|luisan00|M|/locha/documentation/es/chapter_14.md
+1593946292|luisan00|M|/locha/documentation/es/draft_modulators.md
+1593946294|luisan00|M|/locha/documentation/es/diy_turpial.md
+1593946296|luisan00|M|/locha/documentation/fr/draft_modulators.md
+1593946298|luisan00|M|/locha/documentation/nl/chapter_01.md
+1593946305|luisan00|M|/locha/documentation/fr/chapter_06.md
+1593946306|luisan00|M|/locha/documentation/nl/chapter_06.md
+1593946318|luisan00|M|/locha/mobile_app/es/strings.json
+1593948728|luisan00|D|/locha/mobile_app/es/strings.json
+1593950185|luisan00|A|/locha/documentation/es/chapter_05.md
+1593950189|luisan00|A|/locha/documentation/es/chapter_01.md
+1593950190|luisan00|A|/locha/documentation/es/chapter_02.md
+1593950191|luisan00|A|/locha/documentation/es/chapter_03.md
+1593950192|luisan00|A|/locha/documentation/es/chapter_04.md
+1593950194|luisan00|A|/locha/documentation/es/chapter_06.md
+1593950195|luisan00|A|/locha/documentation/es/chapter_07.md
+1593950196|luisan00|A|/locha/documentation/es/chapter_08.md
+1593950198|luisan00|A|/locha/documentation/es/chapter_09.md
+1593950199|luisan00|A|/locha/documentation/es/chapter_10.md
+1593950200|luisan00|A|/locha/documentation/es/chapter_11.md
+1593950201|luisan00|A|/locha/documentation/es/references.md
+1593950202|luisan00|A|/locha/documentation/es/chapter_12.md
+1593950203|luisan00|A|/locha/documentation/es/chapter_13.md
+1593950205|luisan00|A|/locha/documentation/es/chapter_14.md
+1593950206|luisan00|A|/locha/documentation/es/draft_modulators.md
+1593950207|luisan00|A|/locha/documentation/es/index.md
+1593950208|luisan00|A|/locha/documentation/es/diy_turpial.md
+1593959359|luisan00|M|/locha/documentation/es/chapter_05.md
+1593959365|luisan00|M|/locha/documentation/es/chapter_01.md
+1593959367|luisan00|M|/locha/documentation/es/chapter_02.md
+1593959368|luisan00|M|/locha/documentation/es/chapter_03.md
+1593959369|luisan00|M|/locha/documentation/es/chapter_04.md
+1593959371|luisan00|M|/locha/documentation/es/chapter_06.md
+1593959373|luisan00|M|/locha/documentation/es/chapter_07.md
+1593959375|luisan00|M|/locha/documentation/es/chapter_08.md
+1593959377|luisan00|M|/locha/documentation/es/chapter_09.md
+1593959378|luisan00|M|/locha/documentation/es/chapter_10.md
+1593959380|luisan00|M|/locha/documentation/es/chapter_11.md
+1593959382|luisan00|M|/locha/documentation/es/chapter_12.md
+1593959384|luisan00|M|/locha/documentation/es/chapter_13.md
+1593959387|luisan00|M|/locha/documentation/es/chapter_14.md
+1593959388|luisan00|M|/locha/documentation/es/draft_modulators.md
+1593959409|luisan00|M|/locha/mobile_app/es/strings.json
+1593978182|Stephanie Nogales|A|/locha/documentation/en/faqs.md
+1593981414|luisan00|M|/locha/documentation/en/faqs.md
+1593981438|luisan00|M|/locha/documentation/en/faqs.md
+1593981456|luisan00|M|/locha/documentation/en/faqs.md
+1593981488|luisan00|M|/locha/documentation/en/faqs.md
+1593984263|Stephanie Nogales|M|/locha/documentation/en/faqs.md
+1593985545|Randy Brito|M|/locha/documentation/en/faqs.md
+1594027540|luisan00|M|/locha/documentation/en/faqs.md
+1594027560|luisan00|A|/locha/documentation/fr/faqs.md
+1594027562|luisan00|A|/locha/documentation/es/faqs.md
+1594027586|luisan00|A|/locha/documentation/nl/faqs.md
+1594113746|luisan00|M|/locha/documentation/es/chapter_06.md
+1594113748|luisan00|M|/locha/documentation/es/chapter_07.md
+1594113749|luisan00|M|/locha/documentation/es/chapter_08.md
+1594128458|Randy Brito|M|/locha/documentation/en/chapter_11.md
+1594200107|luisan00|M|/locha/documentation/fr/chapter_11.md
+1594200109|luisan00|M|/locha/documentation/nl/chapter_11.md
+1594200112|luisan00|M|/locha/documentation/es/chapter_08.md
+1594200113|luisan00|M|/locha/documentation/es/chapter_09.md
+1594200115|luisan00|M|/locha/documentation/es/chapter_10.md
+1594200116|luisan00|M|/locha/documentation/es/chapter_11.md
+1594200118|luisan00|M|/locha/documentation/es/chapter_12.md
+1594200121|luisan00|M|/locha/documentation/es/chapter_14.md
+1594200123|luisan00|M|/locha/documentation/es/draft_modulators.md
+1594200125|luisan00|M|/locha/mobile_app/es/strings.json
+1594225075|xkevin190|M|/locha/mobile_app/en/strings.json
+1594227003|xkevin190|M|/locha/mobile_app/en/strings.json
+1594227881|Stephanie Nogales|M|/locha/documentation/en/faqs.md
+1594228383|xkevin190|M|/locha/mobile_app/en/strings.json
+1594228741|xkevin190|M|/locha/mobile_app/en/strings.json
+1594228927|luisan00|M|/locha/mobile_app/en/strings.json
+1594229423|luisan00|M|/locha/mobile_app/fr/strings.json
+1594229425|luisan00|M|/locha/mobile_app/nl/strings.json
+1594229428|luisan00|M|/locha/documentation/es/chapter_03.md
+1594229441|luisan00|M|/locha/mobile_app/es/strings.json
+1594229443|luisan00|M|/locha/documentation/es/faqs.md
+1594230484|Stephanie Nogales|M|/locha/documentation/en/faqs.md
+1594231189|luisan00|M|/locha/mobile_app/en/strings.json
+1594231210|luisan00|M|/locha/documentation/fr/faqs.md
+1594231212|luisan00|M|/locha/documentation/es/faqs.md
+1594231228|luisan00|M|/locha/documentation/nl/faqs.md
+1594245849|Randy Brito|M|/locha/mobile_app/en/strings.json
+1594282500|Randy Brito|M|/locha/mobile_app/en/strings.json
+1594282630|Randy Brito|M|/locha/mobile_app/en/strings.json
+1594284103|luisan00|M|/locha/mobile_app/en/strings.json
+1594284108|luisan00|M|/locha/mobile_app/fr/strings.json
+1594284110|luisan00|M|/locha/mobile_app/nl/strings.json
+1594284126|luisan00|M|/locha/mobile_app/es/strings.json
+1594284128|luisan00|M|/locha/documentation/es/faqs.md
+1594311551|xkevin190|M|/locha/mobile_app/en/strings.json
+1594370716|luisan00|M|/locha/mobile_app/fr/strings.json
+1594370718|luisan00|M|/locha/mobile_app/nl/strings.json
+1594370719|luisan00|M|/locha/mobile_app/es/strings.json
+1594370720|luisan00|M|/locha/documentation/es/faqs.md
+1594565183|luisan00|A|/locha/documentation/en/examples/bitcoin_daemons.md
+1594565183|luisan00|A|/locha/documentation/en/examples/electrum_server.md
+1594565183|luisan00|A|/locha/documentation/en/examples/get_started.md
+1594565183|luisan00|A|/locha/documentation/en/examples/monero_gui.md
+1594565183|luisan00|A|/locha/documentation/en/examples/torrent_protocol.md
+1594566905|luisan00|M|/locha/AUTHORS
+1594640302|Randy Brito|M|/locha/documentation/es/chapter_01.md
+1594640302|Randy Brito|M|/locha/documentation/es/chapter_02.md
+1594640302|Randy Brito|M|/locha/documentation/es/chapter_03.md
+1594640302|Randy Brito|M|/locha/documentation/es/chapter_04.md
+1594640302|Randy Brito|M|/locha/documentation/es/chapter_05.md
+1594640302|Randy Brito|M|/locha/documentation/es/chapter_06.md
+1594640302|Randy Brito|M|/locha/documentation/es/chapter_07.md
+1594640302|Randy Brito|M|/locha/documentation/es/chapter_08.md
+1594640302|Randy Brito|M|/locha/documentation/es/chapter_09.md
+1594640302|Randy Brito|M|/locha/documentation/es/chapter_10.md
+1594640302|Randy Brito|M|/locha/documentation/es/chapter_11.md
+1594640302|Randy Brito|M|/locha/documentation/es/chapter_12.md
+1594640302|Randy Brito|M|/locha/documentation/es/chapter_13.md
+1594640302|Randy Brito|M|/locha/documentation/es/chapter_14.md
+1594640834|Randy Brito|M|/locha/documentation/es/chapter_14.md
+1594641075|Randy Brito|M|/locha/documentation/es/chapter_09.md
+1594646942|Randy Brito|M|/locha/documentation/es/chapter_06.md
+1594646957|Randy Brito|M|/locha/documentation/es/chapter_01.md
+1594647040|Randy Brito|M|/locha/documentation/es/chapter_01.md
+1594647088|Randy Brito|M|/locha/documentation/es/chapter_01.md
+1594895789|Randy Brito|M|/locha/crowdin.yml
+1594895789|Randy Brito|M|/locha/documentation/en/examples/electrum_server.md
+1594895789|Randy Brito|M|/locha/documentation/en/examples/get_started.md
+1594895789|Randy Brito|M|/locha/documentation/en/examples/monero_gui.md
+1594978622|luisan00|M|/locha/mobile_app/nl/strings.json
+1594978624|luisan00|M|/locha/mobile_app/es/strings.json
+1594994196|Jean Pierre Dudey|M|/locha/documentation/en/examples/get_started.md
+1594998198|Randy Brito|M|/locha/documentation/en/examples/get_started.md
+1595029233|Jean Pierre Dudey|M|/locha/documentation/en/examples/get_started.md
+1595066494|Randy Brito|M|/locha/documentation/en/examples/get_started.md
+1595066868|Randy Brito|M|/locha/documentation/en/examples/get_started.md
+1595066904|Randy Brito|M|/locha/documentation/en/examples/get_started.md
+1595159008|luisan00|M|/locha/documentation/en/draft_modulators.md
+1595159008|luisan00|A|/locha/documentation/pics/frequency_form.png
+1595159008|luisan00|A|/locha/documentation/pics/time_form.png
+1595159008|luisan00|A|/locha/documentation/pics/velocity_form.png
+1595162147|luisan00|M|/locha/documentation/en/examples/get_started.md
+1595163272|luisan00|M|/locha/documentation/en/examples/electrum_server.md
+1595163272|luisan00|M|/locha/documentation/en/examples/get_started.md
+1595174813|Randy Brito|M|/locha/documentation/en/examples/bitcoin_daemons.md
+1595174902|Randy Brito|M|/locha/documentation/en/examples/get_started.md
+1595175322|Randy Brito|M|/locha/documentation/en/examples/get_started.md
+1595192006|luisan00|A|/locha/documentation/pics/demo_electrum.svg
+1595192006|luisan00|A|/locha/documentation/pics/demo_monero.svg
+1595192006|luisan00|A|/locha/documentation/pics/demo_torrent.svg
+1595198442|luisan00|M|/locha/documentation/en/examples/get_started.md
+1595198442|luisan00|M|/locha/documentation/en/examples/monero_gui.md
+1595198442|luisan00|A|/locha/documentation/pics/monero_gui.png
+1595199042|luisan00|M|/locha/documentation/en/examples/electrum_server.md
+1595199042|luisan00|M|/locha/documentation/en/examples/torrent_protocol.md
+1595240539|luisan00|M|/locha/documentation/en/examples/bitcoin_daemons.md
+1595240539|luisan00|M|/locha/documentation/en/examples/monero_gui.md
+1595240539|luisan00|A|/locha/documentation/pics/demo_bitcoin_daemons.svg
+1595240752|luisan00|M|/locha/documentation/en/examples/electrum_server.md
+1595240752|luisan00|M|/locha/documentation/en/examples/torrent_protocol.md
+1595240885|Randy Brito|M|/locha/documentation/en/examples/bitcoin_daemons.md
+1595242475|luisan00|M|/locha/documentation/en/examples/get_started.md
+1595243001|luisan00|M|/locha/documentation/en/examples/get_started.md
+1595244448|Randy Brito|M|/locha/documentation/en/examples/monero_gui.md
+1595327752|luisan00|M|/locha/documentation/en/draft_modulators.md
+1595327754|luisan00|A|/locha/documentation/en/examples/bitcoin_daemons.md
+1595327755|luisan00|A|/locha/documentation/en/examples/electrum_server.md
+1595327756|luisan00|A|/locha/documentation/en/examples/get_started.md
+1595327757|luisan00|A|/locha/documentation/en/examples/monero_gui.md
+1595327758|luisan00|A|/locha/documentation/en/examples/torrent_protocol.md
+1595327760|luisan00|M|/locha/documentation/fr/draft_modulators.md
+1595327762|luisan00|A|/locha/documentation/es/examples/get_started.md
+1595327763|luisan00|A|/locha/documentation/nl/examples/monero_gui.md
+1595327764|luisan00|A|/locha/documentation/nl/examples/get_started.md
+1595327766|luisan00|A|/locha/documentation/nl/examples/electrum_server.md
+1595327767|luisan00|A|/locha/documentation/nl/examples/bitcoin_daemons.md
+1595327768|luisan00|A|/locha/documentation/es/examples/torrent_protocol.md
+1595327770|luisan00|A|/locha/documentation/es/examples/monero_gui.md
+1595327771|luisan00|A|/locha/documentation/es/examples/electrum_server.md
+1595327773|luisan00|M|/locha/documentation/nl/draft_modulators.md
+1595327774|luisan00|A|/locha/documentation/es/examples/bitcoin_daemons.md
+1595327775|luisan00|A|/locha/documentation/fr/examples/torrent_protocol.md
+1595327776|luisan00|A|/locha/documentation/fr/examples/monero_gui.md
+1595327778|luisan00|A|/locha/documentation/fr/examples/get_started.md
+1595327780|luisan00|A|/locha/documentation/fr/examples/electrum_server.md
+1595327781|luisan00|A|/locha/documentation/fr/examples/bitcoin_daemons.md
+1595327782|luisan00|M|/locha/documentation/es/draft_modulators.md
+1595327784|luisan00|A|/locha/documentation/nl/examples/torrent_protocol.md
+1598300941|luisan00|M|/locha/documentation/nl/examples/bitcoin_daemons.md
+1598387550|luisan00|M|/locha/documentation/nl/examples/bitcoin_daemons.md
+1598387553|luisan00|M|/locha/documentation/nl/chapter_01.md
+1598387554|luisan00|M|/locha/mobile_app/nl/strings.json
+1598387556|luisan00|M|/locha/documentation/nl/examples/electrum_server.md
+1598387557|luisan00|M|/locha/documentation/nl/examples/get_started.md
+1598387559|luisan00|M|/locha/documentation/nl/examples/monero_gui.md
+1598387560|luisan00|M|/locha/documentation/nl/examples/torrent_protocol.md
+1599159683|luisan00|M|/locha/AUTHORS
