@@ -5652,3 +5652,4 @@
 1633073241|nicolas.dorier|M|/btcpayserver-docker/jm.sh
 1633073328|nicolas.dorier|M|/btcpayserver-docker/docs/joinmarket.md
 1633073328|nicolas.dorier|M|/btcpayserver-docker/jm.sh
+1633094405|nicolas.dorier|A|/btcpayserver-docker/Production/postgres/migrate-docker-entrypoint.sh

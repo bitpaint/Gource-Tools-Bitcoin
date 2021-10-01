@@ -40843,6 +40843,9 @@
 1632488905|David Molnar|M|/WalletWasabi/WalletWasabi/WabiSabi/Client/CoinJoinManager.cs
 1632488905|David Molnar|A|/WalletWasabi/WalletWasabi/WabiSabi/Client/CoinRefrigerator.cs
 1632489958|David Molnar|M|/WalletWasabi/WalletWasabi/WabiSabi/Client/CoinRefrigerator.cs
+1632491309|Kiminuo|M|/WalletWasabi/WalletWasabi.Backend/Controllers/ChaumianCoinJoinController.cs
+1632491309|Kiminuo|M|/WalletWasabi/WalletWasabi.Tests/RegressionTests/CoinJoinTests.cs
+1632491309|Kiminuo|M|/WalletWasabi/WalletWasabi/CoinJoin/Coordinator/Coordinator.cs
 1632492310|Kiminuo|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Advanced/WalletInfoViewModel.cs
 1632492310|Kiminuo|M|/WalletWasabi/WalletWasabi.Fluent/Views/Wallets/Advanced/WalletInfoView.axaml
 1632492310|Kiminuo|A|/WalletWasabi/WalletWasabi.Tests/UnitTests/Blockchain/Keys/WpkhOutputDescriptorHelperTests.cs
@@ -40853,6 +40856,12 @@
 1632511610|Lucas Ontivero|M|/WalletWasabi/WalletWasabi/WabiSabi/Crypto/RoundHasher.cs
 1632511610|Lucas Ontivero|M|/WalletWasabi/WalletWasabi/WabiSabi/Models/RoundState.cs
 1632511610|Lucas Ontivero|M|/WalletWasabi/WalletWasabi/WabiSabi/ProtocolContants.cs
+1632722506|Kiminuo|M|/WalletWasabi/WalletWasabi.Backend/Controllers/ChaumianCoinJoinController.cs
+1632722506|Kiminuo|M|/WalletWasabi/WalletWasabi.Tests/RegressionTests/CoinJoinTests.cs
+1632722506|Kiminuo|M|/WalletWasabi/WalletWasabi/CoinJoin/Coordinator/Coordinator.cs
+1632724114|Kiminuo|M|/WalletWasabi/WalletWasabi.Tests/RegressionTests/CoinJoinTests.cs
+1632724114|Kiminuo|M|/WalletWasabi/WalletWasabi.Tests/RegressionTests/DosTests.cs
+1632724114|Kiminuo|M|/WalletWasabi/WalletWasabi/CoinJoin/Coordinator/Coordinator.cs
 1632733102|Szpoti|M|/WalletWasabi/WalletWasabi/WabiSabi/Client/CoinJoinManager.cs
 1632733193|Szpoti|M|/WalletWasabi/WalletWasabi/WabiSabi/Client/CoinJoinManager.cs
 1632733256|Szpoti|M|/WalletWasabi/WalletWasabi/WabiSabi/Client/CoinJoinManager.cs

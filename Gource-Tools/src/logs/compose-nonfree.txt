@@ -1759,3 +1759,5 @@
 1633074915|AaronDewes|M|/compose-nonfree/scripts/update/check-memory
 1633075720|AaronDewes|M|/compose-nonfree/scripts/update/README.md
 1633075786|AaronDewes|M|/compose-nonfree/scripts/update/update
+1633093215|Aaron Dewes|M|/compose-nonfree/scripts/update/00-run.sh
+1633093215|Aaron Dewes|M|/compose-nonfree/scripts/update/01-run.sh

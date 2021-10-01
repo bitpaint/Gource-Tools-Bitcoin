@@ -23754,3 +23754,8 @@
 1633069289|Bjarne Magnussen|M|/LND/lnwallet/wallet.go
 1633069289|Bjarne Magnussen|M|/LND/rpcserver.go
 1633069306|Bjarne Magnussen|M|/LND/docs/release-notes/release-notes-0.14.0.md
+1633093672|naveen|M|/LND/docs/release-notes/release-notes-0.14.0.md
+1633093672|naveen|M|/LND/go.mod
+1633093672|naveen|M|/LND/go.sum
+1633093672|naveen|M|/LND/kvdb/go.mod
+1633093672|naveen|M|/LND/kvdb/go.sum
