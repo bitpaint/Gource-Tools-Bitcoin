@@ -631,3 +631,6 @@
 1632397856|Dennis Reimann|M|/btcpayserver-design/src/bootstrap/_variables.scss
 1632397856|Dennis Reimann|M|/btcpayserver-design/src/static/styles/btcpayserver-bootstrap.css
 1632397856|Dennis Reimann|M|/btcpayserver-design/src/styles/variables/theme.css
+1633073362|Dennis Reimann|M|/btcpayserver-design/package-lock.json
+1633073362|Dennis Reimann|M|/btcpayserver-design/package.json
+1633073376|Dennis Reimann|M|/btcpayserver-design/src/bootstrap/_customizations.css

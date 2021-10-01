@@ -239,6 +239,24 @@
 1632338961|Ivan|M|/bitcoin-s-ts/oracle-server-ui/src/app/event-detail/event-detail.component.html
 1632339449|Chris Stewart|M|/bitcoin-s-ts/.github/workflows/Compile.yml
 1632339478|Chris Stewart|M|/bitcoin-s-ts/Dockerfile
+1632439176|Ivan|A|/bitcoin-s-ts/oracle-server-ts/.npmignore
+1632439176|Ivan|A|/bitcoin-s-ts/oracle-server-ts/README.md
+1632439176|Ivan|A|/bitcoin-s-ts/oracle-server-ts/dist/index.d.ts
+1632439176|Ivan|A|/bitcoin-s-ts/oracle-server-ts/dist/index.js
+1632439176|Ivan|A|/bitcoin-s-ts/oracle-server-ts/dist/message-util.d.ts
+1632439176|Ivan|A|/bitcoin-s-ts/oracle-server-ts/dist/message-util.js
+1632439176|Ivan|A|/bitcoin-s-ts/oracle-server-ts/dist/oracle-server-message.d.ts
+1632439176|Ivan|A|/bitcoin-s-ts/oracle-server-ts/dist/oracle-server-message.js
+1632439176|Ivan|A|/bitcoin-s-ts/oracle-server-ts/dist/oracle-server-types.d.ts
+1632439176|Ivan|A|/bitcoin-s-ts/oracle-server-ts/dist/oracle-server-types.js
+1632439176|Ivan|A|/bitcoin-s-ts/oracle-server-ts/lib/index.ts
+1632439176|Ivan|A|/bitcoin-s-ts/oracle-server-ts/lib/message-util.ts
+1632439176|Ivan|A|/bitcoin-s-ts/oracle-server-ts/lib/oracle-server-message.ts
+1632439176|Ivan|A|/bitcoin-s-ts/oracle-server-ts/lib/oracle-server-types.ts
+1632439176|Ivan|A|/bitcoin-s-ts/oracle-server-ts/package-lock.json
+1632439176|Ivan|A|/bitcoin-s-ts/oracle-server-ts/package.json
+1632439176|Ivan|A|/bitcoin-s-ts/oracle-server-ts/test.js
+1632439176|Ivan|A|/bitcoin-s-ts/oracle-server-ts/tsconfig.json
 1632503629|Ivan|M|/bitcoin-s-ts/Dockerfile
 1632503629|Ivan|M|/bitcoin-s-ts/oracle-server-ui-proxy/package-lock.json
 1632503629|Ivan|M|/bitcoin-s-ts/oracle-server-ui-proxy/package.json
@@ -270,6 +288,14 @@
 1632752954|Ivan|M|/bitcoin-s-ts/oracle-server-ui/src/type/oracle-server-types.ts
 1632752954|Ivan|M|/bitcoin-s-ts/oracle-server-ui/src/util/message-util.ts
 1632752960|Ivan|M|/bitcoin-s-ts/oracle-server-ui/src/app/new-event/new-event.component.ts
+1632934034|Ivan|M|/bitcoin-s-ts/oracle-server-ts/dist/index.d.ts
+1632934034|Ivan|M|/bitcoin-s-ts/oracle-server-ts/dist/index.js
+1632934034|Ivan|A|/bitcoin-s-ts/oracle-server-ts/dist/util.d.ts
+1632934034|Ivan|A|/bitcoin-s-ts/oracle-server-ts/dist/util.js
+1632934034|Ivan|M|/bitcoin-s-ts/oracle-server-ts/lib/index.ts
+1632934034|Ivan|A|/bitcoin-s-ts/oracle-server-ts/lib/util.ts
+1632934034|Ivan|M|/bitcoin-s-ts/oracle-server-ts/test.js
+1632934034|Ivan|M|/bitcoin-s-ts/oracle-server-ts/tsconfig.json
 1632937856|Chris Stewart|A|/bitcoin-s-ts/.github/workflows/oracle-server-rpc-tests.yml
 1632938016|Chris Stewart|M|/bitcoin-s-ts/.github/workflows/oracle-server-rpc-tests.yml
 1632939860|Chris Stewart|M|/bitcoin-s-ts/oracle-server-ui/src/assets/i18n/en.json

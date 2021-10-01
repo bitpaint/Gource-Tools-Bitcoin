@@ -65439,6 +65439,7 @@
 1628240699|glozow|M|/bitcoin/test/functional/test_runner.py
 1628245888|MarcoFalke|M|/bitcoin/src/test/fuzz/fuzz.h
 1628245888|MarcoFalke|M|/bitcoin/src/test/fuzz/system.cpp
+1628265090|Alex Groce|M|/bitcoin/doc/fuzzing.md
 1628275754|Hennadii Stepanov|M|/bitcoin/src/qt/bitcoin.cpp
 1628276904|Hennadii Stepanov|M|/bitcoin/src/qt/bitcoin.cpp
 1628276904|Hennadii Stepanov|M|/bitcoin/src/util/string.h
@@ -66477,6 +66478,12 @@
 1632858562|BitcoinTsunami|A|/bitcoin/test/functional/wallet_transactiontime_rescan.py
 1632858575|BitcoinTsunami|M|/bitcoin/src/wallet/wallet.cpp
 1632858575|BitcoinTsunami|M|/bitcoin/src/wallet/wallet.h
+1632859890|Niklas Gögge|M|/bitcoin/src/net_processing.cpp
+1632859890|Niklas Gögge|A|/bitcoin/test/functional/p2p_compactblocks_blocksonly.py
+1632859890|Niklas Gögge|M|/bitcoin/test/functional/test_runner.py
+1632859890|Niklas Gögge|M|/bitcoin/test/functional/p2p_compactblocks_blocksonly.py
+1632859890|Niklas Gögge|M|/bitcoin/test/functional/p2p_compactblocks_blocksonly.py
+1632859890|Niklas Gögge|M|/bitcoin/test/functional/p2p_compactblocks_blocksonly.py
 1632867419|Samuel Dobson|M|/bitcoin/src/qt/coincontroldialog.cpp
 1632867419|Samuel Dobson|M|/bitcoin/src/qt/coincontroldialog.h
 1632879610|William Casarin|M|/bitcoin/src/bloom.cpp
@@ -66487,6 +66494,7 @@
 1632879817|fanquake|M|/bitcoin/src/bloom.h
 1632880116|fanquake|M|/bitcoin/src/bloom.cpp
 1632880116|fanquake|M|/bitcoin/src/bloom.h
+1632883520|Samuel Dobson|M|/bitcoin/src/dummywallet.cpp
 1632890495|Samuel Dobson|M|/bitcoin/test/functional/feature_segwit.py
 1632899532|fanquake|M|/bitcoin/doc/developer-notes.md
 1632899532|fanquake|M|/bitcoin/test/lint/README.md
@@ -66509,3 +66517,27 @@
 1632934065|MarcoFalke|M|/bitcoin/test/lint/lint-logs.sh
 1632934160|MarcoFalke|M|/bitcoin/src/wallet/coinselection.cpp
 1632941827|Hennadii Stepanov|M|/bitcoin/src/qt/bitcoingui.cpp
+1632956787|Samuel Dobson|M|/bitcoin/src/wallet/wallet.cpp
+1632956787|Samuel Dobson|M|/bitcoin/src/wallet/wallet.h
+1632956787|Samuel Dobson|M|/bitcoin/src/wallet/walletdb.cpp
+1632956787|Samuel Dobson|M|/bitcoin/src/wallet/walletdb.h
+1632956787|Samuel Dobson|M|/bitcoin/src/wallet/wallettool.cpp
+1632956787|Samuel Dobson|M|/bitcoin/share/examples/bitcoin.conf
+1632956787|Samuel Dobson|M|/bitcoin/src/dummywallet.cpp
+1632956787|Samuel Dobson|M|/bitcoin/src/init.cpp
+1632956787|Samuel Dobson|M|/bitcoin/src/wallet/init.cpp
+1632956787|Samuel Dobson|M|/bitcoin/src/wallet/rpcdump.cpp
+1632956787|Samuel Dobson|M|/bitcoin/src/wallet/rpcwallet.cpp
+1632956787|Samuel Dobson|M|/bitcoin/src/wallet/salvage.cpp
+1632956787|Samuel Dobson|M|/bitcoin/src/wallet/test/wallet_tests.cpp
+1632956787|Samuel Dobson|M|/bitcoin/src/wallet/wallet.cpp
+1632956787|Samuel Dobson|M|/bitcoin/test/functional/feature_notifications.py
+1632956787|Samuel Dobson|M|/bitcoin/test/functional/wallet_basic.py
+1632956787|Samuel Dobson|M|/bitcoin/test/functional/wallet_hd.py
+1632956787|Samuel Dobson|A|/bitcoin/doc/release-notes-remove-rescan.md
+1632994585|Samuel Dobson|M|/bitcoin/src/wallet/walletdb.cpp
+1633012735|Jon Atack|M|/bitcoin/test/functional/test_framework/util.py
+1633039352|Samuel Dobson|M|/bitcoin/src/wallet/wallet.cpp
+1633039352|Samuel Dobson|M|/bitcoin/src/wallet/walletdb.cpp
+1633039352|Samuel Dobson|M|/bitcoin/src/wallet/walletdb.h
+1633039352|Samuel Dobson|M|/bitcoin/src/wallet/wallettool.cpp

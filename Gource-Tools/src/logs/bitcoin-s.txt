@@ -19491,3 +19491,12 @@
 1632938702|Chris Stewart|M|/bitcoin-s/.github/workflows/Linux_2.12_KeyManager_Wallet_DLC_Tests.yml
 1632938702|Chris Stewart|M|/bitcoin-s/.github/workflows/Linux_2.12_Node_Tests.yml
 1632938702|Chris Stewart|M|/bitcoin-s/.github/workflows/Linux_2.12_RPC_Tests.yml
+1633029737|Chris Stewart|M|/bitcoin-s/app/oracle-server-test/src/test/scala/org/bitcoins/oracle/server/OracleRoutesSpec.scala
+1633029737|Chris Stewart|M|/bitcoin-s/app/oracle-server/src/main/scala/org/bitcoins/oracle/server/OracleRoutes.scala
+1633029737|Chris Stewart|M|/bitcoin-s/app/oracle-server/src/main/scala/org/bitcoins/oracle/server/ServerJsonModels.scala
+1633029737|Chris Stewart|M|/bitcoin-s/core/src/main/scala/org/bitcoins/core/api/dlcoracle/DLCOracleApi.scala
+1633029737|Chris Stewart|M|/bitcoin-s/dlc-oracle-test/src/test/scala/org/bitcoins/dlc/oracle/DLCOracleTest.scala
+1633029737|Chris Stewart|M|/bitcoin-s/dlc-oracle/src/main/scala/org/bitcoins/dlc/oracle/DLCOracle.scala
+1633029737|Chris Stewart|M|/bitcoin-s/docs/oracle/oracle-server.md
+1633090082|rorp|M|/bitcoin-s/db-commons/src/main/scala/org/bitcoins/db/DbManagement.scala
+1633090082|rorp|M|/bitcoin-s/db-commons/src/main/scala/org/bitcoins/db/SQLiteUtil.scala

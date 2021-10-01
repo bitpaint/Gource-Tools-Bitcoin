@@ -10265,3 +10265,12 @@
 1632703648|Buck Perley|A|/sphinx-relay/dist/src/utils/zbase32/index.js.map
 1632703648|Buck Perley|A|/sphinx-relay/dist/src/utils/zbase32/tv42_zbase32_gopherjs.js
 1632703648|Buck Perley|A|/sphinx-relay/dist/src/utils/zbase32/tv42_zbase32_gopherjs.js.map
+1633024527|EvanFeenstra1|M|/sphinx-relay/.gitignore
+1633024527|EvanFeenstra1|M|/sphinx-relay/package-lock.json
+1633024527|EvanFeenstra1|M|/sphinx-relay/src/tests/controllers/lsats.test.ts
+1633024527|EvanFeenstra1|A|/sphinx-relay/src/tests/controllers/self.test.ts
+1633024527|EvanFeenstra1|A|/sphinx-relay/src/tests/nodes.ts
+1633024527|EvanFeenstra1|A|/sphinx-relay/src/tests/types/jsonModels.ts
+1633024527|EvanFeenstra1|A|/sphinx-relay/src/tests/utils/get/getSelf.ts
+1633024527|EvanFeenstra1|M|/sphinx-relay/src/tests/utils/get/index.ts
+1633024527|EvanFeenstra1|M|/sphinx-relay/src/tests/utils/helpers.ts

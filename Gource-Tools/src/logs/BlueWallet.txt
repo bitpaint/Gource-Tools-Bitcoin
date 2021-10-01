@@ -14721,3 +14721,7 @@
 1633013370|Marcos Rodriguez Vélez|M|/BlueWallet/ios/BlueWallet.xcodeproj/project.pbxproj
 1633013370|Marcos Rodriguez Vélez|M|/BlueWallet/package-lock.json
 1633013370|Marcos Rodriguez Vélez|M|/BlueWallet/package.json
+1633013686|Marcos Rodriguez Vélez|M|/BlueWallet/android/build.gradle
+1633017951|Marcos Rodriguez Vélez|M|/BlueWallet/class/wallets/lightning-custodian-wallet.js
+1633019998|transifex-integration[bot]|M|/BlueWallet/loc/pl.json
+1633089850|Renovate Bot|M|/BlueWallet/package.json

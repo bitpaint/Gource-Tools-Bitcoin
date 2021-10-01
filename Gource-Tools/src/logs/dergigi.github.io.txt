@@ -2930,3 +2930,5 @@
 1632785207|Gigi|A|/dergigi.github.io/assets/images/people.jpg
 1632785207|Gigi|A|/dergigi.github.io/assets/images/people.webp
 1632785352|Gigi|A|/dergigi.github.io/collections/_posts/2021-09-27-people.markdown
+1633035369|Gigi|M|/dergigi.github.io/support.md
+1633035719|Gigi|M|/dergigi.github.io/support.md

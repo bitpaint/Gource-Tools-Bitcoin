@@ -5642,3 +5642,13 @@
 1632999495|nicolas.dorier|M|/btcpayserver-docker/docker-compose-generator/docker-fragments/postgres.yml
 1633002637|nicolas.dorier|A|/btcpayserver-docker/Generated/postgres/migrate-docker-entrypoint.sh
 1633002637|nicolas.dorier|M|/btcpayserver-docker/docker-compose-generator/docker-fragments/postgres.yml
+1633061129|nicolas.dorier|M|/btcpayserver-docker/docs/joinmarket.md
+1633072784|nicolas.dorier|M|/btcpayserver-docker/Production/nginx.tmpl
+1633072784|nicolas.dorier|M|/btcpayserver-docker/docker-compose-generator/docker-fragments/opt-add-joinmarket.yml
+1633072784|nicolas.dorier|M|/btcpayserver-docker/docs/joinmarket.md
+1633072784|nicolas.dorier|M|/btcpayserver-docker/jm.sh
+1633073189|nicolas.dorier|M|/btcpayserver-docker/jm.sh
+1633073241|nicolas.dorier|M|/btcpayserver-docker/docs/joinmarket.md
+1633073241|nicolas.dorier|M|/btcpayserver-docker/jm.sh
+1633073328|nicolas.dorier|M|/btcpayserver-docker/docs/joinmarket.md
+1633073328|nicolas.dorier|M|/btcpayserver-docker/jm.sh

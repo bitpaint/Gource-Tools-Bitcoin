@@ -2975,3 +2975,4 @@
 1632365452|Gigi|M|/bitcoin-resources.github.io/collections/_series/why-bitcoin.md
 1632764464|Gigi|M|/bitcoin-resources.github.io/package.json
 1632764466|Gigi|M|/bitcoin-resources.github.io/package-lock.json
+1633036653|Gigi|M|/bitcoin-resources.github.io/_includes/navigation.html

@@ -23482,7 +23482,15 @@
 1632795031|Olaoluwa Osuntokun|M|/LND/server.go
 1632795031|Olaoluwa Osuntokun|D|/LND/utxonursery.go
 1632795031|Olaoluwa Osuntokun|D|/LND/utxonursery_test.go
+1632861425|yyforyongyu|M|/LND/cmd/lnd/main.go
+1632861425|yyforyongyu|M|/LND/lncfg/address.go
+1632862383|yyforyongyu|M|/LND/docs/release-notes/release-notes-0.14.0.md
 1632909473|Oliver Gugger|M|/LND/lntest/harness.go
+1632928586|naveen|M|/LND/docs/release-notes/release-notes-0.14.0.md
+1632928586|naveen|M|/LND/go.mod
+1632928586|naveen|M|/LND/go.sum
+1632928586|naveen|M|/LND/kvdb/go.mod
+1632928586|naveen|M|/LND/kvdb/go.sum
 1632936790|eugene|M|/LND/chainreg/chainregistry.go
 1632936790|eugene|M|/LND/funding/manager.go
 1632936790|eugene|M|/LND/funding/manager_test.go
@@ -23518,3 +23526,231 @@
 1632936792|eugene|A|/LND/docs/release-notes/release-notes-0.13.3.md
 1632949493|eugene|M|/LND/htlcswitch/link_test.go
 1632949769|eugene|M|/LND/docs/release-notes/release-notes-0.14.0.md
+1632961892|Oliver Gugger|M|/LND/lntest/harness.go
+1632961894|Olaoluwa Osuntokun|M|/LND/.github/workflows/main.yml
+1632961894|Olaoluwa Osuntokun|M|/LND/.github/workflows/release.yaml
+1632961894|Olaoluwa Osuntokun|M|/LND/.travis.yml
+1632961894|Olaoluwa Osuntokun|M|/LND/Dockerfile
+1632961894|Olaoluwa Osuntokun|M|/LND/dev.Dockerfile
+1632961894|Olaoluwa Osuntokun|M|/LND/docker/btcd/Dockerfile
+1632961894|Olaoluwa Osuntokun|M|/LND/docker/ltcd/Dockerfile
+1632961894|Olaoluwa Osuntokun|M|/LND/lnrpc/Dockerfile
+1632961894|Olaoluwa Osuntokun|M|/LND/make/builder.Dockerfile
+1632961897|Oliver Gugger|M|/LND/aezeed/cipherseed_rpctest.go
+1632961897|Oliver Gugger|M|/LND/build/deployment_dev.go
+1632961897|Oliver Gugger|M|/LND/build/deployment_prod.go
+1632961897|Oliver Gugger|M|/LND/build/log_default.go
+1632961897|Oliver Gugger|M|/LND/build/log_nolog.go
+1632961897|Oliver Gugger|M|/LND/build/log_stdlog.go
+1632961897|Oliver Gugger|M|/LND/build/loglevel_critical.go
+1632961897|Oliver Gugger|M|/LND/build/loglevel_debug.go
+1632961897|Oliver Gugger|M|/LND/build/loglevel_default.go
+1632961897|Oliver Gugger|M|/LND/build/loglevel_error.go
+1632961897|Oliver Gugger|M|/LND/build/loglevel_info.go
+1632961897|Oliver Gugger|M|/LND/build/loglevel_off.go
+1632961897|Oliver Gugger|M|/LND/build/loglevel_trace.go
+1632961897|Oliver Gugger|M|/LND/build/loglevel_warn.go
+1632961897|Oliver Gugger|M|/LND/chainntnfs/bitcoindnotify/bitcoind_dev.go
+1632961897|Oliver Gugger|M|/LND/chainntnfs/bitcoindnotify/bitcoind_test.go
+1632961897|Oliver Gugger|M|/LND/chainntnfs/btcdnotify/btcd_dev.go
+1632961897|Oliver Gugger|M|/LND/chainntnfs/btcdnotify/btcd_test.go
+1632961897|Oliver Gugger|M|/LND/chainntnfs/interface_dev.go
+1632961897|Oliver Gugger|M|/LND/chainntnfs/neutrinonotify/neutrino_dev.go
+1632961897|Oliver Gugger|M|/LND/chainntnfs/test/bitcoind/bitcoind_test.go
+1632961897|Oliver Gugger|M|/LND/chainntnfs/test/btcd/btcd_test.go
+1632961897|Oliver Gugger|M|/LND/chainntnfs/test/neutrino/neutrino_test.go
+1632961897|Oliver Gugger|M|/LND/chainntnfs/test/test_interface.go
+1632961897|Oliver Gugger|M|/LND/chainntnfs/test_utils.go
+1632961897|Oliver Gugger|M|/LND/cluster/etcd_elector.go
+1632961897|Oliver Gugger|M|/LND/cluster/etcd_elector_factory.go
+1632961897|Oliver Gugger|M|/LND/cluster/etcd_elector_test.go
+1632961897|Oliver Gugger|M|/LND/cmd/lncli/autopilotrpc_active.go
+1632961897|Oliver Gugger|M|/LND/cmd/lncli/autopilotrpc_default.go
+1632961897|Oliver Gugger|M|/LND/cmd/lncli/invoicesrpc_active.go
+1632961897|Oliver Gugger|M|/LND/cmd/lncli/invoicesrpc_default.go
+1632961897|Oliver Gugger|M|/LND/cmd/lncli/walletrpc_active.go
+1632961897|Oliver Gugger|M|/LND/cmd/lncli/walletrpc_default.go
+1632961897|Oliver Gugger|M|/LND/cmd/lncli/watchtower_active.go
+1632961897|Oliver Gugger|M|/LND/cmd/lncli/watchtower_default.go
+1632961897|Oliver Gugger|M|/LND/funding/manager_test.go
+1632961897|Oliver Gugger|M|/LND/fuzz/brontide/fuzz_utils.go
+1632961897|Oliver Gugger|M|/LND/fuzz/brontide/random_actone.go
+1632961897|Oliver Gugger|M|/LND/fuzz/brontide/random_actthree.go
+1632961897|Oliver Gugger|M|/LND/fuzz/brontide/random_acttwo.go
+1632961897|Oliver Gugger|M|/LND/fuzz/brontide/random_init_decrypt.go
+1632961897|Oliver Gugger|M|/LND/fuzz/brontide/random_init_enc_dec.go
+1632961897|Oliver Gugger|M|/LND/fuzz/brontide/random_init_encrypt.go
+1632961897|Oliver Gugger|M|/LND/fuzz/brontide/random_resp_decrypt.go
+1632961897|Oliver Gugger|M|/LND/fuzz/brontide/random_resp_enc_dec.go
+1632961897|Oliver Gugger|M|/LND/fuzz/brontide/random_resp_encrypt.go
+1632961897|Oliver Gugger|M|/LND/fuzz/brontide/static_actone.go
+1632961897|Oliver Gugger|M|/LND/fuzz/brontide/static_actthree.go
+1632961897|Oliver Gugger|M|/LND/fuzz/brontide/static_acttwo.go
+1632961897|Oliver Gugger|M|/LND/fuzz/brontide/static_init_decrypt.go
+1632961897|Oliver Gugger|M|/LND/fuzz/brontide/static_init_enc_dec.go
+1632961897|Oliver Gugger|M|/LND/fuzz/brontide/static_init_encrypt.go
+1632961897|Oliver Gugger|M|/LND/fuzz/brontide/static_resp_decrypt.go
+1632961897|Oliver Gugger|M|/LND/fuzz/brontide/static_resp_enc_dec.go
+1632961897|Oliver Gugger|M|/LND/fuzz/brontide/static_resp_encrypt.go
+1632961897|Oliver Gugger|M|/LND/fuzz/lnwire/accept_channel.go
+1632961897|Oliver Gugger|M|/LND/fuzz/lnwire/announce_signatures.go
+1632961897|Oliver Gugger|M|/LND/fuzz/lnwire/channel_announcement.go
+1632961897|Oliver Gugger|M|/LND/fuzz/lnwire/channel_reestablish.go
+1632961897|Oliver Gugger|M|/LND/fuzz/lnwire/channel_update.go
+1632961897|Oliver Gugger|M|/LND/fuzz/lnwire/closing_signed.go
+1632961897|Oliver Gugger|M|/LND/fuzz/lnwire/commit_sig.go
+1632961897|Oliver Gugger|M|/LND/fuzz/lnwire/error.go
+1632961897|Oliver Gugger|M|/LND/fuzz/lnwire/funding_created.go
+1632961897|Oliver Gugger|M|/LND/fuzz/lnwire/funding_locked.go
+1632961897|Oliver Gugger|M|/LND/fuzz/lnwire/funding_signed.go
+1632961897|Oliver Gugger|M|/LND/fuzz/lnwire/fuzz_utils.go
+1632961897|Oliver Gugger|M|/LND/fuzz/lnwire/gossip_timestamp_range.go
+1632961897|Oliver Gugger|M|/LND/fuzz/lnwire/init.go
+1632961897|Oliver Gugger|M|/LND/fuzz/lnwire/node_announcement.go
+1632961897|Oliver Gugger|M|/LND/fuzz/lnwire/open_channel.go
+1632961897|Oliver Gugger|M|/LND/fuzz/lnwire/ping.go
+1632961897|Oliver Gugger|M|/LND/fuzz/lnwire/pong.go
+1632961897|Oliver Gugger|M|/LND/fuzz/lnwire/query_channel_range.go
+1632961897|Oliver Gugger|M|/LND/fuzz/lnwire/query_short_chan_ids.go
+1632961897|Oliver Gugger|M|/LND/fuzz/lnwire/query_short_chan_ids_zlib.go
+1632961897|Oliver Gugger|M|/LND/fuzz/lnwire/reply_channel_range.go
+1632961897|Oliver Gugger|M|/LND/fuzz/lnwire/reply_channel_range_zlib.go
+1632961897|Oliver Gugger|M|/LND/fuzz/lnwire/reply_short_chan_ids_end.go
+1632961897|Oliver Gugger|M|/LND/fuzz/lnwire/revoke_and_ack.go
+1632961897|Oliver Gugger|M|/LND/fuzz/lnwire/shutdown.go
+1632961897|Oliver Gugger|M|/LND/fuzz/lnwire/update_add_htlc.go
+1632961897|Oliver Gugger|M|/LND/fuzz/lnwire/update_fail_htlc.go
+1632961897|Oliver Gugger|M|/LND/fuzz/lnwire/update_fail_malformed_htlc.go
+1632961897|Oliver Gugger|M|/LND/fuzz/lnwire/update_fee.go
+1632961897|Oliver Gugger|M|/LND/fuzz/lnwire/update_fulfill_htlc.go
+1632961897|Oliver Gugger|M|/LND/fuzz/wtwire/create_session.go
+1632961897|Oliver Gugger|M|/LND/fuzz/wtwire/create_session_reply.go
+1632961897|Oliver Gugger|M|/LND/fuzz/wtwire/delete_session.go
+1632961897|Oliver Gugger|M|/LND/fuzz/wtwire/delete_session_reply.go
+1632961897|Oliver Gugger|M|/LND/fuzz/wtwire/error.go
+1632961897|Oliver Gugger|M|/LND/fuzz/wtwire/fuzz_utils.go
+1632961897|Oliver Gugger|M|/LND/fuzz/wtwire/init.go
+1632961897|Oliver Gugger|M|/LND/fuzz/wtwire/state_update.go
+1632961897|Oliver Gugger|M|/LND/fuzz/wtwire/state_update_reply.go
+1632961897|Oliver Gugger|M|/LND/fuzz/zpay32/decode.go
+1632961897|Oliver Gugger|M|/LND/fuzz/zpay32/encode.go
+1632961897|Oliver Gugger|M|/LND/healthcheck/diskcheck.go
+1632961897|Oliver Gugger|M|/LND/htlcswitch/hodl/config_dev.go
+1632961897|Oliver Gugger|M|/LND/htlcswitch/hodl/config_prod.go
+1632961897|Oliver Gugger|M|/LND/htlcswitch/hodl/mask_dev.go
+1632961897|Oliver Gugger|M|/LND/htlcswitch/hodl/mask_prod.go
+1632961897|Oliver Gugger|M|/LND/kvdb/backend.go
+1632961897|Oliver Gugger|M|/LND/kvdb/bolt_compact.go
+1632961897|Oliver Gugger|M|/LND/kvdb/debug.go
+1632961897|Oliver Gugger|M|/LND/kvdb/etcd/bucket.go
+1632961897|Oliver Gugger|M|/LND/kvdb/etcd/commit_queue.go
+1632961897|Oliver Gugger|M|/LND/kvdb/etcd/commit_queue_test.go
+1632961897|Oliver Gugger|M|/LND/kvdb/etcd/db.go
+1632961897|Oliver Gugger|M|/LND/kvdb/etcd/db_test.go
+1632961897|Oliver Gugger|M|/LND/kvdb/etcd/debug.go
+1632961897|Oliver Gugger|M|/LND/kvdb/etcd/driver.go
+1632961897|Oliver Gugger|M|/LND/kvdb/etcd/driver_test.go
+1632961897|Oliver Gugger|M|/LND/kvdb/etcd/embed.go
+1632961897|Oliver Gugger|M|/LND/kvdb/etcd/fixture.go
+1632961897|Oliver Gugger|M|/LND/kvdb/etcd/nodebug.go
+1632961897|Oliver Gugger|M|/LND/kvdb/etcd/readwrite_bucket.go
+1632961897|Oliver Gugger|M|/LND/kvdb/etcd/readwrite_cursor.go
+1632961897|Oliver Gugger|M|/LND/kvdb/etcd/readwrite_tx.go
+1632961897|Oliver Gugger|M|/LND/kvdb/etcd/readwrite_tx_test.go
+1632961897|Oliver Gugger|M|/LND/kvdb/etcd/stm.go
+1632961897|Oliver Gugger|M|/LND/kvdb/etcd/stm_test.go
+1632961897|Oliver Gugger|M|/LND/kvdb/etcd/walletdb_interface_test.go
+1632961897|Oliver Gugger|M|/LND/kvdb/etcd_test.go
+1632961897|Oliver Gugger|M|/LND/kvdb/kvdb_etcd.go
+1632961897|Oliver Gugger|M|/LND/kvdb/kvdb_no_etcd.go
+1632961897|Oliver Gugger|M|/LND/kvdb/nodebug.go
+1632961897|Oliver Gugger|M|/LND/lncfg/address_test.go
+1632961897|Oliver Gugger|M|/LND/lncfg/monitoring_off.go
+1632961897|Oliver Gugger|M|/LND/lncfg/monitoring_on.go
+1632961897|Oliver Gugger|M|/LND/lncfg/protocol.go
+1632961897|Oliver Gugger|M|/LND/lncfg/protocol_experimental_off.go
+1632961897|Oliver Gugger|M|/LND/lncfg/protocol_experimental_on.go
+1632961897|Oliver Gugger|M|/LND/lncfg/protocol_legacy_off.go
+1632961897|Oliver Gugger|M|/LND/lncfg/protocol_legacy_on.go
+1632961897|Oliver Gugger|M|/LND/lncfg/protocol_rpctest.go
+1632961897|Oliver Gugger|M|/LND/lnrpc/autopilotrpc/autopilot_server.go
+1632961897|Oliver Gugger|M|/LND/lnrpc/autopilotrpc/config_active.go
+1632961897|Oliver Gugger|M|/LND/lnrpc/autopilotrpc/config_default.go
+1632961897|Oliver Gugger|M|/LND/lnrpc/autopilotrpc/driver.go
+1632961897|Oliver Gugger|M|/LND/lnrpc/chainrpc/chainnotifier_server.go
+1632961897|Oliver Gugger|M|/LND/lnrpc/chainrpc/config_active.go
+1632961897|Oliver Gugger|M|/LND/lnrpc/chainrpc/config_default.go
+1632961897|Oliver Gugger|M|/LND/lnrpc/chainrpc/driver.go
+1632961897|Oliver Gugger|M|/LND/lnrpc/invoicesrpc/config_active.go
+1632961897|Oliver Gugger|M|/LND/lnrpc/invoicesrpc/config_default.go
+1632961897|Oliver Gugger|M|/LND/lnrpc/invoicesrpc/driver.go
+1632961897|Oliver Gugger|M|/LND/lnrpc/invoicesrpc/invoices_server.go
+1632961897|Oliver Gugger|M|/LND/lnrpc/signrpc/config_active.go
+1632961897|Oliver Gugger|M|/LND/lnrpc/signrpc/config_default.go
+1632961897|Oliver Gugger|M|/LND/lnrpc/signrpc/driver.go
+1632961897|Oliver Gugger|M|/LND/lnrpc/signrpc/signer_server.go
+1632961897|Oliver Gugger|M|/LND/lnrpc/walletrpc/config_active.go
+1632961897|Oliver Gugger|M|/LND/lnrpc/walletrpc/config_default.go
+1632961897|Oliver Gugger|M|/LND/lnrpc/walletrpc/driver.go
+1632961897|Oliver Gugger|M|/LND/lnrpc/walletrpc/psbt.go
+1632961897|Oliver Gugger|M|/LND/lnrpc/walletrpc/walletkit_server.go
+1632961897|Oliver Gugger|M|/LND/lnrpc/watchtowerrpc/config_active.go
+1632961897|Oliver Gugger|M|/LND/lnrpc/watchtowerrpc/config_default.go
+1632961897|Oliver Gugger|M|/LND/lnrpc/watchtowerrpc/driver.go
+1632961897|Oliver Gugger|M|/LND/lnrpc/watchtowerrpc/handler.go
+1632961897|Oliver Gugger|M|/LND/lntest/bitcoind.go
+1632961897|Oliver Gugger|M|/LND/lntest/bitcoind_common.go
+1632961897|Oliver Gugger|M|/LND/lntest/bitcoind_notxindex.go
+1632961897|Oliver Gugger|M|/LND/lntest/btcd.go
+1632961897|Oliver Gugger|M|/LND/lntest/itest/lnd_etcd_failover_test.go
+1632961897|Oliver Gugger|M|/LND/lntest/itest/lnd_max_channel_size_test.go
+1632961897|Oliver Gugger|M|/LND/lntest/itest/lnd_no_etcd_dummy_failover_test.go
+1632961897|Oliver Gugger|M|/LND/lntest/itest/lnd_test_list_off_test.go
+1632961897|Oliver Gugger|M|/LND/lntest/itest/lnd_test_list_on_test.go
+1632961897|Oliver Gugger|M|/LND/lntest/neutrino.go
+1632961897|Oliver Gugger|M|/LND/lntest/timeouts.go
+1632961897|Oliver Gugger|M|/LND/lntest/timeouts_darwin.go
+1632961897|Oliver Gugger|M|/LND/lntest/timeouts_remote_db.go
+1632961897|Oliver Gugger|M|/LND/lnwallet/btcwallet/btcwallet_rpctest.go
+1632961897|Oliver Gugger|M|/LND/lnwallet/revocation_producer.go
+1632961897|Oliver Gugger|M|/LND/lnwallet/revocation_producer_itest.go
+1632961897|Oliver Gugger|M|/LND/macaroons/security.go
+1632961897|Oliver Gugger|M|/LND/macaroons/security_rpctest.go
+1632961897|Oliver Gugger|M|/LND/mobile/bindings.go
+1632961897|Oliver Gugger|M|/LND/monitoring/monitoring_off.go
+1632961897|Oliver Gugger|M|/LND/monitoring/monitoring_on.go
+1632961897|Oliver Gugger|M|/LND/server_test.go
+1632961897|Oliver Gugger|M|/LND/sweep/defaults.go
+1632961897|Oliver Gugger|M|/LND/sweep/defaults_rpctest.go
+1632961897|Oliver Gugger|M|/LND/tools.go
+1632961900|Olaoluwa Osuntokun|M|/LND/docs/INSTALL.md
+1632961902|Olaoluwa Osuntokun|M|/LND/docs/release-notes/release-notes-0.14.0.md
+1632961905|Olaoluwa Osuntokun|M|/LND/.github/pull_request_template.md
+1632961905|Olaoluwa Osuntokun|M|/LND/go.mod
+1632961905|Olaoluwa Osuntokun|M|/LND/go.sum
+1632961910|Olaoluwa Osuntokun|M|/LND/go.mod
+1632987010|Elle Mouton|M|/LND/docs/release-notes/release-notes-0.14.0.md
+1632987010|Elle Mouton|M|/LND/go.mod
+1632987010|Elle Mouton|M|/LND/go.sum
+1633023866|eugene|M|/LND/lnwallet/channel.go
+1633023866|eugene|M|/LND/lnwallet/channel_test.go
+1633023866|eugene|M|/LND/lnwallet/commitment.go
+1633023866|eugene|M|/LND/lnwallet/test_utils.go
+1633023874|eugene|M|/LND/htlcswitch/link.go
+1633023874|eugene|M|/LND/htlcswitch/mailbox.go
+1633023874|eugene|M|/LND/htlcswitch/mailbox_test.go
+1633023874|eugene|M|/LND/htlcswitch/interfaces.go
+1633023874|eugene|M|/LND/htlcswitch/link.go
+1633023874|eugene|M|/LND/htlcswitch/mock.go
+1633023874|eugene|M|/LND/htlcswitch/switch.go
+1633023874|eugene|M|/LND/htlcswitch/switch_test.go
+1633023875|eugene|M|/LND/config.go
+1633023875|eugene|M|/LND/htlcswitch/mock.go
+1633023875|eugene|M|/LND/htlcswitch/switch.go
+1633023875|eugene|M|/LND/lntest/itest/lnd_test.go
+1633023875|eugene|M|/LND/sample-lnd.conf
+1633023875|eugene|M|/LND/server.go
+1633023875|eugene|M|/LND/docs/release-notes/release-notes-0.13.3.md
+1633069289|Bjarne Magnussen|M|/LND/lnwallet/wallet.go
+1633069289|Bjarne Magnussen|M|/LND/rpcserver.go
+1633069306|Bjarne Magnussen|M|/LND/docs/release-notes/release-notes-0.14.0.md

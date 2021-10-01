@@ -236,3 +236,13 @@
 1633007611|Judith|M|/btcpayserver-greenfield-php/src/Result/AbstractStorePaymentMethodResult.php
 1633007611|Judith|M|/btcpayserver-greenfield-php/src/Result/StorePaymentMethodLightningNetwork.php
 1633007611|Judith|M|/btcpayserver-greenfield-php/src/Result/StorePaymentMethodOnChain.php
+1633075113|Wouter Samaey|M|/btcpayserver-greenfield-php/src/Client/AbstractClient.php
+1633075113|Wouter Samaey|M|/btcpayserver-greenfield-php/src/Client/ApiKey.php
+1633075113|Wouter Samaey|M|/btcpayserver-greenfield-php/src/Exception/BTCPayException.php
+1633075113|Wouter Samaey|M|/btcpayserver-greenfield-php/src/Exception/BadRequestException.php
+1633075113|Wouter Samaey|A|/btcpayserver-greenfield-php/src/Exception/ConnectException.php
+1633075113|Wouter Samaey|M|/btcpayserver-greenfield-php/src/Exception/ForbiddenException.php
+1633075113|Wouter Samaey|A|/btcpayserver-greenfield-php/src/Exception/RequestException.php
+1633075113|Wouter Samaey|M|/btcpayserver-greenfield-php/src/Http/ClientInterface.php
+1633075113|Wouter Samaey|M|/btcpayserver-greenfield-php/src/Http/CurlClient.php
+1633085372|Wouter Samaey|M|/btcpayserver-greenfield-php/examples/webhook.php

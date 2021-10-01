@@ -2195,3 +2195,18 @@
 1632757395|Chase|M|/esplora/terraform/variables.tf
 1632757785|Chase Sillevis|M|/esplora/.gitlab-ci.yml
 1632759228|Chase Sillevis|M|/esplora/.gitlab-ci.yml
+1633009998|Chase Sillevis|M|/esplora/.gitlab-ci.yml
+1633009998|Chase Sillevis|M|/esplora/terraform/data.tf
+1633009998|Chase Sillevis|M|/esplora/terraform/main.tf
+1633009998|Chase Sillevis|M|/esplora/terraform/modules/daemon/cloud-config/daemon.yml
+1633009998|Chase Sillevis|M|/esplora/terraform/modules/daemon/main.tf
+1633009998|Chase Sillevis|M|/esplora/terraform/modules/daemon/network.tf
+1633009998|Chase Sillevis|M|/esplora/terraform/modules/daemon/preemptible.tf
+1633009998|Chase Sillevis|M|/esplora/terraform/modules/electrum/cloud-init/electrum.yml
+1633009998|Chase Sillevis|M|/esplora/terraform/modules/tor/cloud-init/tor.yaml
+1633009998|Chase Sillevis|M|/esplora/terraform/network-electrs.tf
+1633009998|Chase Sillevis|M|/esplora/terraform/network-onion-electrs.tf
+1633009998|Chase Sillevis|M|/esplora/terraform/network-onion.tf
+1633009998|Chase Sillevis|M|/esplora/terraform/network.tf
+1633009998|Chase Sillevis|M|/esplora/terraform/outputs.tf
+1633009998|Chase Sillevis|M|/esplora/terraform/variables.tf

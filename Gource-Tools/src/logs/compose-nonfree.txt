@@ -1751,3 +1751,11 @@
 1633014731|Aaron Dewes|M|/compose-nonfree/apps/bluewallet/app.yml
 1633015156|Aaron Dewes|M|/compose-nonfree/karen
 1633018099|Aaron Dewes|M|/compose-nonfree/docker-compose.yml
+1633026474|Aaron Dewes|M|/compose-nonfree/karen
+1633026474|Aaron Dewes|M|/compose-nonfree/scripts/update/01-run.sh
+1633030739|Aaron Dewes|M|/compose-nonfree/scripts/update/01-run.sh
+1633073385|AaronDewes|M|/compose-nonfree/karen
+1633073779|AaronDewes|M|/compose-nonfree/scripts/update/00-run.sh
+1633074915|AaronDewes|M|/compose-nonfree/scripts/update/check-memory
+1633075720|AaronDewes|M|/compose-nonfree/scripts/update/README.md
+1633075786|AaronDewes|M|/compose-nonfree/scripts/update/update

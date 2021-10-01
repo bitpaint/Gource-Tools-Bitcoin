@@ -6121,3 +6121,4 @@
 1632939174|Miguel Medeiros|M|/mempool/frontend/src/app/components/mempool-graph/mempool-graph.component.ts
 1632942999|Miguel Medeiros|M|/mempool/frontend/src/app/components/transaction/transaction.component.html
 1632946401|Miguel Medeiros|M|/mempool/frontend/src/styles.scss
+1632962859|Miguel Medeiros|M|/mempool/frontend/src/app/components/mempool-graph/mempool-graph.component.ts

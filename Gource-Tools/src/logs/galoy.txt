@@ -9204,6 +9204,10 @@
 1632918275|vindard|M|/galoy/src/services/ledger/index.ts
 1632951960|vindard|M|/galoy/src/domain/users/index.types.d.ts
 1632951960|vindard|M|/galoy/src/services/mongoose/users.ts
+1632969965|Juan P Lopez|M|/galoy/package.json
+1632969965|Juan P Lopez|M|/galoy/yarn.lock
+1632970700|Juan P Lopez|M|/galoy/src/domain/bitcoin/lightning/index.types.d.ts
+1632970700|Juan P Lopez|M|/galoy/src/services/lnd/index.ts
 1632972519|Juan P Lopez|M|/galoy/src/app/wallets/get-transactions-for-wallet.ts
 1632972519|Juan P Lopez|M|/galoy/src/domain/ledger/index.ts
 1632972519|Juan P Lopez|M|/galoy/src/domain/ledger/index.types.d.ts
@@ -9211,3 +9215,5 @@
 1632972519|Juan P Lopez|M|/galoy/src/domain/wallets/tx-history.ts
 1632972519|Juan P Lopez|M|/galoy/src/services/ledger/index.ts
 1632972519|Juan P Lopez|M|/galoy/test/unit/domain/wallets/tx-history.spec.ts
+1633030567|vindard|M|/galoy/README.md
+1633034018|Arvin|M|/galoy/README.md

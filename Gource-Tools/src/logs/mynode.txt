@@ -4245,3 +4245,14 @@
 1632871101|Taylor Helsper|M|/mynode/rootfs/standard/usr/bin/mynode_post_upgrade.sh
 1632871101|Taylor Helsper|M|/mynode/setup/setup_device.sh
 1632876779|Taylor Helsper|M|/mynode/rootfs/standard/usr/bin/mynode_post_upgrade.sh
+1633053694|Taylor Helsper|M|/mynode/doc/bounties.md
+1633053796|Taylor Helsper|M|/mynode/rootfs/debian/usr/bin/electrs
+1633053796|Taylor Helsper|M|/mynode/rootfs/raspi4/usr/bin/electrs_arm32
+1633053796|Taylor Helsper|M|/mynode/rootfs/raspi4/usr/bin/electrs_arm64
+1633053796|Taylor Helsper|M|/mynode/rootfs/rock64/usr/bin/electrs
+1633053796|Taylor Helsper|M|/mynode/rootfs/rockpro64/usr/bin/electrs
+1633053796|Taylor Helsper|M|/mynode/rootfs/standard/etc/systemd/system/electrs.service
+1633053796|Taylor Helsper|M|/mynode/rootfs/standard/usr/bin/mynode_startup.sh
+1633053796|Taylor Helsper|M|/mynode/rootfs/standard/usr/share/mynode/electrs.toml
+1633053796|Taylor Helsper|M|/mynode/rootfs/standard/usr/share/mynode/mynode_app_versions.sh
+1633053796|Taylor Helsper|M|/mynode/rootfs/standard/var/www/mynode/electrum_info.py

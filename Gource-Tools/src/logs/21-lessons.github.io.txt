@@ -1902,3 +1902,6 @@
 1631416148|Gigi|M|/21-lessons.github.io/_includes/footer.html
 1632893752|Gigi|M|/21-lessons.github.io/ch4-03-translations.md
 1632939701|Gigi|M|/21-lessons.github.io/collections/_lessons/14.md
+1633036697|Gigi|M|/21-lessons.github.io/_config.yml
+1633036725|Gigi|M|/21-lessons.github.io/_includes/navigation.html
+1633037145|Gigi|M|/21-lessons.github.io/index.md
