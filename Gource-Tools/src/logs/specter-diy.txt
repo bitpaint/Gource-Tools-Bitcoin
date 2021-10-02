@@ -1858,3 +1858,4 @@
 1630612579|SeedSigner|D|/specter-diy/docs/enclosures/seedsigner/Barebones_DIY_OpSec_Top_v1.stl
 1631614155|Stepan Snigirev|M|/specter-diy/f469-disco
 1631614155|Stepan Snigirev|M|/specter-diy/src/apps/wallets/liquid/manager.py
+1633110325|Stepan Snigirev|M|/specter-diy/f469-disco

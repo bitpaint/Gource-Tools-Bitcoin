@@ -14725,3 +14725,16 @@
 1633017951|Marcos Rodriguez Vélez|M|/BlueWallet/class/wallets/lightning-custodian-wallet.js
 1633019998|transifex-integration[bot]|M|/BlueWallet/loc/pl.json
 1633089850|Renovate Bot|M|/BlueWallet/package.json
+1633098629|Ivan Vershigora|M|/BlueWallet/screen/wallets/importCustomDerivationPath.js
+1633098629|Ivan Vershigora|M|/BlueWallet/screen/wallets/importDiscovery.js
+1633102520|Overtorment|M|/BlueWallet/blue_modules/BlueElectrum.js
+1633105033|transifex-integration[bot]|M|/BlueWallet/loc/ar.json
+1633109750|Renovate Bot|M|/BlueWallet/android/gradle.properties
+1633111480|Marcos Rodriguez Vélez|M|/BlueWallet/ios/Podfile.lock
+1633111480|Marcos Rodriguez Vélez|M|/BlueWallet/package-lock.json
+1633111480|Marcos Rodriguez Vélez|M|/BlueWallet/screen/wallets/import.js
+1633111480|Marcos Rodriguez Vélez|M|/BlueWallet/tests/e2e/bluewallet2.spec.js
+1633121651|Overtorment|M|/BlueWallet/class/wallets/lightning-ldk-wallet.ts
+1633122197|mother-eth|M|/BlueWallet/FAQ.md
+1633122270|mother-eth|M|/BlueWallet/README.md
+1633160469|transifex-integration[bot]|M|/BlueWallet/loc/si_LK.json

@@ -8821,3 +8821,32 @@
 1633074169|Jonathan Zernik|D|/squeaknode/squeaknode/admin/webapp/static/build/static/js/main.ae03d809.chunk.js.map
 1633075306|yzernik|M|/squeaknode/CHANGELOG.md
 1633075306|yzernik|M|/squeaknode/squeaknode/__init__.py
+1633126703|Lateefah Bello|M|/squeaknode/README.md
+1633127333|Jonathan Zernik|M|/squeaknode/README.md
+1633132286|Jonathan Zernik|M|/squeaknode/setup.cfg
+1633148649|Jonathan Zernik|M|/squeaknode/squeaknode/core/squeak_core.py
+1633148649|Jonathan Zernik|A|/squeaknode/squeaknode/core/squeaks.py
+1633148649|Jonathan Zernik|M|/squeaknode/squeaknode/core/util.py
+1633148649|Jonathan Zernik|M|/squeaknode/squeaknode/db/squeak_db.py
+1633148649|Jonathan Zernik|M|/squeaknode/squeaknode/node/squeak_controller.py
+1633148649|Jonathan Zernik|M|/squeaknode/squeaknode/node/temporary_interest_manager.py
+1633148649|Jonathan Zernik|M|/squeaknode/squeaknode/node/update_subscribed_secret_key_worker.py
+1633148649|Jonathan Zernik|M|/squeaknode/squeaknode/node/update_subscribed_squeak_worker.py
+1633148649|Jonathan Zernik|A|/squeaknode/tests/core/conftest.py
+1633148649|Jonathan Zernik|M|/squeaknode/tests/core/test_interests.py
+1633148649|Jonathan Zernik|A|/squeaknode/tests/core/test_squeaks.py
+1633149430|Jonathan Zernik|M|/squeaknode/itests/tests/util.py
+1633149430|Jonathan Zernik|M|/squeaknode/squeaknode/core/squeak_core.py
+1633149430|Jonathan Zernik|M|/squeaknode/squeaknode/core/util.py
+1633149973|Jonathan Zernik|M|/squeaknode/squeaknode/core/util.py
+1633158471|Jonathan Zernik|A|/squeaknode/squeaknode/core/secret_keys.py
+1633158471|Jonathan Zernik|M|/squeaknode/squeaknode/core/squeak_core.py
+1633158471|Jonathan Zernik|M|/squeaknode/squeaknode/core/util.py
+1633158471|Jonathan Zernik|A|/squeaknode/tests/core/test_secret_keys.py
+1633162191|Jonathan Zernik|M|/squeaknode/.github/workflows/main.yml
+1633162624|Jonathan Zernik|M|/squeaknode/README.md
+1633168089|Jonathan Zernik|A|/squeaknode/squeaknode/core/profiles.py
+1633168089|Jonathan Zernik|M|/squeaknode/squeaknode/core/util.py
+1633168089|Jonathan Zernik|M|/squeaknode/squeaknode/node/squeak_controller.py
+1633168089|Jonathan Zernik|M|/squeaknode/tests/core/conftest.py
+1633168089|Jonathan Zernik|A|/squeaknode/tests/core/test_profiles.py

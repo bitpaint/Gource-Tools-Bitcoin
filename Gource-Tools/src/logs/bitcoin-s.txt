@@ -19500,3 +19500,18 @@
 1633029737|Chris Stewart|M|/bitcoin-s/docs/oracle/oracle-server.md
 1633090082|rorp|M|/bitcoin-s/db-commons/src/main/scala/org/bitcoins/db/DbManagement.scala
 1633090082|rorp|M|/bitcoin-s/db-commons/src/main/scala/org/bitcoins/db/SQLiteUtil.scala
+1633111805|Nadav Kohen|M|/bitcoin-s/core-test/src/test/scala/org/bitcoins/core/protocol/dlc/CETCalculatorTest.scala
+1633111805|Nadav Kohen|M|/bitcoin-s/core/src/main/scala/org/bitcoins/core/protocol/dlc/compute/CETCalculator.scala
+1633117379|Chris Stewart|M|/bitcoin-s/app/cli/src/main/scala/org/bitcoins/cli/ConsoleCli.scala
+1633117379|Chris Stewart|M|/bitcoin-s/app/oracle-server-test/src/test/scala/org/bitcoins/oracle/server/OracleRoutesSpec.scala
+1633117379|Chris Stewart|M|/bitcoin-s/app/oracle-server/src/main/scala/org/bitcoins/oracle/server/OracleRoutes.scala
+1633117379|Chris Stewart|M|/bitcoin-s/app/oracle-server/src/main/scala/org/bitcoins/oracle/server/ServerJsonModels.scala
+1633117379|Chris Stewart|M|/bitcoin-s/core/src/main/scala/org/bitcoins/core/api/dlcoracle/DLCOracleApi.scala
+1633117379|Chris Stewart|M|/bitcoin-s/core/src/main/scala/org/bitcoins/core/number/NumberType.scala
+1633117379|Chris Stewart|M|/bitcoin-s/db-commons/src/main/scala/org/bitcoins/db/CRUD.scala
+1633117379|Chris Stewart|M|/bitcoin-s/dlc-oracle-test/src/test/scala/org/bitcoins/dlc/oracle/DLCOracleTest.scala
+1633117379|Chris Stewart|M|/bitcoin-s/dlc-oracle/src/main/scala/org/bitcoins/dlc/oracle/DLCOracle.scala
+1633117379|Chris Stewart|M|/bitcoin-s/dlc-oracle/src/main/scala/org/bitcoins/dlc/oracle/storage/EventOutcomeDAO.scala
+1633117379|Chris Stewart|M|/bitcoin-s/dlc-oracle/src/main/scala/org/bitcoins/dlc/oracle/storage/RValueDAO.scala
+1633117379|Chris Stewart|M|/bitcoin-s/docs/oracle/oracle-server.md
+1633176083|Scala Steward|M|/bitcoin-s/project/Deps.scala

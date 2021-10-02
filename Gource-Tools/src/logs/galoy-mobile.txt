@@ -7208,3 +7208,33 @@
 1632957189|Samer Buna|M|/galoy-mobile/package.json
 1632957189|Samer Buna|M|/galoy-mobile/yarn.lock
 1632957967|Justin Buhl|M|/galoy-mobile/__tests__/timer.spec.ts
+1633006204|Justin|M|/galoy-mobile/app/hooks/use-btc-price.ts
+1633006204|Justin|M|/galoy-mobile/app/hooks/use-currency-conversion.ts
+1633006204|Justin|M|/galoy-mobile/app/hooks/use-usd-balance.ts
+1633006204|Justin|M|/galoy-mobile/app/screens/debug-screen/debug-screen.tsx
+1633006204|Justin|M|/galoy-mobile/app/screens/send-bitcoin-screen/send-bitcoin-confirmation-screen.tsx
+1633006204|Justin|M|/galoy-mobile/app/screens/send-bitcoin-screen/send-bitcoin-screen.tsx
+1633009127|Justin|M|/galoy-mobile/app/screens/send-bitcoin-screen/send-bitcoin-confirmation-screen.tsx
+1633009127|Justin|M|/galoy-mobile/app/screens/send-bitcoin-screen/send-bitcoin-screen.tsx
+1633009127|Justin|M|/galoy-mobile/package.json
+1633026933|Justin Buhl|M|/galoy-mobile/app/i18n/en.json
+1633026933|Justin Buhl|M|/galoy-mobile/app/screens/send-bitcoin-screen/send-bitcoin-confirmation-screen.tsx
+1633026933|Justin Buhl|M|/galoy-mobile/app/screens/send-bitcoin-screen/send-bitcoin-screen.tsx
+1633028413|Justin Buhl|M|/galoy-mobile/__tests__/helpers/cache.ts
+1633028413|Justin Buhl|M|/galoy-mobile/app/screens/send-bitcoin-screen/payment-confirmation-information.tsx
+1633028413|Justin Buhl|M|/galoy-mobile/app/screens/send-bitcoin-screen/send-bitcoin-confirmation-screen.tsx
+1633028413|Justin Buhl|M|/galoy-mobile/app/screens/send-bitcoin-screen/send-bitcoin-screen.tsx
+1633106216|Samer Buna|M|/galoy-mobile/__tests__/screens/__snapshots__/send-bitcoin-screen.spec.tsx.snap
+1633106216|Samer Buna|M|/galoy-mobile/__tests__/screens/send-bitcoin-confirmation-screen.spec.tsx
+1633106216|Samer Buna|M|/galoy-mobile/__tests__/screens/send-bitcoin-screen.spec.tsx
+1633106216|Samer Buna|M|/galoy-mobile/package.json
+1633106216|Samer Buna|M|/galoy-mobile/yarn.lock
+1633106601|Samer Buna|M|/galoy-mobile/app/screens/send-bitcoin-screen/send-bitcoin-screen.tsx
+1633106601|Samer Buna|M|/galoy-mobile/app/utils/date.ts
+1633106995|Samer Buna|M|/galoy-mobile/app/hooks/use-btc-price.ts
+1633106995|Samer Buna|M|/galoy-mobile/app/screens/send-bitcoin-screen/send-bitcoin-screen.tsx
+1633108419|Samer Buna|M|/galoy-mobile/app/hooks/use-btc-price.ts
+1633108419|Samer Buna|M|/galoy-mobile/app/screens/send-bitcoin-screen/send-bitcoin-confirmation-screen.tsx
+1633108419|Samer Buna|M|/galoy-mobile/app/screens/send-bitcoin-screen/send-bitcoin-screen.tsx
+1633109352|Justin Buhl|M|/galoy-mobile/app/hooks/use-btc-price.ts
+1633110051|Justin Buhl|M|/galoy-mobile/app/utils/date.ts

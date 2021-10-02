@@ -707,3 +707,10 @@
 1632675518|Aaron Dewes|M|/manager/yarn.lock
 1632849470|Aaron Dewes|M|/manager/routes/ping.ts
 1633016243|Aaron Dewes|M|/manager/logic/disk.ts
+1633109916|Aaron Dewes|M|/manager/routes/v1/system.ts
+1633110678|Aaron Dewes|M|/manager/routes/v1/system.ts
+1633111141|Aaron Dewes|M|/manager/routes/v1/system.ts
+1633111360|Aaron Dewes|M|/manager/routes/v1/system.ts
+1633113028|Aaron Dewes|M|/manager/app.ts
+1633113028|Aaron Dewes|M|/manager/routes/v1/system.ts
+1633113028|Aaron Dewes|A|/manager/routes/v2/system.ts

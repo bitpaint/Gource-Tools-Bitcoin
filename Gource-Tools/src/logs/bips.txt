@@ -3195,3 +3195,4 @@
 1630392496|nicolas.dorier|M|/bips/bip-0078.mediawiki
 1632908268|Kalle Rosenbaum|M|/bips/bip-0174.mediawiki
 1632908411|Kalle Rosenbaum|M|/bips/bip-0174.mediawiki
+1633073002|Kalle Rosenbaum|M|/bips/bip-0370.mediawiki

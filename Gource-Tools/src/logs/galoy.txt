@@ -9217,3 +9217,5 @@
 1632972519|Juan P Lopez|M|/galoy/test/unit/domain/wallets/tx-history.spec.ts
 1633030567|vindard|M|/galoy/README.md
 1633034018|Arvin|M|/galoy/README.md
+1633039996|Samer Buna|M|/galoy/package.json
+1633039996|Samer Buna|A|/galoy/tsconfig.d.json

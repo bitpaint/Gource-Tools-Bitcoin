@@ -1301,3 +1301,4 @@
 1633051622|David Plell|M|/sphinx-tribes/frontend/app/src/people/widgetViews/summaries/wantedSummary.tsx
 1633051622|David Plell|M|/sphinx-tribes/frontend/app/src/people/widgetViews/wantedView.tsx
 1633051622|David Plell|M|/sphinx-tribes/frontend/packrd/packed-packr.go
+1633108218|EvanFeenstra1|M|/sphinx-tribes/people.go

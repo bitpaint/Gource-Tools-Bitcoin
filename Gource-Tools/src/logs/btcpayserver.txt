@@ -19487,3 +19487,14 @@
 1632889013|nicolas.dorier|M|/btcpayserver/BTCPayServer.Tests/docker-compose.altcoins.yml
 1632889013|nicolas.dorier|M|/btcpayserver/BTCPayServer.Tests/docker-compose.yml
 1632895130|Dennis Reimann|M|/btcpayserver/BTCPayServer/wwwroot/crowdfund/styles/main.css
+1633105134|Dennis Reimann|M|/btcpayserver/BTCPayServer/Views/Apps/UpdateCrowdfund.cshtml
+1633105134|Dennis Reimann|M|/btcpayserver/BTCPayServer/Views/Apps/UpdatePointOfSale.cshtml
+1633105134|Dennis Reimann|M|/btcpayserver/BTCPayServer/Views/Manage/APIKeys.cshtml
+1633105134|Dennis Reimann|M|/btcpayserver/BTCPayServer/Views/PaymentRequest/EditPaymentRequest.cshtml
+1633105134|Dennis Reimann|M|/btcpayserver/BTCPayServer/Views/Server/DynamicDnsServices.cshtml
+1633105134|Dennis Reimann|M|/btcpayserver/BTCPayServer/Views/Server/Maintenance.cshtml
+1633105134|Dennis Reimann|M|/btcpayserver/BTCPayServer/Views/Server/Theme.cshtml
+1633105134|Dennis Reimann|M|/btcpayserver/BTCPayServer/Views/Stores/CheckoutExperience.cshtml
+1633105134|Dennis Reimann|M|/btcpayserver/BTCPayServer/Views/Stores/_GenerateWalletForm.cshtml
+1633105134|Dennis Reimann|M|/btcpayserver/BTCPayServer/Views/Wallets/NewPullPayment.cshtml
+1633155043|sgmoore|M|/btcpayserver/README.md

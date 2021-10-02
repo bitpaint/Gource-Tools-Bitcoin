@@ -37382,3 +37382,4 @@
 1632846883|Christian Decker|M|/lightning/contrib/pyln-spec/bolt7/requirements.txt
 1632846883|Christian Decker|M|/lightning/.github/workflows/ci.yaml
 1632846883|Christian Decker|M|/lightning/.github/workflows/macos.yaml
+1633176175|jerzybrzoska|M|/lightning/doc/BACKUP.md

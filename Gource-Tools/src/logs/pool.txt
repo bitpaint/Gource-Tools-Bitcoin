@@ -2021,3 +2021,10 @@
 1632922894|Oliver Gugger|M|/pool/poolrpc/trader_grpc.pb.go
 1632922894|Oliver Gugger|M|/pool/rpcserver.go
 1632922895|Oliver Gugger|M|/pool/cmd/pool/sidecar.go
+1632970509|positiveblue|M|/pool/poolrpc/trader.pb.go
+1632970509|positiveblue|M|/pool/poolrpc/trader.proto
+1632970509|positiveblue|M|/pool/poolrpc/trader.swagger.json
+1632975248|positiveblue|M|/pool/account/manager.go
+1632975248|positiveblue|M|/pool/account/manager_test.go
+1632975248|positiveblue|M|/pool/rpcserver.go
+1633107266|positiveblue|M|/pool/cmd/pool/account.go

@@ -245,4 +245,6 @@
 1633075113|Wouter Samaey|A|/btcpayserver-greenfield-php/src/Exception/RequestException.php
 1633075113|Wouter Samaey|M|/btcpayserver-greenfield-php/src/Http/ClientInterface.php
 1633075113|Wouter Samaey|M|/btcpayserver-greenfield-php/src/Http/CurlClient.php
+1633083923|Wouter Samaey|M|/btcpayserver-greenfield-php/src/Client/Invoice.php
+1633083923|Wouter Samaey|M|/btcpayserver-greenfield-php/src/Client/Webhook.php
 1633085372|Wouter Samaey|M|/btcpayserver-greenfield-php/examples/webhook.php

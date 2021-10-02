@@ -1761,3 +1761,19 @@
 1633075786|AaronDewes|M|/compose-nonfree/scripts/update/update
 1633093215|Aaron Dewes|M|/compose-nonfree/scripts/update/00-run.sh
 1633093215|Aaron Dewes|M|/compose-nonfree/scripts/update/01-run.sh
+1633099195|Aaron Dewes|M|/compose-nonfree/karen
+1633099353|Aaron Dewes|M|/compose-nonfree/scripts/configure
+1633099353|Aaron Dewes|M|/compose-nonfree/templates/lnd-sample.conf
+1633099694|Aaron Dewes|M|/compose-nonfree/app/app-manager.py
+1633099694|Aaron Dewes|M|/compose-nonfree/scripts/configure
+1633099694|Aaron Dewes|M|/compose-nonfree/scripts/start
+1633099694|Aaron Dewes|M|/compose-nonfree/scripts/update/.updateignore
+1633099732|Aaron Dewes|M|/compose-nonfree/karen
+1633099894|Aaron Dewes|M|/compose-nonfree/scripts/configure
+1633169296|Aaron Dewes|M|/compose-nonfree/docker-compose.yml
+1633169296|Aaron Dewes|M|/compose-nonfree/scripts/configure
+1633175694|Aaron Dewes|M|/compose-nonfree/docker-compose.yml
+1633176105|Aaron Dewes|M|/compose-nonfree/apps/mempool/app.yml
+1633176105|Aaron Dewes|M|/compose-nonfree/scripts/configure
+1633176105|Aaron Dewes|M|/compose-nonfree/templates/.env-sample
+1633176475|Aaron Dewes|M|/compose-nonfree/info.json

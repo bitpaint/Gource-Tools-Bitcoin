@@ -697,3 +697,6 @@
 1627522473|ayeowch|M|/bitnodes/conf/crawl.conf.default
 1627522473|ayeowch|M|/bitnodes/crawl.py
 1627522473|ayeowch|M|/bitnodes/start.sh
+1633123910|ayeowch|M|/bitnodes/.gitignore
+1633123910|ayeowch|M|/bitnodes/geoip/update.sh
+1633123910|ayeowch|M|/bitnodes/protocol.py
