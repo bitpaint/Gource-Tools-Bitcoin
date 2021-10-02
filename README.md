@@ -1,12 +1,13 @@
 # Gource-Tools-Bitcoin ? <br>
-Bitcoin related ´_List.txt´ and undividual logs with ´_combined.txt´ for "Gource-Tools", updated weekly.
+
+Here you will find my Bitcoin related `_List.txt` and undividual logs with `_combined.txt` for "Gource-Tools", updated weekly.
 
 
 
 
 # <b>⚙️ Requirements </b><br>
 - `gource` for basic usage 
-- Optional: <b>Gource Tools</b> https://raw.githubusercontent.com/bitpaint/Gource-Tools/
+- <b>Gource Tools</b> https://raw.githubusercontent.com/bitpaint/Gource-Tools/ (Optional)
 
 
 
