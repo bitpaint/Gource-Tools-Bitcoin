@@ -2328,3 +2328,8 @@
 1632840308|fiatjaf|M|/lntxbot/helpers.go
 1632840308|fiatjaf|M|/lntxbot/lnurl-service.go
 1632840308|fiatjaf|M|/lntxbot/lnurl-wallet.go
+1633180966|fiatjaf|M|/lntxbot/go.mod
+1633180966|fiatjaf|M|/lntxbot/helpers.go
+1633180966|fiatjaf|M|/lntxbot/invoice.go
+1633180966|fiatjaf|M|/lntxbot/lnurl-service.go
+1633180966|fiatjaf|M|/lntxbot/lnurl-wallet.go

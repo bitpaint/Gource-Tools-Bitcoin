@@ -1777,3 +1777,7 @@
 1633176105|Aaron Dewes|M|/compose-nonfree/scripts/configure
 1633176105|Aaron Dewes|M|/compose-nonfree/templates/.env-sample
 1633176475|Aaron Dewes|M|/compose-nonfree/info.json
+1633178530|Aaron Dewes|M|/compose-nonfree/app/lib/composegenerator/v1/networking.py
+1633182261|git|M|/compose-nonfree/CONTRIBUTING.md
+1633182261|git|M|/compose-nonfree/README.md
+1633182261|git|M|/compose-nonfree/apps/README.md

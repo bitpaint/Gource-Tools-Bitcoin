@@ -19515,3 +19515,13 @@
 1633117379|Chris Stewart|M|/bitcoin-s/dlc-oracle/src/main/scala/org/bitcoins/dlc/oracle/storage/RValueDAO.scala
 1633117379|Chris Stewart|M|/bitcoin-s/docs/oracle/oracle-server.md
 1633176083|Scala Steward|M|/bitcoin-s/project/Deps.scala
+1633179706|Chris Stewart|M|/bitcoin-s/app/cli/src/main/scala/org/bitcoins/cli/ConsoleCli.scala
+1633179706|Chris Stewart|M|/bitcoin-s/app/oracle-server-test/src/test/scala/org/bitcoins/oracle/server/OracleRoutesSpec.scala
+1633179706|Chris Stewart|M|/bitcoin-s/app/oracle-server/src/main/scala/org/bitcoins/oracle/server/OracleRoutes.scala
+1633179706|Chris Stewart|M|/bitcoin-s/app/oracle-server/src/main/scala/org/bitcoins/oracle/server/ServerJsonModels.scala
+1633179706|Chris Stewart|M|/bitcoin-s/core/src/main/scala/org/bitcoins/core/api/dlcoracle/DLCOracleApi.scala
+1633179706|Chris Stewart|M|/bitcoin-s/dlc-oracle-test/src/test/scala/org/bitcoins/dlc/oracle/DLCOracleTest.scala
+1633179706|Chris Stewart|M|/bitcoin-s/dlc-oracle/src/main/scala/org/bitcoins/dlc/oracle/DLCOracle.scala
+1633179706|Chris Stewart|M|/bitcoin-s/docs/oracle/oracle-election-example.md
+1633179706|Chris Stewart|M|/bitcoin-s/docs/oracle/oracle-price-example.md
+1633179706|Chris Stewart|M|/bitcoin-s/docs/oracle/oracle-server.md
