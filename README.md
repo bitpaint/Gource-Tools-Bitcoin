@@ -11,8 +11,7 @@ Here you will find my Bitcoin related `_List.txt` and undividual logs with `_com
 
 
 
-<b>For Gource tools:<b> <br><b>
+<b>For Gource tools:</b> <br>
 - `git` , `gource` & `sed`  for basic usage (Explore only, you won't be able to make videos) <br>
 - Optional: `FFmpeg` for videos<br>
 - Optional: `imagemagick` & `perl` for avatars badges.<br>
-<br>
