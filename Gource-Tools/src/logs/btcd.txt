@@ -9369,3 +9369,6 @@
 1631755174|Olaoluwa Osuntokun|M|/btcd/go.sum
 1631819837|eugene|M|/btcd/mempool/policy.go
 1631891849|naveen|M|/btcd/Dockerfile
+1633125350|Olaoluwa Osuntokun|M|/btcd/config.go
+1633125350|Olaoluwa Osuntokun|M|/btcd/peer/peer.go
+1633125350|Olaoluwa Osuntokun|M|/btcd/server.go

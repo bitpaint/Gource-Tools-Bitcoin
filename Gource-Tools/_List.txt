@@ -48,7 +48,6 @@ https://github.com/TheBitcoinZine/TheBitcoinZine
 https://github.com/ZmnSCPxj/clboss
 https://github.com/ZmnSCPxj/cldcb
 https://github.com/alexbosworth/balanceofsatoshis
-https://github.com/alexk111/DeBitpay
 https://github.com/arcbtc/BItcoin-Mesh
 https://github.com/arcbtc/ESP32-LND-GET
 https://github.com/arcbtc/Hal-Finney-Price-Checker
@@ -153,11 +152,9 @@ https://github.com/getumbrel/dosh
 https://github.com/getumbrel/umbrel
 https://github.com/getumbrel/umbrel-OS
 https://github.com/getumbrel/umbrel-apps-gallery
-https://github.com/getumbrel/umbrel-apps-gallery
 https://github.com/getumbrel/umbrel-dashboard
 https://github.com/getumbrel/umbrel-manager
 https://github.com/getumbrel/umbrel-middleware
-https://github.com/getumbrel/umbrel-website
 https://github.com/getumbrel/umbrel-website
 https://github.com/grunch/p2plnbot
 https://github.com/guggero/chantools
@@ -176,6 +173,11 @@ https://github.com/jimmysong/pb-exercises
 https://github.com/jimmysong/programmingbitcoin
 https://github.com/jimmysong/pybtcfork
 https://github.com/lightninglabs/aperture
+https://github.com/alexk111/One-Time-Address
+https://github.com/alexk111/StoreOfTime.com
+https://github.com/alexk111/DeBitpay
+https://github.com/alexk111/HD-Wallet-Scanner
+https://github.com/alexk111/awesome-bitcoin-payment-processors.git
 https://github.com/lightninglabs/docs.lightning.engineering
 https://github.com/lightninglabs/faraday
 https://github.com/lightninglabs/lightning-app
@@ -206,7 +208,6 @@ https://github.com/nayutaco/NayutaCore
 https://github.com/nickfarrow/SatSale
 https://github.com/nopara73/Dumplings
 https://github.com/nvk/bitcoin-intro
-https://github.com/nvk/bitcoin-intro
 https://github.com/nvk/bitcoin-problems.github.io
 https://github.com/nvk/bitcointreasuries.NET
 https://github.com/nvk/btcguide.github.io
@@ -221,6 +222,10 @@ https://github.com/rsksmart/rwallet
 https://github.com/runcitadel/compose-nonfree
 https://github.com/runcitadel/dashboard
 https://github.com/runcitadel/manager
+https://github.com/runcitadel/citadel
+https://github.com/runcitadel/dev-tools
+https://github.com/runcitadel/sdk
+https://github.com/runcitadel/os
 https://github.com/sipa/bitcoin-seeder
 https://github.com/smallworlnd/LNnodeInsight
 https://github.com/spesmilo/electrum

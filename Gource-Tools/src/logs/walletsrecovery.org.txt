@@ -354,6 +354,16 @@
 1614250337|Gabriel Comte|M|/walletsrecovery.org/README.md
 1614337978|Gabriel Comte|M|/walletsrecovery.org/README.md
 1617202562|Stacie Waleyko|M|/walletsrecovery.org/recovery-docs/casa-recovery.md
+1618247781|3rdIteration|M|/walletsrecovery.org/README.md
+1618247849|3rdIteration|M|/walletsrecovery.org/README.md
+1619818094|AndreasGassmann|M|/walletsrecovery.org/README.md
+1621929829|northmz|M|/walletsrecovery.org/README.md
+1624987175|Stacie|M|/walletsrecovery.org/recovery-docs/casa-recovery.md
+1626511066|Sjors Provoost|M|/walletsrecovery.org/README.md
+1626511187|Sjors Provoost|A|/walletsrecovery.org/.gitignore
+1626513273|Sjors Provoost|A|/walletsrecovery.org/.ruby-version
+1626513273|Sjors Provoost|M|/walletsrecovery.org/Gemfile
+1626513273|Sjors Provoost|A|/walletsrecovery.org/Gemfile.lock
 1629490619|Nick Klockenga|M|/walletsrecovery.org/README.md
 1629490665|Nick Klockenga|M|/walletsrecovery.org/README.md
 1629490755|Nick Klockenga|M|/walletsrecovery.org/README.md
@@ -366,3 +376,6 @@
 1631268475|alessandro-saglimbeni|M|/walletsrecovery.org/README.md
 1632203485|jp41011|M|/walletsrecovery.org/README.md
 1632770816|nvk|M|/walletsrecovery.org/_includes/header.html
+1633457380|Anton Kumaigorodski|M|/walletsrecovery.org/README.md
+1633460265|dependabot[bot]|M|/walletsrecovery.org/Gemfile.lock
+1633461077|nvk|M|/walletsrecovery.org/README.md

@@ -2549,3 +2549,6 @@
 1631807921|Blockstream Satellite|M|/satellite/Makefile
 1631807921|Blockstream Satellite|M|/satellite/doc/docker.md
 1631807921|Blockstream Satellite|M|/satellite/docker/README.md
+1633542241|Blockstream Satellite|M|/satellite/doc/sat-ip.md
+1633543769|Blockstream Satellite|M|/satellite/doc/docker.md
+1633546358|Blockstream Satellite|M|/satellite/blocksatcli/satip.py

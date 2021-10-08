@@ -19498,3 +19498,156 @@
 1633105134|Dennis Reimann|M|/btcpayserver/BTCPayServer/Views/Stores/_GenerateWalletForm.cshtml
 1633105134|Dennis Reimann|M|/btcpayserver/BTCPayServer/Views/Wallets/NewPullPayment.cshtml
 1633155043|sgmoore|M|/btcpayserver/README.md
+1633326846|d11n|M|/btcpayserver/BTCPayServer/Controllers/AppsController.Crowdfund.cs
+1633326846|d11n|M|/btcpayserver/BTCPayServer/Models/AppViewModels/UpdateCrowdfundViewModel.cs
+1633326846|d11n|M|/btcpayserver/BTCPayServer/Models/AppViewModels/ViewCrowdfundViewModel.cs
+1633326846|d11n|M|/btcpayserver/BTCPayServer/Services/Apps/AppService.cs
+1633326846|d11n|M|/btcpayserver/BTCPayServer/Services/Apps/CrowdfundSettings.cs
+1633326846|d11n|M|/btcpayserver/BTCPayServer/Views/Apps/UpdateCrowdfund.cshtml
+1633326846|d11n|M|/btcpayserver/BTCPayServer/Views/AppsPublic/Crowdfund/ContributeForm.cshtml
+1633326846|d11n|M|/btcpayserver/BTCPayServer/Views/AppsPublic/ViewCrowdfund.cshtml
+1633326846|d11n|M|/btcpayserver/BTCPayServer/wwwroot/crowdfund/app.js
+1633333836|Dennis Reimann|M|/btcpayserver/BTCPayServer/Controllers/StoresController.cs
+1633333836|Dennis Reimann|M|/btcpayserver/BTCPayServer/Models/StoreViewModels/StoreViewModel.cs
+1633333836|Dennis Reimann|M|/btcpayserver/BTCPayServer/Views/Stores/UpdateStore.cshtml
+1633333836|Dennis Reimann|M|/btcpayserver/BTCPayServer.Tests/CheckoutUITests.cs
+1633333836|Dennis Reimann|M|/btcpayserver/BTCPayServer.Tests/UnitTest1.cs
+1633333836|Dennis Reimann|M|/btcpayserver/BTCPayServer/Controllers/StoresController.cs
+1633333836|Dennis Reimann|M|/btcpayserver/BTCPayServer/Models/StoreViewModels/CheckoutExperienceViewModel.cs
+1633333836|Dennis Reimann|M|/btcpayserver/BTCPayServer/Models/StoreViewModels/StoreViewModel.cs
+1633333836|Dennis Reimann|M|/btcpayserver/BTCPayServer/Views/Stores/CheckoutExperience.cshtml
+1633333836|Dennis Reimann|M|/btcpayserver/BTCPayServer/Views/Stores/UpdateStore.cshtml
+1633347751|Dennis Reimann|M|/btcpayserver/BTCPayServer/Views/Server/Files.cshtml
+1633347751|Dennis Reimann|M|/btcpayserver/BTCPayServer/Views/Server/Policies.cshtml
+1633347751|Dennis Reimann|M|/btcpayserver/BTCPayServer/Views/Shared/Bitcoin/ViewBitcoinLikePaymentData.cshtml
+1633347751|Dennis Reimann|M|/btcpayserver/BTCPayServer/Views/Shared/_Layout.cshtml
+1633347751|Dennis Reimann|M|/btcpayserver/BTCPayServer/Views/Stores/ImportWallet/Xpub.cshtml
+1633347751|Dennis Reimann|M|/btcpayserver/BTCPayServer/Views/Stores/UpdateStore.cshtml
+1633347751|Dennis Reimann|M|/btcpayserver/BTCPayServer/Views/Wallets/WalletTransactions.cshtml
+1633347751|Dennis Reimann|M|/btcpayserver/BTCPayServer/wwwroot/swagger/v1/swagger.template.stores.json
+1633359777|Umar Bolatov|M|/btcpayserver/BTCPayServer/Views/Invoice/Invoice.cshtml
+1633359971|Wouter Samaey|M|/btcpayserver/BTCPayServer/Controllers/GreenField/StorePaymentMethodsController.cs
+1633359971|Kukks|M|/btcpayserver/BTCPayServer.Tests/GreenfieldAPITests.cs
+1633359971|Kukks|M|/btcpayserver/BTCPayServer/Controllers/GreenField/LocalBTCPayServerClient.cs
+1633359971|Kukks|M|/btcpayserver/BTCPayServer/Controllers/GreenField/StorePaymentMethodsController.cs
+1633359971|Kukks|M|/btcpayserver/BTCPayServer/Payments/PaymentTypes.Bitcoin.cs
+1633359971|Kukks|M|/btcpayserver/BTCPayServer/Payments/PaymentTypes.Lightning.cs
+1633359971|Kukks|M|/btcpayserver/BTCPayServer/Payments/PaymentTypes.cs
+1633359971|Kukks|M|/btcpayserver/BTCPayServer/Services/Altcoins/Ethereum/Payments/EthereumPaymentType.cs
+1633359971|Kukks|M|/btcpayserver/BTCPayServer/Services/Altcoins/Monero/Payments/MoneroPaymentType.cs
+1633359971|Andrew Camilleri|M|/btcpayserver/BTCPayServer.Tests/GreenfieldAPITests.cs
+1633359971|Andrew Camilleri|M|/btcpayserver/BTCPayServer/Payments/PaymentTypes.Lightning.cs
+1633360207|Max Dignan|M|/btcpayserver/BTCPayServer/Controllers/WalletsController.cs
+1633360207|Max Dignan|M|/btcpayserver/BTCPayServer/Models/WalletViewModels/ListWalletsViewModel.cs
+1633360207|Max Dignan|M|/btcpayserver/BTCPayServer/Views/Wallets/ListWallets.cshtml
+1633360207|Max Dignan|M|/btcpayserver/BTCPayServer/Views/Wallets/ListWallets.cshtml
+1633360207|Dennis Reimann|M|/btcpayserver/BTCPayServer/Views/Wallets/ListWallets.cshtml
+1633360207|Dennis Reimann|M|/btcpayserver/BTCPayServer/Controllers/WalletsController.cs
+1633360207|Dennis Reimann|M|/btcpayserver/BTCPayServer/Models/WalletViewModels/ListWalletsViewModel.cs
+1633360207|Dennis Reimann|M|/btcpayserver/BTCPayServer/Controllers/WalletsController.cs
+1633408650|nicolas.dorier|M|/btcpayserver/BTCPayServer/Controllers/InvoiceController.UI.cs
+1633408650|nicolas.dorier|M|/btcpayserver/BTCPayServer/Views/Invoice/Checkout.cshtml
+1633409920|nicolas.dorier|A|/btcpayserver/BTCPayServer/WebsocketExtensions.cs
+1633410862|nicolas.dorier|M|/btcpayserver/BTCPayServer/Views/Shared/_Layout.cshtml
+1633410862|nicolas.dorier|M|/btcpayserver/BTCPayServer/WebSocketHelper.cs
+1633410862|nicolas.dorier|M|/btcpayserver/BTCPayServer/wwwroot/js/vaultbridge.js
+1633411801|nicolas.dorier|M|/btcpayserver/BTCPayServer/Controllers/NotificationsController.cs
+1633411801|nicolas.dorier|M|/btcpayserver/BTCPayServer/WebsocketExtensions.cs
+1633412463|nicolas.dorier|M|/btcpayserver/BTCPayServer/wwwroot/js/vaultbridge.js
+1633415200|nicolas.dorier|M|/btcpayserver/BTCPayServer.Abstractions/BTCPayServer.Abstractions.csproj
+1633415200|nicolas.dorier|M|/btcpayserver/BTCPayServer.Data/BTCPayServer.Data.csproj
+1633415200|nicolas.dorier|M|/btcpayserver/BTCPayServer.Plugins.Test/BTCPayServer.Plugins.Test.csproj
+1633415200|nicolas.dorier|M|/btcpayserver/BTCPayServer.Rating/BTCPayServer.Rating.csproj
+1633415200|nicolas.dorier|M|/btcpayserver/BTCPayServer.Tests/Dockerfile
+1633415200|nicolas.dorier|M|/btcpayserver/BTCPayServer/BTCPayServer.csproj
+1633415200|nicolas.dorier|M|/btcpayserver/amd64.Dockerfile
+1633415200|nicolas.dorier|M|/btcpayserver/arm32v7.Dockerfile
+1633415200|nicolas.dorier|M|/btcpayserver/arm64v8.Dockerfile
+1633415366|nicolas.dorier|M|/btcpayserver/BTCPayServer.Client/BTCPayServer.Client.csproj
+1633415366|nicolas.dorier|M|/btcpayserver/BTCPayServer.Rating/BTCPayServer.Rating.csproj
+1633415366|nicolas.dorier|M|/btcpayserver/BTCPayServer.Tests/BTCPayServer.Tests.csproj
+1633415366|nicolas.dorier|M|/btcpayserver/BTCPayServer/BTCPayServer.csproj
+1633416477|nicolas.dorier|M|/btcpayserver/BTCPayServer.Tests/Extensions.cs
+1633416477|nicolas.dorier|M|/btcpayserver/BTCPayServer.Tests/PayJoinTests.cs
+1633416734|d11n|M|/btcpayserver/BTCPayServer/Views/Invoice/Checkout-Body.cshtml
+1633416734|d11n|M|/btcpayserver/BTCPayServer/Views/Invoice/ListInvoices.cshtml
+1633416734|d11n|M|/btcpayserver/BTCPayServer/Views/Manage/ConfirmAPIKey.cshtml
+1633416734|d11n|M|/btcpayserver/BTCPayServer/Views/Notifications/Index.cshtml
+1633416734|d11n|M|/btcpayserver/BTCPayServer/Views/Server/DynamicDnsService.cshtml
+1633416734|d11n|M|/btcpayserver/BTCPayServer/Views/Server/LndSeedBackup.cshtml
+1633416734|d11n|M|/btcpayserver/BTCPayServer/Views/Stores/CheckoutExperience.cshtml
+1633416734|d11n|M|/btcpayserver/BTCPayServer/Views/Stores/Rates.cshtml
+1633416734|d11n|M|/btcpayserver/BTCPayServer/Views/Wallets/Payouts.cshtml
+1633416734|d11n|M|/btcpayserver/BTCPayServer/Views/Wallets/SignWithSeed.cshtml
+1633416734|d11n|M|/btcpayserver/BTCPayServer/Views/Wallets/WalletSendVault.cshtml
+1633416734|d11n|M|/btcpayserver/BTCPayServer/bundleconfig.json
+1633416734|d11n|A|/btcpayserver/BTCPayServer/wwwroot/checkout/js/checkout.js
+1633425041|Andrew Camilleri|M|/btcpayserver/BTCPayServer.Client/Models/WebhookEventType.cs
+1633425041|Andrew Camilleri|M|/btcpayserver/BTCPayServer.Client/Models/WebhookInvoiceEvent.cs
+1633425041|Andrew Camilleri|M|/btcpayserver/BTCPayServer.Tests/UnitTest1.cs
+1633425041|Andrew Camilleri|M|/btcpayserver/BTCPayServer/Controllers/GreenField/InvoiceController.cs
+1633425041|Andrew Camilleri|M|/btcpayserver/BTCPayServer/Data/InvoiceDataExtensions.cs
+1633425041|Andrew Camilleri|M|/btcpayserver/BTCPayServer/Events/InvoiceEvent.cs
+1633425041|Andrew Camilleri|M|/btcpayserver/BTCPayServer/HostedServices/InvoiceNotificationManager.cs
+1633425041|Andrew Camilleri|M|/btcpayserver/BTCPayServer/HostedServices/InvoiceWatcher.cs
+1633425041|Andrew Camilleri|M|/btcpayserver/BTCPayServer/HostedServices/WebhookNotificationManager.cs
+1633425041|Andrew Camilleri|M|/btcpayserver/BTCPayServer/Hosting/BTCPayServerServices.cs
+1633425041|Andrew Camilleri|M|/btcpayserver/BTCPayServer/Payments/Bitcoin/NBXplorerListener.cs
+1633425041|Andrew Camilleri|M|/btcpayserver/BTCPayServer/Payments/Lightning/LightningListener.cs
+1633425041|Andrew Camilleri|M|/btcpayserver/BTCPayServer/Payments/PayJoin/PayJoinEndpointController.cs
+1633425041|Andrew Camilleri|M|/btcpayserver/BTCPayServer/Services/Altcoins/Ethereum/Services/EthereumService.cs
+1633425041|Andrew Camilleri|M|/btcpayserver/BTCPayServer/Services/Altcoins/Ethereum/Services/EthereumWatcher.cs
+1633425041|Andrew Camilleri|M|/btcpayserver/BTCPayServer/Services/Altcoins/Monero/Services/MoneroListener.cs
+1633425041|Andrew Camilleri|M|/btcpayserver/BTCPayServer/Services/Invoices/InvoiceRepository.cs
+1633425041|Andrew Camilleri|A|/btcpayserver/BTCPayServer/Services/Invoices/PaymentService.cs
+1633425041|Andrew Camilleri|M|/btcpayserver/BTCPayServer/Views/Stores/ModifyWebhook.cshtml
+1633425041|Andrew Camilleri|M|/btcpayserver/BTCPayServer/wwwroot/swagger/v1/swagger.template.webhooks.json
+1633487121|nicolas.dorier|M|/btcpayserver/BTCPayServer.Client/BTCPayServerClient.Webhooks.cs
+1633487121|nicolas.dorier|M|/btcpayserver/BTCPayServer.Tests/GreenfieldAPITests.cs
+1633487121|nicolas.dorier|M|/btcpayserver/BTCPayServer/Controllers/InvoiceController.UI.cs
+1633492421|nicolas.dorier|M|/btcpayserver/BTCPayServer/Controllers/ManageController.2FA.cs
+1633492421|nicolas.dorier|M|/btcpayserver/BTCPayServer/Controllers/RateController.cs
+1633492421|nicolas.dorier|M|/btcpayserver/BTCPayServer/Payments/Bitcoin/NBXplorerListener.cs
+1633492421|nicolas.dorier|M|/btcpayserver/BTCPayServer/Services/Invoices/InvoiceRepository.cs
+1633492421|nicolas.dorier|M|/btcpayserver/Build/Common.csproj
+1633494175|nicolas.dorier|M|/btcpayserver/BTCPayServer/Controllers/InvoiceController.UI.cs
+1633494175|nicolas.dorier|M|/btcpayserver/BTCPayServer/Controllers/NotificationsController.cs
+1633494175|nicolas.dorier|M|/btcpayserver/BTCPayServer/EventAggregator.cs
+1633494175|nicolas.dorier|M|/btcpayserver/BTCPayServer/HostedServices/InvoiceNotificationManager.cs
+1633494175|nicolas.dorier|M|/btcpayserver/BTCPayServer/HostedServices/InvoiceWatcher.cs
+1633494175|nicolas.dorier|M|/btcpayserver/BTCPayServer/Payments/Bitcoin/NBXplorerListener.cs
+1633494175|nicolas.dorier|M|/btcpayserver/BTCPayServer/Payments/Lightning/LightningListener.cs
+1633499397|Umar Bolatov|M|/btcpayserver/BTCPayServer/Controllers/InvoiceController.UI.cs
+1633499397|Umar Bolatov|M|/btcpayserver/BTCPayServer/Models/InvoicingModels/InvoiceDetailsModel.cs
+1633499397|Umar Bolatov|M|/btcpayserver/BTCPayServer/Views/Invoice/Invoice.cshtml
+1633499397|Umar Bolatov|M|/btcpayserver/BTCPayServer/wwwroot/main/site.css
+1633511974|Andrew Camilleri|M|/btcpayserver/BTCPayServer.Client/Models/InvoiceData.cs
+1633511974|Andrew Camilleri|M|/btcpayserver/BTCPayServer.Tests/GreenfieldAPITests.cs
+1633511974|Andrew Camilleri|M|/btcpayserver/BTCPayServer/Controllers/GreenField/InvoiceController.cs
+1633511974|Andrew Camilleri|M|/btcpayserver/BTCPayServer/wwwroot/swagger/v1/swagger.template.invoices.json
+1633541546|Dennis Reimann|A|/btcpayserver/BTCPayServer/Components/ThemeSwitch/Default.cshtml
+1633541546|Dennis Reimann|A|/btcpayserver/BTCPayServer/Components/ThemeSwitch/ThemeSwitch.cs
+1633541546|Dennis Reimann|A|/btcpayserver/BTCPayServer/Components/ThemeSwitch/ThemeSwitchViewModel.cs
+1633541546|Dennis Reimann|M|/btcpayserver/BTCPayServer/Views/Shared/_Layout.cshtml
+1633541546|Dennis Reimann|M|/btcpayserver/BTCPayServer/wwwroot/main/site.css
+1633541546|Dennis Reimann|M|/btcpayserver/BTCPayServer/wwwroot/main/site.js
+1633541546|Dennis Reimann|M|/btcpayserver/BTCPayServer/Views/AppsPublic/ViewCrowdfund.cshtml
+1633541546|Dennis Reimann|M|/btcpayserver/BTCPayServer/Views/Apps/UpdateCrowdfund.cshtml
+1633541546|Dennis Reimann|M|/btcpayserver/BTCPayServer/Views/AppsPublic/ViewCrowdfund.cshtml
+1633541546|Dennis Reimann|M|/btcpayserver/BTCPayServer/Views/AppsPublic/ViewCrowdfund.cshtml
+1633541546|Dennis Reimann|M|/btcpayserver/BTCPayServer/wwwroot/crowdfund/styles/main.css
+1633573250|nicolas.dorier|M|/btcpayserver/amd64.Dockerfile
+1633573250|nicolas.dorier|M|/btcpayserver/arm32v7.Dockerfile
+1633573250|nicolas.dorier|M|/btcpayserver/arm64v8.Dockerfile
+1633577268|Umar Bolatov|M|/btcpayserver/BTCPayServer/Views/Invoice/Checkout.cshtml
+1633577268|Umar Bolatov|M|/btcpayserver/BTCPayServer/Views/Stores/ModifyWebhook.cshtml
+1633577268|Umar Bolatov|M|/btcpayserver/BTCPayServer/Views/Stores/UpdateStore.cshtml
+1633588519|nicolas.dorier|M|/btcpayserver/BTCPayServer/Controllers/NotificationsController.cs
+1633593207|Andrew Camilleri|M|/btcpayserver/BTCPayServer/Payments/Lightning/LightningLikePaymentHandler.cs
+1633593207|Andrew Camilleri|M|/btcpayserver/BTCPayServer/Payments/Lightning/LightningLikePaymentMethodDetails.cs
+1633593207|Andrew Camilleri|M|/btcpayserver/BTCPayServer/Payments/Lightning/LightningListener.cs
+1633593262|Nicolas Dorier|M|/btcpayserver/BTCPayServer.Common/BTCPayServer.Common.csproj
+1633593262|Nicolas Dorier|M|/btcpayserver/BTCPayServer/Controllers/WalletsController.cs
+1633593262|Nicolas Dorier|M|/btcpayserver/BTCPayServer/Views/Wallets/WalletSettings.cshtml
+1633601333|nicolas.dorier|M|/btcpayserver/BTCPayServer.Tests/GreenfieldAPITests.cs
+1633670777|Umar Bolatov|M|/btcpayserver/BTCPayServer/wwwroot/main/bootstrap/bootstrap.css

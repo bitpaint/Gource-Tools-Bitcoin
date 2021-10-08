@@ -604,3 +604,7 @@
 1624538129|Andrew Camilleri|M|/woocommerce-plugin/src/class-wc-gateway-btcpay.php
 1624538712|Nicolas Dorier|M|/woocommerce-plugin/CHANGELOG.md
 1624539253|nicolas.dorier|M|/woocommerce-plugin/src/readme.txt
+1633225623|nicolas.dorier|M|/woocommerce-plugin/CHANGELOG.md
+1633225623|nicolas.dorier|M|/woocommerce-plugin/composer.json
+1633225623|nicolas.dorier|M|/woocommerce-plugin/src/class-wc-gateway-btcpay.php
+1633225623|nicolas.dorier|M|/woocommerce-plugin/src/readme.txt

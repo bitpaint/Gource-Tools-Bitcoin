@@ -40786,12 +40786,21 @@
 1632130529|Roland Soós|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Receive/ReceiveViewModel.cs
 1632130529|Roland Soós|M|/WalletWasabi/WalletWasabi.Fluent/Views/Wallets/Send/SendView.axaml
 1632144837|Roland Soós|M|/WalletWasabi/WalletWasabi.Fluent/Controls/TagControl.axaml
+1632151093|Dan Walmsley|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Send/SendFeeViewModel.cs
+1632151093|Dan Walmsley|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Send/SendViewModel.cs
+1632151093|Dan Walmsley|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Send/TransactionPreviewViewModel.cs
+1632151093|Dan Walmsley|M|/WalletWasabi/WalletWasabi.Fluent/Views/Wallets/Send/TransactionPreviewView.axaml
+1632154613|Dan Walmsley|M|/WalletWasabi/WalletWasabi.Fluent/Views/Wallets/Send/TransactionPreviewView.axaml
 1632154755|Roland Soós|M|/WalletWasabi/WalletWasabi.Fluent/Views/NavBar/NavBar.axaml
 1632155311|Roland Soós|M|/WalletWasabi/WalletWasabi.Fluent/Views/NavBar/NavBar.axaml
 1632155743|Roland Soós|M|/WalletWasabi/WalletWasabi.Fluent/Views/NavBar/NavBar.axaml
 1632212425|Roland Soós|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/AddWallet/RecoverWalletViewModel.cs
 1632215275|Roland Soós|M|/WalletWasabi/WalletWasabi.Fluent/Controls/TagsBox.axaml.cs
 1632218307|Roland Soós|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/AddWallet/RecoverWalletViewModel.cs
+1632222476|Dan Walmsley|M|/WalletWasabi/WalletWasabi.Fluent/Styles/Button.axaml
+1632224209|Dan Walmsley|M|/WalletWasabi/WalletWasabi.Fluent/Controls/PreviewItem.axaml
+1632224209|Dan Walmsley|M|/WalletWasabi/WalletWasabi.Fluent/Views/Wallets/Send/TransactionPreviewView.axaml
+1632225776|Roland Soós|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Send/SendFeeViewModel.cs
 1632236884|Wiesław Šoltés|M|/WalletWasabi/WalletWasabi.Fluent/Styles/Button.axaml
 1632236884|Wiesław Šoltés|M|/WalletWasabi/WalletWasabi.Fluent/Views/Wallets/Home/History/HistoryTable.axaml
 1632236912|Wiesław Šoltés|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Receive/AddressViewModel.cs
@@ -40816,16 +40825,41 @@
 1632299309|Roland Soós|M|/WalletWasabi/WalletWasabi.Fluent/Controls/TagsBox.axaml.cs
 1632304314|Roland Soós|M|/WalletWasabi/WalletWasabi.Fluent/Controls/TagsBox.axaml.cs
 1632304355|Roland Soós|M|/WalletWasabi/WalletWasabi.Fluent/Controls/TagsBox.axaml.cs
+1632307217|Wiesław Šoltés|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Send/SendFeeViewModel.cs
+1632307217|Wiesław Šoltés|M|/WalletWasabi/WalletWasabi.Fluent/Views/Wallets/Send/SendFeeView.axaml
+1632307551|Dan Walmsley|D|/WalletWasabi/WalletWasabi.Fluent/ViewModels/LineChartDemo/SendLineChartViewModel.cs
+1632307551|Dan Walmsley|D|/WalletWasabi/WalletWasabi.Fluent/ViewModels/LineChartDemo/XYLineChartViewModel.cs
+1632307551|Dan Walmsley|D|/WalletWasabi/WalletWasabi.Fluent/Views/LineChartDemo/SendLineChartView.axaml
+1632307551|Dan Walmsley|D|/WalletWasabi/WalletWasabi.Fluent/Views/LineChartDemo/SendLineChartView.axaml.cs
+1632307551|Dan Walmsley|D|/WalletWasabi/WalletWasabi.Fluent/Views/LineChartDemo/XYLineChartView.axaml
+1632307551|Dan Walmsley|D|/WalletWasabi/WalletWasabi.Fluent/Views/LineChartDemo/XYLineChartView.axaml.cs
+1632308191|Dan Walmsley|M|/WalletWasabi/WalletWasabi.Fluent/Views/Wallets/Send/SendFeeView.axaml
 1632308434|Roland Soós|M|/WalletWasabi/WalletWasabi.Fluent/Controls/TagsBox.axaml
 1632308734|Roland Soós|M|/WalletWasabi/WalletWasabi.Fluent/Controls/TagsBox.axaml.cs
 1632308734|Roland Soós|M|/WalletWasabi/WalletWasabi.Fluent/Views/Wallets/Receive/ReceiveView.axaml
 1632308734|Roland Soós|M|/WalletWasabi/WalletWasabi.Fluent/Views/Wallets/Send/SendView.axaml
+1632309260|Dan Walmsley|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Send/SendFeeViewModel.cs
+1632310022|Dan Walmsley|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Send/OptimisePrivacyViewModel.cs
+1632310022|Dan Walmsley|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Send/TransactionInfo.cs
+1632311874|Dan Walmsley|M|/WalletWasabi/WalletWasabi.Fluent/Views/Wallets/Send/TransactionPreviewView.axaml
+1632313041|Dan Walmsley|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Send/SendFeeViewModel.cs
 1632314253|Lucas Ontivero|M|/WalletWasabi/WalletWasabi/Crypto/OwnershipProof.cs
+1632315336|Dan Walmsley|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Send/SendFeeViewModel.cs
+1632315349|Dan Walmsley|M|/WalletWasabi/WalletWasabi.Fluent/Views/Wallets/Send/SendFeeView.axaml
+1632320023|Dan Walmsley|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Send/OptimisePrivacyViewModel.cs
+1632320124|Dan Walmsley|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Send/OptimisePrivacyViewModel.cs
 1632331923|Lucas Ontivero|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Advanced/WalletInfoViewModel.cs
 1632331923|Lucas Ontivero|M|/WalletWasabi/WalletWasabi.Fluent/Views/Wallets/Advanced/WalletInfoView.axaml
 1632331923|Lucas Ontivero|M|/WalletWasabi/WalletWasabi/Blockchain/Keys/KeyManager.cs
+1632332961|Wiesław Šoltés|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Send/SendFeeViewModel.cs
+1632332961|Wiesław Šoltés|M|/WalletWasabi/WalletWasabi.Fluent/Views/Wallets/Send/SendFeeView.axaml
+1632337606|Wiesław Šoltés|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Send/SendFeeViewModel.cs
+1632337606|Wiesław Šoltés|M|/WalletWasabi/WalletWasabi.Fluent/Views/Wallets/Send/SendFeeView.axaml
+1632337900|Wiesław Šoltés|M|/WalletWasabi/WalletWasabi.Fluent/Views/Wallets/Send/SendFeeView.axaml
 1632342342|Lucas Ontivero|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Advanced/WalletInfoViewModel.cs
 1632342342|Lucas Ontivero|M|/WalletWasabi/WalletWasabi/Blockchain/Keys/KeyManager.cs
+1632342783|Dan Walmsley|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Send/SendFeeViewModel.cs
+1632342783|Dan Walmsley|M|/WalletWasabi/WalletWasabi.Fluent/Views/Wallets/Send/SendFeeView.axaml
 1632349574|Lucas Ontivero|M|/WalletWasabi/WalletWasabi/Crypto/StrobeProtocol/StrobeHasher.cs
 1632349574|Lucas Ontivero|M|/WalletWasabi/WalletWasabi/WabiSabi/Backend/Rounds/Round.cs
 1632349574|Lucas Ontivero|M|/WalletWasabi/WalletWasabi/WabiSabi/ProtocolContants.cs
@@ -40833,6 +40867,12 @@
 1632361812|Lucas Ontivero|A|/WalletWasabi/WalletWasabi/WabiSabi/Crypto/RoundHasher.cs
 1632361812|Lucas Ontivero|M|/WalletWasabi/WalletWasabi/WabiSabi/Backend/Rounds/Round.cs
 1632361812|Lucas Ontivero|M|/WalletWasabi/WalletWasabi/WabiSabi/Models/RoundState.cs
+1632395101|Dan Walmsley|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Send/SendFeeViewModel.cs
+1632395669|Dan Walmsley|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Send/PrivacyControlViewModel.cs
+1632397762|Dan Walmsley|A|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Send/FeeChartViewModel.cs
+1632397762|Dan Walmsley|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Send/SendFeeViewModel.cs
+1632397762|Dan Walmsley|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Send/TransactionInfo.cs
+1632397762|Dan Walmsley|M|/WalletWasabi/WalletWasabi.Fluent/Views/Wallets/Send/SendFeeView.axaml
 1632403477|Yahia Chiheb|M|/WalletWasabi/WalletWasabi.Fluent/Views/AddWallet/RecoverWalletView.axaml
 1632404648|Kiminuo|M|/WalletWasabi/WalletWasabi/Wallets/Wallet.cs
 1632406930|Szpoti|M|/WalletWasabi/WalletWasabi/WabiSabi/Client/CoinJoinManager.cs
@@ -40856,6 +40896,13 @@
 1632511610|Lucas Ontivero|M|/WalletWasabi/WalletWasabi/WabiSabi/Crypto/RoundHasher.cs
 1632511610|Lucas Ontivero|M|/WalletWasabi/WalletWasabi/WabiSabi/Models/RoundState.cs
 1632511610|Lucas Ontivero|M|/WalletWasabi/WalletWasabi/WabiSabi/ProtocolContants.cs
+1632571599|Kiminuo|M|/WalletWasabi/WalletWasabi.Backend/Global.cs
+1632571599|Kiminuo|A|/WalletWasabi/WalletWasabi.Tests/UnitTests/WabiSabi/Backend/Rounds/Utils/CoinJoinTransactionArchiverTests.cs
+1632571599|Kiminuo|M|/WalletWasabi/WalletWasabi/WabiSabi/Backend/Rounds/Arena.cs
+1632571599|Kiminuo|A|/WalletWasabi/WalletWasabi/WabiSabi/Backend/Rounds/Utils/CoinJoinTransactionArchiver.cs
+1632571599|Kiminuo|M|/WalletWasabi/WalletWasabi/WabiSabi/Client/CoinJoinManager.cs
+1632571599|Kiminuo|M|/WalletWasabi/WalletWasabi/WabiSabi/CoordinatorParameters.cs
+1632571599|Kiminuo|M|/WalletWasabi/WalletWasabi/WabiSabi/WabiSabiCoordinator.cs
 1632722506|Kiminuo|M|/WalletWasabi/WalletWasabi.Backend/Controllers/ChaumianCoinJoinController.cs
 1632722506|Kiminuo|M|/WalletWasabi/WalletWasabi.Tests/RegressionTests/CoinJoinTests.cs
 1632722506|Kiminuo|M|/WalletWasabi/WalletWasabi/CoinJoin/Coordinator/Coordinator.cs
@@ -40875,6 +40922,19 @@
 1632773468|Lucas Ontivero|M|/WalletWasabi/WalletWasabi/WabiSabi/Crypto/RoundHasher.cs
 1632773468|Lucas Ontivero|M|/WalletWasabi/WalletWasabi/WabiSabi/Models/RoundState.cs
 1632773468|Lucas Ontivero|M|/WalletWasabi/WalletWasabi/WabiSabi/ProtocolContants.cs
+1632827344|Kiminuo|M|/WalletWasabi/WalletWasabi.Tests/UnitTests/WabiSabi/Backend/Rounds/Utils/CoinJoinTransactionArchiverTests.cs
+1632827344|Kiminuo|M|/WalletWasabi/WalletWasabi/WabiSabi/Backend/Rounds/Utils/CoinJoinTransactionArchiver.cs
+1632836436|Dan Walmsley|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Send/OptimisePrivacyViewModel.cs
+1632836436|Dan Walmsley|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Send/PrivacyControlViewModel.cs
+1632836436|Dan Walmsley|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Send/SendFeeViewModel.cs
+1632836436|Dan Walmsley|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Send/SendViewModel.cs
+1632836436|Dan Walmsley|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Send/TransactionPreviewViewModel.cs
+1632836451|Dan Walmsley|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Navigation/RoutableViewModel.cs
+1632844777|Dan Walmsley|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Send/PrivacyControlViewModel.cs
+1632844777|Dan Walmsley|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Send/SendFeeViewModel.cs
+1632844777|Dan Walmsley|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Send/TransactionPreviewViewModel.cs
+1632845290|Dan Walmsley|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Send/TransactionPreviewViewModel.cs
+1632845673|Dan Walmsley|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Send/TransactionPreviewViewModel.cs
 1632851126|Lucas Ontivero|M|/WalletWasabi/WalletWasabi/Crypto/StrobeProtocol/StrobeHasher.cs
 1632851126|Lucas Ontivero|M|/WalletWasabi/WalletWasabi/WabiSabi/Backend/Rounds/Round.cs
 1632851126|Lucas Ontivero|M|/WalletWasabi/WalletWasabi/WabiSabi/Crypto/RoundHasher.cs
@@ -40886,19 +40946,142 @@
 1632854907|Lucas Ontivero|M|/WalletWasabi/WalletWasabi/WabiSabi/Models/RoundState.cs
 1632859911|Lucas Ontivero|M|/WalletWasabi/WalletWasabi/Extensions/LinqExtensions.cs
 1632859911|Lucas Ontivero|M|/WalletWasabi/WalletWasabi/WabiSabi/Client/CoinJoinClient.cs
+1632908665|Kiminuo|M|/WalletWasabi/WalletWasabi/WabiSabi/Backend/Rounds/Utils/CoinJoinTransactionArchiver.cs
+1632912918|Dan Walmsley|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Send/TransactionPreviewViewModel.cs
+1632913196|Dan Walmsley|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Send/TransactionPreviewViewModel.cs
+1632919622|Dan Walmsley|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Send/TransactionPreviewViewModel.cs
+1632919622|Dan Walmsley|M|/WalletWasabi/WalletWasabi.Fluent/Views/Wallets/Send/TransactionPreviewView.axaml
+1632922825|Roland Soós|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Dialogs/InsufficientBalanceDialogViewModel.cs
+1632922825|Roland Soós|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Send/TransactionInfo.cs
+1632922825|Roland Soós|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Send/TransactionPreviewViewModel.cs
+1632922825|Roland Soós|M|/WalletWasabi/WalletWasabi.Fluent/Views/Dialogs/InsufficientBalanceDialogView.axaml
+1632923223|Dan Walmsley|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Send/TransactionPreviewViewModel.cs
+1632934824|Roland Soós|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Dialogs/InsufficientBalanceDialogViewModel.cs
+1632934824|Roland Soós|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Send/SendViewModel.cs
+1632934824|Roland Soós|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Send/TransactionInfo.cs
+1632934824|Roland Soós|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Send/TransactionPreviewViewModel.cs
+1632934824|Roland Soós|M|/WalletWasabi/WalletWasabi.Fluent/Views/Dialogs/InsufficientBalanceDialogView.axaml
+1632937689|Roland Soós|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Send/SendViewModel.cs
+1632939358|Roland Soós|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Send/PrivacyControlViewModel.cs
+1632939358|Roland Soós|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Send/SendFeeViewModel.cs
+1632939358|Roland Soós|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Send/TransactionPreviewViewModel.cs
 1632945031|Lucas Ontivero|M|/WalletWasabi/WalletWasabi/Crypto/Randomness/WasabiRandom.cs
 1632945031|Lucas Ontivero|M|/WalletWasabi/WalletWasabi/Extensions/LinqExtensions.cs
 1632945031|Lucas Ontivero|M|/WalletWasabi/WalletWasabi/WabiSabi/Client/CoinJoinClient.cs
 1632947595|Lucas Ontivero|M|/WalletWasabi/WalletWasabi/Crypto/Randomness/WasabiRandom.cs
+1632989522|Roland Soós|M|/WalletWasabi/WalletWasabi.Fluent/Helpers/TransactionHelpers.cs
+1632989522|Roland Soós|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Send/TransactionPreviewViewModel.cs
+1632989620|Roland Soós|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Send/TransactionPreviewViewModel.cs
+1632991319|Roland Soós|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Send/PrivacyControlViewModel.cs
+1632991319|Roland Soós|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Send/TransactionPreviewViewModel.cs
+1632992660|Roland Soós|M|/WalletWasabi/WalletWasabi.Fluent/Views/Dialogs/InsufficientBalanceDialogView.axaml
+1632999880|Dan Walmsley|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Send/SendFeeViewModel.cs
+1633002567|Dan Walmsley|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Dialogs/Authorization/AuthorizationDialogBase.cs
+1633002567|Dan Walmsley|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Dialogs/Base/DialogViewModelBaseOfTResult.cs
+1633002567|Dan Walmsley|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Send/TransactionPreviewViewModel.cs
+1633002582|Dan Walmsley|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Send/TransactionPreviewViewModel.cs
+1633002710|Roland Soós|M|/WalletWasabi/WalletWasabi.Fluent/Helpers/TransactionHelpers.cs
+1633002710|Roland Soós|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Send/TransactionInfo.cs
+1633002710|Roland Soós|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Send/TransactionPreviewViewModel.cs
 1633005496|Lucas Ontivero|M|/WalletWasabi/WalletWasabi/Crypto/Randomness/WasabiRandom.cs
 1633007693|Lucas Ontivero|M|/WalletWasabi/WalletWasabi/Extensions/LinqExtensions.cs
 1633007693|Lucas Ontivero|M|/WalletWasabi/WalletWasabi/Extensions/TaskExtensions.cs
 1633007693|Lucas Ontivero|M|/WalletWasabi/WalletWasabi/WabiSabi/Client/CoinJoinClient.cs
+1633007731|Kiminuo|M|/WalletWasabi/WalletWasabi/WabiSabi/WabiSabiCoordinator.cs
 1633007903|Lucas Ontivero|M|/WalletWasabi/WalletWasabi/Extensions/LinqExtensions.cs
+1633007986|Kiminuo|M|/WalletWasabi/WalletWasabi/WabiSabi/Backend/Rounds/Utils/CoinJoinTransactionArchiver.cs
 1633008284|Lucas Ontivero|M|/WalletWasabi/WalletWasabi/WabiSabi/Client/CoinJoinClient.cs
+1633027562|Roland Soós|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Send/SendFeeViewModel.cs
 1633029231|Lucas Ontivero|A|/WalletWasabi/WalletWasabi/Extensions/TimeSpanExtensions.cs
 1633029231|Lucas Ontivero|M|/WalletWasabi/WalletWasabi/WabiSabi/Client/CoinJoinClient.cs
 1633029544|Lucas Ontivero|M|/WalletWasabi/WalletWasabi/Extensions/TaskExtensions.cs
 1633029544|Lucas Ontivero|M|/WalletWasabi/WalletWasabi/WabiSabi/Client/CoinJoinClient.cs
+1633029580|Roland Soós|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Send/SendFeeViewModel.cs
 1633052405|Lucas Ontivero|M|/WalletWasabi/WalletWasabi/Crypto/Randomness/WasabiRandom.cs
 1633052405|Lucas Ontivero|M|/WalletWasabi/WalletWasabi/Extensions/TimeSpanExtensions.cs
+1633052970|Lucas Ontivero|M|/WalletWasabi/WalletWasabi/WabiSabi/Client/CoinJoinClient.cs
+1633137195|Lucas Ontivero|M|/WalletWasabi/WalletWasabi/WabiSabi/Backend/Rounds/Arena.cs
+1633225871|Lucas Ontivero|M|/WalletWasabi/WalletWasabi/WabiSabi/Backend/Rounds/Arena.cs
+1633259788|Kiminuo|M|/WalletWasabi/WalletWasabi/WabiSabi/Backend/Rounds/Arena.cs
+1633259789|Kiminuo|M|/WalletWasabi/WalletWasabi/WabiSabi/Client/CoinJoinClient.cs
+1633259789|Kiminuo|M|/WalletWasabi/WalletWasabi/WabiSabi/Client/CoinJoinClient.cs
+1633259789|Kiminuo|M|/WalletWasabi/WalletWasabi/WabiSabi/Client/CoinJoinClient.cs
+1633262305|Kiminuo|A|/WalletWasabi/WalletWasabi.Tests/Helpers/ArenaBuilder.cs
+1633262305|Kiminuo|M|/WalletWasabi/WalletWasabi.Tests/Helpers/WabiSabiFactory.cs
+1633262305|Kiminuo|M|/WalletWasabi/WalletWasabi.Tests/UnitTests/WabiSabi/Backend/PhaseStepping/StepConnectionConfirmationTests.cs
+1633262305|Kiminuo|M|/WalletWasabi/WalletWasabi.Tests/UnitTests/WabiSabi/Backend/PhaseStepping/StepTransactionSigningTests.cs
+1633262305|Kiminuo|M|/WalletWasabi/WalletWasabi.Tests/UnitTests/WabiSabi/Backend/PostRequests/RegisterInputFailureTests.cs
+1633262305|Kiminuo|M|/WalletWasabi/WalletWasabi.Tests/UnitTests/WabiSabi/Backend/PostRequests/RegisterInputToBlameRoundTests.cs
+1633262305|Kiminuo|M|/WalletWasabi/WalletWasabi/WabiSabi/Backend/Rounds/Arena.cs
+1633265049|Roland Soós|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Send/SendFeeViewModel.cs
+1633265049|Roland Soós|M|/WalletWasabi/WalletWasabi.Gui/Config.cs
+1633265060|Kiminuo|M|/WalletWasabi/WalletWasabi/Tor/TorSettings.cs
+1633266326|Kiminuo|M|/WalletWasabi/WalletWasabi.Tests/UnitTests/GuardTests.cs
+1633268459|Roland Soós|M|/WalletWasabi/WalletWasabi.Fluent/Helpers/EnumerableExtensions.cs
+1633268459|Roland Soós|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Send/FeeChartViewModel.cs
+1633268494|Roland Soós|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Send/SendFeeViewModel.cs
+1633294269|Lucas Ontivero|M|/WalletWasabi/WalletWasabi/WabiSabi/Backend/Rounds/Arena.cs
+1633294387|Lucas Ontivero|M|/WalletWasabi/WalletWasabi/WabiSabi/Backend/Rounds/Arena.cs
+1633311275|sgmoore|M|/WalletWasabi/WalletWasabi.Documentation/WasabiCompatibility.md
+1633330197|Roland Soós|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Send/FeeChartViewModel.cs
+1633330197|Roland Soós|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Send/SendFeeViewModel.cs
+1633338397|Kiminuo|M|/WalletWasabi/WalletWasabi.Tests/UnitTests/WabiSabi/Backend/PhaseStepping/StepConnectionConfirmationTests.cs
+1633338397|Kiminuo|M|/WalletWasabi/WalletWasabi.Tests/UnitTests/WabiSabi/Backend/PhaseStepping/StepTransactionSigningTests.cs
+1633338397|Kiminuo|M|/WalletWasabi/WalletWasabi.Tests/UnitTests/WabiSabi/Backend/PostRequests/RegisterInputFailureTests.cs
+1633338397|Kiminuo|M|/WalletWasabi/WalletWasabi.Tests/UnitTests/WabiSabi/Backend/PostRequests/RegisterInputToBlameRoundTests.cs
+1633359458|Lucas Ontivero|M|/WalletWasabi/WalletWasabi/Extensions/TimeSpanExtensions.cs
+1633359458|Lucas Ontivero|M|/WalletWasabi/WalletWasabi/WabiSabi/Client/CoinJoinClient.cs
+1633371761|Dan Walmsley|M|/WalletWasabi/WalletWasabi.Fluent/Views/Wallets/Send/TransactionPreviewView.axaml
+1633372247|Dan Walmsley|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Send/TransactionPreviewViewModel.cs
+1633398447|Lucas Ontivero|M|/WalletWasabi/WalletWasabi/Crypto/Extensions.cs
+1633398447|Lucas Ontivero|M|/WalletWasabi/WalletWasabi/Extensions/TaskExtensions.cs
+1633398447|Lucas Ontivero|M|/WalletWasabi/WalletWasabi/WabiSabi/Client/CoinJoinClient.cs
+1633398447|Lucas Ontivero|M|/WalletWasabi/WalletWasabi/WabiSabi/Client/DependencyGraphTaskScheduler.cs
+1633419791|Kiminuo|M|/WalletWasabi/WalletWasabi.Tests/UnitTests/WabiSabi/Backend/AliceTimeoutTests.cs
+1633419791|Kiminuo|M|/WalletWasabi/WalletWasabi.Tests/UnitTests/WabiSabi/Backend/PostRequests/ConfirmConnectionTests.cs
+1633419791|Kiminuo|M|/WalletWasabi/WalletWasabi.Tests/UnitTests/WabiSabi/Backend/PostRequests/RegisterInputFailureTests.cs
+1633419791|Kiminuo|M|/WalletWasabi/WalletWasabi.Tests/UnitTests/WabiSabi/Backend/PostRequests/RegisterInputToBlameRoundTests.cs
+1633419791|Kiminuo|M|/WalletWasabi/WalletWasabi.Tests/UnitTests/WabiSabi/Backend/PostRequests/RegisterOutputTests.cs
+1633419791|Kiminuo|M|/WalletWasabi/WalletWasabi.Tests/UnitTests/WabiSabi/Backend/PostRequests/RemoveInputTests.cs
+1633419791|Kiminuo|M|/WalletWasabi/WalletWasabi.Tests/UnitTests/WabiSabi/Backend/PostRequests/SignTransactionTests.cs
+1633419791|Kiminuo|M|/WalletWasabi/WalletWasabi.Tests/UnitTests/WabiSabi/Backend/RequestHandlerDisposeTests.cs
+1633419791|Kiminuo|M|/WalletWasabi/WalletWasabi.Tests/UnitTests/WabiSabi/Client/ArenaClientTests.cs
+1633419791|Kiminuo|M|/WalletWasabi/WalletWasabi.Tests/UnitTests/WabiSabi/Client/BobClientTests.cs
+1633419791|Kiminuo|M|/WalletWasabi/WalletWasabi/WabiSabi/Backend/PostRequests/ArenaRequestHandler.cs
+1633419791|Kiminuo|M|/WalletWasabi/WalletWasabi/WabiSabi/WabiSabiCoordinator.cs
+1633419813|Kiminuo|M|/WalletWasabi/WalletWasabi.Tests/UnitTests/WabiSabi/Client/ArenaClientTests.cs
+1633419813|Kiminuo|M|/WalletWasabi/WalletWasabi/WabiSabi/Backend/Rounds/Arena.cs
+1633420315|Kiminuo|M|/WalletWasabi/WalletWasabi/WabiSabi/Backend/Rounds/Arena.cs
+1633432473|Dan Walmsley|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Send/TransactionPreviewViewModel.cs
+1633432473|Dan Walmsley|M|/WalletWasabi/WalletWasabi.Fluent/Views/Wallets/Send/TransactionPreviewView.axaml
+1633433132|Dan Walmsley|M|/WalletWasabi/WalletWasabi.Fluent/Views/Wallets/Send/TransactionPreviewView.axaml
+1633433151|Dan Walmsley|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Send/TransactionPreviewViewModel.cs
+1633433287|Dan Walmsley|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Send/OptimisePrivacyViewModel.cs
+1633433287|Dan Walmsley|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Send/TransactionInfo.cs
+1633433533|Dan Walmsley|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Send/TransactionPreviewViewModel.cs
+1633433620|Dan Walmsley|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Send/TransactionPreviewViewModel.cs
+1633433712|Dan Walmsley|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Send/TransactionPreviewViewModel.cs
+1633433761|Dan Walmsley|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Send/TransactionInfo.cs
+1633434187|Dan Walmsley|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Send/TransactionInfo.cs
+1633434187|Dan Walmsley|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Send/TransactionPreviewViewModel.cs
+1633435339|Dan Walmsley|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Send/TransactionPreviewViewModel.cs
+1633524235|Roland Soós|M|/WalletWasabi/WalletWasabi.Fluent/Helpers/TransactionHelpers.cs
+1633524235|Roland Soós|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Send/OptimisePrivacyViewModel.cs
+1633524235|Roland Soós|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Send/TransactionInfo.cs
+1633524235|Roland Soós|M|/WalletWasabi/WalletWasabi.Fluent/ViewModels/Wallets/Send/TransactionPreviewViewModel.cs
+1633572459|Lucas Ontivero|M|/WalletWasabi/WalletWasabi.Tests/UnitTests/WabiSabi/Backend/PhaseStepping/StepInputRegistrationTests.cs
+1633572459|Lucas Ontivero|M|/WalletWasabi/WalletWasabi.Tests/UnitTests/WabiSabi/Backend/PostRequests/RegisterInputFailureTests.cs
+1633572459|Lucas Ontivero|M|/WalletWasabi/WalletWasabi/WabiSabi/Backend/Rounds/Arena.cs
+1633572459|Lucas Ontivero|M|/WalletWasabi/WalletWasabi/WabiSabi/Backend/Rounds/Round.cs
+1633572459|Lucas Ontivero|A|/WalletWasabi/WalletWasabi/WabiSabi/Backend/Rounds/TimeFrame.cs
+1633572459|Lucas Ontivero|M|/WalletWasabi/WalletWasabi/WabiSabi/Models/RoundState.cs
+1633595945|Roland Soós|M|/WalletWasabi/WalletWasabi.Fluent/Controls/PreviewItem.axaml
+1633597556|adamPetho|M|/WalletWasabi/WalletWasabi/WabiSabi/Client/CoinJoinManager.cs
+1633601809|Kiminuo|M|/WalletWasabi/WalletWasabi/Extensions/TaskExtensions.cs
+1633611643|Lucas Ontivero|M|/WalletWasabi/WalletWasabi/WabiSabi/Backend/Rounds/Arena.cs
+1633614978|Lucas Ontivero|M|/WalletWasabi/WalletWasabi/WabiSabi/Backend/WabiSabiConfig.cs
+1633615044|Lucas Ontivero|M|/WalletWasabi/WalletWasabi/WabiSabi/Backend/Rounds/Arena.cs
+1633615963|adamPetho|M|/WalletWasabi/WalletWasabi/WabiSabi/Client/CoinJoinManager.cs
+1633626136|Lucas Ontivero|M|/WalletWasabi/WalletWasabi/WabiSabi/Backend/Rounds/Arena.cs
+1633626565|Lucas Ontivero|M|/WalletWasabi/WalletWasabi/WabiSabi/Backend/Rounds/TimeFrame.cs
+1633630429|David Molnar|M|/WalletWasabi/WalletWasabi/Blockchain/Transactions/TransactionFactory.cs

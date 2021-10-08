@@ -1550,3 +1550,5 @@
 1631697118|rodendron|A|/app-bitcoin/icons/xrhodium.png
 1631698646|TamtamHero|M|/app-bitcoin/Makefile
 1632305452|tjulien-ledger|M|/app-bitcoin/icons/nanox_app_xrhodium.gif
+1633598154|tjulien-ledger|M|/app-bitcoin/icons/nanox_app_hydra.gif
+1633598154|tjulien-ledger|M|/app-bitcoin/icons/nanox_app_hydra_testnet.gif

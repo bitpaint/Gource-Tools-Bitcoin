@@ -23153,6 +23153,7 @@
 1628833952|RajWorking|M|/bcoin/lib/wallet/masterkey.js
 1628833952|RajWorking|M|/bcoin/test/wallet-http-test.js
 1628835782|RajWorking|M|/bcoin/test/wallet-http-test.js
+1628867619|Matthew Zipkin|M|/bcoin/docs/getting-started.md
 1628874026|RajWorking|M|/bcoin/test/wallet-http-test.js
 1628878241|RajWorking|M|/bcoin/test/wallet-http-test.js
 1628943505|pradyuman|M|/bcoin/test/node-rpc-test.js

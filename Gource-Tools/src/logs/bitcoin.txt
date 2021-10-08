@@ -66118,6 +66118,9 @@
 1631035171|Martin Ankerl|M|/bitcoin/src/logging/timer.h
 1631035171|Martin Ankerl|M|/bitcoin/src/test/logging_tests.cpp
 1631035854|Hennadii Stepanov|M|/bitcoin/.cirrus.yml
+1631042738|Hennadii Stepanov|M|/bitcoin/.cirrus.yml
+1631042738|Hennadii Stepanov|M|/bitcoin/build_msvc/README.md
+1631042738|Hennadii Stepanov|M|/bitcoin/build_msvc/common.qt.init.vcxproj
 1631089701|fanquake|M|/bitcoin/src/util/getuniquepath.cpp
 1631091483|Hennadii Stepanov|M|/bitcoin/build_msvc/bitcoin-util/bitcoin-util.vcxproj
 1631091483|Hennadii Stepanov|M|/bitcoin/build_msvc/bitcoin.sln
@@ -66472,6 +66475,8 @@
 1632836935|MarcoFalke|M|/bitcoin/test/functional/test_framework/script_util.py
 1632852756|MarcoFalke|M|/bitcoin/.cirrus.yml
 1632853100|MarcoFalke|M|/bitcoin/src/chainparams.cpp
+1632854762|Amiti Uttarwar|M|/bitcoin/src/addrman.cpp
+1632854762|Amiti Uttarwar|M|/bitcoin/src/addrman.h
 1632855412|BitcoinTsunami|M|/bitcoin/src/wallet/wallet.cpp
 1632855412|BitcoinTsunami|M|/bitcoin/src/wallet/wallet.h
 1632858562|BitcoinTsunami|M|/bitcoin/test/functional/test_runner.py
@@ -66486,6 +66491,31 @@
 1632859890|Niklas Gögge|M|/bitcoin/test/functional/p2p_compactblocks_blocksonly.py
 1632867419|Samuel Dobson|M|/bitcoin/src/qt/coincontroldialog.cpp
 1632867419|Samuel Dobson|M|/bitcoin/src/qt/coincontroldialog.h
+1632869796|Amiti Uttarwar|M|/bitcoin/src/addrman.cpp
+1632869796|Amiti Uttarwar|M|/bitcoin/src/addrman.h
+1632870154|Amiti Uttarwar|M|/bitcoin/src/Makefile.am
+1632870154|Amiti Uttarwar|M|/bitcoin/src/addrman.cpp
+1632870154|Amiti Uttarwar|M|/bitcoin/src/addrman.h
+1632870154|Amiti Uttarwar|A|/bitcoin/src/addrman_impl.h
+1632870154|Amiti Uttarwar|M|/bitcoin/src/test/addrman_tests.cpp
+1632870154|Amiti Uttarwar|M|/bitcoin/src/test/fuzz/addrman.cpp
+1632870154|Amiti Uttarwar|M|/bitcoin/src/addrman.cpp
+1632870154|Amiti Uttarwar|M|/bitcoin/src/addrman.h
+1632870154|Amiti Uttarwar|M|/bitcoin/src/addrman_impl.h
+1632870154|Amiti Uttarwar|M|/bitcoin/src/bench/addrman.cpp
+1632870154|Amiti Uttarwar|M|/bitcoin/src/net.cpp
+1632870154|Amiti Uttarwar|M|/bitcoin/src/test/addrman_tests.cpp
+1632870154|Amiti Uttarwar|M|/bitcoin/src/addrman.h
+1632870154|Amiti Uttarwar|M|/bitcoin/src/addrman_impl.h
+1632870154|Amiti Uttarwar|M|/bitcoin/src/test/fuzz/deserialize.cpp
+1632870154|Amiti Uttarwar|M|/bitcoin/src/addrman_impl.h
+1632870154|Amiti Uttarwar|M|/bitcoin/src/addrman.h
+1632870154|Amiti Uttarwar|M|/bitcoin/src/addrman_impl.h
+1632870154|Amiti Uttarwar|M|/bitcoin/src/addrman.cpp
+1632870154|Amiti Uttarwar|M|/bitcoin/src/addrman_impl.h
+1632870154|Amiti Uttarwar|M|/bitcoin/src/addrman.cpp
+1632870154|Amiti Uttarwar|M|/bitcoin/src/addrman.h
+1632870154|Amiti Uttarwar|M|/bitcoin/src/addrman_impl.h
 1632879610|William Casarin|M|/bitcoin/src/bloom.cpp
 1632879610|William Casarin|M|/bitcoin/src/bloom.h
 1632879610|William Casarin|M|/bitcoin/src/hash.cpp
@@ -66494,6 +66524,37 @@
 1632879817|fanquake|M|/bitcoin/src/bloom.h
 1632880116|fanquake|M|/bitcoin/src/bloom.cpp
 1632880116|fanquake|M|/bitcoin/src/bloom.h
+1632882066|Amiti Uttarwar|M|/bitcoin/src/addrman.cpp
+1632882066|Amiti Uttarwar|M|/bitcoin/src/addrman.h
+1632882066|Amiti Uttarwar|M|/bitcoin/src/addrman_impl.h
+1632882070|Amiti Uttarwar|M|/bitcoin/src/addrdb.cpp
+1632882070|Amiti Uttarwar|M|/bitcoin/src/addrdb.h
+1632882070|Amiti Uttarwar|M|/bitcoin/src/addrman.cpp
+1632882070|Amiti Uttarwar|M|/bitcoin/src/addrman.h
+1632882070|Amiti Uttarwar|M|/bitcoin/src/addrman_impl.h
+1632882070|Amiti Uttarwar|M|/bitcoin/src/bench/addrman.cpp
+1632882070|Amiti Uttarwar|M|/bitcoin/src/net.cpp
+1632882070|Amiti Uttarwar|M|/bitcoin/src/net.h
+1632882070|Amiti Uttarwar|M|/bitcoin/src/net_processing.cpp
+1632882070|Amiti Uttarwar|M|/bitcoin/src/net_processing.h
+1632882070|Amiti Uttarwar|M|/bitcoin/src/netaddress.cpp
+1632882070|Amiti Uttarwar|M|/bitcoin/src/netaddress.h
+1632882070|Amiti Uttarwar|M|/bitcoin/src/node/context.h
+1632882070|Amiti Uttarwar|M|/bitcoin/src/test/addrman_tests.cpp
+1632882070|Amiti Uttarwar|M|/bitcoin/src/test/fuzz/addrman.cpp
+1632882070|Amiti Uttarwar|M|/bitcoin/src/test/fuzz/connman.cpp
+1632882070|Amiti Uttarwar|M|/bitcoin/src/test/fuzz/deserialize.cpp
+1632882070|Amiti Uttarwar|M|/bitcoin/src/test/util/setup_common.cpp
+1632882070|Amiti Uttarwar|M|/bitcoin/test/functional/feature_addrman.py
+1632882070|Amiti Uttarwar|M|/bitcoin/src/addrman.cpp
+1632882070|Amiti Uttarwar|M|/bitcoin/src/addrman_impl.h
+1632882070|Amiti Uttarwar|M|/bitcoin/src/test/addrman_tests.cpp
+1632882070|Amiti Uttarwar|M|/bitcoin/src/test/fuzz/addrman.cpp
+1632882070|Amiti Uttarwar|M|/bitcoin/src/test/fuzz/deserialize.cpp
+1632882070|Amiti Uttarwar|M|/bitcoin/src/addrman.cpp
+1632882070|Amiti Uttarwar|M|/bitcoin/src/addrman.h
+1632882070|Amiti Uttarwar|M|/bitcoin/src/addrman_impl.h
+1632882070|Amiti Uttarwar|M|/bitcoin/src/test/addrman_tests.cpp
 1632883520|Samuel Dobson|M|/bitcoin/src/dummywallet.cpp
 1632890495|Samuel Dobson|M|/bitcoin/test/functional/feature_segwit.py
 1632899532|fanquake|M|/bitcoin/doc/developer-notes.md
@@ -66504,6 +66565,13 @@
 1632917341|MarcoFalke|M|/bitcoin/.ycm_extra_conf.py
 1632917341|MarcoFalke|M|/bitcoin/README.md
 1632917341|MarcoFalke|M|/bitcoin/src/crc32c_arm64_check.h
+1632917354|Sebastian Falbesoner|M|/bitcoin/test/functional/feature_segwit.py
+1632917354|Sebastian Falbesoner|M|/bitcoin/test/functional/feature_taproot.py
+1632917354|Sebastian Falbesoner|M|/bitcoin/test/functional/p2p_segwit.py
+1632917354|Sebastian Falbesoner|M|/bitcoin/test/functional/rpc_signrawtransaction.py
+1632917354|Sebastian Falbesoner|M|/bitcoin/test/functional/test_framework/blocktools.py
+1632917354|Sebastian Falbesoner|M|/bitcoin/test/functional/test_framework/script_util.py
+1632917354|Sebastian Falbesoner|M|/bitcoin/test/functional/test_framework/wallet.py
 1632924109|Hennadii Stepanov|M|/bitcoin/src/qt/bitcoin.cpp
 1632924109|Hennadii Stepanov|M|/bitcoin/src/qt/bitcoin.h
 1632924109|Hennadii Stepanov|M|/bitcoin/src/qt/bitcoingui.cpp
@@ -66512,11 +66580,22 @@
 1632924109|Hennadii Stepanov|M|/bitcoin/src/qt/optionsdialog.h
 1632924120|Hennadii Stepanov|M|/bitcoin/src/qt/bitcoin.cpp
 1632924120|Hennadii Stepanov|M|/bitcoin/src/qt/bitcoin.h
+1632924796|Antoine Poinsot|M|/bitcoin/src/validation.cpp
+1632928425|Shubhankar|M|/bitcoin/test/functional/feature_rbf.py
+1632928518|Antoine Poinsot|M|/bitcoin/test/functional/feature_fee_estimation.py
+1632929068|Antoine Poinsot|M|/bitcoin/test/functional/feature_fee_estimation.py
+1632929070|Antoine Poinsot|A|/bitcoin/doc/release-notes-22539.md
 1632933990|MarcoFalke|M|/bitcoin/src/sync.cpp
 1632934065|MarcoFalke|M|/bitcoin/test/functional/test_framework/util.py
 1632934065|MarcoFalke|M|/bitcoin/test/lint/lint-logs.sh
 1632934160|MarcoFalke|M|/bitcoin/src/wallet/coinselection.cpp
 1632941827|Hennadii Stepanov|M|/bitcoin/src/qt/bitcoingui.cpp
+1632948523|Andrew Chow|M|/bitcoin/src/wallet/coinselection.h
+1632948523|Andrew Chow|M|/bitcoin/src/wallet/coincontrol.h
+1632948523|Andrew Chow|M|/bitcoin/src/wallet/spend.cpp
+1632948523|Andrew Chow|M|/bitcoin/src/wallet/spend.h
+1632948523|Andrew Chow|M|/bitcoin/src/wallet/wallet.cpp
+1632948523|Andrew Chow|M|/bitcoin/src/wallet/wallet.h
 1632956787|Samuel Dobson|M|/bitcoin/src/wallet/wallet.cpp
 1632956787|Samuel Dobson|M|/bitcoin/src/wallet/wallet.h
 1632956787|Samuel Dobson|M|/bitcoin/src/wallet/walletdb.cpp
@@ -66535,9 +66614,180 @@
 1632956787|Samuel Dobson|M|/bitcoin/test/functional/wallet_basic.py
 1632956787|Samuel Dobson|M|/bitcoin/test/functional/wallet_hd.py
 1632956787|Samuel Dobson|A|/bitcoin/doc/release-notes-remove-rescan.md
+1632958917|fanquake|M|/bitcoin/src/Makefile.am
+1632958917|fanquake|D|/bitcoin/src/amount.h
+1632958917|fanquake|M|/bitcoin/src/bitcoin-tx.cpp
+1632958917|fanquake|A|/bitcoin/src/consensus/amount.h
+1632958917|fanquake|M|/bitcoin/src/consensus/tx_check.cpp
+1632958917|fanquake|M|/bitcoin/src/consensus/tx_verify.cpp
+1632958917|fanquake|M|/bitcoin/src/consensus/tx_verify.h
+1632958917|fanquake|M|/bitcoin/src/core_io.h
+1632958917|fanquake|M|/bitcoin/src/core_write.cpp
+1632958917|fanquake|M|/bitcoin/src/init.cpp
+1632958917|fanquake|M|/bitcoin/src/interfaces/node.h
+1632958917|fanquake|M|/bitcoin/src/interfaces/wallet.h
+1632958917|fanquake|M|/bitcoin/src/miner.cpp
+1632958917|fanquake|M|/bitcoin/src/net.h
+1632958917|fanquake|M|/bitcoin/src/net_processing.cpp
+1632958917|fanquake|M|/bitcoin/src/node/coinstats.h
+1632958917|fanquake|M|/bitcoin/src/node/psbt.cpp
+1632958917|fanquake|M|/bitcoin/src/policy/feerate.h
+1632958917|fanquake|M|/bitcoin/src/policy/fees.h
+1632958917|fanquake|M|/bitcoin/src/primitives/transaction.cpp
+1632958917|fanquake|M|/bitcoin/src/primitives/transaction.h
+1632958917|fanquake|M|/bitcoin/src/qt/bitcoinamountfield.h
+1632958917|fanquake|M|/bitcoin/src/qt/bitcoingui.h
+1632958917|fanquake|M|/bitcoin/src/qt/bitcoinunits.cpp
+1632958917|fanquake|M|/bitcoin/src/qt/bitcoinunits.h
+1632958917|fanquake|M|/bitcoin/src/qt/coincontroldialog.h
+1632958917|fanquake|M|/bitcoin/src/qt/guiutil.h
+1632958917|fanquake|M|/bitcoin/src/qt/optionsmodel.h
+1632958917|fanquake|M|/bitcoin/src/qt/sendcoinsrecipient.h
+1632958917|fanquake|M|/bitcoin/src/qt/transactionfilterproxy.h
+1632958917|fanquake|M|/bitcoin/src/qt/transactionrecord.h
+1632958917|fanquake|M|/bitcoin/src/qt/walletmodeltransaction.h
+1632958917|fanquake|M|/bitcoin/src/qt/walletview.h
+1632958917|fanquake|M|/bitcoin/src/rpc/blockchain.cpp
+1632958917|fanquake|M|/bitcoin/src/rpc/blockchain.h
+1632958917|fanquake|M|/bitcoin/src/rpc/mining.cpp
+1632958917|fanquake|M|/bitcoin/src/rpc/rawtransaction.cpp
+1632958917|fanquake|M|/bitcoin/src/rpc/rawtransaction_util.cpp
+1632958917|fanquake|M|/bitcoin/src/rpc/server.h
+1632958917|fanquake|M|/bitcoin/src/rpc/util.cpp
+1632958917|fanquake|M|/bitcoin/src/script/sign.cpp
+1632958917|fanquake|M|/bitcoin/src/test/amount_tests.cpp
+1632958917|fanquake|M|/bitcoin/src/test/fuzz/coins_view.cpp
+1632958917|fanquake|M|/bitcoin/src/test/fuzz/fee_rate.cpp
+1632958917|fanquake|M|/bitcoin/src/test/fuzz/fees.cpp
+1632958917|fanquake|M|/bitcoin/src/test/fuzz/integer.cpp
+1632958917|fanquake|M|/bitcoin/src/test/fuzz/script_flags.cpp
+1632958917|fanquake|M|/bitcoin/src/test/fuzz/util.cpp
+1632958917|fanquake|M|/bitcoin/src/test/fuzz/util.h
+1632958917|fanquake|M|/bitcoin/src/test/policy_fee_tests.cpp
+1632958917|fanquake|M|/bitcoin/src/test/transaction_tests.cpp
+1632958917|fanquake|M|/bitcoin/src/test/validation_tests.cpp
+1632958917|fanquake|M|/bitcoin/src/txmempool.h
+1632958917|fanquake|M|/bitcoin/src/util/moneystr.cpp
+1632958917|fanquake|M|/bitcoin/src/util/moneystr.h
+1632958917|fanquake|M|/bitcoin/src/validation.cpp
+1632958917|fanquake|M|/bitcoin/src/validation.h
+1632958917|fanquake|M|/bitcoin/src/wallet/coinselection.cpp
+1632958917|fanquake|M|/bitcoin/src/wallet/coinselection.h
+1632958917|fanquake|M|/bitcoin/src/wallet/fees.h
+1632958917|fanquake|M|/bitcoin/src/wallet/interfaces.cpp
+1632958917|fanquake|M|/bitcoin/src/wallet/receive.cpp
+1632958917|fanquake|M|/bitcoin/src/wallet/receive.h
+1632958917|fanquake|M|/bitcoin/src/wallet/rpcwallet.cpp
+1632958917|fanquake|M|/bitcoin/src/wallet/spend.cpp
+1632958917|fanquake|M|/bitcoin/src/wallet/spend.h
+1632958917|fanquake|M|/bitcoin/src/wallet/test/coinselector_tests.cpp
+1632958917|fanquake|M|/bitcoin/src/wallet/test/spend_tests.cpp
+1632958917|fanquake|M|/bitcoin/src/wallet/transaction.h
+1632958917|fanquake|M|/bitcoin/src/wallet/wallet.cpp
+1632958917|fanquake|M|/bitcoin/src/wallet/wallet.h
+1632958917|fanquake|M|/bitcoin/src/wallet/walletdb.h
+1632958920|fanquake|M|/bitcoin/src/consensus/amount.h
+1632958921|fanquake|M|/bitcoin/src/consensus/amount.h
+1632989262|Hennadii Stepanov|M|/bitcoin/build_msvc/README.md
+1632989263|Hennadii Stepanov|M|/bitcoin/build_msvc/README.md
 1632994585|Samuel Dobson|M|/bitcoin/src/wallet/walletdb.cpp
+1633011677|practicalswift|M|/bitcoin/src/core_read.cpp
+1633011677|practicalswift|M|/bitcoin/src/node/blockstorage.cpp
+1633011677|practicalswift|M|/bitcoin/src/qt/rpcconsole.cpp
+1633011677|practicalswift|M|/bitcoin/src/rpc/mining.cpp
+1633011677|practicalswift|M|/bitcoin/src/test/fuzz/locale.cpp
+1633011677|practicalswift|M|/bitcoin/src/test/fuzz/parse_numbers.cpp
+1633011677|practicalswift|M|/bitcoin/src/test/fuzz/string.cpp
+1633011677|practicalswift|M|/bitcoin/src/test/util_tests.cpp
+1633011677|practicalswift|M|/bitcoin/src/torcontrol.cpp
+1633011677|practicalswift|M|/bitcoin/src/util/moneystr.cpp
+1633011677|practicalswift|M|/bitcoin/src/util/strencodings.cpp
+1633011677|practicalswift|M|/bitcoin/src/util/strencodings.h
+1633011677|practicalswift|M|/bitcoin/src/util/system.cpp
+1633011677|practicalswift|M|/bitcoin/src/wallet/transaction.h
+1633011677|practicalswift|M|/bitcoin/test/lint/lint-locale-dependence.sh
 1633012735|Jon Atack|M|/bitcoin/test/functional/test_framework/util.py
 1633039352|Samuel Dobson|M|/bitcoin/src/wallet/wallet.cpp
 1633039352|Samuel Dobson|M|/bitcoin/src/wallet/walletdb.cpp
 1633039352|Samuel Dobson|M|/bitcoin/src/wallet/walletdb.h
 1633039352|Samuel Dobson|M|/bitcoin/src/wallet/wallettool.cpp
+1633072482|MarcoFalke|D|/bitcoin/doc/release-notes-12677.md
+1633072482|MarcoFalke|D|/bitcoin/doc/release-notes-23065.md
+1633072482|MarcoFalke|D|/bitcoin/doc/release-notes-remove-rescan.md
+1633072482|MarcoFalke|M|/bitcoin/doc/release-notes.md
+1633096270|practicalswift|M|/bitcoin/ci/test/00_setup_env_i686_multiprocess.sh
+1633096270|practicalswift|M|/bitcoin/configure.ac
+1633096270|practicalswift|M|/bitcoin/src/Makefile.am
+1633096270|practicalswift|M|/bitcoin/src/bitcoind.cpp
+1633096270|practicalswift|M|/bitcoin/src/checkqueue.h
+1633096270|practicalswift|M|/bitcoin/src/httpserver.cpp
+1633096270|practicalswift|M|/bitcoin/src/index/base.cpp
+1633096270|practicalswift|M|/bitcoin/src/init.cpp
+1633096270|practicalswift|M|/bitcoin/src/logging.cpp
+1633096270|practicalswift|M|/bitcoin/src/logging.h
+1633096270|practicalswift|M|/bitcoin/src/mapport.cpp
+1633096270|practicalswift|M|/bitcoin/src/net.cpp
+1633096270|practicalswift|M|/bitcoin/src/node/blockstorage.cpp
+1633096270|practicalswift|M|/bitcoin/src/rpc/misc.cpp
+1633096270|practicalswift|M|/bitcoin/src/scheduler.cpp
+1633096270|practicalswift|M|/bitcoin/src/torcontrol.cpp
+1633096270|practicalswift|A|/bitcoin/src/util/syscall_sandbox.cpp
+1633096270|practicalswift|A|/bitcoin/src/util/syscall_sandbox.h
+1633096270|practicalswift|M|/bitcoin/test/config.ini.in
+1633096270|practicalswift|M|/bitcoin/test/functional/feature_notifications.py
+1633096270|practicalswift|A|/bitcoin/test/functional/feature_syscall_sandbox.py
+1633096270|practicalswift|M|/bitcoin/test/functional/feature_versionbits_warning.py
+1633096270|practicalswift|M|/bitcoin/test/functional/rpc_misc.py
+1633096270|practicalswift|M|/bitcoin/test/functional/rpc_signer.py
+1633096270|practicalswift|M|/bitcoin/test/functional/test_framework/test_framework.py
+1633096270|practicalswift|M|/bitcoin/test/functional/test_runner.py
+1633096270|practicalswift|M|/bitcoin/test/functional/wallet_signer.py
+1633104333|MarcoFalke|M|/bitcoin/src/test/util_tests.cpp
+1633104333|MarcoFalke|M|/bitcoin/src/util/strencodings.cpp
+1633104333|MarcoFalke|M|/bitcoin/src/util/strencodings.h
+1633145998|W. J. van der Laan|M|/bitcoin/contrib/signet/getcoins.py
+1633181260|Jon Atack|M|/bitcoin/test/functional/wallet_abandonconflict.py
+1633280225|Andrew Chow|M|/bitcoin/src/wallet/rpcwallet.cpp
+1633281854|Andrew Chow|M|/bitcoin/test/functional/rpc_fundrawtransaction.py
+1633281854|Andrew Chow|M|/bitcoin/test/functional/rpc_psbt.py
+1633281854|Andrew Chow|M|/bitcoin/src/wallet/rpcwallet.cpp
+1633281854|Andrew Chow|M|/bitcoin/test/functional/wallet_send.py
+1633333577|MarcoFalke|M|/bitcoin/src/test/fuzz/parse_numbers.cpp
+1633333577|MarcoFalke|M|/bitcoin/src/test/util_tests.cpp
+1633333577|MarcoFalke|M|/bitcoin/src/util/strencodings.cpp
+1633333577|MarcoFalke|M|/bitcoin/src/util/strencodings.h
+1633352110|MarcoFalke|M|/bitcoin/src/wallet/rpcwallet.cpp
+1633394501|fanquake|M|/bitcoin/src/util/syscall_sandbox.cpp
+1633396435|fanquake|M|/bitcoin/src/util/syscall_sandbox.cpp
+1633406402|fanquake|M|/bitcoin/configure.ac
+1633414504|W. J. van der Laan|M|/bitcoin/src/util/syscall_sandbox.cpp
+1633436937|MarcoFalke|M|/bitcoin/src/qt/rpcconsole.cpp
+1633437755|W. J. van der Laan|M|/bitcoin/src/util/syscall_sandbox.cpp
+1633448322|John Newbery|M|/bitcoin/src/test/fuzz/addrman.cpp
+1633448322|John Newbery|M|/bitcoin/src/test/fuzz/addrman.cpp
+1633449547|John Newbery|M|/bitcoin/src/test/fuzz/addrman.cpp
+1633449549|John Newbery|M|/bitcoin/src/test/fuzz/addrman.cpp
+1633449549|John Newbery|M|/bitcoin/src/test/fuzz/addrman.cpp
+1633455324|W. J. van der Laan|M|/bitcoin/src/util/syscall_sandbox.cpp
+1633455389|W. J. van der Laan|M|/bitcoin/src/util/syscall_sandbox.cpp
+1633474534|Gregory Sanders|M|/bitcoin/src/wallet/coincontrol.h
+1633474534|Gregory Sanders|M|/bitcoin/src/wallet/rpcwallet.cpp
+1633474534|Gregory Sanders|M|/bitcoin/src/wallet/spend.cpp
+1633475913|Samuel Dobson|M|/bitcoin/test/functional/interface_zmq.py
+1633475913|Samuel Dobson|M|/bitcoin/test/functional/p2p_compactblocks_blocksonly.py
+1633475913|Samuel Dobson|M|/bitcoin/test/functional/rpc_fundrawtransaction.py
+1633475913|Samuel Dobson|M|/bitcoin/test/functional/rpc_psbt.py
+1633475913|Samuel Dobson|M|/bitcoin/test/functional/wallet_send.py
+1633475944|Samuel Dobson|M|/bitcoin/test/functional/rpc_fundrawtransaction.py
+1633475944|Samuel Dobson|M|/bitcoin/test/functional/rpc_psbt.py
+1633475944|Samuel Dobson|M|/bitcoin/test/functional/wallet_send.py
+1633521518|MarcoFalke|M|/bitcoin/src/util/syscall_sandbox.cpp
+1633522324|Shashwat|M|/bitcoin/src/qt/walletcontroller.cpp
+1633522324|Shashwat|M|/bitcoin/src/qt/walletcontroller.h
+1633524866|MarcoFalke|M|/bitcoin/test/functional/test_framework/wallet.py
+1633526219|MarcoFalke|M|/bitcoin/test/functional/feature_bip68_sequence.py
+1633526219|MarcoFalke|M|/bitcoin/test/functional/mempool_packages.py
+1633526219|MarcoFalke|M|/bitcoin/test/functional/test_framework/wallet.py
+1633543302|MarcoFalke|M|/bitcoin/src/Makefile.test.include
+1633543302|MarcoFalke|A|/bitcoin/src/test/script_parse_tests.cpp
+1633543302|MarcoFalke|M|/bitcoin/src/test/util_tests.cpp

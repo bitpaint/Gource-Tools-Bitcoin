@@ -14738,3 +14738,104 @@
 1633122197|mother-eth|M|/BlueWallet/FAQ.md
 1633122270|mother-eth|M|/BlueWallet/README.md
 1633160469|transifex-integration[bot]|M|/BlueWallet/loc/si_LK.json
+1633198974|Renovate Bot|M|/BlueWallet/package.json
+1633212057|Marcos Rodriguez Vélez|M|/BlueWallet/ios/BlueWallet/Info.plist
+1633234655|Renovate Bot|M|/BlueWallet/package.json
+1633284126|Overtorment|M|/BlueWallet/class/wallets/lightning-ldk-wallet.ts
+1633284126|Overtorment|M|/BlueWallet/package-lock.json
+1633284126|Overtorment|M|/BlueWallet/package.json
+1633284126|Overtorment|M|/BlueWallet/screen/lnd/ldkInfo.tsx
+1633284126|Overtorment|M|/BlueWallet/screen/wallets/ldkViewLogs.js
+1633309426|transifex-integration[bot]|M|/BlueWallet/loc/es.json
+1633319221|Marcos Rodriguez Vélez|M|/BlueWallet/components/TooltipMenu.android.js
+1633319221|Marcos Rodriguez Vélez|M|/BlueWallet/components/TooltipMenu.ios.js
+1633319221|Marcos Rodriguez Vélez|M|/BlueWallet/components/TransactionListItem.js
+1633319221|Marcos Rodriguez Vélez|M|/BlueWallet/components/TransactionsNavigationHeader.js
+1633319221|Marcos Rodriguez Vélez|M|/BlueWallet/screen/send/details.js
+1633319299|Marcos Rodriguez Vélez|M|/BlueWallet/screen/wallets/details.js
+1633327353|Marcos Rodriguez Vélez|M|/BlueWallet/blue_modules/BlueElectrum.js
+1633327353|Marcos Rodriguez Vélez|M|/BlueWallet/blue_modules/fs.js
+1633327353|Marcos Rodriguez Vélez|M|/BlueWallet/blue_modules/storage-context.js
+1633327353|Marcos Rodriguez Vélez|M|/BlueWallet/class/app-storage.js
+1633327353|Marcos Rodriguez Vélez|M|/BlueWallet/class/biometrics.js
+1633327353|Marcos Rodriguez Vélez|M|/BlueWallet/class/payjoin-transaction.js
+1633327353|Marcos Rodriguez Vélez|M|/BlueWallet/class/wallets/lightning-ldk-wallet.ts
+1633327353|Marcos Rodriguez Vélez|A|/BlueWallet/components/Alert.js
+1633327353|Marcos Rodriguez Vélez|M|/BlueWallet/loc/en.json
+1633327353|Marcos Rodriguez Vélez|M|/BlueWallet/screen/lnd/ldkInfo.tsx
+1633327353|Marcos Rodriguez Vélez|M|/BlueWallet/screen/lnd/ldkOpenChannel.tsx
+1633327353|Marcos Rodriguez Vélez|M|/BlueWallet/screen/lnd/lndCreateInvoice.js
+1633327353|Marcos Rodriguez Vélez|M|/BlueWallet/screen/lnd/lndViewAdditionalInvoiceInformation.js
+1633327353|Marcos Rodriguez Vélez|M|/BlueWallet/screen/lnd/lnurlPay.js
+1633327353|Marcos Rodriguez Vélez|M|/BlueWallet/screen/lnd/scanLndInvoice.js
+1633327353|Marcos Rodriguez Vélez|M|/BlueWallet/screen/plausibledeniability.js
+1633327353|Marcos Rodriguez Vélez|M|/BlueWallet/screen/receive/aztecoRedeem.js
+1633327353|Marcos Rodriguez Vélez|M|/BlueWallet/screen/send/ScanQRCode.js
+1633327353|Marcos Rodriguez Vélez|M|/BlueWallet/screen/send/confirm.js
+1633327353|Marcos Rodriguez Vélez|M|/BlueWallet/screen/send/create.js
+1633327353|Marcos Rodriguez Vélez|M|/BlueWallet/screen/send/psbtMultisig.js
+1633327353|Marcos Rodriguez Vélez|M|/BlueWallet/screen/send/psbtMultisigQRCode.js
+1633327353|Marcos Rodriguez Vélez|M|/BlueWallet/screen/send/psbtWithHardwareWallet.js
+1633327353|Marcos Rodriguez Vélez|M|/BlueWallet/screen/settings/about.js
+1633327353|Marcos Rodriguez Vélez|M|/BlueWallet/screen/settings/electrumSettings.js
+1633327353|Marcos Rodriguez Vélez|M|/BlueWallet/screen/settings/encryptStorage.js
+1633327353|Marcos Rodriguez Vélez|M|/BlueWallet/screen/settings/language.js
+1633327353|Marcos Rodriguez Vélez|M|/BlueWallet/screen/settings/lightningSettings.tsx
+1633327353|Marcos Rodriguez Vélez|M|/BlueWallet/screen/settings/notificationSettings.js
+1633327353|Marcos Rodriguez Vélez|M|/BlueWallet/screen/settings/torSettings.js
+1633327353|Marcos Rodriguez Vélez|M|/BlueWallet/screen/transactions/CPFP.js
+1633327353|Marcos Rodriguez Vélez|M|/BlueWallet/screen/transactions/RBFBumpFee.js
+1633327353|Marcos Rodriguez Vélez|M|/BlueWallet/screen/transactions/RBFCancel.js
+1633327353|Marcos Rodriguez Vélez|M|/BlueWallet/screen/transactions/details.js
+1633327353|Marcos Rodriguez Vélez|M|/BlueWallet/screen/wallets/add.js
+1633327353|Marcos Rodriguez Vélez|M|/BlueWallet/screen/wallets/addMultisigStep2.js
+1633327353|Marcos Rodriguez Vélez|M|/BlueWallet/screen/wallets/details.js
+1633327353|Marcos Rodriguez Vélez|M|/BlueWallet/screen/wallets/hodlHodl.js
+1633327353|Marcos Rodriguez Vélez|M|/BlueWallet/screen/wallets/hodlHodlMyContracts.js
+1633327353|Marcos Rodriguez Vélez|M|/BlueWallet/screen/wallets/hodlHodlViewOffer.js
+1633327353|Marcos Rodriguez Vélez|M|/BlueWallet/screen/wallets/ldkViewLogs.js
+1633327353|Marcos Rodriguez Vélez|M|/BlueWallet/screen/wallets/transactions.js
+1633327353|Marcos Rodriguez Vélez|M|/BlueWallet/screen/wallets/viewEditMultisigCosigners.js
+1633343842|Marcos Rodriguez Vélez|M|/BlueWallet/class/wallets/lightning-custodian-wallet.js
+1633343842|Marcos Rodriguez Vélez|M|/BlueWallet/class/wallets/lightning-ldk-wallet.ts
+1633343842|Marcos Rodriguez Vélez|M|/BlueWallet/ios/Podfile.lock
+1633343842|Marcos Rodriguez Vélez|M|/BlueWallet/package-lock.json
+1633343842|Marcos Rodriguez Vélez|M|/BlueWallet/screen/settings/lightningSettings.tsx
+1633343842|Marcos Rodriguez Vélez|M|/BlueWallet/screen/wallets/add.js
+1633363941|Marcos Rodriguez Vélez|M|/BlueWallet/ios/BlueWallet.xcodeproj/project.pbxproj
+1633363941|Marcos Rodriguez Vélez|M|/BlueWallet/ios/Podfile.lock
+1633363941|Marcos Rodriguez Vélez|M|/BlueWallet/package-lock.json
+1633367918|Renovate Bot|M|/BlueWallet/package.json
+1633438553|Marcos Rodriguez Vélez|M|/BlueWallet/android/app/build.gradle
+1633438553|Marcos Rodriguez Vélez|M|/BlueWallet/ios/BlueWallet.xcodeproj/project.pbxproj
+1633438553|Marcos Rodriguez Vélez|M|/BlueWallet/package-lock.json
+1633438553|Marcos Rodriguez Vélez|M|/BlueWallet/package.json
+1633439200|Renovate Bot|M|/BlueWallet/package.json
+1633463815|Overtorment|M|/BlueWallet/class/wallets/lightning-ldk-wallet.ts
+1633474772|transifex-integration[bot]|M|/BlueWallet/loc/fa.json
+1633522401|transifex-integration[bot]|M|/BlueWallet/loc/es_419.json
+1633536933|Renovate Bot|M|/BlueWallet/package.json
+1633536957|Renovate Bot|M|/BlueWallet/android/gradle.properties
+1633543261|Marcos Rodriguez Vélez|M|/BlueWallet/ios/Podfile.lock
+1633543261|Marcos Rodriguez Vélez|M|/BlueWallet/package-lock.json
+1633544769|Overtorment|M|/BlueWallet/package-lock.json
+1633544769|Overtorment|M|/BlueWallet/package.json
+1633561453|Renovate Bot|M|/BlueWallet/package.json
+1633617496|Ivan Vershigora|M|/BlueWallet/loc/ar.json
+1633617496|Ivan Vershigora|M|/BlueWallet/loc/fr_fr.json
+1633617496|Ivan Vershigora|M|/BlueWallet/loc/he.json
+1633618001|transifex-integration[bot]|M|/BlueWallet/loc/pl.json
+1633631162|Renovate Bot|M|/BlueWallet/package.json
+1633695269|Marcos Rodriguez Vélez|M|/BlueWallet/components/TooltipMenu.android.js
+1633695269|Marcos Rodriguez Vélez|M|/BlueWallet/components/TooltipMenu.ios.js
+1633695269|Marcos Rodriguez Vélez|M|/BlueWallet/components/TransactionListItem.js
+1633695269|Marcos Rodriguez Vélez|M|/BlueWallet/components/TransactionsNavigationHeader.js
+1633695269|Marcos Rodriguez Vélez|M|/BlueWallet/components/addresses/AddressItem.js
+1633695269|Marcos Rodriguez Vélez|M|/BlueWallet/ios/Podfile.lock
+1633695269|Marcos Rodriguez Vélez|M|/BlueWallet/package-lock.json
+1633695269|Marcos Rodriguez Vélez|M|/BlueWallet/screen/send/details.js
+1633695269|Marcos Rodriguez Vélez|M|/BlueWallet/screen/transactions/details.js
+1633695269|Marcos Rodriguez Vélez|M|/BlueWallet/components/TooltipMenu.android.js
+1633695269|Marcos Rodriguez Vélez|M|/BlueWallet/components/TransactionListItem.js
+1633695408|Marcos Rodriguez Vélez|M|/BlueWallet/ios/Podfile.lock
+1633695408|Marcos Rodriguez Vélez|M|/BlueWallet/package-lock.json

@@ -3071,3 +3071,5 @@
 1633124704|Gigi|M|/bitcoin-resources.github.io/collections/_podcasts/THLI.md
 1633124704|Gigi|M|/bitcoin-resources.github.io/collections/_podcasts/UXUI.md
 1633124704|Gigi|M|/bitcoin-resources.github.io/collections/_podcasts/WASABI.md
+1633296548|dergigi|M|/bitcoin-resources.github.io/collections/_podcasts/BIP.md
+1633605031|Gigi|M|/bitcoin-resources.github.io/remnant.md

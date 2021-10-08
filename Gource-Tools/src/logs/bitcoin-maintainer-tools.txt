@@ -158,3 +158,5 @@
 1630418118|W. J. van der Laan|M|/bitcoin-maintainer-tools/README.md
 1631125509|W. J. van der Laan|M|/bitcoin-maintainer-tools/list-pulls.py
 1631193849|Prayank|M|/bitcoin-maintainer-tools/github-merge.py
+1632482315|W. J. van der Laan|M|/bitcoin-maintainer-tools/check-dnsseeds.py
+1632482525|W. J. van der Laan|M|/bitcoin-maintainer-tools/check-dnsseeds.py

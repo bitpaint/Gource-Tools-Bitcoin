@@ -19525,3 +19525,50 @@
 1633179706|Chris Stewart|M|/bitcoin-s/docs/oracle/oracle-election-example.md
 1633179706|Chris Stewart|M|/bitcoin-s/docs/oracle/oracle-price-example.md
 1633179706|Chris Stewart|M|/bitcoin-s/docs/oracle/oracle-server.md
+1633209340|benthecarman|A|/bitcoin-s/lnd-rpc-test/src/test/scala/org/bitcoins/lnd/rpc/LndRemoteClientTest.scala
+1633209340|benthecarman|M|/bitcoin-s/lnd-rpc/src/main/scala/org/bitcoins/lnd/rpc/LndRpcClient.scala
+1633209340|benthecarman|M|/bitcoin-s/lnd-rpc/src/main/scala/org/bitcoins/lnd/rpc/config/LndInstance.scala
+1633209340|benthecarman|M|/bitcoin-s/testkit/src/main/scala/org/bitcoins/testkit/fixtures/LndFixture.scala
+1633209340|benthecarman|M|/bitcoin-s/testkit/src/main/scala/org/bitcoins/testkit/lnd/LndRpcTestUtil.scala
+1633209431|Chris Stewart|M|/bitcoin-s/docs/oracle/oracle-election-example.md
+1633355331|Chris Stewart|M|/bitcoin-s/.github/workflows/native.yml
+1633358127|Chris Stewart|M|/bitcoin-s/.github/workflows/native.yml
+1633361857|Chris Stewart|M|/bitcoin-s/.github/workflows/native.yml
+1633361857|Chris Stewart|M|/bitcoin-s/app/oracle-server/src/main/resources/logback.xml
+1633361857|Chris Stewart|M|/bitcoin-s/dlc-oracle-test/src/test/scala/org/bitcoins/dlc/oracle/config/DLCOracleAppConfigTest.scala
+1633361857|Chris Stewart|M|/bitcoin-s/dlc-oracle/src/main/scala/org/bitcoins/dlc/oracle/config/DLCOracleAppConfig.scala
+1633361857|Chris Stewart|M|/bitcoin-s/wallet-test/src/test/scala/org/bitcoins/wallet/WalletAppConfigTest.scala
+1633361999|Chris Stewart|A|/bitcoin-s/release-notes/release-notes-1.8.0.md
+1633367530|benthecarman|M|/bitcoin-s/docs/rpc/lnd.md
+1633367530|benthecarman|M|/bitcoin-s/lnd-rpc/lnd-rpc.sbt
+1633367530|benthecarman|M|/bitcoin-s/lnd-rpc/src/main/scala/org/bitcoins/lnd/rpc/LndRpcClient.scala
+1633433010|Chris Stewart|M|/bitcoin-s/wallet-test/src/test/scala/org/bitcoins/wallet/ProcessTransactionTest.scala
+1633433010|Chris Stewart|M|/bitcoin-s/wallet/src/main/scala/org/bitcoins/wallet/Wallet.scala
+1633433065|Chris Stewart|M|/bitcoin-s/app-commons/src/main/scala/org/bitcoins/commons/serializers/JsonReaders.scala
+1633433065|Chris Stewart|M|/bitcoin-s/app-commons/src/main/scala/org/bitcoins/commons/serializers/PicklerKeys.scala
+1633433065|Chris Stewart|M|/bitcoin-s/app-commons/src/main/scala/org/bitcoins/commons/serializers/Picklers.scala
+1633433065|Chris Stewart|M|/bitcoin-s/app/cli/src/main/scala/org/bitcoins/cli/CliReaders.scala
+1633433065|Chris Stewart|M|/bitcoin-s/app/cli/src/main/scala/org/bitcoins/cli/ConsoleCli.scala
+1633433065|Chris Stewart|M|/bitcoin-s/app/oracle-server-test/src/test/scala/org/bitcoins/oracle/server/OracleRoutesSpec.scala
+1633433065|Chris Stewart|A|/bitcoin-s/app/server-test/src/test/scala/org/bitcoins/server/DLCRoutesSpec.scala
+1633433065|Chris Stewart|M|/bitcoin-s/app/server/src/main/scala/org/bitcoins/server/DLCRoutes.scala
+1633433065|Chris Stewart|M|/bitcoin-s/app/server/src/main/scala/org/bitcoins/server/ServerJsonModels.scala
+1633433065|Chris Stewart|M|/bitcoin-s/core/src/main/scala/org/bitcoins/core/protocol/tlv/TLV.scala
+1633433065|Chris Stewart|M|/bitcoin-s/docs/applications/server.md
+1633433065|Chris Stewart|A|/bitcoin-s/testkit-core/src/main/scala/org/bitcoins/testkitcore/util/OracleTestUtil.scala
+1633434795|Scala Steward|M|/bitcoin-s/project/Deps.scala
+1633434914|Chris Stewart|M|/bitcoin-s/dlc-wallet/src/main/scala/org/bitcoins/dlc/wallet/DLCWallet.scala
+1633434914|Chris Stewart|A|/bitcoin-s/docs/wallet/wallet-election-example.md
+1633434914|Chris Stewart|M|/bitcoin-s/website/i18n/en.json
+1633434914|Chris Stewart|M|/bitcoin-s/website/sidebars.json
+1633434914|Chris Stewart|M|/bitcoin-s/website/yarn.lock
+1633437901|dependabot[bot]|M|/bitcoin-s/website/yarn.lock
+1633477118|Chris Stewart|M|/bitcoin-s/docs/wallet/wallet-election-example.md
+1633546066|Chris Stewart|M|/bitcoin-s/app-commons/src/main/scala/org/bitcoins/commons/util/DatadirParser.scala
+1633562241|Chris Stewart|M|/bitcoin-s/docs/getting-setup.md
+1633611332|Chris Stewart|M|/bitcoin-s/dlc-oracle-test/src/test/scala/org/bitcoins/dlc/oracle/DLCOracleTest.scala
+1633611332|Chris Stewart|M|/bitcoin-s/dlc-oracle/src/main/scala/org/bitcoins/dlc/oracle/DLCOracle.scala
+1633622958|Scala Steward|M|/bitcoin-s/project/plugins.sbt
+1633622980|Scala Steward|M|/bitcoin-s/project/plugins.sbt
+1633632544|Chris Stewart|M|/bitcoin-s/app/server-routes/src/main/scala/org/bitcoins/server/routes/Server.scala
+1633636524|Chris Stewart|M|/bitcoin-s/app/server-routes/src/main/scala/org/bitcoins/server/routes/Server.scala

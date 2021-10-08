@@ -9215,7 +9215,308 @@
 1632972519|Juan P Lopez|M|/galoy/src/domain/wallets/tx-history.ts
 1632972519|Juan P Lopez|M|/galoy/src/services/ledger/index.ts
 1632972519|Juan P Lopez|M|/galoy/test/unit/domain/wallets/tx-history.spec.ts
+1633027845|vindard|M|/galoy/src/domain/bitcoin/index.ts
+1633027845|vindard|M|/galoy/src/domain/bitcoin/index.types.d.ts
+1633027846|vindard|A|/galoy/src/domain/routes/index.types.d.ts
+1633027846|vindard|M|/galoy/src/domain/routes/index.types.d.ts
+1633027847|vindard|M|/galoy/src/core/lightning/index.ts
+1633027847|vindard|A|/galoy/src/services/redis/routes.ts
+1633027848|vindard|M|/galoy/src/config/app.ts
+1633027848|vindard|M|/galoy/src/domain/primitives/index.types.d.ts
+1633027848|vindard|M|/galoy/src/domain/routes/index.types.d.ts
+1633027848|vindard|M|/galoy/src/services/redis/routes.ts
+1633027848|vindard|M|/galoy/src/core/lightning/index.ts
+1633027848|vindard|M|/galoy/src/services/redis/routes.ts
+1633027849|vindard|M|/galoy/src/domain/routes/index.types.d.ts
+1633027849|vindard|A|/galoy/src/domain/routes/key-generator.ts
+1633027849|vindard|M|/galoy/src/services/redis/routes.ts
+1633027849|vindard|A|/galoy/test/unit/domain/routes/key-generator.spec.ts
+1633027849|vindard|M|/galoy/src/core/lightning/index.ts
+1633027850|vindard|M|/galoy/src/domain/routes/index.types.d.ts
+1633027850|vindard|M|/galoy/src/domain/routes/key-generator.ts
+1633027850|vindard|M|/galoy/test/unit/domain/routes/key-generator.spec.ts
+1633027850|vindard|M|/galoy/src/core/lightning/index.ts
 1633030567|vindard|M|/galoy/README.md
 1633034018|Arvin|M|/galoy/README.md
 1633039996|Samer Buna|M|/galoy/package.json
 1633039996|Samer Buna|A|/galoy/tsconfig.d.json
+1633096058|vindard|M|/galoy/src/domain/routes/index.types.d.ts
+1633096058|vindard|M|/galoy/src/services/redis/routes.ts
+1633097088|vindard|M|/galoy/src/domain/routes/index.types.d.ts
+1633097088|vindard|M|/galoy/src/domain/routes/key-generator.ts
+1633097088|vindard|M|/galoy/src/services/redis/routes.ts
+1633097134|vindard|M|/galoy/src/core/lightning/index.ts
+1633099877|vindard|M|/galoy/src/domain/routes/index.types.d.ts
+1633099877|vindard|A|/galoy/src/domain/routes/key-factory.ts
+1633099877|vindard|D|/galoy/src/domain/routes/key-generator.ts
+1633099877|vindard|A|/galoy/test/unit/domain/routes/key-factory.spec.ts
+1633099877|vindard|D|/galoy/test/unit/domain/routes/key-generator.spec.ts
+1633099878|vindard|M|/galoy/src/core/lightning/index.ts
+1633117523|Samer Buna|M|/galoy/src/app/accounts/index.ts
+1633117523|Samer Buna|M|/galoy/src/app/index.types.d.ts
+1633117523|Samer Buna|A|/galoy/src/app/users/get-user.ts
+1633117523|Samer Buna|M|/galoy/src/app/users/index.ts
+1633117523|Samer Buna|A|/galoy/src/app/users/update-contact-alias.ts
+1633117523|Samer Buna|A|/galoy/src/app/users/username-available.ts
+1633117523|Samer Buna|M|/galoy/src/app/wallets/add-invoice-for-wallet.ts
+1633117523|Samer Buna|M|/galoy/src/app/wallets/create-on-chain-address.ts
+1633117523|Samer Buna|M|/galoy/src/app/wallets/get-account-transactions-for-contact.ts
+1633117523|Samer Buna|M|/galoy/src/app/wallets/get-last-on-chain-address.ts
+1633117523|Samer Buna|M|/galoy/src/app/wallets/get-on-chain-fee.ts
+1633117523|Samer Buna|M|/galoy/src/app/wallets/index.ts
+1633117523|Samer Buna|M|/galoy/src/app/wallets/index.types.d.ts
+1633117523|Samer Buna|D|/galoy/src/app/wallets/wallet-name-available.ts
+1633117523|Samer Buna|M|/galoy/src/core/specter-wallet.ts
+1633117523|Samer Buna|M|/galoy/src/core/user.ts
+1633117523|Samer Buna|M|/galoy/src/domain/accounts/index.types.d.ts
+1633117523|Samer Buna|M|/galoy/src/domain/errors.ts
+1633117523|Samer Buna|M|/galoy/src/domain/ledger/index.types.d.ts
+1633117523|Samer Buna|M|/galoy/src/domain/primitives/index.types.d.ts
+1633117523|Samer Buna|M|/galoy/src/domain/users/index.ts
+1633117523|Samer Buna|M|/galoy/src/domain/users/index.types.d.ts
+1633117523|Samer Buna|M|/galoy/src/domain/wallets/index.ts
+1633117523|Samer Buna|M|/galoy/src/domain/wallets/index.types.d.ts
+1633117523|Samer Buna|M|/galoy/src/domain/wallets/tx-history.ts
+1633117523|Samer Buna|M|/galoy/src/domain/wallets/tx-methods.ts
+1633117523|Samer Buna|M|/galoy/src/graphql/admin/queries.ts
+1633117523|Samer Buna|M|/galoy/src/graphql/admin/root/mutation/business-update-map-info.ts
+1633117523|Samer Buna|A|/galoy/src/graphql/admin/root/query/user-details-by-username.ts
+1633117523|Samer Buna|D|/galoy/src/graphql/admin/root/query/user-details-by-wallet-name.ts
+1633117523|Samer Buna|M|/galoy/src/graphql/admin/schema.graphql
+1633117523|Samer Buna|M|/galoy/src/graphql/admin/types/object/user.ts
+1633117523|Samer Buna|M|/galoy/src/graphql/main/mutations.ts
+1633117523|Samer Buna|M|/galoy/src/graphql/main/queries.ts
+1633117523|Samer Buna|M|/galoy/src/graphql/main/schema.graphql
+1633117523|Samer Buna|M|/galoy/src/graphql/root/mutation/intraledger-payment-send.ts
+1633117523|Samer Buna|M|/galoy/src/graphql/root/mutation/ln-invoice-create-on-behalf-of-recipient.ts
+1633117523|Samer Buna|M|/galoy/src/graphql/root/mutation/ln-noamount-invoice-create-on-behalf-of-recipient.ts
+1633117523|Samer Buna|M|/galoy/src/graphql/root/mutation/on-chain-address-create.ts
+1633117523|Samer Buna|M|/galoy/src/graphql/root/mutation/on-chain-address-current.ts
+1633117523|Samer Buna|A|/galoy/src/graphql/root/mutation/user-contact-update-alias.ts
+1633117523|Samer Buna|D|/galoy/src/graphql/root/mutation/wallet-contact-update-alias.ts
+1633117523|Samer Buna|M|/galoy/src/graphql/root/query/on-chain-tx-fee-query.ts
+1633117523|Samer Buna|A|/galoy/src/graphql/root/query/user-wallet-id.ts
+1633117523|Samer Buna|A|/galoy/src/graphql/root/query/username-available.ts
+1633117523|Samer Buna|D|/galoy/src/graphql/root/query/wallet-name-available.ts
+1633117523|Samer Buna|M|/galoy/src/graphql/types/abstract/account.ts
+1633117523|Samer Buna|M|/galoy/src/graphql/types/index.ts
+1633117523|Samer Buna|M|/galoy/src/graphql/types/object/business-account.ts
+1633117523|Samer Buna|M|/galoy/src/graphql/types/object/consumer-account.ts
+1633117523|Samer Buna|M|/galoy/src/graphql/types/object/map-marker.ts
+1633117523|Samer Buna|M|/galoy/src/graphql/types/object/user.ts
+1633117523|Samer Buna|M|/galoy/src/graphql/types/object/wallet-contact.ts
+1633117523|Samer Buna|A|/galoy/src/graphql/types/object/wallet-id-transaction.ts
+1633117523|Samer Buna|D|/galoy/src/graphql/types/object/wallet-name-transaction.ts
+1633117523|Samer Buna|A|/galoy/src/graphql/types/payload/user-contact-update-alias.ts
+1633117523|Samer Buna|D|/galoy/src/graphql/types/payload/wallet-contact-update-alias.ts
+1633117523|Samer Buna|M|/galoy/src/graphql/types/scalar/payment-initiation-method.ts
+1633117523|Samer Buna|A|/galoy/src/graphql/types/scalar/username.ts
+1633117523|Samer Buna|A|/galoy/src/graphql/types/scalar/wallet-id.ts
+1633117523|Samer Buna|D|/galoy/src/graphql/types/scalar/wallet-name.ts
+1633117523|Samer Buna|M|/galoy/src/servers/graphql-admin-server.ts
+1633117523|Samer Buna|M|/galoy/src/servers/graphql-main-server.ts
+1633117523|Samer Buna|M|/galoy/src/servers/graphql-old-server.ts
+1633117523|Samer Buna|M|/galoy/src/services/bitcoind/index.ts
+1633117523|Samer Buna|M|/galoy/src/services/ledger/index.ts
+1633117523|Samer Buna|M|/galoy/src/services/mongoose/accounts.ts
+1633117523|Samer Buna|M|/galoy/src/services/mongoose/schema.ts
+1633117523|Samer Buna|M|/galoy/src/services/mongoose/schema.types.d.ts
+1633117523|Samer Buna|M|/galoy/src/services/mongoose/users.ts
+1633117523|Samer Buna|M|/galoy/src/services/mongoose/wallets.ts
+1633117523|Samer Buna|M|/galoy/test/helpers/bitcoin-core.ts
+1633117523|Samer Buna|M|/galoy/test/integration/01-setup/01-funds-bitcoind-lnds.spec.ts
+1633117523|Samer Buna|M|/galoy/test/integration/02-user-wallet/02-invoice.spec.ts
+1633117523|Samer Buna|M|/galoy/test/integration/02-user-wallet/02-receive-onchain.spec.ts
+1633117523|Samer Buna|M|/galoy/test/integration/02-user-wallet/02-send-lightning.spec.ts
+1633117523|Samer Buna|M|/galoy/test/integration/02-user-wallet/02-send-onchain.spec.ts
+1633117523|Samer Buna|M|/galoy/test/integration/02-user-wallet/02-tx-onchain-fees.spec.ts
+1633117523|Samer Buna|M|/galoy/test/integration/core/specter-wallet.spec.ts
+1633117523|Samer Buna|M|/galoy/test/integration/graphql/admin/mutations.spec.ts
+1633117523|Samer Buna|M|/galoy/test/integration/graphql/admin/queries.spec.ts
+1633117523|Samer Buna|M|/galoy/test/integration/servers/trigger.spec.ts
+1633117523|Samer Buna|M|/galoy/test/unit/domain/errors.spec.ts
+1633117523|Samer Buna|A|/galoy/test/unit/domain/users/checked-to-username.spec.ts
+1633117523|Samer Buna|D|/galoy/test/unit/domain/wallets/checked-to-username.spec.ts
+1633117523|Samer Buna|M|/galoy/test/unit/domain/wallets/tx-history.spec.ts
+1633117523|Samer Buna|M|/galoy/src/app/accounts/index.ts
+1633117523|Samer Buna|M|/galoy/src/app/index.types.d.ts
+1633117523|Samer Buna|M|/galoy/src/app/wallets/add-invoice-for-wallet.ts
+1633117523|Samer Buna|M|/galoy/src/core/specter-wallet.ts
+1633117523|Samer Buna|A|/galoy/src/core/wallets.ts
+1633117523|Samer Buna|M|/galoy/src/domain/errors.ts
+1633117523|Samer Buna|M|/galoy/src/domain/wallets/index.ts
+1633117523|Samer Buna|M|/galoy/src/domain/wallets/index.types.d.ts
+1633117523|Samer Buna|M|/galoy/src/domain/wallets/tx-history.ts
+1633117523|Samer Buna|M|/galoy/src/graphql/root/mutation/on-chain-address-create.ts
+1633117523|Samer Buna|M|/galoy/src/graphql/root/mutation/on-chain-address-current.ts
+1633117523|Samer Buna|M|/galoy/src/graphql/root/mutation/user-contact-update-alias.ts
+1633117523|Samer Buna|M|/galoy/src/graphql/root/query/on-chain-tx-fee-query.ts
+1633117523|Samer Buna|M|/galoy/src/graphql/types/index.ts
+1633117523|Samer Buna|M|/galoy/src/graphql/types/object/wallet-id-transaction.ts
+1633117523|Samer Buna|M|/galoy/src/graphql/types/scalar/username.ts
+1633117523|Samer Buna|M|/galoy/src/servers/graphql-old-server.ts
+1633117523|Samer Buna|M|/galoy/src/services/bitcoind/index.ts
+1633117523|Samer Buna|M|/galoy/test/helpers/bitcoin-core.ts
+1633117523|Samer Buna|M|/galoy/test/integration/01-setup/01-funds-bitcoind-lnds.spec.ts
+1633117523|Samer Buna|M|/galoy/test/integration/02-user-wallet/02-receive-onchain.spec.ts
+1633117523|Samer Buna|M|/galoy/test/integration/02-user-wallet/02-send-onchain.spec.ts
+1633117523|Samer Buna|M|/galoy/test/integration/02-user-wallet/02-tx-onchain-fees.spec.ts
+1633117523|Samer Buna|M|/galoy/test/integration/core/specter-wallet.spec.ts
+1633117523|Samer Buna|M|/galoy/test/integration/servers/trigger.spec.ts
+1633117523|Samer Buna|M|/galoy/test/unit/domain/errors.spec.ts
+1633117523|Samer Buna|M|/galoy/test/unit/domain/wallets/tx-history.spec.ts
+1633117523|Samer Buna|M|/galoy/src/app/accounts/index.ts
+1633117523|Samer Buna|M|/galoy/src/app/index.types.d.ts
+1633117523|Samer Buna|M|/galoy/src/graphql/main/schema.graphql
+1633117523|Samer Buna|M|/galoy/test/integration/02-user-wallet/02-send-lightning.spec.ts
+1633117523|Samer Buna|M|/galoy/src/core/lightning/index.ts
+1633117523|Samer Buna|M|/galoy/src/core/on-chain/index.ts
+1633117523|Samer Buna|M|/galoy/src/domain/ledger/index.types.d.ts
+1633117523|Samer Buna|M|/galoy/src/services/ledger/index.ts
+1633117523|Samer Buna|M|/galoy/src/services/ledger/index.types.d.ts
+1633117523|Samer Buna|M|/galoy/test/integration/services/ledger/transaction.spec.ts
+1633120067|Samer Buna|M|/galoy/src/graphql/types/scalar/wallet-id.ts
+1633120067|Samer Buna|M|/galoy/test/integration/core/specter-wallet.spec.ts
+1633124811|Samer Buna|M|/galoy/src/graphql/root/mutation/onchain-payment-send.ts
+1633341769|bodymindarts|M|/galoy/ci/values.yml
+1633355834|bodymindarts|M|/galoy/ci/pipeline.yml
+1633363837|Samer Buna|M|/galoy/src/servers/graphql-main-server.ts
+1633381224|Samer Buna|M|/galoy/src/core/error.ts
+1633381224|Samer Buna|M|/galoy/src/graphql/root/query/user-wallet-id.ts
+1633383947|RonanJackson|M|/galoy/package.json
+1633447743|Samer Buna|M|/galoy/src/core/lightning/index.ts
+1633447743|Samer Buna|D|/galoy/src/services/redis.ts
+1633447743|Samer Buna|A|/galoy/src/services/redis/index.ts
+1633447743|Samer Buna|M|/galoy/src/services/redis/routes.ts
+1633461071|nicolasburtey|M|/galoy/README.md
+1633524756|bodymindarts|A|/galoy/Dockerfile-init
+1633524756|bodymindarts|M|/galoy/ci/pipeline.yml
+1633525893|bodymindarts|M|/galoy/ci/pipeline.yml
+1633533395|vindard|M|/galoy/src/domain/bitcoin/lightning/ln-invoice.ts
+1633533395|vindard|M|/galoy/src/services/lnd/index.ts
+1633533395|vindard|M|/galoy/test/unit/domain/bitcoin/lightning/ln-invoice.spec.ts
+1633533395|vindard|M|/galoy/src/domain/bitcoin/lightning/index.types.d.ts
+1633533395|vindard|M|/galoy/src/services/lnd/index.ts
+1633533396|vindard|M|/galoy/src/domain/bitcoin/lightning/index.types.d.ts
+1633533396|vindard|M|/galoy/src/domain/bitcoin/lightning/ln-invoice.ts
+1633533396|vindard|M|/galoy/test/unit/domain/wallet-invoices/wallet-invoice-factory.spec.ts
+1633533396|vindard|M|/galoy/src/core/utils.ts
+1633533396|vindard|M|/galoy/src/domain/bitcoin/lightning/errors.ts
+1633533396|vindard|M|/galoy/src/domain/bitcoin/lightning/index.types.d.ts
+1633533396|vindard|M|/galoy/src/services/lnd/index.ts
+1633533397|vindard|M|/galoy/src/domain/bitcoin/lightning/index.types.d.ts
+1633533397|vindard|M|/galoy/src/services/lnd/index.ts
+1633533397|vindard|M|/galoy/src/domain/bitcoin/lightning/index.types.d.ts
+1633533397|vindard|M|/galoy/src/services/lnd/index.ts
+1633533398|vindard|M|/galoy/src/domain/bitcoin/lightning/index.types.d.ts
+1633533398|vindard|M|/galoy/src/services/lnd/index.ts
+1633533398|vindard|M|/galoy/src/domain/bitcoin/lightning/index.types.d.ts
+1633533398|vindard|M|/galoy/src/services/lnd/index.ts
+1633533398|vindard|M|/galoy/src/domain/bitcoin/lightning/errors.ts
+1633533398|vindard|M|/galoy/src/domain/bitcoin/lightning/index.types.d.ts
+1633533398|vindard|M|/galoy/src/services/lnd/index.ts
+1633533399|vindard|M|/galoy/src/domain/bitcoin/lightning/index.types.d.ts
+1633533399|vindard|M|/galoy/src/services/lnd/index.ts
+1633533399|vindard|M|/galoy/src/domain/ledger/index.types.d.ts
+1633533399|vindard|M|/galoy/src/services/ledger/index.ts
+1633533400|vindard|M|/galoy/src/domain/ledger/index.types.d.ts
+1633533400|vindard|M|/galoy/src/services/ledger/index.ts
+1633533400|vindard|M|/galoy/src/domain/ledger/index.types.d.ts
+1633533400|vindard|M|/galoy/src/services/ledger/index.ts
+1633533400|vindard|M|/galoy/src/app/wallets/update-pending-payments.ts
+1633533401|vindard|M|/galoy/src/domain/bitcoin/lightning/index.types.d.ts
+1633533401|vindard|M|/galoy/src/services/lnd/index.ts
+1633533546|vindard|M|/galoy/src/core/lightning/index.ts
+1633533550|vindard|M|/galoy/src/core/lightning/index.ts
+1633536438|Juan P Lopez|A|/galoy/src/app/wallets/get-transactions-by-hash.ts
+1633536438|Juan P Lopez|M|/galoy/src/app/wallets/index.ts
+1633536438|Juan P Lopez|M|/galoy/src/domain/ledger/index.ts
+1633536438|Juan P Lopez|M|/galoy/src/domain/ledger/index.types.d.ts
+1633536438|Juan P Lopez|M|/galoy/src/domain/wallets/index.types.d.ts
+1633536438|Juan P Lopez|M|/galoy/src/domain/wallets/tx-history.ts
+1633536438|Juan P Lopez|M|/galoy/src/graphql/admin/index.ts
+1633536438|Juan P Lopez|M|/galoy/src/graphql/admin/queries.ts
+1633536438|Juan P Lopez|A|/galoy/src/graphql/admin/root/query/transactions-by-hash.ts
+1633536438|Juan P Lopez|M|/galoy/src/graphql/admin/schema.graphql
+1633536438|Juan P Lopez|M|/galoy/src/graphql/main/schema.graphql
+1633536438|Juan P Lopez|M|/galoy/src/graphql/types/abstract/transaction.ts
+1633536438|Juan P Lopez|M|/galoy/src/graphql/types/object/ln-transaction.ts
+1633536438|Juan P Lopez|M|/galoy/src/graphql/types/object/onchain-transaction.ts
+1633536438|Juan P Lopez|M|/galoy/src/graphql/types/object/wallet-id-transaction.ts
+1633536438|Juan P Lopez|M|/galoy/src/servers/graphql-admin-server.ts
+1633536438|Juan P Lopez|M|/galoy/src/services/ledger/index.ts
+1633536438|Juan P Lopez|M|/galoy/src/domain/wallets/index.types.d.ts
+1633536438|Juan P Lopez|M|/galoy/src/domain/wallets/tx-history.ts
+1633536438|Juan P Lopez|M|/galoy/test/integration/02-user-wallet/02-send-onchain.spec.ts
+1633536438|Juan P Lopez|M|/galoy/src/graphql/admin/schema.graphql
+1633536438|Juan P Lopez|M|/galoy/src/graphql/main/schema.graphql
+1633536438|Juan P Lopez|M|/galoy/src/graphql/types/abstract/transaction.ts
+1633536438|Juan P Lopez|M|/galoy/src/graphql/types/object/ln-transaction.ts
+1633536438|Juan P Lopez|M|/galoy/src/graphql/types/object/onchain-transaction.ts
+1633536438|Juan P Lopez|M|/galoy/src/services/ledger/index.ts
+1633536608|Samer Buna|M|/galoy/src/graphql/admin/schema.graphql
+1633536608|Samer Buna|M|/galoy/src/graphql/main/schema.graphql
+1633536608|Samer Buna|M|/galoy/src/graphql/types/object/ln-invoice.ts
+1633536608|Samer Buna|M|/galoy/src/graphql/types/object/ln-noamount-invoice.ts
+1633536608|Samer Buna|M|/galoy/src/graphql/types/object/ln-transaction.ts
+1633536608|Samer Buna|D|/galoy/src/graphql/types/scalar/ln-payment-hash.ts
+1633536608|Samer Buna|A|/galoy/src/graphql/types/scalar/payment-hash.ts
+1633537362|Samer Buna|M|/galoy/src/graphql/admin/root/query/transactions-by-hash.ts
+1633537362|Samer Buna|M|/galoy/src/graphql/admin/schema.graphql
+1633537380|Samer Buna|M|/galoy/src/graphql/admin/schema.graphql
+1633537380|Samer Buna|M|/galoy/src/graphql/main/schema.graphql
+1633537380|Samer Buna|M|/galoy/src/graphql/types/abstract/transaction.ts
+1633537380|Samer Buna|M|/galoy/src/graphql/types/index.ts
+1633537380|Samer Buna|A|/galoy/src/graphql/types/object/intraledger-transaction.ts
+1633537380|Samer Buna|M|/galoy/src/graphql/types/object/ln-transaction.ts
+1633537380|Samer Buna|M|/galoy/src/graphql/types/object/onchain-transaction.ts
+1633537380|Samer Buna|D|/galoy/src/graphql/types/object/wallet-id-transaction.ts
+1633538153|Samer Buna|M|/galoy/src/graphql/admin/schema.graphql
+1633538153|Samer Buna|M|/galoy/src/graphql/main/schema.graphql
+1633538153|Samer Buna|M|/galoy/src/graphql/types/object/onchain-transaction.ts
+1633542746|bodymindarts|M|/galoy/default.yaml
+1633542746|bodymindarts|M|/galoy/src/config/app.ts
+1633542746|bodymindarts|D|/galoy/src/debug/set-db-metadata.ts
+1633542746|bodymindarts|M|/galoy/src/graphql/root/query/mobile-versions.ts
+1633542746|bodymindarts|M|/galoy/src/servers/graphql-old-server.ts
+1633542746|bodymindarts|M|/galoy/src/services/local-cache.ts
+1633542804|bodymindarts|D|/galoy/Dockerfile-init
+1633542804|bodymindarts|M|/galoy/ci/pipeline.yml
+1633545696|bodymindarts|M|/galoy/default.yaml
+1633551994|Nicolas Burtey|M|/galoy/src/graphql/root/query/on-chain-tx-fee-query.ts
+1633552191|bodymindarts|M|/galoy/ci/pipeline.yml
+1633552191|bodymindarts|A|/galoy/ci/tasks/prepare-docker-build.sh
+1633552283|bodymindarts|M|/galoy/ci/tasks/prepare-docker-build.sh
+1633553569|Nicolas Burtey|M|/galoy/src/core/on-chain/index.ts
+1633554352|Samer Buna|M|/galoy/src/graphql/admin/schema.graphql
+1633554352|Samer Buna|M|/galoy/src/graphql/main/schema.graphql
+1633554352|Samer Buna|M|/galoy/src/graphql/types/abstract/transaction.ts
+1633554352|Samer Buna|M|/galoy/src/graphql/types/object/intraledger-transaction.ts
+1633554352|Samer Buna|M|/galoy/src/graphql/types/object/ln-transaction.ts
+1633554352|Samer Buna|M|/galoy/src/graphql/types/object/onchain-transaction.ts
+1633554352|Samer Buna|M|/galoy/src/graphql/types/scalar/tx-direction.ts
+1633554352|Samer Buna|M|/galoy/src/domain/wallets/index.types.d.ts
+1633554352|Samer Buna|M|/galoy/src/domain/wallets/tx-history.ts
+1633554352|Samer Buna|M|/galoy/src/domain/wallets/tx-methods.ts
+1633554352|Samer Buna|M|/galoy/src/graphql/admin/schema.graphql
+1633554352|Samer Buna|M|/galoy/src/graphql/main/schema.graphql
+1633554352|Samer Buna|M|/galoy/src/graphql/types/scalar/payment-initiation-method.ts
+1633554352|Samer Buna|M|/galoy/src/domain/wallets/index.types.d.ts
+1633554352|Samer Buna|M|/galoy/src/domain/wallets/tx-history.ts
+1633554352|Samer Buna|M|/galoy/src/graphql/admin/schema.graphql
+1633554352|Samer Buna|M|/galoy/src/graphql/main/schema.graphql
+1633554352|Samer Buna|M|/galoy/src/graphql/types/abstract/transaction.ts
+1633554352|Samer Buna|M|/galoy/src/graphql/types/object/intraledger-transaction.ts
+1633554352|Samer Buna|M|/galoy/src/graphql/types/object/ln-transaction.ts
+1633554352|Samer Buna|M|/galoy/src/graphql/types/object/onchain-transaction.ts
+1633554352|Samer Buna|M|/galoy/src/graphql/types/scalar/timestamp.ts
+1633554795|Samer Buna|M|/galoy/src/graphql/admin/schema.graphql
+1633554795|Samer Buna|M|/galoy/src/graphql/main/schema.graphql
+1633554795|Samer Buna|M|/galoy/src/graphql/types/scalar/payment-initiation-method.ts
+1633565162|vindard|M|/galoy/src/domain/bitcoin/index.ts
+1633565162|vindard|M|/galoy/src/domain/bitcoin/lightning/ln-invoice.ts
+1633565162|vindard|M|/galoy/src/services/lnd/index.ts
+1633565162|vindard|M|/galoy/test/unit/domain/routes/key-factory.spec.ts
+1633565162|vindard|M|/galoy/test/unit/domain/wallet-invoices/wallet-invoice-factory.spec.ts
+1633565164|vindard|M|/galoy/src/core/lightning/index.ts
+1633637869|Samer Buna|M|/galoy/src/graphql/types/scalar/tx-direction.ts

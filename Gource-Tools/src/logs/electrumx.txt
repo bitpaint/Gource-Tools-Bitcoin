@@ -3923,3 +3923,9 @@
 1622874219|Neil Booth|M|/electrumx/electrumx/server/env.py
 1622874219|Neil Booth|M|/electrumx/electrumx/server/session.py
 1626713438|Jeremy Rand|M|/electrumx/electrumx/lib/coins.py
+1633095278|evilmaid.crypto|M|/electrumx/README.rst
+1633095441|evilmaid.crypto|M|/electrumx/electrumx_compact_history
+1633096064|evilmaid.crypto|M|/electrumx/docs/HOWTO.rst
+1633096671|evilmaid.crypto|M|/electrumx/docs/architecture.rst
+1633096974|evilmaid.crypto|M|/electrumx/docs/index.rst
+1633097627|evilmaid.crypto|M|/electrumx/docs/environment.rst

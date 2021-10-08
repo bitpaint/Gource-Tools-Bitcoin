@@ -5083,3 +5083,14 @@
 1622377760|Jon Griffiths|M|/libwally-core/setup.py
 1625827676|Jon Griffiths|M|/libwally-core/.gitlab-ci.yml
 1625828189|Jon Griffiths|M|/libwally-core/.github/workflows/wheels.yml
+1633331446|dependabot[bot]|M|/libwally-core/src/wrap_js/yarn.lock
+1633331540|dependabot[bot]|M|/libwally-core/src/wrap_js/cordovaplugin/yarn.lock
+1633331557|dependabot[bot]|M|/libwally-core/src/wrap_js/yarn.lock
+1633331580|Jamie C. Driver|M|/libwally-core/README.md
+1633331580|Jamie C. Driver|M|/libwally-core/configure.ac
+1633331580|Jamie C. Driver|M|/libwally-core/src/bip39.c
+1633331581|Robert Pielock|M|/libwally-core/README.md
+1633331581|Bob Pielock|M|/libwally-core/README.md
+1633331581|yeqmxplusb|M|/libwally-core/src/script.c
+1633494423|Jon Griffiths|M|/libwally-core/.gitlab-ci.yml
+1633559838|Jon Griffiths|M|/libwally-core/tools/msvc/build.bat

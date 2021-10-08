@@ -1302,3 +1302,9 @@
 1633051622|David Plell|M|/sphinx-tribes/frontend/app/src/people/widgetViews/wantedView.tsx
 1633051622|David Plell|M|/sphinx-tribes/frontend/packrd/packed-packr.go
 1633108218|EvanFeenstra1|M|/sphinx-tribes/people.go
+1633233756|David Plell|M|/sphinx-tribes/frontend/app/src/people/widgetViews/parts/statusPill.tsx
+1633233756|David Plell|M|/sphinx-tribes/frontend/app/src/people/widgetViews/summaries/wantedSummary.tsx
+1633233756|David Plell|M|/sphinx-tribes/frontend/app/src/people/widgetViews/wantedView.tsx
+1633233881|David Plell|M|/sphinx-tribes/frontend/packrd/packed-packr.go
+1633234080|David Plell|M|/sphinx-tribes/frontend/app/src/people/widgetViews/parts/statusPill.tsx
+1633234080|David Plell|M|/sphinx-tribes/frontend/packrd/packed-packr.go

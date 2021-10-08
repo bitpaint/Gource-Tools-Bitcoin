@@ -2296,3 +2296,4 @@
 1632737592|Rene Pickhardt|A|/lnbook/images/LN_protocol_pathfinding_highlight.png
 1632768008|Olaoluwa Osuntokun|M|/lnbook/10_onion_routing.asciidoc
 1632995867|Andreas M. Antonopoulos|A|/lnbook/.gitattributes
+1633201409|Timo Hanke|M|/lnbook/07_payment_channels.asciidoc

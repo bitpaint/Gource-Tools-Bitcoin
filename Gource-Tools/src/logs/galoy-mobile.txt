@@ -7224,6 +7224,45 @@
 1633028413|Justin Buhl|M|/galoy-mobile/app/screens/send-bitcoin-screen/payment-confirmation-information.tsx
 1633028413|Justin Buhl|M|/galoy-mobile/app/screens/send-bitcoin-screen/send-bitcoin-confirmation-screen.tsx
 1633028413|Justin Buhl|M|/galoy-mobile/app/screens/send-bitcoin-screen/send-bitcoin-screen.tsx
+1633034464|Justin|M|/galoy-mobile/android/app/build.gradle
+1633034464|Justin|M|/galoy-mobile/android/app/proguard-rules.pro
+1633034464|Justin|M|/galoy-mobile/android/app/src/main/AndroidManifest.xml
+1633034464|Justin|A|/galoy-mobile/android/app/src/main/java/com/galoyapp/GaloyAppPackage.java
+1633034464|Justin|A|/galoy-mobile/android/app/src/main/java/com/galoyapp/GeeTestModule.java
+1633034464|Justin|M|/galoy-mobile/android/app/src/main/java/com/galoyapp/MainApplication.java
+1633034464|Justin|M|/galoy-mobile/app/i18n/en.json
+1633034464|Justin|A|/galoy-mobile/app/native-modules/GeeTestModule.ts
+1633034464|Justin|A|/galoy-mobile/app/screens/phone-auth-screen/__generated__/registerCaptcha.ts
+1633034464|Justin|M|/galoy-mobile/app/screens/phone-auth-screen/phone-auth.tsx
+1633034523|Justin Buhl|M|/galoy-mobile/ios/GaloyApp.xcodeproj/project.pbxproj
+1633034523|Justin Buhl|A|/galoy-mobile/ios/GaloyApp/RCTGeeTestModule.h
+1633034523|Justin Buhl|A|/galoy-mobile/ios/GaloyApp/RCTGeeTestModule.m
+1633034523|Justin Buhl|M|/galoy-mobile/ios/Podfile.lock
+1633034549|Justin Buhl|M|/galoy-mobile/ios/GaloyApp.xcodeproj/project.pbxproj
+1633034549|Justin Buhl|D|/galoy-mobile/ios/GaloyApp/RCTGeeTestModule.h
+1633034549|Justin Buhl|D|/galoy-mobile/ios/GaloyApp/RCTGeeTestModule.m
+1633034549|Justin Buhl|M|/galoy-mobile/ios/Podfile
+1633034549|Justin Buhl|M|/galoy-mobile/ios/Podfile.lock
+1633034549|Justin Buhl|A|/galoy-mobile/ios/RCTGeeTestModule.h
+1633034549|Justin Buhl|A|/galoy-mobile/ios/RCTGeeTestModule.m
+1633034595|Justin Buhl|M|/galoy-mobile/android/app/build.gradle
+1633034595|Justin Buhl|M|/galoy-mobile/android/app/src/main/java/com/galoyapp/GaloyAppPackage.java
+1633034595|Justin Buhl|D|/galoy-mobile/android/app/src/main/java/com/galoyapp/GeeTestModule.java
+1633034595|Justin Buhl|M|/galoy-mobile/ios/GaloyApp.xcodeproj/project.pbxproj
+1633034595|Justin Buhl|M|/galoy-mobile/ios/Podfile
+1633034595|Justin Buhl|M|/galoy-mobile/ios/Podfile.lock
+1633034595|Justin Buhl|D|/galoy-mobile/ios/RCTGeeTestModule.h
+1633034595|Justin Buhl|D|/galoy-mobile/ios/RCTGeeTestModule.m
+1633034595|Justin Buhl|M|/galoy-mobile/package.json
+1633034595|Justin Buhl|M|/galoy-mobile/yarn.lock
+1633034610|Justin Buhl|D|/galoy-mobile/app/native-modules/GeeTestModule.ts
+1633034610|Justin Buhl|M|/galoy-mobile/app/screens/phone-auth-screen/phone-auth.tsx
+1633034610|Justin Buhl|M|/galoy-mobile/ios/Podfile.lock
+1633096129|Justin Buhl|M|/galoy-mobile/app/graphql/graphql-v2-operations.ts
+1633096129|Justin Buhl|M|/galoy-mobile/app/hooks/index.ts
+1633096129|Justin Buhl|A|/galoy-mobile/app/hooks/use-geetest-captcha.ts
+1633096129|Justin Buhl|M|/galoy-mobile/app/i18n/en.json
+1633096129|Justin Buhl|M|/galoy-mobile/app/screens/phone-auth-screen/phone-auth.tsx
 1633106216|Samer Buna|M|/galoy-mobile/__tests__/screens/__snapshots__/send-bitcoin-screen.spec.tsx.snap
 1633106216|Samer Buna|M|/galoy-mobile/__tests__/screens/send-bitcoin-confirmation-screen.spec.tsx
 1633106216|Samer Buna|M|/galoy-mobile/__tests__/screens/send-bitcoin-screen.spec.tsx
@@ -7238,3 +7277,31 @@
 1633108419|Samer Buna|M|/galoy-mobile/app/screens/send-bitcoin-screen/send-bitcoin-screen.tsx
 1633109352|Justin Buhl|M|/galoy-mobile/app/hooks/use-btc-price.ts
 1633110051|Justin Buhl|M|/galoy-mobile/app/utils/date.ts
+1633375944|Justin|M|/galoy-mobile/app/hooks/use-geetest-captcha.ts
+1633375944|Justin|M|/galoy-mobile/app/i18n/en.json
+1633375944|Justin|M|/galoy-mobile/app/navigation/root-navigator.tsx
+1633375944|Justin|A|/galoy-mobile/app/screens/phone-auth-screen/phone-auth-screen.types.d.ts
+1633375944|Justin|M|/galoy-mobile/app/screens/phone-auth-screen/phone-auth.tsx
+1633378023|Justin|M|/galoy-mobile/android/app/src/main/AndroidManifest.xml
+1633378875|Justin|M|/galoy-mobile/app/screens/debug-screen/debug-screen.tsx
+1633378969|Justin|M|/galoy-mobile/app/i18n/es.json
+1633380694|Justin|M|/galoy-mobile/app/hooks/use-geetest-captcha.ts
+1633380694|Justin|M|/galoy-mobile/app/screens/phone-auth-screen/phone-auth.tsx
+1633381762|Justin|D|/galoy-mobile/android/app/src/main/java/com/galoyapp/GaloyAppPackage.java
+1633381762|Justin|M|/galoy-mobile/android/app/src/main/java/com/galoyapp/MainApplication.java
+1633381762|Justin|M|/galoy-mobile/app/screens/phone-auth-screen/phone-auth.tsx
+1633450075|Justin|M|/galoy-mobile/app/screens/contacts-screen/contacts.tsx
+1633453403|Justin Buhl|M|/galoy-mobile/android/app/build.gradle
+1633453403|Justin Buhl|M|/galoy-mobile/ios/GaloyApp.xcodeproj/project.pbxproj
+1633453403|Justin Buhl|M|/galoy-mobile/ios/GaloyApp/Info.plist
+1633458554|Juan P Lopez|M|/galoy-mobile/app/i18n/es.json
+1633465888|Justin|M|/galoy-mobile/app/screens/send-bitcoin-screen/send-bitcoin-confirmation-screen.tsx
+1633466152|Justin|M|/galoy-mobile/__tests__/screens/__snapshots__/send-bitcoin-confirmation-screen.spec.tsx.snap
+1633467246|circleci-bot|M|/galoy-mobile/android/app/build.gradle
+1633471633|Justin Buhl|M|/galoy-mobile/.circleci/config.yml
+1633471633|Justin Buhl|M|/galoy-mobile/android/app/build.gradle
+1633471633|Justin Buhl|M|/galoy-mobile/ios/GaloyApp.xcodeproj/project.pbxproj
+1633471633|Justin Buhl|M|/galoy-mobile/ios/GaloyApp/Info.plist
+1633471633|Justin Buhl|M|/galoy-mobile/ios/Podfile.lock
+1633647502|Samer Buna|M|/galoy-mobile/app/screens/phone-auth-screen/phone-auth.tsx
+1633647502|Samer Buna|M|/galoy-mobile/app/utils/network.ts

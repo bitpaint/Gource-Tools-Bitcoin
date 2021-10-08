@@ -4862,6 +4862,10 @@
 1625936225|Arc|M|/lnbits/README.md
 1625936354|Arc|M|/lnbits/README.md
 1626097951|davidfrayne|M|/lnbits/lnbits/core/templates/core/wallet.html
+1626190530|davidfrayne|M|/lnbits/lnbits/extensions/watchonly/templates/watchonly/index.html
+1626191305|davidfrayne|M|/lnbits/lnbits/extensions/watchonly/templates/watchonly/index.html
+1626200954|davidfrayne|M|/lnbits/lnbits/extensions/watchonly/templates/watchonly/index.html
+1626201234|davidfrayne|M|/lnbits/lnbits/extensions/watchonly/templates/watchonly/index.html
 1626285439|Ben Arc|A|/lnbits/lnbits/extensions/lnurlflip/README.md
 1626285439|Ben Arc|A|/lnbits/lnbits/extensions/lnurlflip/__init__.py
 1626285439|Ben Arc|A|/lnbits/lnbits/extensions/lnurlflip/config.json
@@ -5039,6 +5043,11 @@
 1628592004|fiatjaf|M|/lnbits/lnbits/extensions/streamalerts/migrations.py
 1628593911|fiatjaf|M|/lnbits/lnbits/core/templates/core/wallet.html
 1628681636|Ben Arc|M|/lnbits/lnbits/extensions/streamalerts/migrations.py
+1628683713|davidfrayne|M|/lnbits/lnbits/core/templates/core/extensions.html
+1628683713|davidfrayne|M|/lnbits/lnbits/extensions/jukebox/config.json
+1628685193|davidfrayne|M|/lnbits/lnbits/core/templates/core/extensions.html
+1628685193|davidfrayne|M|/lnbits/lnbits/extensions/jukebox/config.json
+1628685193|davidfrayne|M|/lnbits/lnbits/static/js/components.js
 1628688182|fiatjaf|M|/lnbits/lnbits/extensions/streamalerts/migrations.py
 1628692747|Ben Arc|M|/lnbits/lnbits/extensions/satsdice/crud.py
 1628692747|Ben Arc|M|/lnbits/lnbits/extensions/satsdice/migrations.py
@@ -5123,6 +5132,17 @@
 1629801009|Tiago vasconcelos|M|/lnbits/lnbits/extensions/satsdice/migrations.py
 1629801098|Tiago vasconcelos|M|/lnbits/lnbits/extensions/satsdice/templates/satsdice/index.html
 1629801156|Tiago vasconcelos|M|/lnbits/lnbits/extensions/satsdice/crud.py
+1629833030|Fitti|A|/lnbits/lnbits/extensions/tipjar/README.md
+1629833030|Fitti|A|/lnbits/lnbits/extensions/tipjar/__init__.py
+1629833030|Fitti|A|/lnbits/lnbits/extensions/tipjar/config.json
+1629833030|Fitti|A|/lnbits/lnbits/extensions/tipjar/crud.py
+1629833030|Fitti|A|/lnbits/lnbits/extensions/tipjar/migrations.py
+1629833030|Fitti|A|/lnbits/lnbits/extensions/tipjar/models.py
+1629833030|Fitti|A|/lnbits/lnbits/extensions/tipjar/templates/tipjar/_api_docs.html
+1629833030|Fitti|A|/lnbits/lnbits/extensions/tipjar/templates/tipjar/display.html
+1629833030|Fitti|A|/lnbits/lnbits/extensions/tipjar/templates/tipjar/index.html
+1629833030|Fitti|A|/lnbits/lnbits/extensions/tipjar/views.py
+1629833030|Fitti|A|/lnbits/lnbits/extensions/tipjar/views_api.py
 1629898386|Ben Arc|M|/lnbits/lnbits/extensions/satsdice/crud.py
 1629898386|Ben Arc|M|/lnbits/lnbits/extensions/satsdice/lnurl.py
 1629898386|Ben Arc|M|/lnbits/lnbits/extensions/satsdice/templates/satsdice/display.html
@@ -5149,10 +5169,20 @@
 1630013579|benarc|M|/lnbits/lnbits/extensions/satsdice/templates/satsdice/display.html
 1630013579|benarc|M|/lnbits/lnbits/extensions/satsdice/templates/satsdice/displaywin.html
 1630604041|Tiago vasconcelos|M|/lnbits/lnbits/wallets/spark.py
+1631019061|Fitti|M|/lnbits/lnbits/extensions/tipjar/crud.py
+1631019061|Fitti|M|/lnbits/lnbits/extensions/tipjar/migrations.py
+1631019061|Fitti|M|/lnbits/lnbits/extensions/tipjar/models.py
 1631019876|Fitti|M|/lnbits/docs/devs/installation.md
 1631135110|Joe|M|/lnbits/lnbits/core/views/api.py
 1631183017|Tiago vasconcelos|M|/lnbits/lnbits/utils/exchange_rates.py
 1631188215|benarc|M|/lnbits/lnbits/core/templates/core/wallet.html
+1631195363|Fitti|M|/lnbits/lnbits/extensions/tipjar/crud.py
+1631195363|Fitti|M|/lnbits/lnbits/extensions/tipjar/models.py
+1631195363|Fitti|M|/lnbits/lnbits/extensions/tipjar/views_api.py
+1631195601|Fitti|M|/lnbits/lnbits/extensions/tipjar/crud.py
+1631195601|Fitti|M|/lnbits/lnbits/extensions/tipjar/views.py
+1631195750|Fitti|M|/lnbits/lnbits/extensions/tipjar/templates/tipjar/_api_docs.html
+1631279430|Sebastian Andersson|M|/lnbits/lnbits/core/templates/core/_api_docs.html
 1631549478|Mário Havel|M|/lnbits/docs/guide/installation.md
 1631612104|Tiago vasconcelos|M|/lnbits/lnbits/wallets/void.py
 1631713060|benarc|A|/lnbits/lnbits/extensions/lnurlpos/README.md
@@ -5204,6 +5234,12 @@
 1632558050|benarc|M|/lnbits/lnbits/extensions/satsdice/views.py
 1632563689|benarc|M|/lnbits/lnbits/core/crud.py
 1632563689|benarc|M|/lnbits/lnbits/core/views/api.py
+1632595592|Fitti|M|/lnbits/lnbits/extensions/tipjar/crud.py
+1632595592|Fitti|A|/lnbits/lnbits/extensions/tipjar/helpers.py
+1632595592|Fitti|M|/lnbits/lnbits/extensions/tipjar/views_api.py
+1632596560|Fitti|M|/lnbits/lnbits/extensions/tipjar/views_api.py
+1632597462|Fitti|M|/lnbits/lnbits/extensions/tipjar/templates/tipjar/display.html
+1632597462|Fitti|M|/lnbits/lnbits/extensions/tipjar/views.py
 1632680249|Ben Arc|M|/lnbits/lnbits/extensions/copilot/config.json
 1632680249|Ben Arc|M|/lnbits/lnbits/extensions/example/config.json
 1632680249|Ben Arc|M|/lnbits/lnbits/extensions/jukebox/config.json
@@ -5212,4 +5248,21 @@
 1632680249|Ben Arc|M|/lnbits/lnbits/extensions/streamalerts/config.json
 1632753863|Ben Arc|M|/lnbits/lnbits/extensions/lnurlpos/crud.py
 1632753863|Ben Arc|M|/lnbits/lnbits/extensions/lnurlpos/templates/lnurlpos/index.html
+1632781216|Fitti|M|/lnbits/lnbits/extensions/tipjar/templates/tipjar/display.html
+1632781216|Fitti|M|/lnbits/lnbits/extensions/tipjar/templates/tipjar/index.html
+1632783567|Fitti|M|/lnbits/lnbits/extensions/tipjar/crud.py
+1632783567|Fitti|M|/lnbits/lnbits/extensions/tipjar/helpers.py
+1632783567|Fitti|M|/lnbits/lnbits/extensions/tipjar/migrations.py
+1632783567|Fitti|M|/lnbits/lnbits/extensions/tipjar/templates/tipjar/display.html
+1632783567|Fitti|M|/lnbits/lnbits/extensions/tipjar/templates/tipjar/index.html
+1632783567|Fitti|M|/lnbits/lnbits/extensions/tipjar/views_api.py
+1632784160|Fitti|M|/lnbits/lnbits/extensions/tipjar/README.md
+1632787753|Fitti|M|/lnbits/lnbits/extensions/tipjar/templates/tipjar/display.html
 1632916172|Ben Arc|M|/lnbits/lnbits/extensions/lnticket/views_api.py
+1633160472|Fitti|M|/lnbits/lnbits/extensions/tipjar/views_api.py
+1633595355|Arc|M|/lnbits/lnbits/core/templates/core/extensions.html
+1633595355|Arc|M|/lnbits/lnbits/extensions/jukebox/config.json
+1633595355|Arc|M|/lnbits/lnbits/static/js/components.js
+1633597691|Fitti|M|/lnbits/lnbits/extensions/tipjar/crud.py
+1633607374|benarc|M|/lnbits/lnbits/core/templates/core/_api_docs.html
+1633607374|benarc|M|/lnbits/lnbits/core/views/api.py

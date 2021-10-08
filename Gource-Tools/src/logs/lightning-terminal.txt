@@ -3085,3 +3085,6 @@
 1626474447|jamaljsr|A|/lightning-terminal/LICENSE
 1628865170|Graham Krizek|M|/lightning-terminal/terminal.go
 1631729420|Oliver Gugger|M|/lightning-terminal/README.md
+1633554309|Olaoluwa Osuntokun|M|/lightning-terminal/README.md
+1633554309|Olaoluwa Osuntokun|M|/lightning-terminal/go.mod
+1633554309|Olaoluwa Osuntokun|M|/lightning-terminal/go.sum

@@ -2932,3 +2932,9 @@
 1632785352|Gigi|A|/dergigi.github.io/collections/_posts/2021-09-27-people.markdown
 1633035369|Gigi|M|/dergigi.github.io/support.md
 1633035719|Gigi|M|/dergigi.github.io/support.md
+1633211756|Gigi|M|/dergigi.github.io/collections/bitcoin/_posts/2019-11-21-bitcoin-boots-on-the-ground-venezuela.markdown
+1633428045|Gigi|M|/dergigi.github.io/index.html
+1633428711|Gigi|M|/dergigi.github.io/_includes/footer.html
+1633445427|Gigi|M|/dergigi.github.io/collections/bitcoin/_posts/2021-01-14-bitcoin-is-time.md
+1633502446|Gigi|A|/dergigi.github.io/assets/files/seetee-onepager.pdf
+1633545081|Gigi|M|/dergigi.github.io/collections/bitcoin/_posts/2019-08-07-proof-of-life.markdown

@@ -1298,3 +1298,9 @@
 1629401849|Mayank Chhabra|M|/umbrel-dashboard/src/global-styles/custom.scss
 1629401849|Mayank Chhabra|M|/umbrel-dashboard/src/store/modules/system.js
 1629459104|Luke Childs|M|/umbrel-dashboard/package.json
+1633640885|Lounès Ksouri|M|/umbrel-dashboard/src/components/ConnectWallet/Wallets/ZapAndroid.vue
+1633640937|Luke Childs|M|/umbrel-dashboard/package.json
+1633690103|Mayank Chhabra|M|/umbrel-dashboard/src/components/Utility/InputCopy.vue
+1633690103|Mayank Chhabra|M|/umbrel-dashboard/src/views/AppStoreApp.vue
+1633697121|Luke Childs|M|/umbrel-dashboard/src/components/ConnectWallet/Wallets/ZapAndroid.vue
+1633697130|Luke Childs|M|/umbrel-dashboard/package.json

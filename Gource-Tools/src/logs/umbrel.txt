@@ -1267,3 +1267,81 @@
 1632774669|Luke Childs|M|/umbrel/apps/photoprism/docker-compose.yml
 1632774669|Luke Childs|M|/umbrel/apps/samourai-server/docker-compose.yml
 1632852565|Michael Mayer|M|/umbrel/apps/photoprism/docker-compose.yml
+1633254706|Luke Childs|M|/umbrel/docker-compose.yml
+1633254706|Luke Childs|M|/umbrel/templates/bitcoin-sample.conf
+1633269307|Luke Childs|M|/umbrel/docker-compose.yml
+1633269307|Luke Childs|M|/umbrel/scripts/configure
+1633269307|Luke Childs|M|/umbrel/scripts/update/01-run.sh
+1633269307|Luke Childs|M|/umbrel/templates/electrs-sample.toml
+1633269392|sgmoore|M|/umbrel/README.md
+1633272483|Jonathan Zernik|M|/umbrel/apps/registry.json
+1633279173|Luke Childs|M|/umbrel/apps/registry.json
+1633285906|nolim1t|M|/umbrel/apps/registry.json
+1633285906|nolim1t|M|/umbrel/apps/specter-desktop/docker-compose.yml
+1633286094|Luke Childs|M|/umbrel/apps/registry.json
+1633368650|Luke Childs|M|/umbrel/apps/photoprism/docker-compose.yml
+1633368650|Luke Childs|M|/umbrel/apps/registry.json
+1633368650|Luke Childs|M|/umbrel/apps/specter-desktop/docker-compose.yml
+1633368650|Luke Childs|M|/umbrel/docker-compose.yml
+1633368650|Luke Childs|M|/umbrel/scripts/configure
+1633368650|Luke Childs|M|/umbrel/scripts/update/01-run.sh
+1633368650|Luke Childs|M|/umbrel/templates/bitcoin-sample.conf
+1633368650|Luke Childs|M|/umbrel/templates/electrs-sample.toml
+1633369247|Luke Childs|M|/umbrel/docker-compose.yml
+1633369865|Luke Childs|M|/umbrel/README.md
+1633369865|Luke Childs|M|/umbrel/info.json
+1633436130|Luke Childs|M|/umbrel/apps/photoprism/docker-compose.yml
+1633436130|Luke Childs|M|/umbrel/apps/registry.json
+1633436130|Luke Childs|M|/umbrel/apps/specter-desktop/docker-compose.yml
+1633436130|Luke Childs|M|/umbrel/docker-compose.yml
+1633436130|Luke Childs|M|/umbrel/scripts/configure
+1633436130|Luke Childs|M|/umbrel/scripts/update/01-run.sh
+1633436130|Luke Childs|M|/umbrel/templates/bitcoin-sample.conf
+1633436130|Luke Childs|M|/umbrel/templates/electrs-sample.toml
+1633436451|Jonathan Zernik|M|/umbrel/scripts/configure
+1633436451|Jonathan Zernik|M|/umbrel/templates/.env-sample
+1633436451|Jonathan Zernik|M|/umbrel/templates/torrc-apps-3-sample
+1633440146|Felipe Knorr Kuhn|M|/umbrel/apps/mempool/docker-compose.yml
+1633440146|Felipe Knorr Kuhn|M|/umbrel/apps/registry.json
+1633531338|Luke Childs|M|/umbrel/apps/lnbits/docker-compose.yml
+1633531338|Luke Childs|M|/umbrel/apps/registry.json
+1633532068|Luke Childs|M|/umbrel/apps/pi-hole/docker-compose.yml
+1633532068|Luke Childs|M|/umbrel/apps/registry.json
+1633532301|Luke Childs|M|/umbrel/apps/registry.json
+1633532301|Luke Childs|M|/umbrel/apps/ride-the-lightning/docker-compose.yml
+1633534086|Jonathan Zernik|M|/umbrel/apps/registry.json
+1633534086|Jonathan Zernik|M|/umbrel/apps/squeaknode/docker-compose.yml
+1633534471|Luke Childs|M|/umbrel/apps/registry.json
+1633534471|Luke Childs|M|/umbrel/apps/thunderhub/docker-compose.yml
+1633637535|Lounès Ksouri|M|/umbrel/apps/registry.json
+1633637535|Lounès Ksouri|M|/umbrel/apps/samourai-server/docker-compose.yml
+1633637535|Lounès Ksouri|D|/umbrel/apps/samourai-server/mysql/db-scripts/1_db.sql
+1633637535|Lounès Ksouri|D|/umbrel/apps/samourai-server/mysql/mysql-dojo.cnf
+1633637535|Lounès Ksouri|D|/umbrel/apps/samourai-server/mysql/update-db.sh
+1633637535|Lounès Ksouri|M|/umbrel/scripts/update/01-run.sh
+1633637535|Lounès Ksouri|M|/umbrel/templates/bitcoin-sample.conf
+1633684308|Oren Zomer|A|/umbrel/apps/node-red/data/admin-credentials.json
+1633684308|Oren Zomer|A|/umbrel/apps/node-red/data/flows.json
+1633684308|Oren Zomer|A|/umbrel/apps/node-red/data/settings.js
+1633684308|Oren Zomer|A|/umbrel/apps/node-red/docker-compose.yml
+1633684308|Oren Zomer|M|/umbrel/apps/registry.json
+1633684308|Oren Zomer|M|/umbrel/scripts/configure
+1633684308|Oren Zomer|M|/umbrel/templates/.env-sample
+1633684308|Oren Zomer|M|/umbrel/templates/torrc-apps-3-sample
+1633690138|rorp|A|/umbrel/apps/krystal-bull/data/oracleserver/.gitkeep
+1633690138|rorp|A|/umbrel/apps/krystal-bull/docker-compose.yml
+1633690138|rorp|M|/umbrel/apps/registry.json
+1633690138|rorp|M|/umbrel/scripts/configure
+1633690138|rorp|M|/umbrel/templates/.env-sample
+1633690138|rorp|M|/umbrel/templates/torrc-apps-3-sample
+1633692408|Mayank Chhabra|M|/umbrel/apps/registry.json
+1633694056|Luke Childs|M|/umbrel/apps/registry.json
+1633696856|kibotrel|A|/umbrel/apps/lnmarkets/docker-compose.yml
+1633696856|kibotrel|M|/umbrel/apps/registry.json
+1633696856|kibotrel|M|/umbrel/scripts/configure
+1633696856|kibotrel|M|/umbrel/templates/.env-sample
+1633696856|kibotrel|M|/umbrel/templates/torrc-apps-3-sample
+1633698990|Luke Childs|M|/umbrel/apps/registry.json
+1633698990|Luke Childs|M|/umbrel/apps/ride-the-lightning/docker-compose.yml
+1633699453|Luke Childs|M|/umbrel/docker-compose.yml
+1633699509|Luke Childs|M|/umbrel/docker-compose.yml

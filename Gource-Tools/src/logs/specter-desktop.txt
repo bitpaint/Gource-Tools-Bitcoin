@@ -5197,3 +5197,18 @@
 1632830679|Kim Neunert|M|/specter-desktop/tests/elements_gitrev_pinned
 1632912969|Kim Neunert|M|/specter-desktop/pytest.ini
 1632912969|Kim Neunert|M|/specter-desktop/tests/test_specter.py
+1633275600|dependabot[bot]|M|/specter-desktop/package-lock.json
+1633340277|benk10|M|/specter-desktop/src/cryptoadvance/specter/server_endpoints/settings.py
+1633511749|Stepan Snigirev|M|/specter-desktop/src/cryptoadvance/specter/server_endpoints/wallets.py
+1633519512|Kim Neunert|M|/specter-desktop/pyinstaller/electron/error_logs.html
+1633519512|Kim Neunert|M|/specter-desktop/pyinstaller/electron/helpers.js
+1633519512|Kim Neunert|M|/specter-desktop/pyinstaller/electron/package-lock.json
+1633519512|Kim Neunert|M|/specter-desktop/pyinstaller/electron/package.json
+1633519512|Kim Neunert|M|/specter-desktop/src/cryptoadvance/specter/config.py
+1633519512|Kim Neunert|M|/specter-desktop/src/cryptoadvance/specter/helpers.py
+1633519512|Kim Neunert|M|/specter-desktop/src/cryptoadvance/specter/node.py
+1633519512|Kim Neunert|M|/specter-desktop/src/cryptoadvance/specter/persistence.py
+1633519512|Kim Neunert|M|/specter-desktop/src/cryptoadvance/specter/rpc.py
+1633519512|Kim Neunert|M|/specter-desktop/src/cryptoadvance/specter/util/bitcoind_setup_tasks.py
+1633519512|Kim Neunert|M|/specter-desktop/tests/test_rpc.py
+1633519512|Kim Neunert|M|/specter-desktop/utils/release.sh

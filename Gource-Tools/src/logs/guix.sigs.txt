@@ -409,3 +409,7 @@
 1632309313|user|A|/guix.sigs/22.0/CoinForensics/noncodesigned.SHA256SUMS.asc
 1632310989|user|A|/guix.sigs/22.0/CoinForensics/all.SHA256SUMS
 1632310989|user|A|/guix.sigs/22.0/CoinForensics/all.SHA256SUMS.asc
+1633448049|Luke Dashjr|A|/guix.sigs/22.0/luke-jr/all.SHA256SUMS
+1633448049|Luke Dashjr|A|/guix.sigs/22.0/luke-jr/all.SHA256SUMS.asc
+1633448049|Luke Dashjr|A|/guix.sigs/22.0/luke-jr/noncodesigned.SHA256SUMS
+1633448049|Luke Dashjr|A|/guix.sigs/22.0/luke-jr/noncodesigned.SHA256SUMS.asc

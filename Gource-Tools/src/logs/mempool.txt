@@ -6126,3 +6126,30 @@
 1633059308|Miguel Medeiros|M|/mempool/frontend/src/app/components/incoming-transactions-graph/incoming-transactions-graph.component.ts
 1633059308|Miguel Medeiros|M|/mempool/frontend/src/app/components/mempool-graph/mempool-graph.component.ts
 1633110320|softsimon|M|/mempool/README.md
+1633394244|softsimon|M|/mempool/backend/src/api/mempool-blocks.ts
+1633394244|softsimon|M|/mempool/frontend/src/app/components/mempool-blocks/mempool-blocks.component.ts
+1633432121|softsimon|M|/mempool/frontend/src/app/dashboard/dashboard.component.html
+1633434028|softsimon|M|/mempool/frontend/src/app/components/mempool-blocks/mempool-blocks.component.ts
+1633509361|wiz|M|/mempool/frontend/src/robots.txt
+1633627205|Miguel Medeiros|M|/mempool/frontend/src/app/components/mempool-graph/mempool-graph.component.ts
+1633627205|Miguel Medeiros|M|/mempool/frontend/src/app/components/statistics/statistics.component.html
+1633627205|Miguel Medeiros|M|/mempool/frontend/src/app/components/television/television.component.html
+1633627205|Miguel Medeiros|M|/mempool/frontend/src/app/components/mempool-graph/mempool-graph.component.ts
+1633627205|Miguel Medeiros|M|/mempool/frontend/src/app/components/statistics/statistics.component.html
+1633627205|Miguel Medeiros|M|/mempool/frontend/src/app/components/statistics/statistics.component.scss
+1633627205|Miguel Medeiros|M|/mempool/frontend/src/app/components/statistics/statistics.component.ts
+1633627205|Miguel Medeiros|M|/mempool/frontend/src/app/components/television/television.component.html
+1633627206|Miguel Medeiros|M|/mempool/frontend/src/app/components/statistics/statistics.component.html
+1633627206|Miguel Medeiros|M|/mempool/frontend/src/app/app.module.ts
+1633627206|Miguel Medeiros|M|/mempool/frontend/src/app/components/statistics/statistics.component.html
+1633627206|Miguel Medeiros|M|/mempool/frontend/src/app/components/statistics/statistics.component.scss
+1633627206|Miguel Medeiros|M|/mempool/frontend/src/app/components/statistics/statistics.component.ts
+1633627206|Miguel Medeiros|M|/mempool/frontend/src/app/components/television/television.component.html
+1633633401|Miguel Medeiros|M|/mempool/frontend/src/app/components/mempool-graph/mempool-graph.component.ts
+1633633401|Miguel Medeiros|M|/mempool/frontend/src/app/components/statistics/statistics.component.html
+1633633401|Miguel Medeiros|M|/mempool/frontend/src/app/components/statistics/statistics.component.ts
+1633634397|Miguel Medeiros|M|/mempool/frontend/src/app/components/mempool-graph/mempool-graph.component.ts
+1633634397|Miguel Medeiros|M|/mempool/frontend/src/styles.scss
+1633685001|wiz|M|/mempool/frontend/src/index.bisq.html
+1633685001|wiz|M|/mempool/frontend/src/index.liquid.html
+1633685001|wiz|M|/mempool/frontend/src/index.mempool.html

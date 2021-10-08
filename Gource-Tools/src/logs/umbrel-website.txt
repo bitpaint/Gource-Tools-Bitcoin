@@ -536,3 +536,14 @@
 1632919487|Mayank Chhabra|A|/umbrel-website/images/why-personal-server-2-p-130x130q80.png
 1632919487|Mayank Chhabra|M|/umbrel-website/index.html
 1632919487|Mayank Chhabra|M|/umbrel-website/js/webflow.js
+1633376343|Luke Childs|M|/umbrel-website/index.html
+1633627087|Mayank Chhabra|M|/umbrel-website/css/getumbrel-v4-8f3cd21f55a27a7da496773f30.webflow.css
+1633627087|Mayank Chhabra|M|/umbrel-website/images/icon_11.svg
+1633627087|Mayank Chhabra|M|/umbrel-website/images/icon_12.svg
+1633627087|Mayank Chhabra|M|/umbrel-website/images/icon_19.svg
+1633627087|Mayank Chhabra|M|/umbrel-website/images/icon_20.svg
+1633627087|Mayank Chhabra|M|/umbrel-website/images/icon_3.svg
+1633627087|Mayank Chhabra|M|/umbrel-website/images/icon_4.svg
+1633627087|Mayank Chhabra|M|/umbrel-website/images/icon_5.svg
+1633627087|Mayank Chhabra|M|/umbrel-website/images/icon_6.svg
+1633627087|Mayank Chhabra|M|/umbrel-website/index.html
