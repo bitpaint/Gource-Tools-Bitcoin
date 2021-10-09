@@ -4304,3 +4304,4 @@
 1633106530|Dennis Reimann|M|/btcpayserver-doc/docs/Contribute/DevTest.md
 1633106530|Dennis Reimann|M|/btcpayserver-doc/docs/FAQ/Synchronization.md
 1633337977|d11n|M|/btcpayserver-doc/docs/.vuepress/config.js
+1633767180|Thiago Locks|M|/btcpayserver-doc/docs/CustomIntegration.md

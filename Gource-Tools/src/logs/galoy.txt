@@ -9519,4 +9519,26 @@
 1633565162|vindard|M|/galoy/test/unit/domain/routes/key-factory.spec.ts
 1633565162|vindard|M|/galoy/test/unit/domain/wallet-invoices/wallet-invoice-factory.spec.ts
 1633565164|vindard|M|/galoy/src/core/lightning/index.ts
+1633611846|vindard|A|/galoy/src/app/users/add-new-contact.ts
+1633611846|vindard|M|/galoy/src/domain/errors.ts
+1633611955|vindard|M|/galoy/src/core/lightning/index.ts
+1633611957|vindard|M|/galoy/src/core/utils.ts
 1633637869|Samer Buna|M|/galoy/src/graphql/types/scalar/tx-direction.ts
+1633638311|vindard|M|/galoy/test/integration/02-user-wallet/02-send-lightning.spec.ts
+1633638444|vindard|M|/galoy/src/services/mongoose/users.ts
+1633638451|vindard|M|/galoy/src/app/users/add-new-contact.ts
+1633645816|Juan P Lopez|M|/galoy/src/servers/graphql-old-server.ts
+1633658058|Juan P Lopez|M|/galoy/src/app/lightning/index.ts
+1633658058|Juan P Lopez|A|/galoy/src/app/lightning/lookup-invoice-by-hash.ts
+1633658058|Juan P Lopez|M|/galoy/src/domain/bitcoin/lightning/index.types.d.ts
+1633658058|Juan P Lopez|M|/galoy/src/graphql/admin/queries.ts
+1633658058|Juan P Lopez|A|/galoy/src/graphql/admin/root/query/lightning-invoice.ts
+1633658058|Juan P Lopez|M|/galoy/src/graphql/admin/schema.graphql
+1633658058|Juan P Lopez|A|/galoy/src/graphql/admin/types/object/lightning-invoice.ts
+1633658058|Juan P Lopez|M|/galoy/src/servers/graphql-admin-server.ts
+1633658058|Juan P Lopez|M|/galoy/src/services/lnd/index.ts
+1633658264|Juan P Lopez|M|/galoy/src/graphql/admin/root/query/lightning-invoice.ts
+1633658264|Juan P Lopez|M|/galoy/src/graphql/admin/schema.graphql
+1633660261|Juan P Lopez|M|/galoy/src/app/lightning/lookup-invoice-by-hash.ts
+1633660261|Juan P Lopez|M|/galoy/src/domain/bitcoin/lightning/index.types.d.ts
+1633660261|Juan P Lopez|M|/galoy/src/services/lnd/index.ts

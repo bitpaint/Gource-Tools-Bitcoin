@@ -1345,3 +1345,5 @@
 1633698990|Luke Childs|M|/umbrel/apps/ride-the-lightning/docker-compose.yml
 1633699453|Luke Childs|M|/umbrel/docker-compose.yml
 1633699509|Luke Childs|M|/umbrel/docker-compose.yml
+1633701811|Luke Childs|M|/umbrel/README.md
+1633701811|Luke Childs|M|/umbrel/info.json

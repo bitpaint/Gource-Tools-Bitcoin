@@ -1,0 +1,320 @@
+1444167266|Olaoluwa Osuntokun|A|/lightning-onion/hornet.go
+1444167378|Olaoluwa Osuntokun|M|/lightning-onion/hornet.go
+1452914422|Olaoluwa Osuntokun|M|/lightning-onion/hornet.go
+1452914422|Olaoluwa Osuntokun|A|/lightning-onion/notes.txt
+1452914425|Olaoluwa Osuntokun|M|/lightning-onion/hornet.go
+1452914425|Olaoluwa Osuntokun|A|/lightning-onion/sphinx.go
+1452914425|Olaoluwa Osuntokun|M|/lightning-onion/sphinx.go
+1452914425|Olaoluwa Osuntokun|M|/lightning-onion/hornet.go
+1452914425|Olaoluwa Osuntokun|M|/lightning-onion/sphinx.go
+1452914425|Olaoluwa Osuntokun|M|/lightning-onion/sphinx.go
+1452914425|Olaoluwa Osuntokun|M|/lightning-onion/sphinx.go
+1452914425|Olaoluwa Osuntokun|A|/lightning-onion/lionness.go
+1452914425|Olaoluwa Osuntokun|A|/lightning-onion/lionness_test.go
+1452914425|Olaoluwa Osuntokun|M|/lightning-onion/sphinx.go
+1452914426|Olaoluwa Osuntokun|M|/lightning-onion/lionness.go
+1452914426|Olaoluwa Osuntokun|M|/lightning-onion/sphinx.go
+1452914426|Olaoluwa Osuntokun|M|/lightning-onion/sphinx.go
+1452914426|Olaoluwa Osuntokun|M|/lightning-onion/sphinx.go
+1452914426|Olaoluwa Osuntokun|M|/lightning-onion/sphinx.go
+1452914426|Olaoluwa Osuntokun|M|/lightning-onion/hornet.go
+1452914426|Olaoluwa Osuntokun|M|/lightning-onion/sphinx.go
+1452914426|Olaoluwa Osuntokun|M|/lightning-onion/sphinx.go
+1452914426|Olaoluwa Osuntokun|M|/lightning-onion/sphinx.go
+1452914427|Olaoluwa Osuntokun|M|/lightning-onion/sphinx.go
+1452914427|Olaoluwa Osuntokun|M|/lightning-onion/sphinx.go
+1452914427|Olaoluwa Osuntokun|A|/lightning-onion/sphinx_test.go
+1452914427|Olaoluwa Osuntokun|M|/lightning-onion/sphinx.go
+1452914427|Olaoluwa Osuntokun|M|/lightning-onion/sphinx.go
+1452914427|Olaoluwa Osuntokun|M|/lightning-onion/sphinx.go
+1452914427|Olaoluwa Osuntokun|M|/lightning-onion/sphinx.go
+1452914427|Olaoluwa Osuntokun|M|/lightning-onion/sphinx.go
+1452914427|Olaoluwa Osuntokun|M|/lightning-onion/sphinx_test.go
+1452914427|Olaoluwa Osuntokun|M|/lightning-onion/sphinx.go
+1452914427|Olaoluwa Osuntokun|M|/lightning-onion/sphinx.go
+1452914427|Olaoluwa Osuntokun|M|/lightning-onion/sphinx.go
+1452914428|Olaoluwa Osuntokun|M|/lightning-onion/sphinx.go
+1452914428|Olaoluwa Osuntokun|M|/lightning-onion/sphinx.go
+1452914428|Olaoluwa Osuntokun|M|/lightning-onion/sphinx_test.go
+1452914428|Olaoluwa Osuntokun|M|/lightning-onion/sphinx_test.go
+1452914428|Olaoluwa Osuntokun|M|/lightning-onion/sphinx.go
+1452932584|Olaoluwa Osuntokun|A|/lightning-onion/README.md
+1452932942|Olaoluwa Osuntokun|A|/lightning-onion/LICENSE
+1452932942|Olaoluwa Osuntokun|M|/lightning-onion/README.md
+1453065222|Olaoluwa Osuntokun|M|/lightning-onion/hornet.go
+1453065222|Olaoluwa Osuntokun|D|/lightning-onion/notes.txt
+1474407913|Olaoluwa Osuntokun|M|/lightning-onion/hornet.go
+1474407913|Olaoluwa Osuntokun|M|/lightning-onion/lionness.go
+1474407913|Olaoluwa Osuntokun|M|/lightning-onion/lionness_test.go
+1474407913|Olaoluwa Osuntokun|M|/lightning-onion/sphinx.go
+1474407913|Olaoluwa Osuntokun|M|/lightning-onion/sphinx_test.go
+1474407917|Olaoluwa Osuntokun|A|/lightning-onion/error.go
+1474407917|Olaoluwa Osuntokun|M|/lightning-onion/sphinx.go
+1474407920|Olaoluwa Osuntokun|M|/lightning-onion/sphinx.go
+1474407920|Olaoluwa Osuntokun|M|/lightning-onion/sphinx_test.go
+1474407923|Olaoluwa Osuntokun|M|/lightning-onion/sphinx.go
+1474407923|Olaoluwa Osuntokun|M|/lightning-onion/sphinx_test.go
+1474407927|Olaoluwa Osuntokun|M|/lightning-onion/sphinx_test.go
+1474407930|Olaoluwa Osuntokun|M|/lightning-onion/sphinx_test.go
+1474407934|Olaoluwa Osuntokun|M|/lightning-onion/sphinx.go
+1474407937|Olaoluwa Osuntokun|M|/lightning-onion/hornet.go
+1474407944|Olaoluwa Osuntokun|M|/lightning-onion/sphinx.go
+1474407944|Olaoluwa Osuntokun|M|/lightning-onion/sphinx_test.go
+1474408268|Olaoluwa Osuntokun|M|/lightning-onion/sphinx.go
+1474412122|Olaoluwa Osuntokun|M|/lightning-onion/hornet.go
+1474628238|Christian Decker|M|/lightning-onion/sphinx.go
+1477001110|Olaoluwa Osuntokun|A|/lightning-onion/.travis.yml
+1477001372|Olaoluwa Osuntokun|M|/lightning-onion/.travis.yml
+1477042143|Christian Decker|A|/lightning-onion/cmd/main.go
+1477042143|Christian Decker|D|/lightning-onion/lionness.go
+1477042143|Christian Decker|D|/lightning-onion/lionness_test.go
+1477042143|Christian Decker|M|/lightning-onion/sphinx.go
+1477042143|Christian Decker|M|/lightning-onion/sphinx_test.go
+1477063355|Christian Decker|M|/lightning-onion/sphinx.go
+1477063355|Christian Decker|M|/lightning-onion/sphinx_test.go
+1477064887|Christian Decker|M|/lightning-onion/cmd/main.go
+1477064887|Christian Decker|M|/lightning-onion/sphinx.go
+1477064887|Christian Decker|M|/lightning-onion/sphinx_test.go
+1477282567|Olaoluwa Osuntokun|A|/lightning-onion/bench_test.go
+1477282567|Olaoluwa Osuntokun|M|/lightning-onion/sphinx_test.go
+1477624324|Olaoluwa Osuntokun|M|/lightning-onion/bench_test.go
+1477624324|Olaoluwa Osuntokun|M|/lightning-onion/hornet.go
+1477624324|Olaoluwa Osuntokun|M|/lightning-onion/sphinx.go
+1477624324|Olaoluwa Osuntokun|M|/lightning-onion/sphinx_test.go
+1484451731|Olaoluwa Osuntokun|M|/lightning-onion/sphinx.go
+1490654802|Olaoluwa Osuntokun|M|/lightning-onion/sphinx_test.go
+1490654807|Olaoluwa Osuntokun|M|/lightning-onion/sphinx.go
+1490654811|Olaoluwa Osuntokun|M|/lightning-onion/sphinx.go
+1490654814|Olaoluwa Osuntokun|M|/lightning-onion/cmd/main.go
+1490654817|Olaoluwa Osuntokun|M|/lightning-onion/README.md
+1490654821|Olaoluwa Osuntokun|M|/lightning-onion/sphinx.go
+1490654828|Olaoluwa Osuntokun|A|/lightning-onion/glide.lock
+1490654828|Olaoluwa Osuntokun|A|/lightning-onion/glide.yaml
+1497137138|Christian Decker|M|/lightning-onion/sphinx.go
+1497137138|Christian Decker|M|/lightning-onion/cmd/main.go
+1497137138|Christian Decker|M|/lightning-onion/sphinx.go
+1497137138|Christian Decker|M|/lightning-onion/cmd/main.go
+1497137138|Christian Decker|M|/lightning-onion/sphinx.go
+1497137138|Christian Decker|M|/lightning-onion/bench_test.go
+1497137138|Christian Decker|M|/lightning-onion/sphinx_test.go
+1497137138|Christian Decker|M|/lightning-onion/sphinx.go
+1497141003|Olaoluwa Osuntokun|A|/lightning-onion/.gitignore
+1497141135|Olaoluwa Osuntokun|M|/lightning-onion/bench_test.go
+1497141157|Olaoluwa Osuntokun|M|/lightning-onion/error.go
+1497141260|Olaoluwa Osuntokun|M|/lightning-onion/sphinx.go
+1497141295|Olaoluwa Osuntokun|M|/lightning-onion/sphinx.go
+1497141325|Olaoluwa Osuntokun|M|/lightning-onion/sphinx.go
+1497141356|Olaoluwa Osuntokun|M|/lightning-onion/sphinx.go
+1497141407|Olaoluwa Osuntokun|M|/lightning-onion/sphinx.go
+1497141461|Olaoluwa Osuntokun|M|/lightning-onion/sphinx_test.go
+1497141758|Olaoluwa Osuntokun|M|/lightning-onion/sphinx.go
+1497142108|Olaoluwa Osuntokun|M|/lightning-onion/bench_test.go
+1497142108|Olaoluwa Osuntokun|M|/lightning-onion/sphinx.go
+1497142108|Olaoluwa Osuntokun|M|/lightning-onion/sphinx_test.go
+1500014635|Andrey Samokhvalov|M|/lightning-onion/.gitignore
+1500014635|Andrey Samokhvalov|M|/lightning-onion/glide.lock
+1500014635|Andrey Samokhvalov|M|/lightning-onion/glide.yaml
+1500014635|Andrey Samokhvalov|A|/lightning-onion/obfuscation.go
+1500014635|Andrey Samokhvalov|A|/lightning-onion/obfuscation_test.go
+1500014635|Andrey Samokhvalov|M|/lightning-onion/sphinx.go
+1500014635|Andrey Samokhvalov|M|/lightning-onion/sphinx_test.go
+1500014646|Andrey Samokhvalov|M|/lightning-onion/error.go
+1500014646|Andrey Samokhvalov|M|/lightning-onion/obfuscation.go
+1500014646|Andrey Samokhvalov|M|/lightning-onion/obfuscation_test.go
+1500014646|Andrey Samokhvalov|M|/lightning-onion/sphinx.go
+1501468575|Olaoluwa Osuntokun|M|/lightning-onion/sphinx.go
+1505303331|Olaoluwa Osuntokun|M|/lightning-onion/sphinx.go
+1505303335|Olaoluwa Osuntokun|M|/lightning-onion/obfuscation_test.go
+1505303336|Olaoluwa Osuntokun|M|/lightning-onion/obfuscation.go
+1505303336|Olaoluwa Osuntokun|M|/lightning-onion/obfuscation_test.go
+1505844723|Olaoluwa Osuntokun|M|/lightning-onion/sphinx.go
+1507249482|Olaoluwa Osuntokun|M|/lightning-onion/obfuscation.go
+1507591438|Olaoluwa Osuntokun|M|/lightning-onion/obfuscation.go
+1507591442|Olaoluwa Osuntokun|M|/lightning-onion/obfuscation.go
+1507591442|Olaoluwa Osuntokun|M|/lightning-onion/obfuscation_test.go
+1507699822|Olaoluwa Osuntokun|M|/lightning-onion/obfuscation.go
+1513707130|creslin|M|/lightning-onion/obfuscation.go
+1513707221|creslin|M|/lightning-onion/sphinx.go
+1513707713|creslin|M|/lightning-onion/hornet.go
+1516244850|Conner Fromknecht|M|/lightning-onion/obfuscation.go
+1516244949|Conner Fromknecht|M|/lightning-onion/obfuscation_test.go
+1517527454|Conner Fromknecht|M|/lightning-onion/bench_test.go
+1517603061|Conner Fromknecht|M|/lightning-onion/sphinx.go
+1517634511|Conner Fromknecht|M|/lightning-onion/sphinx_test.go
+1517634626|Conner Fromknecht|M|/lightning-onion/.travis.yml
+1518067815|nsa|M|/lightning-onion/bench_test.go
+1518067815|nsa|M|/lightning-onion/cmd/main.go
+1518067815|nsa|M|/lightning-onion/glide.lock
+1518067815|nsa|M|/lightning-onion/glide.yaml
+1518067815|nsa|A|/lightning-onion/persistlog/decayedlog.go
+1518067815|nsa|A|/lightning-onion/persistlog/decayedlog_test.go
+1518067815|nsa|A|/lightning-onion/persistlog/interface.go
+1518067815|nsa|M|/lightning-onion/sphinx.go
+1518067815|nsa|M|/lightning-onion/sphinx_test.go
+1518067860|nsa|M|/lightning-onion/bench_test.go
+1518067860|nsa|M|/lightning-onion/persistlog/decayedlog.go
+1518067860|nsa|M|/lightning-onion/sphinx.go
+1518067860|nsa|M|/lightning-onion/sphinx_test.go
+1518067954|nsa|M|/lightning-onion/bench_test.go
+1518067954|nsa|M|/lightning-onion/glide.lock
+1518067954|nsa|M|/lightning-onion/persistlog/decayedlog.go
+1518067954|nsa|M|/lightning-onion/persistlog/decayedlog_test.go
+1518067954|nsa|M|/lightning-onion/persistlog/interface.go
+1518067954|nsa|M|/lightning-onion/sphinx.go
+1518067954|nsa|M|/lightning-onion/sphinx_test.go
+1518067954|nsa|M|/lightning-onion/persistlog/decayedlog.go
+1518067954|nsa|M|/lightning-onion/persistlog/decayedlog_test.go
+1518067954|nsa|M|/lightning-onion/persistlog/decayedlog.go
+1518067954|nsa|M|/lightning-onion/persistlog/decayedlog_test.go
+1518067994|nsa|M|/lightning-onion/persistlog/decayedlog.go
+1518067994|nsa|M|/lightning-onion/sphinx_test.go
+1518067994|nsa|M|/lightning-onion/persistlog/decayedlog.go
+1518067994|nsa|M|/lightning-onion/persistlog/decayedlog_test.go
+1518067994|Conner Fromknecht|D|/lightning-onion/persistlog/decayedlog.go
+1518067994|Conner Fromknecht|D|/lightning-onion/persistlog/decayedlog_test.go
+1518067994|Conner Fromknecht|D|/lightning-onion/persistlog/interface.go
+1518067994|Conner Fromknecht|A|/lightning-onion/decayedlog.go
+1518067994|Conner Fromknecht|A|/lightning-onion/decayedlog_test.go
+1518067994|Conner Fromknecht|M|/lightning-onion/obfuscation.go
+1518067994|Conner Fromknecht|A|/lightning-onion/batch.go
+1518067995|Conner Fromknecht|A|/lightning-onion/replay_set.go
+1518067995|Conner Fromknecht|M|/lightning-onion/bench_test.go
+1519197817|Conner Fromknecht|M|/lightning-onion/sphinx.go
+1519197817|Conner Fromknecht|M|/lightning-onion/sphinx_test.go
+1519197817|Conner Fromknecht|A|/lightning-onion/log.go
+1519197817|Conner Fromknecht|M|/lightning-onion/bench_test.go
+1519197817|Conner Fromknecht|M|/lightning-onion/sphinx_test.go
+1519197818|Conner Fromknecht|M|/lightning-onion/sphinx.go
+1519197818|Conner Fromknecht|M|/lightning-onion/sphinx.go
+1519197818|Conner Fromknecht|M|/lightning-onion/glide.lock
+1519197818|Conner Fromknecht|M|/lightning-onion/glide.yaml
+1519197946|Conner Fromknecht|M|/lightning-onion/bench_test.go
+1520290780|Olaoluwa Osuntokun|M|/lightning-onion/cmd/main.go
+1520727906|Olaoluwa Osuntokun|M|/lightning-onion/glide.lock
+1520727925|Olaoluwa Osuntokun|M|/lightning-onion/sphinx_test.go
+1520728059|Olaoluwa Osuntokun|M|/lightning-onion/decayedlog.go
+1520728472|Olaoluwa Osuntokun|M|/lightning-onion/.travis.yml
+1520737028|Olaoluwa Osuntokun|M|/lightning-onion/decayedlog.go
+1520737028|Olaoluwa Osuntokun|M|/lightning-onion/glide.lock
+1520737028|Olaoluwa Osuntokun|M|/lightning-onion/glide.yaml
+1521763549|Matt Drollette|M|/lightning-onion/decayedlog.go
+1522089541|Jim Posen|M|/lightning-onion/decayedlog.go
+1522089541|Jim Posen|M|/lightning-onion/decayedlog_test.go
+1522089541|Jim Posen|M|/lightning-onion/error.go
+1522089541|Jim Posen|M|/lightning-onion/sphinx_test.go
+1522089541|Jim Posen|M|/lightning-onion/decayedlog.go
+1522089541|Jim Posen|M|/lightning-onion/decayedlog_test.go
+1522089541|Jim Posen|A|/lightning-onion/replaylog.go
+1522089541|Jim Posen|M|/lightning-onion/sphinx.go
+1522089541|Jim Posen|M|/lightning-onion/replaylog.go
+1522089541|Jim Posen|A|/lightning-onion/replaylog_test.go
+1522089541|Jim Posen|M|/lightning-onion/bench_test.go
+1522089541|Jim Posen|M|/lightning-onion/cmd/main.go
+1522089541|Jim Posen|M|/lightning-onion/decayedlog_test.go
+1522089541|Jim Posen|M|/lightning-onion/replaylog.go
+1522089541|Jim Posen|M|/lightning-onion/sphinx.go
+1522089541|Jim Posen|M|/lightning-onion/sphinx_test.go
+1522089554|Jim Posen|D|/lightning-onion/decayedlog.go
+1522089554|Jim Posen|D|/lightning-onion/decayedlog_test.go
+1522089554|Jim Posen|M|/lightning-onion/glide.lock
+1522093498|Jim Posen|M|/lightning-onion/batch.go
+1522093498|Jim Posen|M|/lightning-onion/replaylog.go
+1522093498|Jim Posen|M|/lightning-onion/sphinx.go
+1528161821|Olaoluwa Osuntokun|M|/lightning-onion/bench_test.go
+1528161821|Olaoluwa Osuntokun|M|/lightning-onion/cmd/main.go
+1528161821|Olaoluwa Osuntokun|M|/lightning-onion/hornet.go
+1528161821|Olaoluwa Osuntokun|M|/lightning-onion/obfuscation.go
+1528161821|Olaoluwa Osuntokun|M|/lightning-onion/obfuscation_test.go
+1528161821|Olaoluwa Osuntokun|M|/lightning-onion/sphinx.go
+1528161821|Olaoluwa Osuntokun|M|/lightning-onion/sphinx_test.go
+1528161848|Olaoluwa Osuntokun|M|/lightning-onion/glide.lock
+1528161848|Olaoluwa Osuntokun|M|/lightning-onion/glide.yaml
+1530138277|Olaoluwa Osuntokun|M|/lightning-onion/sphinx.go
+1530138333|Olaoluwa Osuntokun|M|/lightning-onion/sphinx_test.go
+1539157663|Boris Dinkevich|M|/lightning-onion/README.md
+1556580901|Olaoluwa Osuntokun|M|/lightning-onion/.travis.yml
+1556580901|Olaoluwa Osuntokun|D|/lightning-onion/glide.lock
+1556580901|Olaoluwa Osuntokun|D|/lightning-onion/glide.yaml
+1556580901|Olaoluwa Osuntokun|A|/lightning-onion/go.mod
+1556580901|Olaoluwa Osuntokun|A|/lightning-onion/go.sum
+1556581535|Olaoluwa Osuntokun|A|/lightning-onion/path.go
+1556581554|Olaoluwa Osuntokun|M|/lightning-onion/bench_test.go
+1556581554|Olaoluwa Osuntokun|M|/lightning-onion/sphinx.go
+1556581555|Olaoluwa Osuntokun|M|/lightning-onion/bench_test.go
+1556581555|Olaoluwa Osuntokun|M|/lightning-onion/sphinx.go
+1556581555|Olaoluwa Osuntokun|M|/lightning-onion/sphinx_test.go
+1556581556|Olaoluwa Osuntokun|M|/lightning-onion/sphinx.go
+1556581557|Olaoluwa Osuntokun|A|/lightning-onion/crypto.go
+1556581557|Olaoluwa Osuntokun|M|/lightning-onion/obfuscation.go
+1556581557|Olaoluwa Osuntokun|M|/lightning-onion/obfuscation_test.go
+1556581557|Olaoluwa Osuntokun|M|/lightning-onion/sphinx.go
+1556581559|Olaoluwa Osuntokun|M|/lightning-onion/cmd/main.go
+1562056155|Joost Jager|M|/lightning-onion/crypto.go
+1562056155|Joost Jager|M|/lightning-onion/obfuscation_test.go
+1565218829|Olaoluwa Osuntokun|M|/lightning-onion/go.mod
+1565218829|Olaoluwa Osuntokun|M|/lightning-onion/go.sum
+1565301797|Christian Decker|M|/lightning-onion/path.go
+1565301797|Christian Decker|A|/lightning-onion/path_test.go
+1565301798|Christian Decker|M|/lightning-onion/sphinx.go
+1565301799|Christian Decker|M|/lightning-onion/path.go
+1565301799|Christian Decker|M|/lightning-onion/sphinx.go
+1565301799|Christian Decker|M|/lightning-onion/sphinx_test.go
+1565301800|Christian Decker|M|/lightning-onion/sphinx.go
+1565301801|Christian Decker|M|/lightning-onion/sphinx.go
+1565301801|Christian Decker|M|/lightning-onion/sphinx_test.go
+1565301802|Christian Decker|M|/lightning-onion/cmd/main.go
+1565301803|Olaoluwa Osuntokun|M|/lightning-onion/path.go
+1565301803|Olaoluwa Osuntokun|M|/lightning-onion/sphinx.go
+1565301804|Olaoluwa Osuntokun|M|/lightning-onion/cmd/main.go
+1565301804|Olaoluwa Osuntokun|M|/lightning-onion/path.go
+1565301804|Olaoluwa Osuntokun|M|/lightning-onion/path_test.go
+1565301804|Olaoluwa Osuntokun|M|/lightning-onion/sphinx.go
+1565301804|Olaoluwa Osuntokun|M|/lightning-onion/sphinx_test.go
+1565301805|Olaoluwa Osuntokun|M|/lightning-onion/path.go
+1565301805|Olaoluwa Osuntokun|M|/lightning-onion/path_test.go
+1565301806|Olaoluwa Osuntokun|M|/lightning-onion/bench_test.go
+1565301806|Olaoluwa Osuntokun|M|/lightning-onion/path.go
+1565301806|Olaoluwa Osuntokun|M|/lightning-onion/sphinx.go
+1565301806|Olaoluwa Osuntokun|M|/lightning-onion/sphinx_test.go
+1565301807|Olaoluwa Osuntokun|M|/lightning-onion/bench_test.go
+1565301807|Olaoluwa Osuntokun|M|/lightning-onion/path.go
+1565301807|Olaoluwa Osuntokun|D|/lightning-onion/path_test.go
+1565301807|Olaoluwa Osuntokun|M|/lightning-onion/sphinx.go
+1565301807|Olaoluwa Osuntokun|M|/lightning-onion/sphinx_test.go
+1565301808|Olaoluwa Osuntokun|M|/lightning-onion/sphinx_test.go
+1565301809|Olaoluwa Osuntokun|M|/lightning-onion/sphinx_test.go
+1565301809|Olaoluwa Osuntokun|A|/lightning-onion/testdata/onion-test-multi-frame.json
+1565301810|Olaoluwa Osuntokun|M|/lightning-onion/cmd/main.go
+1565301811|Olaoluwa Osuntokun|M|/lightning-onion/path.go
+1565301812|Olaoluwa Osuntokun|M|/lightning-onion/testdata/onion-test-multi-frame.json
+1565301815|Olaoluwa Osuntokun|M|/lightning-onion/go.mod
+1565301815|Olaoluwa Osuntokun|M|/lightning-onion/go.sum
+1568023602|Olaoluwa Osuntokun|M|/lightning-onion/go.mod
+1568023602|Olaoluwa Osuntokun|M|/lightning-onion/go.sum
+1568023602|Olaoluwa Osuntokun|M|/lightning-onion/path.go
+1568023602|Olaoluwa Osuntokun|A|/lightning-onion/varint.go
+1568023694|Olaoluwa Osuntokun|M|/lightning-onion/.travis.yml
+1575360273|Joost Jager|M|/lightning-onion/sphinx.go
+1575360275|Joost Jager|M|/lightning-onion/path.go
+1575360275|Joost Jager|M|/lightning-onion/sphinx.go
+1575360275|Joost Jager|M|/lightning-onion/sphinx_test.go
+1576048940|Joost Jager|M|/lightning-onion/sphinx.go
+1576048940|Joost Jager|M|/lightning-onion/sphinx_test.go
+1576048942|Joost Jager|M|/lightning-onion/path.go
+1576048942|Joost Jager|M|/lightning-onion/sphinx_test.go
+1578363323|Olaoluwa Osuntokun|M|/lightning-onion/bench_test.go
+1578363323|Olaoluwa Osuntokun|M|/lightning-onion/cmd/main.go
+1578363323|Olaoluwa Osuntokun|A|/lightning-onion/packetfiller.go
+1578363323|Olaoluwa Osuntokun|M|/lightning-onion/sphinx.go
+1578363323|Olaoluwa Osuntokun|M|/lightning-onion/sphinx_test.go
+1578695400|Olaoluwa Osuntokun|M|/lightning-onion/sphinx_test.go
+1578695400|Olaoluwa Osuntokun|M|/lightning-onion/testdata/onion-test-multi-frame.json
+1588078934|Oliver Gugger|M|/lightning-onion/crypto.go
+1588078939|Oliver Gugger|M|/lightning-onion/crypto.go
+1588078939|Oliver Gugger|M|/lightning-onion/obfuscation_test.go
+1588078939|Oliver Gugger|M|/lightning-onion/sphinx.go
+1588079142|Oliver Gugger|M|/lightning-onion/cmd/main.go
+1588079142|Oliver Gugger|M|/lightning-onion/crypto.go
+1588079142|Oliver Gugger|M|/lightning-onion/sphinx.go
+1588079142|Oliver Gugger|M|/lightning-onion/sphinx_test.go
+1619535150|Joost Jager|M|/lightning-onion/sphinx.go

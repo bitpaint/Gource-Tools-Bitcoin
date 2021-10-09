@@ -404,3 +404,11 @@
 1633547620|Francisco Calderón|M|/p2plnbot/util/fiat.json
 1633612469|Francisco Calderón|M|/p2plnbot/bot/start.js
 1633612469|Francisco Calderón|M|/p2plnbot/ln/pay_request.js
+1633700085|Francisco Calderón|M|/p2plnbot/bot/messages.js
+1633700085|Francisco Calderón|M|/p2plnbot/bot/start.js
+1633700085|Francisco Calderón|M|/p2plnbot/util/fiat.json
+1633700085|Francisco Calderón|M|/p2plnbot/util/index.js
+1633714636|Francisco Calderón|M|/p2plnbot/bot/commands.js
+1633714636|Francisco Calderón|M|/p2plnbot/bot/messages.js
+1633714636|Francisco Calderón|M|/p2plnbot/util/index.js
+1633715517|Francisco Calderón|M|/p2plnbot/bot/start.js

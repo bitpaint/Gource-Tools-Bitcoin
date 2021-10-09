@@ -1,0 +1,1087 @@
+1479152576|Christian Decker|A|/lightning-rfc/04-onion-routing.md
+1479152695|Christian Decker|A|/lightning-rfc/06-irc-announcements.md
+1479173000|Rusty Russell|A|/lightning-rfc/00-introduction.md
+1479173000|Rusty Russell|A|/lightning-rfc/01-messaging-crypto-and-init.md
+1479173000|Rusty Russell|A|/lightning-rfc/02-peer-protocol.md
+1479173000|Rusty Russell|A|/lightning-rfc/03-transactions.md
+1479173000|Rusty Russell|M|/lightning-rfc/04-onion-routing.md
+1479173000|Rusty Russell|A|/lightning-rfc/05-onchain.md
+1479173619|Joseph Poon|A|/lightning-rfc/README.md
+1479180405|Rusty Russell|M|/lightning-rfc/03-transactions.md
+1479180405|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1479180405|Rusty Russell|M|/lightning-rfc/05-onchain.md
+1479180637|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1479181027|Rusty Russell|M|/lightning-rfc/03-transactions.md
+1479189638|Rusty Russell|M|/lightning-rfc/03-transactions.md
+1479241800|Olaoluwa Osuntokun|M|/lightning-rfc/02-peer-protocol.md
+1479342290|Pierre-Marie Padiou|M|/lightning-rfc/02-peer-protocol.md
+1479345228|Olaoluwa Osuntokun|M|/lightning-rfc/03-transactions.md
+1479355402|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1479355402|Rusty Russell|M|/lightning-rfc/03-transactions.md
+1479439929|Pierre-Marie Padiou|M|/lightning-rfc/02-peer-protocol.md
+1479439941|Pierre-Marie Padiou|M|/lightning-rfc/02-peer-protocol.md
+1479439952|Pierre-Marie Padiou|M|/lightning-rfc/02-peer-protocol.md
+1479514170|Rusty Russell|M|/lightning-rfc/03-transactions.md
+1479686683|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1479690140|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1479698022|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1479698022|Rusty Russell|M|/lightning-rfc/03-transactions.md
+1479707292|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1479707292|Rusty Russell|A|/lightning-rfc/07-routing-gossip.md
+1479725149|Pierre-Marie Padiou|M|/lightning-rfc/02-peer-protocol.md
+1479779650|Rusty Russell|M|/lightning-rfc/07-routing-gossip.md
+1479783046|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1479825187|Fabrice Drouin|M|/lightning-rfc/03-transactions.md
+1479843428|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1479844379|Rusty Russell|M|/lightning-rfc/00-introduction.md
+1479844379|Rusty Russell|M|/lightning-rfc/01-messaging-crypto-and-init.md
+1479844379|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1479844379|Rusty Russell|M|/lightning-rfc/03-transactions.md
+1479844379|Rusty Russell|M|/lightning-rfc/04-onion-routing.md
+1479844379|Rusty Russell|M|/lightning-rfc/05-onchain.md
+1479844379|Rusty Russell|M|/lightning-rfc/06-irc-announcements.md
+1479844379|Rusty Russell|M|/lightning-rfc/07-routing-gossip.md
+1479844379|Rusty Russell|M|/lightning-rfc/README.md
+1479860065|Rusty Russell|M|/lightning-rfc/07-routing-gossip.md
+1479862388|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1479862448|Rusty Russell|M|/lightning-rfc/01-messaging-crypto-and-init.md
+1479863005|Rusty Russell|M|/lightning-rfc/01-messaging-crypto-and-init.md
+1479863005|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1479863005|Rusty Russell|M|/lightning-rfc/07-routing-gossip.md
+1479864254|Rusty Russell|A|/lightning-rfc/tools/extract-formats.py
+1479869427|Ethan Heilman|M|/lightning-rfc/01-messaging-crypto-and-init.md
+1479872582|Rusty Russell|M|/lightning-rfc/07-routing-gossip.md
+1479873391|Rusty Russell|M|/lightning-rfc/07-routing-gossip.md
+1479947173|Rusty Russell|M|/lightning-rfc/03-transactions.md
+1479947731|Fabrice Drouin|M|/lightning-rfc/03-transactions.md
+1479994539|Pierre-Marie Padiou|M|/lightning-rfc/02-peer-protocol.md
+1479998401|Pierre-Marie Padiou|M|/lightning-rfc/02-peer-protocol.md
+1480002453|Pierre-Marie Padiou|M|/lightning-rfc/02-peer-protocol.md
+1480021573|Olaoluwa Osuntokun|M|/lightning-rfc/01-messaging-crypto-and-init.md
+1480032107|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1480301289|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1480377883|Rusty Russell|M|/lightning-rfc/01-messaging-crypto-and-init.md
+1480377883|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1480377883|Rusty Russell|M|/lightning-rfc/05-onchain.md
+1480386493|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1480386493|Rusty Russell|M|/lightning-rfc/tools/extract-formats.py
+1480450652|Rusty Russell|M|/lightning-rfc/01-messaging-crypto-and-init.md
+1480450805|andrew.shvv|M|/lightning-rfc/03-transactions.md
+1480451307|Rusty Russell|M|/lightning-rfc/03-transactions.md
+1480451307|Rusty Russell|M|/lightning-rfc/03-transactions.md
+1480555409|Rusty Russell|M|/lightning-rfc/03-transactions.md
+1480563655|Christian Decker|D|/lightning-rfc/01-messaging-crypto-and-init.md
+1480563655|Christian Decker|A|/lightning-rfc/01-messaging.md
+1480563655|Christian Decker|A|/lightning-rfc/08-transport.md
+1480563655|Christian Decker|M|/lightning-rfc/01-messaging.md
+1480563655|Christian Decker|M|/lightning-rfc/08-transport.md
+1480587645|Christian Decker|M|/lightning-rfc/00-introduction.md
+1480641301|Rusty Russell|M|/lightning-rfc/03-transactions.md
+1480809188|Rusty Russell|M|/lightning-rfc/00-introduction.md
+1480809994|Rusty Russell|M|/lightning-rfc/00-introduction.md
+1480824968|Dario Sneidermanis|M|/lightning-rfc/01-messaging.md
+1480938347|pm47|M|/lightning-rfc/01-messaging.md
+1480938479|pm47|M|/lightning-rfc/01-messaging.md
+1480938706|pm47|M|/lightning-rfc/01-messaging.md
+1480968995|Olaoluwa Osuntokun|M|/lightning-rfc/02-peer-protocol.md
+1480993751|Rusty Russell|M|/lightning-rfc/08-transport.md
+1480993771|Rusty Russell|M|/lightning-rfc/08-transport.md
+1481034648|Christopher Jämthagen|M|/lightning-rfc/00-introduction.md
+1481034648|Christopher Jämthagen|M|/lightning-rfc/01-messaging.md
+1481034648|Christopher Jämthagen|M|/lightning-rfc/02-peer-protocol.md
+1481036050|Pierre-Marie Padiou|M|/lightning-rfc/01-messaging.md
+1481036050|Pierre-Marie Padiou|M|/lightning-rfc/02-peer-protocol.md
+1481041105|pm47|M|/lightning-rfc/02-peer-protocol.md
+1481071838|pm47|M|/lightning-rfc/02-peer-protocol.md
+1481101497|Christopher Jämthagen|M|/lightning-rfc/03-transactions.md
+1481101497|Christopher Jämthagen|M|/lightning-rfc/04-onion-routing.md
+1481101497|Christopher Jämthagen|M|/lightning-rfc/05-onchain.md
+1481103517|pm47|M|/lightning-rfc/01-messaging.md
+1481156883|Rusty Russell|M|/lightning-rfc/08-transport.md
+1481156883|Rusty Russell|M|/lightning-rfc/08-transport.md
+1481156883|Rusty Russell|M|/lightning-rfc/08-transport.md
+1481156883|Rusty Russell|M|/lightning-rfc/08-transport.md
+1481156883|Rusty Russell|M|/lightning-rfc/08-transport.md
+1481157005|Rusty Russell|M|/lightning-rfc/03-transactions.md
+1481241743|Christopher Jämthagen|M|/lightning-rfc/06-irc-announcements.md
+1481241743|Christopher Jämthagen|M|/lightning-rfc/07-routing-gossip.md
+1481241743|Christopher Jämthagen|M|/lightning-rfc/08-transport.md
+1481276508|Christopher Jämthagen|M|/lightning-rfc/03-transactions.md
+1481276508|Christopher Jämthagen|M|/lightning-rfc/05-onchain.md
+1481277019|Christopher Jämthagen|M|/lightning-rfc/01-messaging.md
+1481277019|Christopher Jämthagen|M|/lightning-rfc/02-peer-protocol.md
+1481277019|Christopher Jämthagen|M|/lightning-rfc/04-onion-routing.md
+1481277019|Christopher Jämthagen|M|/lightning-rfc/05-onchain.md
+1481277019|Christopher Jämthagen|M|/lightning-rfc/07-routing-gossip.md
+1481332544|Christian Decker|M|/lightning-rfc/02-peer-protocol.md
+1481416733|Christian Decker|M|/lightning-rfc/01-messaging.md
+1481416733|Christian Decker|M|/lightning-rfc/03-transactions.md
+1481416733|Christian Decker|M|/lightning-rfc/03-transactions.md
+1481416733|Christian Decker|M|/lightning-rfc/02-peer-protocol.md
+1481498653|Christian Decker|M|/lightning-rfc/04-onion-routing.md
+1481501265|Christopher Jämthagen|M|/lightning-rfc/03-transactions.md
+1481501265|Christopher Jämthagen|M|/lightning-rfc/02-peer-protocol.md
+1481501290|Rusty Russell|M|/lightning-rfc/03-transactions.md
+1481503409|Rusty Russell|M|/lightning-rfc/03-transactions.md
+1481540706|pm47|M|/lightning-rfc/02-peer-protocol.md
+1481586294|Rusty Russell|M|/lightning-rfc/07-routing-gossip.md
+1481586294|Rusty Russell|M|/lightning-rfc/07-routing-gossip.md
+1481586294|Rusty Russell|M|/lightning-rfc/07-routing-gossip.md
+1481586294|Rusty Russell|M|/lightning-rfc/07-routing-gossip.md
+1481586294|Rusty Russell|M|/lightning-rfc/07-routing-gossip.md
+1481586294|Rusty Russell|M|/lightning-rfc/07-routing-gossip.md
+1481586491|Rusty Russell|M|/lightning-rfc/07-routing-gossip.md
+1481586925|Rusty Russell|M|/lightning-rfc/04-onion-routing.md
+1481586925|Rusty Russell|M|/lightning-rfc/08-transport.md
+1481640254|pm47|M|/lightning-rfc/03-transactions.md
+1481654814|Rusty Russell|M|/lightning-rfc/08-transport.md
+1481728721|Pierre-Marie Padiou|M|/lightning-rfc/02-peer-protocol.md
+1482019609|fivepiece|M|/lightning-rfc/03-transactions.md
+1482193482|Olaoluwa Osuntokun|M|/lightning-rfc/04-onion-routing.md
+1482205991|Rusty Russell|M|/lightning-rfc/07-routing-gossip.md
+1482248588|pm47|M|/lightning-rfc/03-transactions.md
+1482256858|Pierre-Marie Padiou|M|/lightning-rfc/03-transactions.md
+1482294326|Fabrice Drouin|M|/lightning-rfc/03-transactions.md
+1482316667|Rusty Russell|M|/lightning-rfc/01-messaging.md
+1482316667|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1482316667|Rusty Russell|M|/lightning-rfc/05-onchain.md
+1482317055|Pierre-Marie Padiou|M|/lightning-rfc/03-transactions.md
+1482368594|Rusty Russell|M|/lightning-rfc/08-transport.md
+1482368594|Rusty Russell|M|/lightning-rfc/08-transport.md
+1483401464|Christian Decker|M|/lightning-rfc/01-messaging.md
+1483507541|pm47|M|/lightning-rfc/03-transactions.md
+1483507541|pm47|M|/lightning-rfc/02-peer-protocol.md
+1483507541|pm47|M|/lightning-rfc/03-transactions.md
+1483507541|pm47|M|/lightning-rfc/03-transactions.md
+1483508358|Christopher Jämthagen|M|/lightning-rfc/03-transactions.md
+1483508358|Christopher Jämthagen|M|/lightning-rfc/05-onchain.md
+1483578376|Rusty Russell|M|/lightning-rfc/08-transport.md
+1483659069|Rusty Russell|M|/lightning-rfc/04-onion-routing.md
+1483659069|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1483659069|Rusty Russell|M|/lightning-rfc/07-routing-gossip.md
+1483659069|Rusty Russell|M|/lightning-rfc/04-onion-routing.md
+1483659069|Christian Decker|M|/lightning-rfc/04-onion-routing.md
+1483659069|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1483659069|Rusty Russell|M|/lightning-rfc/04-onion-routing.md
+1483659069|Rusty Russell|M|/lightning-rfc/04-onion-routing.md
+1483659069|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1483659069|Rusty Russell|M|/lightning-rfc/04-onion-routing.md
+1483659069|Rusty Russell|M|/lightning-rfc/04-onion-routing.md
+1483659069|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1483671159|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1483739852|Olaoluwa Osuntokun|M|/lightning-rfc/08-transport.md
+1484059134|Christian Decker|M|/lightning-rfc/04-onion-routing.md
+1484127921|Delo|M|/lightning-rfc/00-introduction.md
+1484127921|Delo|M|/lightning-rfc/08-transport.md
+1484127921|Delo|M|/lightning-rfc/08-transport.md
+1484269779|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1484327508|Christian Decker|M|/lightning-rfc/04-onion-routing.md
+1484344634|Christopher Jämthagen|M|/lightning-rfc/03-transactions.md
+1484592915|Rusty Russell|M|/lightning-rfc/08-transport.md
+1484599051|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1484599051|Rusty Russell|M|/lightning-rfc/04-onion-routing.md
+1485130650|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1485130650|Rusty Russell|M|/lightning-rfc/03-transactions.md
+1485202866|Rusty Russell|M|/lightning-rfc/01-messaging.md
+1485202866|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1485202866|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1485202949|Rusty Russell|M|/lightning-rfc/03-transactions.md
+1485203145|Rusty Russell|M|/lightning-rfc/03-transactions.md
+1485287608|Rusty Russell|M|/lightning-rfc/03-transactions.md
+1485287608|Rusty Russell|M|/lightning-rfc/03-transactions.md
+1485287608|Rusty Russell|M|/lightning-rfc/03-transactions.md
+1485303010|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1485303010|Rusty Russell|M|/lightning-rfc/05-onchain.md
+1485322511|Rusty Russell|M|/lightning-rfc/03-transactions.md
+1485609004|Rusty Russell|M|/lightning-rfc/tools/extract-formats.py
+1485609004|Rusty Russell|M|/lightning-rfc/tools/extract-formats.py
+1485609004|Christian Decker|A|/lightning-rfc/.travis.yml
+1485830393|Rusty Russell|M|/lightning-rfc/03-transactions.md
+1485870059|Christian Decker|M|/lightning-rfc/07-routing-gossip.md
+1485909139|Christian Decker|M|/lightning-rfc/07-routing-gossip.md
+1485915124|Rusty Russell|M|/lightning-rfc/03-transactions.md
+1485944198|Pierre-Marie Padiou|M|/lightning-rfc/02-peer-protocol.md
+1485951657|Pierre-Marie Padiou|M|/lightning-rfc/04-onion-routing.md
+1485953572|Pierre-Marie Padiou|M|/lightning-rfc/02-peer-protocol.md
+1486428333|Rusty Russell|M|/lightning-rfc/03-transactions.md
+1486428819|Christian Decker|M|/lightning-rfc/00-introduction.md
+1486428819|Christian Decker|M|/lightning-rfc/02-peer-protocol.md
+1486428819|Christian Decker|M|/lightning-rfc/07-routing-gossip.md
+1486428819|Christian Decker|A|/lightning-rfc/09-features.md
+1486592210|Rusty Russell|M|/lightning-rfc/07-routing-gossip.md
+1486592210|Rusty Russell|M|/lightning-rfc/09-features.md
+1486631463|Christian Decker|M|/lightning-rfc/07-routing-gossip.md
+1486631463|Christian Decker|M|/lightning-rfc/09-features.md
+1486688621|pm47|M|/lightning-rfc/03-transactions.md
+1486929648|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1487025413|Otto Allmendinger|M|/lightning-rfc/02-peer-protocol.md
+1487025413|Otto Allmendinger|M|/lightning-rfc/02-peer-protocol.md
+1487025413|Otto Allmendinger|M|/lightning-rfc/02-peer-protocol.md
+1487201871|pm47|M|/lightning-rfc/02-peer-protocol.md
+1487202274|sstone|M|/lightning-rfc/01-messaging.md
+1487241017|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1487554529|Pierre-Marie Padiou|M|/lightning-rfc/02-peer-protocol.md
+1487650287|pm47|M|/lightning-rfc/07-routing-gossip.md
+1487650287|pm47|M|/lightning-rfc/09-features.md
+1487719777|Rusty Russell|M|/lightning-rfc/03-transactions.md
+1487719777|Rusty Russell|M|/lightning-rfc/03-transactions.md
+1487719777|Rusty Russell|M|/lightning-rfc/03-transactions.md
+1488251934|Christian Decker|M|/lightning-rfc/08-transport.md
+1488428413|Rusty Russell|M|/lightning-rfc/00-introduction.md
+1488428413|Rusty Russell|M|/lightning-rfc/01-messaging.md
+1488428413|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1488428413|Rusty Russell|M|/lightning-rfc/07-routing-gossip.md
+1488830968|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1488830968|Rusty Russell|M|/lightning-rfc/03-transactions.md
+1488840700|pm47|M|/lightning-rfc/02-peer-protocol.md
+1488840700|pm47|M|/lightning-rfc/03-transactions.md
+1488840700|pm47|M|/lightning-rfc/05-onchain.md
+1488914444|Rusty Russell|M|/lightning-rfc/03-transactions.md
+1488914444|Rusty Russell|M|/lightning-rfc/03-transactions.md
+1488914444|Rusty Russell|M|/lightning-rfc/05-onchain.md
+1488914444|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1488914444|Rusty Russell|M|/lightning-rfc/03-transactions.md
+1488914444|Rusty Russell|M|/lightning-rfc/03-transactions.md
+1488914444|Rusty Russell|M|/lightning-rfc/03-transactions.md
+1489102093|Pierre-Marie Padiou|M|/lightning-rfc/02-peer-protocol.md
+1489712497|Rusty Russell|A|/lightning-rfc/tools/bolt3-bitcoind-test.sh
+1490088498|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1490144859|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1490144884|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1490209684|Clark|M|/lightning-rfc/02-peer-protocol.md
+1490319581|Olaoluwa Osuntokun|M|/lightning-rfc/02-peer-protocol.md
+1490319624|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1490320464|Rusty Russell|M|/lightning-rfc/03-transactions.md
+1490837660|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1490931869|Rusty Russell|M|/lightning-rfc/tools/extract-formats.py
+1491052304|Rusty Russell|M|/lightning-rfc/04-onion-routing.md
+1491276290|Olaoluwa Osuntokun|M|/lightning-rfc/01-messaging.md
+1491587611|Pierre-Marie Padiou|M|/lightning-rfc/01-messaging.md
+1491603190|Christian Decker|M|/lightning-rfc/07-routing-gossip.md
+1491605240|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1491872237|Rusty Russell|M|/lightning-rfc/04-onion-routing.md
+1491872237|Rusty Russell|M|/lightning-rfc/04-onion-routing.md
+1491873975|Rusty Russell|M|/lightning-rfc/01-messaging.md
+1492148510|Fabrice Drouin|M|/lightning-rfc/04-onion-routing.md
+1492148510|Fabrice Drouin|M|/lightning-rfc/04-onion-routing.md
+1492148510|Fabrice Drouin|M|/lightning-rfc/04-onion-routing.md
+1493011194|Rusty Russell|M|/lightning-rfc/04-onion-routing.md
+1493152344|Takaya Imai|M|/lightning-rfc/01-messaging.md
+1493152522|Christian Decker|M|/lightning-rfc/04-onion-routing.md
+1493166570|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1493166570|Rusty Russell|M|/lightning-rfc/04-onion-routing.md
+1493166570|Christian Decker|M|/lightning-rfc/04-onion-routing.md
+1493166570|Christian Decker|M|/lightning-rfc/04-onion-routing.md
+1493612134|Pierre-Marie Padiou|M|/lightning-rfc/01-messaging.md
+1493782687|ZmnSCPxj via Lightning-dev|A|/lightning-rfc/.aspell.en.pws
+1493782687|ZmnSCPxj via Lightning-dev|M|/lightning-rfc/04-onion-routing.md
+1493782687|ZmnSCPxj via Lightning-dev|A|/lightning-rfc/tools/spellcheck.sh
+1493782687|Rusty Russell|M|/lightning-rfc/tools/spellcheck.sh
+1493782687|Rusty Russell|M|/lightning-rfc/.aspell.en.pws
+1493782687|Rusty Russell|M|/lightning-rfc/.aspell.en.pws
+1493782687|Rusty Russell|M|/lightning-rfc/01-messaging.md
+1493782687|Rusty Russell|M|/lightning-rfc/.aspell.en.pws
+1493782687|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1493782687|Rusty Russell|M|/lightning-rfc/.aspell.en.pws
+1493782687|Rusty Russell|M|/lightning-rfc/03-transactions.md
+1493782687|Rusty Russell|M|/lightning-rfc/04-onion-routing.md
+1493782687|Rusty Russell|M|/lightning-rfc/05-onchain.md
+1493782687|Rusty Russell|M|/lightning-rfc/07-routing-gossip.md
+1493782687|Rusty Russell|M|/lightning-rfc/08-transport.md
+1493782687|Rusty Russell|M|/lightning-rfc/.aspell.en.pws
+1493782687|Rusty Russell|M|/lightning-rfc/.travis.yml
+1493782687|Rusty Russell|M|/lightning-rfc/tools/spellcheck.sh
+1493782687|Rusty Russell|M|/lightning-rfc/.aspell.en.pws
+1493782827|EmelyanenkoK|M|/lightning-rfc/02-peer-protocol.md
+1493951511|Fabrice Drouin|M|/lightning-rfc/04-onion-routing.md
+1494124272|Pierre-Marie Padiou|M|/lightning-rfc/07-routing-gossip.md
+1494313012|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1494313056|ZmnSCPxj|M|/lightning-rfc/02-peer-protocol.md
+1494313056|ZmnSCPxj|M|/lightning-rfc/07-routing-gossip.md
+1494313056|ZmnSCPxj|M|/lightning-rfc/07-routing-gossip.md
+1494467436|Rusty Russell|M|/lightning-rfc/01-messaging.md
+1494467436|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1494467436|Rusty Russell|M|/lightning-rfc/03-transactions.md
+1494467436|Rusty Russell|M|/lightning-rfc/04-onion-routing.md
+1494467436|Rusty Russell|M|/lightning-rfc/05-onchain.md
+1494467436|Rusty Russell|M|/lightning-rfc/07-routing-gossip.md
+1494467436|Rusty Russell|M|/lightning-rfc/05-onchain.md
+1494467436|Rusty Russell|M|/lightning-rfc/03-transactions.md
+1494467436|Rusty Russell|M|/lightning-rfc/08-transport.md
+1494467436|Rusty Russell|M|/lightning-rfc/08-transport.md
+1494467436|Rusty Russell|M|/lightning-rfc/09-features.md
+1494467436|Rusty Russell|M|/lightning-rfc/tools/extract-formats.py
+1494467436|Rusty Russell|M|/lightning-rfc/tools/spellcheck.sh
+1494878093|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1494878093|Rusty Russell|M|/lightning-rfc/07-routing-gossip.md
+1494878093|Rusty Russell|M|/lightning-rfc/03-transactions.md
+1494878093|Rusty Russell|M|/lightning-rfc/03-transactions.md
+1494878093|Rusty Russell|M|/lightning-rfc/03-transactions.md
+1494878093|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1494878093|Rusty Russell|M|/lightning-rfc/03-transactions.md
+1494878093|Rusty Russell|M|/lightning-rfc/05-onchain.md
+1494878093|Rusty Russell|M|/lightning-rfc/05-onchain.md
+1495066709|Olaoluwa Osuntokun|M|/lightning-rfc/02-peer-protocol.md
+1495066733|Rusty Russell|M|/lightning-rfc/05-onchain.md
+1495066759|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1495066759|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1495067165|Olaoluwa Osuntokun|M|/lightning-rfc/07-routing-gossip.md
+1495067165|Olaoluwa Osuntokun|M|/lightning-rfc/07-routing-gossip.md
+1495067165|Christian Decker|M|/lightning-rfc/.aspell.en.pws
+1495067165|Rusty Russell|M|/lightning-rfc/07-routing-gossip.md
+1495156464|EmelyanenkoK|M|/lightning-rfc/02-peer-protocol.md
+1495158174|pm47|M|/lightning-rfc/04-onion-routing.md
+1495158174|pm47|M|/lightning-rfc/04-onion-routing.md
+1495158174|sstone|M|/lightning-rfc/04-onion-routing.md
+1495158174|Rusty Russell|M|/lightning-rfc/.aspell.en.pws
+1495239651|Olaoluwa Osuntokun|M|/lightning-rfc/03-transactions.md
+1495508794|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1495508794|Rusty Russell|M|/lightning-rfc/04-onion-routing.md
+1495508794|Rusty Russell|M|/lightning-rfc/07-routing-gossip.md
+1495555013|Rusty Russell|M|/lightning-rfc/03-transactions.md
+1495671211|Rusty Russell|M|/lightning-rfc/01-messaging.md
+1495671211|Rusty Russell|M|/lightning-rfc/09-features.md
+1495774910|ZmnSCPxj|M|/lightning-rfc/.travis.yml
+1495846842|Olaoluwa Osuntokun|M|/lightning-rfc/02-peer-protocol.md
+1495846842|Olaoluwa Osuntokun|M|/lightning-rfc/02-peer-protocol.md
+1495846842|Olaoluwa Osuntokun|M|/lightning-rfc/07-routing-gossip.md
+1495846842|Olaoluwa Osuntokun|M|/lightning-rfc/09-features.md
+1498559893|Rusty Russell|M|/lightning-rfc/.aspell.en.pws
+1498559893|Rusty Russell|M|/lightning-rfc/00-introduction.md
+1498559893|Rusty Russell|A|/lightning-rfc/11-payment-encoding.md
+1498559893|Rusty Russell|M|/lightning-rfc/tools/spellcheck.sh
+1498598186|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1498598186|Rusty Russell|M|/lightning-rfc/.aspell.en.pws
+1498598186|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1498615564|Rusty Russell|M|/lightning-rfc/07-routing-gossip.md
+1499733789|Christian Decker|M|/lightning-rfc/07-routing-gossip.md
+1499735394|Christian Decker|M|/lightning-rfc/07-routing-gossip.md
+1499735394|Christian Decker|M|/lightning-rfc/07-routing-gossip.md
+1499735430|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1499735430|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1499735461|Rusty Russell|M|/lightning-rfc/04-onion-routing.md
+1499764143|Christian Decker|M|/lightning-rfc/07-routing-gossip.md
+1499764143|Christian Decker|M|/lightning-rfc/tools/extract-formats.py
+1499767872|Janus|M|/lightning-rfc/tools/extract-formats.py
+1499767872|Janus|A|/lightning-rfc/tools/structured.py
+1499767872|Christian Decker|M|/lightning-rfc/tools/extract-formats.py
+1499767872|Christian Decker|M|/lightning-rfc/tools/structured.py
+1500080426|Pierre-Marie Padiou|M|/lightning-rfc/11-payment-encoding.md
+1500884809|Pierre-Marie Padiou|M|/lightning-rfc/11-payment-encoding.md
+1500927915|Christian Decker|M|/lightning-rfc/04-onion-routing.md
+1500927915|Christian Decker|M|/lightning-rfc/.aspell.en.pws
+1501420524|Christian Decker|M|/lightning-rfc/07-routing-gossip.md
+1501420524|Christian Decker|M|/lightning-rfc/.aspell.en.pws
+1502109238|kek-coin|M|/lightning-rfc/07-routing-gossip.md
+1502151919|Rusty Russell|M|/lightning-rfc/11-payment-encoding.md
+1502152518|Rusty Russell|M|/lightning-rfc/03-transactions.md
+1502152518|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1502152581|Olaoluwa Osuntokun|M|/lightning-rfc/07-routing-gossip.md
+1502152581|Olaoluwa Osuntokun|M|/lightning-rfc/00-introduction.md
+1502152581|Olaoluwa Osuntokun|M|/lightning-rfc/02-peer-protocol.md
+1502152581|Olaoluwa Osuntokun|M|/lightning-rfc/07-routing-gossip.md
+1503348798|Christian Decker|A|/lightning-rfc/10-dns-bootstrap.md
+1503348798|Christian Decker|M|/lightning-rfc/10-dns-bootstrap.md
+1503348798|Christian Decker|M|/lightning-rfc/10-dns-bootstrap.md
+1503348798|Christian Decker|M|/lightning-rfc/10-dns-bootstrap.md
+1503348798|Christian Decker|M|/lightning-rfc/10-dns-bootstrap.md
+1503348798|Christian Decker|M|/lightning-rfc/.aspell.en.pws
+1503348798|Christian Decker|M|/lightning-rfc/10-dns-bootstrap.md
+1503359907|Rusty Russell|M|/lightning-rfc/11-payment-encoding.md
+1503360224|Rusty Russell|M|/lightning-rfc/00-introduction.md
+1503360422|Olaoluwa Osuntokun|M|/lightning-rfc/04-onion-routing.md
+1503361414|Rusty Russell|M|/lightning-rfc/tools/spellcheck.sh
+1503361787|Rusty Russell|M|/lightning-rfc/05-onchain.md
+1503361787|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1503361787|Rusty Russell|M|/lightning-rfc/05-onchain.md
+1503362109|Rusty Russell|M|/lightning-rfc/.aspell.en.pws
+1503362109|Rusty Russell|M|/lightning-rfc/11-payment-encoding.md
+1503731552|Janus Troelsen|M|/lightning-rfc/03-transactions.md
+1504526000|Rusty Russell|M|/lightning-rfc/11-payment-encoding.md
+1504588678|Conner Fromknecht|M|/lightning-rfc/05-onchain.md
+1504588753|Johan T. Halseth|M|/lightning-rfc/11-payment-encoding.md
+1505300566|Fabrice Drouin|M|/lightning-rfc/04-onion-routing.md
+1505300601|Christian Decker|M|/lightning-rfc/00-introduction.md
+1505300601|Christian Decker|M|/lightning-rfc/.aspell.en.pws
+1505767648|Christian Decker|M|/lightning-rfc/04-onion-routing.md
+1505767648|Christian Decker|M|/lightning-rfc/04-onion-routing.md
+1505783676|Rusty Russell|M|/lightning-rfc/05-onchain.md
+1505868769|Rusty Russell|M|/lightning-rfc/05-onchain.md
+1506057089|Rusty Russell|M|/lightning-rfc/05-onchain.md
+1506308320|Jim Posen|M|/lightning-rfc/03-transactions.md
+1506308320|Jim Posen|M|/lightning-rfc/03-transactions.md
+1506308320|Jim Posen|M|/lightning-rfc/03-transactions.md
+1506308320|Jim Posen|M|/lightning-rfc/03-transactions.md
+1506308670|Jim Posen|M|/lightning-rfc/02-peer-protocol.md
+1506308670|Jim Posen|M|/lightning-rfc/05-onchain.md
+1506308670|Jim Posen|M|/lightning-rfc/07-routing-gossip.md
+1506308670|Jim Posen|M|/lightning-rfc/08-transport.md
+1506308670|Jim Posen|M|/lightning-rfc/10-dns-bootstrap.md
+1506992410|Pierre-Marie Padiou|M|/lightning-rfc/02-peer-protocol.md
+1506992418|Rusty Russell|M|/lightning-rfc/05-onchain.md
+1507350440|Rusty Russell|M|/lightning-rfc/.aspell.en.pws
+1507350440|Rusty Russell|M|/lightning-rfc/04-onion-routing.md
+1507764072|Rusty Russell|M|/lightning-rfc/11-payment-encoding.md
+1507801205|Pierre-Marie Padiou|M|/lightning-rfc/03-transactions.md
+1508182491|Roman Zeyde|D|/lightning-rfc/06-irc-announcements.md
+1508192048|Christian Decker|M|/lightning-rfc/04-onion-routing.md
+1508222740|Salome|M|/lightning-rfc/11-payment-encoding.md
+1508222740|Salome|M|/lightning-rfc/11-payment-encoding.md
+1508225148|ueno|M|/lightning-rfc/03-transactions.md
+1508225148|ueno|M|/lightning-rfc/09-features.md
+1508236392|Rusty Russell|M|/lightning-rfc/.aspell.en.pws
+1508236392|Rusty Russell|M|/lightning-rfc/00-introduction.md
+1508236392|Rusty Russell|M|/lightning-rfc/.aspell.en.pws
+1508333491|Pierre-Marie Padiou|M|/lightning-rfc/.aspell.en.pws
+1508333491|Pierre-Marie Padiou|M|/lightning-rfc/07-routing-gossip.md
+1508333491|Pierre-Marie Padiou|M|/lightning-rfc/11-payment-encoding.md
+1508442293|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1508442293|Rusty Russell|M|/lightning-rfc/04-onion-routing.md
+1508442293|Rusty Russell|M|/lightning-rfc/07-routing-gossip.md
+1509409318|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1509409318|Rusty Russell|M|/lightning-rfc/04-onion-routing.md
+1509813136|Landon Mutch|M|/lightning-rfc/00-introduction.md
+1509813170|Landon Mutch|M|/lightning-rfc/01-messaging.md
+1509831836|Landon Mutch|M|/lightning-rfc/01-messaging.md
+1509846826|Landon Mutch|M|/lightning-rfc/01-messaging.md
+1510263031|Landon Mutch|M|/lightning-rfc/00-introduction.md
+1510263053|Landon Mutch|M|/lightning-rfc/01-messaging.md
+1510269986|Landon Mutch|M|/lightning-rfc/01-messaging.md
+1510281172|Landon Mutch|M|/lightning-rfc/00-introduction.md
+1510281172|Landon Mutch|M|/lightning-rfc/01-messaging.md
+1510282540|Landon Mutch|M|/lightning-rfc/01-messaging.md
+1510282988|Landon Mutch|M|/lightning-rfc/01-messaging.md
+1510298633|Landon Mutch|M|/lightning-rfc/01-messaging.md
+1510298769|Landon Mutch|A|/lightning-rfc/.copy-edit-stylesheet-checklist.md
+1510304198|Landon Mutch|M|/lightning-rfc/02-peer-protocol.md
+1510343151|Landon Mutch|M|/lightning-rfc/02-peer-protocol.md
+1510343359|Landon Mutch|M|/lightning-rfc/.copy-edit-stylesheet-checklist.md
+1510343359|Landon Mutch|M|/lightning-rfc/01-messaging.md
+1510351521|Landon Mutch|M|/lightning-rfc/.copy-edit-stylesheet-checklist.md
+1510351521|Landon Mutch|M|/lightning-rfc/00-introduction.md
+1510351521|Landon Mutch|M|/lightning-rfc/01-messaging.md
+1510351521|Landon Mutch|M|/lightning-rfc/02-peer-protocol.md
+1510366467|Landon Mutch|M|/lightning-rfc/01-messaging.md
+1510366467|Landon Mutch|M|/lightning-rfc/02-peer-protocol.md
+1510381133|Landon Mutch|M|/lightning-rfc/02-peer-protocol.md
+1510382133|Landon Mutch|M|/lightning-rfc/.copy-edit-stylesheet-checklist.md
+1510382517|Landon Mutch|M|/lightning-rfc/.copy-edit-stylesheet-checklist.md
+1510600232|Rusty Russell|M|/lightning-rfc/01-messaging.md
+1510600232|Rusty Russell|M|/lightning-rfc/tools/extract-formats.py
+1510600232|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1510600232|Rusty Russell|M|/lightning-rfc/05-onchain.md
+1510626733|Landon Mutch|M|/lightning-rfc/02-peer-protocol.md
+1510629489|Landon Mutch|M|/lightning-rfc/.aspell.en.pws
+1510629489|Landon Mutch|M|/lightning-rfc/02-peer-protocol.md
+1510700291|Rusty Russell|M|/lightning-rfc/.aspell.en.pws
+1510700291|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1510700291|Rusty Russell|M|/lightning-rfc/03-transactions.md
+1510743316|Landon Mutch|M|/lightning-rfc/.copy-edit-stylesheet-checklist.md
+1510743316|Landon Mutch|M|/lightning-rfc/00-introduction.md
+1510743316|Landon Mutch|M|/lightning-rfc/01-messaging.md
+1510743316|Landon Mutch|M|/lightning-rfc/02-peer-protocol.md
+1511313661|Renlord Yang|M|/lightning-rfc/05-onchain.md
+1511825881|Shannon Appelcline|M|/lightning-rfc/01-messaging.md
+1511825881|Shannon Appelcline|M|/lightning-rfc/00-introduction.md
+1511825881|Shannon Appelcline|M|/lightning-rfc/00-introduction.md
+1511825881|Shannon Appelcline|M|/lightning-rfc/.aspell.en.pws
+1511825979|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1511826002|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1511826002|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1511827797|Rusty Russell|M|/lightning-rfc/tools/extract-formats.py
+1511827797|Rusty Russell|M|/lightning-rfc/.travis.yml
+1511827797|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1511827797|Rusty Russell|M|/lightning-rfc/09-features.md
+1511910192|Rusty Russell|M|/lightning-rfc/09-features.md
+1511910715|Landon Mutch|M|/lightning-rfc/.aspell.en.pws
+1511910715|Landon Mutch|M|/lightning-rfc/.copy-edit-stylesheet-checklist.md
+1511910715|Landon Mutch|M|/lightning-rfc/00-introduction.md
+1511910715|Landon Mutch|M|/lightning-rfc/02-peer-protocol.md
+1511910715|Landon Mutch|M|/lightning-rfc/.copy-edit-stylesheet-checklist.md
+1511910715|Landon Mutch|M|/lightning-rfc/01-messaging.md
+1511910715|Landon Mutch|M|/lightning-rfc/02-peer-protocol.md
+1511910715|Landon Mutch|M|/lightning-rfc/03-transactions.md
+1511910715|Landon Mutch|M|/lightning-rfc/.copy-edit-stylesheet-checklist.md
+1511910715|Landon Mutch|M|/lightning-rfc/02-peer-protocol.md
+1511910715|Landon Mutch|M|/lightning-rfc/03-transactions.md
+1511910715|Landon Mutch|M|/lightning-rfc/03-transactions.md
+1511910715|Landon Mutch|M|/lightning-rfc/02-peer-protocol.md
+1511910715|Landon Mutch|M|/lightning-rfc/03-transactions.md
+1511910715|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1511910740|Rusty Russell|M|/lightning-rfc/01-messaging.md
+1511920647|ueno|M|/lightning-rfc/05-onchain.md
+1512366063|Shannon Appelcline|M|/lightning-rfc/00-introduction.md
+1512366063|Shannon Appelcline|M|/lightning-rfc/02-peer-protocol.md
+1512366063|Shannon Appelcline|M|/lightning-rfc/02-peer-protocol.md
+1512366063|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1512366063|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1512366182|Dave Collins|M|/lightning-rfc/08-transport.md
+1512614170|Landon Mutch|M|/lightning-rfc/04-onion-routing.md
+1512614170|Landon Mutch|M|/lightning-rfc/04-onion-routing.md
+1512614170|Landon Mutch|M|/lightning-rfc/.copy-edit-stylesheet-checklist.md
+1512614170|Landon Mutch|M|/lightning-rfc/01-messaging.md
+1512614170|Landon Mutch|M|/lightning-rfc/.copy-edit-stylesheet-checklist.md
+1512614170|Landon Mutch|M|/lightning-rfc/01-messaging.md
+1512614170|Landon Mutch|M|/lightning-rfc/02-peer-protocol.md
+1512614170|Landon Mutch|M|/lightning-rfc/03-transactions.md
+1512614170|Landon Mutch|M|/lightning-rfc/04-onion-routing.md
+1512614170|Landon Mutch|M|/lightning-rfc/04-onion-routing.md
+1512614170|Landon Mutch|M|/lightning-rfc/04-onion-routing.md
+1512614170|Landon Mutch|M|/lightning-rfc/04-onion-routing.md
+1512614170|Landon Mutch|M|/lightning-rfc/04-onion-routing.md
+1512614170|Landon Mutch|M|/lightning-rfc/04-onion-routing.md
+1512614170|Landon Mutch|M|/lightning-rfc/04-onion-routing.md
+1512614170|Landon Mutch|M|/lightning-rfc/.aspell.en.pws
+1512614170|Landon Mutch|M|/lightning-rfc/04-onion-routing.md
+1512614170|Landon Mutch|M|/lightning-rfc/04-onion-routing.md
+1512614170|Landon Mutch|M|/lightning-rfc/04-onion-routing.md
+1512695382|Rusty Russell|M|/lightning-rfc/05-onchain.md
+1512695382|Shannon Appelcline|M|/lightning-rfc/.aspell.en.pws
+1512695382|Shannon Appelcline|M|/lightning-rfc/05-onchain.md
+1512949341|Shannon Appelcline|M|/lightning-rfc/07-routing-gossip.md
+1512949341|Shannon Appelcline|M|/lightning-rfc/07-routing-gossip.md
+1512949414|Shannon Appelcline|M|/lightning-rfc/08-transport.md
+1512949414|Shannon Appelcline|M|/lightning-rfc/08-transport.md
+1512949414|Shannon Appelcline|M|/lightning-rfc/08-transport.md
+1512949414|Shannon Appelcline|M|/lightning-rfc/08-transport.md
+1512949668|RodneyNeilMorris|M|/lightning-rfc/01-messaging.md
+1512971612|Rusty Russell|M|/lightning-rfc/05-onchain.md
+1513033136|Olaoluwa Osuntokun|M|/lightning-rfc/03-transactions.md
+1513033245|Rusty Russell|M|/lightning-rfc/11-payment-encoding.md
+1513033294|Pierre-Marie Padiou|M|/lightning-rfc/02-peer-protocol.md
+1513033839|Pierre-Marie Padiou|M|/lightning-rfc/01-messaging.md
+1513037837|Jonathan Underwood|M|/lightning-rfc/11-payment-encoding.md
+1513217188|Rusty Russell|M|/lightning-rfc/07-routing-gossip.md
+1513217256|Landon Mutch|M|/lightning-rfc/04-onion-routing.md
+1513217256|Landon Mutch|M|/lightning-rfc/04-onion-routing.md
+1513217256|Landon Mutch|M|/lightning-rfc/04-onion-routing.md
+1513217256|Landon Mutch|M|/lightning-rfc/04-onion-routing.md
+1513217323|Shannon Appelcline|M|/lightning-rfc/09-features.md
+1513217647|Pierre-Marie Padiou|M|/lightning-rfc/07-routing-gossip.md
+1513624401|Landon Mutch|M|/lightning-rfc/05-onchain.md
+1513624401|Landon Mutch|M|/lightning-rfc/05-onchain.md
+1513624401|Landon Mutch|M|/lightning-rfc/05-onchain.md
+1513624401|Landon Mutch|M|/lightning-rfc/05-onchain.md
+1513624401|Landon Mutch|M|/lightning-rfc/05-onchain.md
+1513624401|Landon Mutch|M|/lightning-rfc/05-onchain.md
+1513624401|Landon Mutch|M|/lightning-rfc/05-onchain.md
+1513624401|Landon Mutch|M|/lightning-rfc/05-onchain.md
+1513624401|Landon Mutch|M|/lightning-rfc/05-onchain.md
+1513624401|Rusty Russell|M|/lightning-rfc/.aspell.en.pws
+1513624465|practicalswift|M|/lightning-rfc/tools/spellcheck.sh
+1513624508|Shannon Appelcline|M|/lightning-rfc/10-dns-bootstrap.md
+1513624508|Shannon Appelcline|M|/lightning-rfc/10-dns-bootstrap.md
+1513654754|Rusty Russell|M|/lightning-rfc/05-onchain.md
+1513738501|Rusty Russell|M|/lightning-rfc/07-routing-gossip.md
+1513738543|Shannon Appelcline|M|/lightning-rfc/11-payment-encoding.md
+1513738543|Shannon Appelcline|M|/lightning-rfc/11-payment-encoding.md
+1513829313|Landon Mutch|M|/lightning-rfc/.copy-edit-stylesheet-checklist.md
+1513829313|Landon Mutch|M|/lightning-rfc/.copy-edit-stylesheet-checklist.md
+1513829313|Landon Mutch|M|/lightning-rfc/02-peer-protocol.md
+1513829313|Landon Mutch|M|/lightning-rfc/03-transactions.md
+1513829313|Landon Mutch|M|/lightning-rfc/03-transactions.md
+1513829313|Landon Mutch|M|/lightning-rfc/00-introduction.md
+1513829313|Landon Mutch|M|/lightning-rfc/03-transactions.md
+1513829313|Landon Mutch|M|/lightning-rfc/.aspell.en.pws
+1513829346|Rusty Russell|M|/lightning-rfc/00-introduction.md
+1513829346|Rusty Russell|M|/lightning-rfc/03-transactions.md
+1513902288|Landon Mutch|M|/lightning-rfc/05-onchain.md
+1513902288|Landon Mutch|M|/lightning-rfc/05-onchain.md
+1513902288|Landon Mutch|M|/lightning-rfc/05-onchain.md
+1513902288|Landon Mutch|M|/lightning-rfc/05-onchain.md
+1513902288|Landon Mutch|M|/lightning-rfc/.aspell.en.pws
+1513902288|Landon Mutch|M|/lightning-rfc/05-onchain.md
+1513902288|Landon Mutch|M|/lightning-rfc/05-onchain.md
+1513903229|Matt Corallo|M|/lightning-rfc/03-transactions.md
+1515378634|practicalswift|M|/lightning-rfc/01-messaging.md
+1515378634|practicalswift|M|/lightning-rfc/02-peer-protocol.md
+1515467189|Rusty Russell|M|/lightning-rfc/.aspell.en.pws
+1515467189|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1516625925|Rusty Russell|M|/lightning-rfc/03-transactions.md
+1516625985|Rusty Russell|M|/lightning-rfc/07-routing-gossip.md
+1516626061|William Casarin|M|/lightning-rfc/03-transactions.md
+1516626121|MeshCollider|M|/lightning-rfc/01-messaging.md
+1516626121|MeshCollider|M|/lightning-rfc/02-peer-protocol.md
+1516626121|MeshCollider|M|/lightning-rfc/04-onion-routing.md
+1516626121|MeshCollider|M|/lightning-rfc/05-onchain.md
+1516626121|MeshCollider|M|/lightning-rfc/10-dns-bootstrap.md
+1516626121|MeshCollider|M|/lightning-rfc/README.md
+1516648253|Rusty Russell|M|/lightning-rfc/11-payment-encoding.md
+1516648253|Rusty Russell|M|/lightning-rfc/11-payment-encoding.md
+1516648253|Rusty Russell|M|/lightning-rfc/11-payment-encoding.md
+1516648253|Christian Decker|M|/lightning-rfc/.aspell.en.pws
+1516648478|Pierre-Marie Padiou|M|/lightning-rfc/02-peer-protocol.md
+1517283228|Shannon Appelcline|M|/lightning-rfc/04-onion-routing.md
+1517283262|practicalswift|M|/lightning-rfc/08-transport.md
+1517283262|practicalswift|M|/lightning-rfc/11-payment-encoding.md
+1517283262|practicalswift|M|/lightning-rfc/11-payment-encoding.md
+1517283262|practicalswift|M|/lightning-rfc/01-messaging.md
+1517283262|practicalswift|M|/lightning-rfc/11-payment-encoding.md
+1517283985|toadlybroodle|M|/lightning-rfc/07-routing-gossip.md
+1517283985|toadlybroodle|M|/lightning-rfc/07-routing-gossip.md
+1517283985|toadlybroodle|M|/lightning-rfc/07-routing-gossip.md
+1517283985|toadlybroodle|M|/lightning-rfc/07-routing-gossip.md
+1517283985|toadlybroodle|M|/lightning-rfc/07-routing-gossip.md
+1517284052|Rusty Russell|M|/lightning-rfc/04-onion-routing.md
+1517284052|Rusty Russell|M|/lightning-rfc/08-transport.md
+1517284052|Rusty Russell|M|/lightning-rfc/08-transport.md
+1517288071|practicalswift|M|/lightning-rfc/02-peer-protocol.md
+1517288071|practicalswift|M|/lightning-rfc/03-transactions.md
+1517288071|practicalswift|M|/lightning-rfc/04-onion-routing.md
+1517288071|practicalswift|M|/lightning-rfc/07-routing-gossip.md
+1517288071|practicalswift|M|/lightning-rfc/08-transport.md
+1517288071|practicalswift|M|/lightning-rfc/09-features.md
+1517288071|practicalswift|M|/lightning-rfc/10-dns-bootstrap.md
+1517288071|practicalswift|M|/lightning-rfc/11-payment-encoding.md
+1517821260|practicalswift|M|/lightning-rfc/.copy-edit-stylesheet-checklist.md
+1517821260|practicalswift|M|/lightning-rfc/02-peer-protocol.md
+1517821791|practicalswift|M|/lightning-rfc/08-transport.md
+1517826754|Cayle Sharrock|M|/lightning-rfc/08-transport.md
+1517858350|Rusty Russell|M|/lightning-rfc/03-transactions.md
+1517859171|practicalswift|M|/lightning-rfc/08-transport.md
+1517859171|practicalswift|M|/lightning-rfc/08-transport.md
+1517873881|Conner Fromknecht|M|/lightning-rfc/07-routing-gossip.md
+1517873881|Conner Fromknecht|M|/lightning-rfc/11-payment-encoding.md
+1517873881|Conner Fromknecht|M|/lightning-rfc/.aspell.en.pws
+1517873931|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1517874432|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1517874572|Shannon Appelcline|M|/lightning-rfc/03-transactions.md
+1517874572|Shannon Appelcline|M|/lightning-rfc/03-transactions.md
+1518184252|Christian Decker|M|/lightning-rfc/02-peer-protocol.md
+1519089038|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1519089038|Rusty Russell|M|/lightning-rfc/03-transactions.md
+1519089038|Rusty Russell|M|/lightning-rfc/05-onchain.md
+1519089038|Rusty Russell|M|/lightning-rfc/.aspell.en.pws
+1519089104|practicalswift|M|/lightning-rfc/08-transport.md
+1519089149|practicalswift|M|/lightning-rfc/03-transactions.md
+1519089149|practicalswift|M|/lightning-rfc/05-onchain.md
+1519089149|practicalswift|M|/lightning-rfc/07-routing-gossip.md
+1519090218|Landon Mutch|M|/lightning-rfc/07-routing-gossip.md
+1519090218|Landon Mutch|M|/lightning-rfc/07-routing-gossip.md
+1519090218|Landon Mutch|M|/lightning-rfc/07-routing-gossip.md
+1519090218|Landon Mutch|M|/lightning-rfc/07-routing-gossip.md
+1519258333|practicalswift|M|/lightning-rfc/08-transport.md
+1519258522|ueno|M|/lightning-rfc/01-messaging.md
+1520240673|Rusty Russell|M|/lightning-rfc/07-routing-gossip.md
+1520277092|Jim Posen|M|/lightning-rfc/04-onion-routing.md
+1520277092|Jim Posen|M|/lightning-rfc/04-onion-routing.md
+1520277092|Jim Posen|M|/lightning-rfc/.aspell.en.pws
+1520277092|Jim Posen|M|/lightning-rfc/04-onion-routing.md
+1520277092|Jim Posen|M|/lightning-rfc/.aspell.en.pws
+1520277092|Jim Posen|M|/lightning-rfc/04-onion-routing.md
+1520277092|Jim Posen|M|/lightning-rfc/.aspell.en.pws
+1520277092|Jim Posen|M|/lightning-rfc/04-onion-routing.md
+1520277637|pm47|M|/lightning-rfc/02-peer-protocol.md
+1520277637|pm47|M|/lightning-rfc/02-peer-protocol.md
+1520277637|pm47|M|/lightning-rfc/05-onchain.md
+1520277637|pm47|M|/lightning-rfc/09-features.md
+1521549454|Pierre-Marie Padiou|M|/lightning-rfc/02-peer-protocol.md
+1523416921|kurihei|M|/lightning-rfc/07-routing-gossip.md
+1523418125|Li Xuanji|M|/lightning-rfc/03-transactions.md
+1523418213|Sebastian Geisler|M|/lightning-rfc/11-payment-encoding.md
+1523430498|Janus|M|/lightning-rfc/02-peer-protocol.md
+1523430498|Janus|M|/lightning-rfc/tools/extract-formats.py
+1523430498|Janus|M|/lightning-rfc/tools/structured.py
+1523889664|Olaoluwa Osuntokun|M|/lightning-rfc/04-onion-routing.md
+1523910330|ueno|M|/lightning-rfc/07-routing-gossip.md
+1523913994|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1523913994|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1523913994|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1523913994|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1523913994|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1523913994|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1523913994|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1523914009|Thomas M Steenholdt|M|/lightning-rfc/10-dns-bootstrap.md
+1523914083|ueno|M|/lightning-rfc/04-onion-routing.md
+1523914097|johnta0|M|/lightning-rfc/11-payment-encoding.md
+1523914097|Christian Decker|M|/lightning-rfc/11-payment-encoding.md
+1524048196|Landon Mutch|M|/lightning-rfc/08-transport.md
+1524048196|Landon Mutch|M|/lightning-rfc/08-transport.md
+1524048196|Landon Mutch|M|/lightning-rfc/08-transport.md
+1525084628|practicalswift|M|/lightning-rfc/10-dns-bootstrap.md
+1525119818|DanielWeigl|M|/lightning-rfc/11-payment-encoding.md
+1525119818|DanielWeigl|M|/lightning-rfc/.aspell.en.pws
+1525120826|Carsten Otto|M|/lightning-rfc/02-peer-protocol.md
+1526259824|Fabrice Drouin|M|/lightning-rfc/04-onion-routing.md
+1526259824|Fabrice Drouin|M|/lightning-rfc/04-onion-routing.md
+1526327300|yuntai|M|/lightning-rfc/02-peer-protocol.md
+1527134994|Shannon Appelcline|M|/lightning-rfc/00-introduction.md
+1527134994|Shannon Appelcline|M|/lightning-rfc/00-introduction.md
+1527134994|Christian Decker|M|/lightning-rfc/00-introduction.md
+1527134994|Shannon Appelcline|M|/lightning-rfc/00-introduction.md
+1527135691|Rusty Russell|M|/lightning-rfc/tools/extract-formats.py
+1527135709|Rusty Russell|M|/lightning-rfc/01-messaging.md
+1527135913|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1528715896|Carsten Otto|M|/lightning-rfc/03-transactions.md
+1528715910|Rusty Russell|M|/lightning-rfc/08-transport.md
+1529924283|Janus Troelsen|M|/lightning-rfc/03-transactions.md
+1530045729|Janus Troelsen|M|/lightning-rfc/11-payment-encoding.md
+1530045860|Landon Mutch|M|/lightning-rfc/09-features.md
+1530145283|Rusty Russell|M|/lightning-rfc/01-messaging.md
+1530145283|Rusty Russell|M|/lightning-rfc/07-routing-gossip.md
+1530145283|Rusty Russell|M|/lightning-rfc/tools/extract-formats.py
+1530145283|Rusty Russell|M|/lightning-rfc/.aspell.en.pws
+1530145283|Rusty Russell|M|/lightning-rfc/07-routing-gossip.md
+1530145283|Rusty Russell|M|/lightning-rfc/09-features.md
+1530145283|Rusty Russell|M|/lightning-rfc/.aspell.en.pws
+1530145283|Rusty Russell|M|/lightning-rfc/07-routing-gossip.md
+1530238995|Rusty Russell|M|/lightning-rfc/08-transport.md
+1532345200|Rusty Russell|M|/lightning-rfc/00-introduction.md
+1532345200|Rusty Russell|M|/lightning-rfc/00-introduction.md
+1532486282|Rusty Russell|M|/lightning-rfc/11-payment-encoding.md
+1532486282|Rusty Russell|M|/lightning-rfc/11-payment-encoding.md
+1532574661|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1533600446|Hajime Yamaguchi|M|/lightning-rfc/03-transactions.md
+1533600446|Hajime Yamaguchi|M|/lightning-rfc/07-routing-gossip.md
+1533600462|ueno|M|/lightning-rfc/02-peer-protocol.md
+1533600462|ueno|M|/lightning-rfc/04-onion-routing.md
+1533600462|ueno|M|/lightning-rfc/07-routing-gossip.md
+1533600611|landonmutch|M|/lightning-rfc/10-dns-bootstrap.md
+1535146976|Rusty Russell|M|/lightning-rfc/07-routing-gossip.md
+1535146976|Rusty Russell|M|/lightning-rfc/07-routing-gossip.md
+1535146976|Rusty Russell|M|/lightning-rfc/07-routing-gossip.md
+1536021520|Matt Corallo|M|/lightning-rfc/07-routing-gossip.md
+1537213451|Matt Corallo|M|/lightning-rfc/07-routing-gossip.md
+1538425378|sstone|M|/lightning-rfc/04-onion-routing.md
+1539839722|Pierre-Marie Padiou|M|/lightning-rfc/01-messaging.md
+1539839722|Pierre-Marie Padiou|M|/lightning-rfc/01-messaging.md
+1539839748|Chris Stewart|M|/lightning-rfc/11-payment-encoding.md
+1539839846|lisa neigut|M|/lightning-rfc/07-routing-gossip.md
+1539839868|Rusty Russell|M|/lightning-rfc/04-onion-routing.md
+1540771676|ueno|M|/lightning-rfc/02-peer-protocol.md
+1540772256|lisa neigut|M|/lightning-rfc/07-routing-gossip.md
+1540772256|lisa neigut|M|/lightning-rfc/07-routing-gossip.md
+1540772256|lisa neigut|M|/lightning-rfc/07-routing-gossip.md
+1540772256|lisa neigut|M|/lightning-rfc/07-routing-gossip.md
+1540772256|lisa neigut|M|/lightning-rfc/07-routing-gossip.md
+1540772256|lisa neigut|M|/lightning-rfc/07-routing-gossip.md
+1540772256|lisa neigut|M|/lightning-rfc/07-routing-gossip.md
+1540772256|lisa neigut|M|/lightning-rfc/07-routing-gossip.md
+1540772256|lisa neigut|M|/lightning-rfc/07-routing-gossip.md
+1540772256|lisa neigut|M|/lightning-rfc/07-routing-gossip.md
+1540772256|lisa neigut|M|/lightning-rfc/07-routing-gossip.md
+1540772256|lisa neigut|M|/lightning-rfc/07-routing-gossip.md
+1540772256|lisa neigut|M|/lightning-rfc/07-routing-gossip.md
+1541474787|Hiroki Gondo|M|/lightning-rfc/08-transport.md
+1541474787|Hiroki Gondo|M|/lightning-rfc/08-transport.md
+1541474787|Hiroki Gondo|M|/lightning-rfc/08-transport.md
+1541474787|Hiroki Gondo|M|/lightning-rfc/08-transport.md
+1542037677|ZmnSCPxj, ZmnSCPxj jxPCSmnZ|M|/lightning-rfc/02-peer-protocol.md
+1543248316|ZmnSCPxj|M|/lightning-rfc/07-routing-gossip.md
+1543464726|lisa neigut|M|/lightning-rfc/02-peer-protocol.md
+1543464726|lisa neigut|M|/lightning-rfc/02-peer-protocol.md
+1543464726|lisa neigut|M|/lightning-rfc/00-introduction.md
+1543464726|lisa neigut|M|/lightning-rfc/02-peer-protocol.md
+1543464726|lisa neigut|M|/lightning-rfc/02-peer-protocol.md
+1543464726|lisa neigut|M|/lightning-rfc/02-peer-protocol.md
+1543464726|lisa neigut|M|/lightning-rfc/02-peer-protocol.md
+1543464726|lisa neigut|M|/lightning-rfc/02-peer-protocol.md
+1543464726|lisa neigut|M|/lightning-rfc/02-peer-protocol.md
+1543464726|lisa neigut|M|/lightning-rfc/02-peer-protocol.md
+1543464756|araspitzu|M|/lightning-rfc/04-onion-routing.md
+1543464756|araspitzu|M|/lightning-rfc/04-onion-routing.md
+1543464756|araspitzu|M|/lightning-rfc/04-onion-routing.md
+1543464954|Matt Corallo|M|/lightning-rfc/07-routing-gossip.md
+1543464954|Rusty Russell|M|/lightning-rfc/07-routing-gossip.md
+1543465063|Mykola Sakhno|M|/lightning-rfc/03-transactions.md
+1543465084|Orfeas Litos|M|/lightning-rfc/03-transactions.md
+1543465306|Conner Fromknecht|M|/lightning-rfc/04-onion-routing.md
+1543465468|Hiroki Gondo|M|/lightning-rfc/03-transactions.md
+1543465487|Hiroki Gondo|M|/lightning-rfc/02-peer-protocol.md
+1543465504|Rusty Russell|M|/lightning-rfc/07-routing-gossip.md
+1543465931|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1543914349|Hiroki Gondo|M|/lightning-rfc/04-onion-routing.md
+1544099401|Hiroki Gondo|M|/lightning-rfc/03-transactions.md
+1544409967|Matt Corallo|M|/lightning-rfc/02-peer-protocol.md
+1544409967|Rusty Russell|M|/lightning-rfc/.aspell.en.pws
+1544409967|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1544480645|Matt Corallo|M|/lightning-rfc/04-onion-routing.md
+1546888651|Hiroki Gondo|M|/lightning-rfc/02-peer-protocol.md
+1546888651|Hiroki Gondo|M|/lightning-rfc/02-peer-protocol.md
+1546888665|Hiroki Gondo|M|/lightning-rfc/00-introduction.md
+1546888665|Hiroki Gondo|M|/lightning-rfc/02-peer-protocol.md
+1546888665|Hiroki Gondo|M|/lightning-rfc/05-onchain.md
+1546888678|Hiroki Gondo|M|/lightning-rfc/02-peer-protocol.md
+1546888699|Hiroki Gondo|M|/lightning-rfc/07-routing-gossip.md
+1546888711|Hiroki Gondo|M|/lightning-rfc/03-transactions.md
+1546889698|Landon Mutch|M|/lightning-rfc/.copy-edit-stylesheet-checklist.md
+1546889698|Landon Mutch|M|/lightning-rfc/11-payment-encoding.md
+1546889698|Landon Mutch|M|/lightning-rfc/11-payment-encoding.md
+1546889698|Landon Mutch|M|/lightning-rfc/11-payment-encoding.md
+1546889698|Landon Mutch|M|/lightning-rfc/11-payment-encoding.md
+1546889698|landonMutch|M|/lightning-rfc/11-payment-encoding.md
+1546889883|Hiroki Gondo|M|/lightning-rfc/05-onchain.md
+1546889883|Hiroki Gondo|M|/lightning-rfc/05-onchain.md
+1546889935|Hiroki Gondo|M|/lightning-rfc/03-transactions.md
+1546890035|Hiroki Gondo|M|/lightning-rfc/07-routing-gossip.md
+1546890444|Hiroki Gondo|M|/lightning-rfc/07-routing-gossip.md
+1546893320|Hiroki Gondo|M|/lightning-rfc/08-transport.md
+1547075140|Hiroki Gondo|M|/lightning-rfc/05-onchain.md
+1547592750|Antoine Riard|M|/lightning-rfc/03-transactions.md
+1547592951|Hiroki Gondo|M|/lightning-rfc/02-peer-protocol.md
+1547592951|Hiroki Gondo|M|/lightning-rfc/02-peer-protocol.md
+1547593002|Hiroki Gondo|M|/lightning-rfc/02-peer-protocol.md
+1548101771|Pierre-Marie Padiou|M|/lightning-rfc/04-onion-routing.md
+1548189838|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1548189838|Rusty Russell|M|/lightning-rfc/03-transactions.md
+1548189838|Pierre-Marie Padiou|M|/lightning-rfc/02-peer-protocol.md
+1548189862|Rusty Russell|M|/lightning-rfc/04-onion-routing.md
+1548189884|Orfeas Stefanos Thyfronitis Litos|M|/lightning-rfc/02-peer-protocol.md
+1548189906|Orfeas Stefanos Thyfronitis Litos|M|/lightning-rfc/03-transactions.md
+1549323865|Antoine Riard|M|/lightning-rfc/03-transactions.md
+1549323885|Antoine Riard|M|/lightning-rfc/02-peer-protocol.md
+1549323938|Orfeas Stefanos Thyfronitis Litos|M|/lightning-rfc/04-onion-routing.md
+1549323950|Orfeas Stefanos Thyfronitis Litos|M|/lightning-rfc/02-peer-protocol.md
+1550484484|Richard Bondi|M|/lightning-rfc/08-transport.md
+1550484572|Simon Vrouwe|M|/lightning-rfc/02-peer-protocol.md
+1550521242|sstone|M|/lightning-rfc/04-onion-routing.md
+1556572837|David A. Harding|M|/lightning-rfc/02-peer-protocol.md
+1556679626|Rene Pickhardt|M|/lightning-rfc/08-transport.md
+1557777576|Orfeas Stefanos Thyfronitis Litos|M|/lightning-rfc/05-onchain.md
+1558469894|Jorge Timón|M|/lightning-rfc/05-onchain.md
+1558469894|Jorge Timón|M|/lightning-rfc/05-onchain.md
+1558469953|Jorge Timón|M|/lightning-rfc/02-peer-protocol.md
+1558741595|Jorge Timón|M|/lightning-rfc/09-features.md
+1560377695|Conner Fromknecht|M|/lightning-rfc/.aspell.en.pws
+1560377695|Conner Fromknecht|M|/lightning-rfc/01-messaging.md
+1562633326|Rusty Russell|M|/lightning-rfc/.travis.yml
+1562633326|Rusty Russell|M|/lightning-rfc/tools/extract-formats.py
+1562633326|Rusty Russell|M|/lightning-rfc/01-messaging.md
+1562633326|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1562633326|Rusty Russell|M|/lightning-rfc/04-onion-routing.md
+1562633326|Rusty Russell|M|/lightning-rfc/07-routing-gossip.md
+1562633326|Rusty Russell|M|/lightning-rfc/01-messaging.md
+1562633326|Rusty Russell|M|/lightning-rfc/01-messaging.md
+1562633326|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1562633326|Rusty Russell|M|/lightning-rfc/04-onion-routing.md
+1562633326|Rusty Russell|M|/lightning-rfc/07-routing-gossip.md
+1562657823|Rusty Russell|M|/lightning-rfc/01-messaging.md
+1562657914|Otto Suess|M|/lightning-rfc/11-payment-encoding.md
+1562661629|Alex Bosworth|M|/lightning-rfc/03-transactions.md
+1562830422|Hiroki Gondo|M|/lightning-rfc/07-routing-gossip.md
+1563177675|Hugo Doyon|M|/lightning-rfc/00-introduction.md
+1563261866|Ugam Kamat|M|/lightning-rfc/.aspell.en.pws
+1563261866|Ugam Kamat|M|/lightning-rfc/07-routing-gossip.md
+1563349535|Jorge Timón|M|/lightning-rfc/11-payment-encoding.md
+1563521449|Conner Fromknecht|M|/lightning-rfc/07-routing-gossip.md
+1563826749|Conner Fromknecht|M|/lightning-rfc/tools/spellcheck.sh
+1563826749|Conner Fromknecht|M|/lightning-rfc/.aspell.en.pws
+1563826749|Conner Fromknecht|M|/lightning-rfc/01-messaging.md
+1563828120|Orfeas Stefanos Thyfronitis Litos|M|/lightning-rfc/04-onion-routing.md
+1563832039|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1563838033|Rusty Russell|M|/lightning-rfc/tools/extract-formats.py
+1563838033|Rusty Russell|M|/lightning-rfc/tools/extract-formats.py
+1563838033|Rusty Russell|M|/lightning-rfc/01-messaging.md
+1563838033|Rusty Russell|M|/lightning-rfc/.aspell.en.pws
+1563838033|Rusty Russell|M|/lightning-rfc/tools/spellcheck.sh
+1563838033|Rusty Russell|M|/lightning-rfc/01-messaging.md
+1563866759|ueno|M|/lightning-rfc/07-routing-gossip.md
+1563866849|Ugam Kamat|M|/lightning-rfc/07-routing-gossip.md
+1564133913|Christian Decker|M|/lightning-rfc/04-onion-routing.md
+1564133913|Christian Decker|M|/lightning-rfc/04-onion-routing.md
+1564133913|Christian Decker|M|/lightning-rfc/04-onion-routing.md
+1564133913|Christian Decker|M|/lightning-rfc/04-onion-routing.md
+1564133913|Christian Decker|A|/lightning-rfc/bolt04/onion-error-test.json
+1564133913|Christian Decker|A|/lightning-rfc/bolt04/onion-test-multi-frame.json
+1564133913|Christian Decker|A|/lightning-rfc/bolt04/onion-test-v0.json
+1564133913|Christian Decker|M|/lightning-rfc/04-onion-routing.md
+1564133913|Christian Decker|M|/lightning-rfc/.aspell.en.pws
+1564133913|Christian Decker|M|/lightning-rfc/09-features.md
+1564133913|Christian Decker|M|/lightning-rfc/04-onion-routing.md
+1564133913|Christian Decker|M|/lightning-rfc/09-features.md
+1564133913|Christian Decker|M|/lightning-rfc/04-onion-routing.md
+1564297399|Rusty Russell|A|/lightning-rfc/CONTRIBUTING.md
+1564297399|Rusty Russell|M|/lightning-rfc/.aspell.en.pws
+1564297399|Rusty Russell|M|/lightning-rfc/.travis.yml
+1564385467|Hiroki Gondo|M|/lightning-rfc/02-peer-protocol.md
+1564557698|Bastien Teinturier|M|/lightning-rfc/04-onion-routing.md
+1564557698|Bastien Teinturier|M|/lightning-rfc/09-features.md
+1565050729|Rusty Russell|M|/lightning-rfc/tools/extract-formats.py
+1565050729|Rusty Russell|M|/lightning-rfc/tools/extract-formats.py
+1565372358|lisa neigut|M|/lightning-rfc/02-peer-protocol.md
+1566245572|Joost Jager|M|/lightning-rfc/04-onion-routing.md
+1566251529|Nadav Kohen|M|/lightning-rfc/02-peer-protocol.md
+1566251529|Nadav Kohen|M|/lightning-rfc/03-transactions.md
+1567454999|ueno|M|/lightning-rfc/07-routing-gossip.md
+1567472447|Rusty Russell|M|/lightning-rfc/11-payment-encoding.md
+1567472447|Rusty Russell|M|/lightning-rfc/11-payment-encoding.md
+1567472447|Rusty Russell|M|/lightning-rfc/11-payment-encoding.md
+1567493653|Bastien Teinturier|M|/lightning-rfc/04-onion-routing.md
+1567669478|Darosior|M|/lightning-rfc/03-transactions.md
+1567759156|Darosior|M|/lightning-rfc/04-onion-routing.md
+1568666219|sstone|M|/lightning-rfc/.aspell.en.pws
+1568666219|sstone|M|/lightning-rfc/07-routing-gossip.md
+1568666219|sstone|M|/lightning-rfc/07-routing-gossip.md
+1568666219|Rusty Russell|M|/lightning-rfc/07-routing-gossip.md
+1568666219|Rusty Russell|M|/lightning-rfc/07-routing-gossip.md
+1568666219|Rusty Russell|M|/lightning-rfc/07-routing-gossip.md
+1568666219|sstone|M|/lightning-rfc/.aspell.en.pws
+1568666219|sstone|M|/lightning-rfc/07-routing-gossip.md
+1568666219|Fabrice Drouin|M|/lightning-rfc/07-routing-gossip.md
+1568666219|sstone|M|/lightning-rfc/07-routing-gossip.md
+1568666219|sstone|M|/lightning-rfc/09-features.md
+1568666219|sstone|A|/lightning-rfc/bolt07/extended-queries.json
+1568666219|sstone|M|/lightning-rfc/07-routing-gossip.md
+1569478361|Dimitris Apostolou|M|/lightning-rfc/.copy-edit-stylesheet-checklist.md
+1569478361|Dimitris Apostolou|M|/lightning-rfc/01-messaging.md
+1569478361|Dimitris Apostolou|M|/lightning-rfc/02-peer-protocol.md
+1569478361|Dimitris Apostolou|M|/lightning-rfc/07-routing-gossip.md
+1569478361|Dimitris Apostolou|M|/lightning-rfc/11-payment-encoding.md
+1569478798|Rusty Russell|M|/lightning-rfc/.aspell.en.pws
+1569478798|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1569478798|Rusty Russell|M|/lightning-rfc/03-transactions.md
+1569478798|Rusty Russell|M|/lightning-rfc/09-features.md
+1569844247|Rusty Russell|M|/lightning-rfc/07-routing-gossip.md
+1570063272|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1571643886|Chris Shucksmith|M|/lightning-rfc/01-messaging.md
+1572289891|Joost Jager|M|/lightning-rfc/01-messaging.md
+1572843650|Tim Ruffing|M|/lightning-rfc/08-transport.md
+1573717133|Thorkil Værge|M|/lightning-rfc/11-payment-encoding.md
+1574208740|ueno|M|/lightning-rfc/01-messaging.md
+1574208764|ueno|M|/lightning-rfc/02-peer-protocol.md
+1574208938|darosior|M|/lightning-rfc/07-routing-gossip.md
+1574395523|Janus Troelsen|M|/lightning-rfc/02-peer-protocol.md
+1574710463|Rusty Russell|M|/lightning-rfc/.aspell.en.pws
+1574710463|Rusty Russell|M|/lightning-rfc/01-messaging.md
+1574710463|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1574710463|Rusty Russell|M|/lightning-rfc/07-routing-gossip.md
+1574710463|Rusty Russell|M|/lightning-rfc/09-features.md
+1574710463|Rusty Russell|M|/lightning-rfc/07-routing-gossip.md
+1574710463|Rusty Russell|M|/lightning-rfc/09-features.md
+1574710463|Rusty Russell|M|/lightning-rfc/11-payment-encoding.md
+1575917987|Arvanitis Christos|M|/lightning-rfc/07-routing-gossip.md
+1576199229|Rusty Russell|M|/lightning-rfc/04-onion-routing.md
+1576208937|Rusty Russell|M|/lightning-rfc/.aspell.en.pws
+1576208937|Rusty Russell|M|/lightning-rfc/09-features.md
+1576208937|Rusty Russell|M|/lightning-rfc/11-payment-encoding.md
+1576208937|Rusty Russell|M|/lightning-rfc/04-onion-routing.md
+1576208937|Rusty Russell|M|/lightning-rfc/11-payment-encoding.md
+1576209002|Rusty Russell|M|/lightning-rfc/04-onion-routing.md
+1576209002|Rusty Russell|M|/lightning-rfc/11-payment-encoding.md
+1577212177|Matt Corallo|M|/lightning-rfc/09-features.md
+1578339277|Matt Corallo|M|/lightning-rfc/07-routing-gossip.md
+1578339277|Matt Corallo|M|/lightning-rfc/09-features.md
+1578474364|ueno|M|/lightning-rfc/04-onion-routing.md
+1578653113|Conner Fromknecht|M|/lightning-rfc/09-features.md
+1578691649|ZmnSCPxj, ZmnSCPxj jxPCSmnZ|M|/lightning-rfc/04-onion-routing.md
+1579609609|Conner Fromknecht|M|/lightning-rfc/01-messaging.md
+1579609609|Conner Fromknecht|M|/lightning-rfc/09-features.md
+1579609609|Conner Fromknecht|M|/lightning-rfc/11-payment-encoding.md
+1579609609|Conner Fromknecht|M|/lightning-rfc/11-payment-encoding.md
+1579609609|Conner Fromknecht|M|/lightning-rfc/04-onion-routing.md
+1579609609|Conner Fromknecht|M|/lightning-rfc/11-payment-encoding.md
+1579610367|Bastien Teinturier|M|/lightning-rfc/01-messaging.md
+1579611460|Christian Decker|M|/lightning-rfc/11-payment-encoding.md
+1579611664|Christian Decker|M|/lightning-rfc/11-payment-encoding.md
+1579886230|Olaoluwa Osuntokun|M|/lightning-rfc/.aspell.en.pws
+1579886230|Olaoluwa Osuntokun|M|/lightning-rfc/04-onion-routing.md
+1579886230|Olaoluwa Osuntokun|M|/lightning-rfc/bolt04/onion-test-multi-frame.json
+1579886230|Olaoluwa Osuntokun|M|/lightning-rfc/bolt04/onion-test-v0.json
+1579886230|Christian Decker|M|/lightning-rfc/04-onion-routing.md
+1579886230|Christian Decker|M|/lightning-rfc/bolt04/onion-test-v0.json
+1580289106|kiminuo|M|/lightning-rfc/01-messaging.md
+1580458995|Thorkil Værge|M|/lightning-rfc/11-payment-encoding.md
+1580759018|Rusty Russell|M|/lightning-rfc/07-routing-gossip.md
+1581669932|Jan Xie|M|/lightning-rfc/03-transactions.md
+1581933630|Tim Ruffing|M|/lightning-rfc/02-peer-protocol.md
+1581933630|Tim Ruffing|M|/lightning-rfc/03-transactions.md
+1581933630|Tim Ruffing|M|/lightning-rfc/04-onion-routing.md
+1581933630|Tim Ruffing|M|/lightning-rfc/08-transport.md
+1582014082|araspitzu|M|/lightning-rfc/02-peer-protocol.md
+1582014082|araspitzu|M|/lightning-rfc/09-features.md
+1582015618|Rusty Russell|M|/lightning-rfc/01-messaging.md
+1582015618|Rusty Russell|M|/lightning-rfc/07-routing-gossip.md
+1582015917|Orfeas Stefanos Thyfronitis Litos|M|/lightning-rfc/04-onion-routing.md
+1582015992|Bastien Teinturier|M|/lightning-rfc/.aspell.en.pws
+1582015992|Bastien Teinturier|M|/lightning-rfc/03-transactions.md
+1582015992|Bastien Teinturier|M|/lightning-rfc/07-routing-gossip.md
+1582792328|Jonathan Underwood|M|/lightning-rfc/11-payment-encoding.md
+1582881944|Bastien Teinturier|M|/lightning-rfc/01-messaging.md
+1582881944|Bastien Teinturier|M|/lightning-rfc/02-peer-protocol.md
+1582919671|Matt Corallo|M|/lightning-rfc/07-routing-gossip.md
+1582984842|Bastien Teinturier|M|/lightning-rfc/01-messaging.md
+1582984842|Bastien Teinturier|M|/lightning-rfc/02-peer-protocol.md
+1583257004|Thorkil Værge|M|/lightning-rfc/.aspell.en.pws
+1583257004|Thorkil Værge|M|/lightning-rfc/11-payment-encoding.md
+1583915336|Darosior|M|/lightning-rfc/04-onion-routing.md
+1585637775|Rusty Russell|M|/lightning-rfc/07-routing-gossip.md
+1585637902|Bastien Teinturier|M|/lightning-rfc/01-messaging.md
+1585637902|Bastien Teinturier|M|/lightning-rfc/02-peer-protocol.md
+1588017057|Antoine Riard|M|/lightning-rfc/.aspell.en.pws
+1588017057|Antoine Riard|M|/lightning-rfc/03-transactions.md
+1588018669|Bastien Teinturier|M|/lightning-rfc/02-peer-protocol.md
+1589228429|Rusty Russell|M|/lightning-rfc/09-features.md
+1589229029|John Newbery|M|/lightning-rfc/07-routing-gossip.md
+1589229029|John Newbery|M|/lightning-rfc/07-routing-gossip.md
+1589232400|Rusty Russell|M|/lightning-rfc/11-payment-encoding.md
+1589232400|Rusty Russell|M|/lightning-rfc/11-payment-encoding.md
+1589232400|Rusty Russell|M|/lightning-rfc/11-payment-encoding.md
+1589232400|Rusty Russell|M|/lightning-rfc/11-payment-encoding.md
+1589232400|Rusty Russell|M|/lightning-rfc/tools/spellcheck.sh
+1590438346|Rusty Russell|M|/lightning-rfc/.aspell.en.pws
+1590438346|Rusty Russell|M|/lightning-rfc/01-messaging.md
+1590438346|Rusty Russell|M|/lightning-rfc/04-onion-routing.md
+1590438346|Rusty Russell|M|/lightning-rfc/07-routing-gossip.md
+1593155929|Joost Jager|M|/lightning-rfc/03-transactions.md
+1594105088|Rusty Russell|M|/lightning-rfc/03-transactions.md
+1594109394|Dr. Maxim Orlovsky|M|/lightning-rfc/01-messaging.md
+1595278190|Corné Plooy|M|/lightning-rfc/08-transport.md
+1596488160|Yong|M|/lightning-rfc/04-onion-routing.md
+1596488160|Yong|M|/lightning-rfc/08-transport.md
+1596489502|Rusty Russell|M|/lightning-rfc/11-payment-encoding.md
+1597843641|Joost Jager|M|/lightning-rfc/.aspell.en.pws
+1597843641|Joost Jager|M|/lightning-rfc/02-peer-protocol.md
+1597843641|Joost Jager|M|/lightning-rfc/03-transactions.md
+1597843641|Joost Jager|M|/lightning-rfc/05-onchain.md
+1597843641|Joost Jager|M|/lightning-rfc/09-features.md
+1597901254|t-bast|M|/lightning-rfc/02-peer-protocol.md
+1597901254|t-bast|M|/lightning-rfc/02-peer-protocol.md
+1597901254|t-bast|M|/lightning-rfc/11-payment-encoding.md
+1597901254|t-bast|M|/lightning-rfc/11-payment-encoding.md
+1597901291|Conner Fromknecht|M|/lightning-rfc/07-routing-gossip.md
+1604391882|Antoine Riard|M|/lightning-rfc/02-peer-protocol.md
+1604710224|Jan Xie|M|/lightning-rfc/05-onchain.md
+1604710511|Janus Troelsen|D|/lightning-rfc/tools/structured.py
+1604949022|Corné Plooy|M|/lightning-rfc/04-onion-routing.md
+1604949022|Corné Plooy|M|/lightning-rfc/01-messaging.md
+1604949022|Corné Plooy|M|/lightning-rfc/02-peer-protocol.md
+1604949022|Corné Plooy|M|/lightning-rfc/07-routing-gossip.md
+1604949022|Corné Plooy|M|/lightning-rfc/tools/extract-formats.py
+1604994558|Antoine Riard|M|/lightning-rfc/05-onchain.md
+1606158883|Bastien Teinturier|M|/lightning-rfc/02-peer-protocol.md
+1607367120|Antoine Riard|M|/lightning-rfc/05-onchain.md
+1607373149|Johan T. Halseth|M|/lightning-rfc/03-transactions.md
+1609789257|Johan T. Halseth|M|/lightning-rfc/.aspell.en.pws
+1609789257|Johan T. Halseth|M|/lightning-rfc/09-features.md
+1611735161|Dan Gershony|M|/lightning-rfc/03-transactions.md
+1613403233|Pierre-Marie Padiou|M|/lightning-rfc/02-peer-protocol.md
+1613421426|Bastien Teinturier|M|/lightning-rfc/07-routing-gossip.md
+1613626395|benthecarman|M|/lightning-rfc/02-peer-protocol.md
+1613654508|Matheus Degiovani|M|/lightning-rfc/04-onion-routing.md
+1614672967|Bastien Teinturier|M|/lightning-rfc/02-peer-protocol.md
+1614672996|Oliver Gugger|M|/lightning-rfc/11-payment-encoding.md
+1614931826|araspitzu|M|/lightning-rfc/03-transactions.md
+1617161316|Lloyd Fournier|M|/lightning-rfc/02-peer-protocol.md
+1617864841|Rusty Russell|M|/lightning-rfc/04-onion-routing.md
+1621890920|Olaoluwa Osuntokun|M|/lightning-rfc/03-transactions.md
+1621890920|Olaoluwa Osuntokun|M|/lightning-rfc/03-transactions.md
+1621890987|Rusty Russell|M|/lightning-rfc/.aspell.en.pws
+1621890987|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1621890987|Rusty Russell|M|/lightning-rfc/09-features.md
+1624305707|Bastien Teinturier|M|/lightning-rfc/03-transactions.md
+1624306467|Matt Corallo|M|/lightning-rfc/03-transactions.md
+1624308106|Bastien Teinturier|M|/lightning-rfc/02-peer-protocol.md
+1626698494|t-bast|M|/lightning-rfc/11-payment-encoding.md
+1628608943|t-bast|M|/lightning-rfc/11-payment-encoding.md
+1630340961|Rusty Russell|M|/lightning-rfc/07-routing-gossip.md
+1630356625|Johan T. Halseth|M|/lightning-rfc/02-peer-protocol.md
+1630356625|Johan T. Halseth|M|/lightning-rfc/03-transactions.md
+1630356625|Johan T. Halseth|M|/lightning-rfc/05-onchain.md
+1630356625|Johan T. Halseth|M|/lightning-rfc/09-features.md
+1630369940|Rusty Russell|M|/lightning-rfc/02-peer-protocol.md
+1630393687|Bastien Teinturier|M|/lightning-rfc/02-peer-protocol.md
+1630651068|Rusty Russell|M|/lightning-rfc/03-transactions.md
+1631603505|Bastien Teinturier|M|/lightning-rfc/11-payment-encoding.md
+1632810807|Bastien Teinturier|M|/lightning-rfc/01-messaging.md
+1633506022|Bastien Teinturier|M|/lightning-rfc/02-peer-protocol.md
+1633506022|Bastien Teinturier|M|/lightning-rfc/03-transactions.md

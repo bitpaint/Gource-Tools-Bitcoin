@@ -6153,3 +6153,8 @@
 1633685001|wiz|M|/mempool/frontend/src/index.bisq.html
 1633685001|wiz|M|/mempool/frontend/src/index.liquid.html
 1633685001|wiz|M|/mempool/frontend/src/index.mempool.html
+1633707763|Miguel Medeiros|M|/mempool/frontend/src/app/components/mempool-graph/mempool-graph.component.ts
+1633707763|Miguel Medeiros|M|/mempool/frontend/src/app/components/statistics/statistics.component.html
+1633716719|Miguel Medeiros|M|/mempool/frontend/src/app/components/mempool-graph/mempool-graph.component.ts
+1633716719|Miguel Medeiros|M|/mempool/frontend/src/app/dashboard/dashboard.component.html
+1633717826|Miguel Medeiros|M|/mempool/frontend/src/app/components/statistics/statistics.component.html

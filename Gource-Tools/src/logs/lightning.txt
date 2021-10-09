@@ -37470,3 +37470,17 @@
 1633693650|Rusty Russell|M|/lightning/plugins/offers_invreq_hook.c
 1633693650|Rusty Russell|M|/lightning/wire/bolt12_exp_wire.csv
 1633693650|Rusty Russell|M|/lightning/wire/bolt12_wire.csv
+1633702041|Rusty Russell|M|/lightning/external/lnprototest
+1633702041|Rusty Russell|M|/lightning/common/features.c
+1633702041|Rusty Russell|M|/lightning/common/features.h
+1633702041|Rusty Russell|M|/lightning/lightningd/lightningd.c
+1633702041|Rusty Russell|M|/lightning/tests/test_misc.py
+1633702041|Rusty Russell|M|/lightning/tests/utils.py
+1633702041|Rusty Russell|M|/lightning/channeld/channeld.c
+1633702041|Rusty Russell|M|/lightning/common/channel_type.c
+1633702041|Rusty Russell|M|/lightning/common/channel_type.h
+1633702041|Rusty Russell|M|/lightning/common/initial_channel.c
+1633702041|Rusty Russell|M|/lightning/common/initial_channel.h
+1633702041|Rusty Russell|M|/lightning/tests/test_connection.py
+1633702041|Rusty Russell|M|/lightning/wire/extracted_peer_exp_upgradable.patch
+1633702041|Rusty Russell|M|/lightning/channeld/channeld.c

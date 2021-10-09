@@ -19651,3 +19651,11 @@
 1633593262|Nicolas Dorier|M|/btcpayserver/BTCPayServer/Views/Wallets/WalletSettings.cshtml
 1633601333|nicolas.dorier|M|/btcpayserver/BTCPayServer.Tests/GreenfieldAPITests.cs
 1633670777|Umar Bolatov|M|/btcpayserver/BTCPayServer/wwwroot/main/bootstrap/bootstrap.css
+1633743574|d11n|M|/btcpayserver/BTCPayServer.Tests/BTCPayServer.Tests.csproj
+1633743574|d11n|M|/btcpayserver/BTCPayServer.Tests/SeleniumTests.cs
+1633743574|d11n|M|/btcpayserver/BTCPayServer/Views/Wallets/CoinSelection.cshtml
+1633743574|d11n|M|/btcpayserver/BTCPayServer/Views/Wallets/WalletSend.cshtml
+1633749517|Andrew Camilleri|M|/btcpayserver/BTCPayServer.Tests/SeleniumTests.cs
+1633749517|Andrew Camilleri|M|/btcpayserver/BTCPayServer/Controllers/ManageController.cs
+1633749517|Andrew Camilleri|M|/btcpayserver/BTCPayServer/Models/ConfirmModel.cs
+1633749517|Andrew Camilleri|M|/btcpayserver/BTCPayServer/Views/Manage/Index.cshtml

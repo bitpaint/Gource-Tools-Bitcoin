@@ -24041,3 +24041,5 @@
 1633687995|Oliver Gugger|M|/LND/mobile/bindings.go
 1633687997|Oliver Gugger|M|/LND/docs/release-notes/release-notes-0.14.0.md
 1633688529|Oliver Gugger|M|/LND/.travis.yml
+1633691939|Elle Mouton|M|/LND/docs/release-notes/release-notes-0.14.0.md
+1633691939|Elle Mouton|M|/LND/server.go

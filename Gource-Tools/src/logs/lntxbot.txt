@@ -2369,3 +2369,4 @@
 1633579242|fiatjaf|M|/lntxbot/go.sum
 1633579242|fiatjaf|M|/lntxbot/lnurl-service.go
 1633579242|fiatjaf|M|/lntxbot/telegram.go
+1633713507|fiatjaf|M|/lntxbot/lnurl-wallet.go

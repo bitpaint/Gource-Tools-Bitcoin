@@ -2285,3 +2285,32 @@
 1633565281|GitHub|A|/docs.lightning.engineering/docs/lit/images/swap8.png
 1633565369|GitHub|A|/docs.lightning.engineering/docs/pool/SUMMARY.md
 1633651803|GitHub|M|/docs.lightning.engineering/docs/lnd/release-notes/release-notes-0.14.0.md
+1633731991|Leo Weese|M|/docs.lightning.engineering/SUMMARY.md
+1633731991|Leo Weese|D|/docs.lightning.engineering/docs/lit/images/history.png
+1633731991|Leo Weese|D|/docs.lightning.engineering/docs/lit/images/receiving.png
+1633731991|Leo Weese|D|/docs.lightning.engineering/docs/lit/images/routing.png
+1633731991|Leo Weese|D|/docs.lightning.engineering/docs/lit/images/sending.png
+1633731991|Leo Weese|D|/docs.lightning.engineering/docs/lit/images/swap1.png
+1633731991|Leo Weese|D|/docs.lightning.engineering/docs/lit/images/swap2.png
+1633731991|Leo Weese|D|/docs.lightning.engineering/docs/lit/images/swap3.png
+1633731991|Leo Weese|D|/docs.lightning.engineering/docs/lit/images/swap4.png
+1633731991|Leo Weese|D|/docs.lightning.engineering/docs/lit/images/swap5.png
+1633731991|Leo Weese|D|/docs.lightning.engineering/docs/lit/images/swap6.png
+1633731991|Leo Weese|D|/docs.lightning.engineering/docs/lit/images/swap7.png
+1633731991|Leo Weese|D|/docs.lightning.engineering/docs/lit/images/swap8.png
+1633731991|Leo Weese|D|/docs.lightning.engineering/docs/pool/SUMMARY.md
+1633731991|Leo Weese|D|/docs.lightning.engineering/lightning-network-tools/lnd/run-lnd.md
+1633738101|GitHub|M|/docs.lightning.engineering/docs/lnd/release-notes/release-notes-0.14.0.md
+1633738127|GitHub|A|/docs.lightning.engineering/docs/lit/images/history.png
+1633738127|GitHub|A|/docs.lightning.engineering/docs/lit/images/receiving.png
+1633738127|GitHub|A|/docs.lightning.engineering/docs/lit/images/routing.png
+1633738127|GitHub|A|/docs.lightning.engineering/docs/lit/images/sending.png
+1633738127|GitHub|A|/docs.lightning.engineering/docs/lit/images/swap1.png
+1633738127|GitHub|A|/docs.lightning.engineering/docs/lit/images/swap2.png
+1633738127|GitHub|A|/docs.lightning.engineering/docs/lit/images/swap3.png
+1633738127|GitHub|A|/docs.lightning.engineering/docs/lit/images/swap4.png
+1633738127|GitHub|A|/docs.lightning.engineering/docs/lit/images/swap5.png
+1633738127|GitHub|A|/docs.lightning.engineering/docs/lit/images/swap6.png
+1633738127|GitHub|A|/docs.lightning.engineering/docs/lit/images/swap7.png
+1633738127|GitHub|A|/docs.lightning.engineering/docs/lit/images/swap8.png
+1633738200|GitHub|A|/docs.lightning.engineering/docs/pool/SUMMARY.md

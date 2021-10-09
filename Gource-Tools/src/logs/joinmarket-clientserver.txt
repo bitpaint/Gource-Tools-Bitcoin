@@ -3622,6 +3622,7 @@
 1631160100|Wukong|M|/joinmarket-clientserver/jmdaemon/setup.py
 1631160100|Wukong|M|/joinmarket-clientserver/jmqtui/setup.py
 1631173643|Wukong|M|/joinmarket-clientserver/scripts/joinmarket-qt.py
+1631219466|Wukong|M|/joinmarket-clientserver/scripts/joinmarket-qt.py
 1631989683|Wukong|M|/joinmarket-clientserver/jmclient/jmclient/__init__.py
 1631989683|Wukong|M|/joinmarket-clientserver/jmclient/jmclient/taker.py
 1631989683|Wukong|M|/joinmarket-clientserver/scripts/joinmarket-qt.py

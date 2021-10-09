@@ -14839,3 +14839,14 @@
 1633695269|Marcos Rodriguez Vélez|M|/BlueWallet/components/TransactionListItem.js
 1633695408|Marcos Rodriguez Vélez|M|/BlueWallet/ios/Podfile.lock
 1633695408|Marcos Rodriguez Vélez|M|/BlueWallet/package-lock.json
+1633712328|Marcos Rodriguez Vélez|M|/BlueWallet/components/QRCodeComponent.js
+1633719087|Marcos Rodriguez Vélez|M|/BlueWallet/screen/transactions/details.js
+1633719529|Marcos Rodriguez Vélez|M|/BlueWallet/models/fiatUnits.json
+1633719552|Marcos Rodriguez Vélez|M|/BlueWallet/components/QRCodeComponent.js
+1633719651|Marcos Rodriguez Vélez|M|/BlueWallet/App.js
+1633730718|Overtorment|M|/BlueWallet/screen/send/psbtMultisig.js
+1633731580|Overtorment|M|/BlueWallet/blue_modules/BlueElectrum.js
+1633809047|Marcos Rodriguez Vélez|M|/BlueWallet/android/app/build.gradle
+1633809047|Marcos Rodriguez Vélez|M|/BlueWallet/ios/BlueWallet.xcodeproj/project.pbxproj
+1633809047|Marcos Rodriguez Vélez|M|/BlueWallet/package-lock.json
+1633809047|Marcos Rodriguez Vélez|M|/BlueWallet/package.json

@@ -3169,3 +3169,11 @@
 1633497082|Alex Bosworth|M|/balanceofsatoshis/package-lock.json
 1633497082|Alex Bosworth|M|/balanceofsatoshis/package.json
 1633497082|Alex Bosworth|A|/balanceofsatoshis/test/lnd/test_credential_restrictions.js
+1633709219|Alex Bosworth|M|/balanceofsatoshis/README.md
+1633754390|Alex Bosworth|A|/balanceofsatoshis/.npmrc
+1633754390|Alex Bosworth|M|/balanceofsatoshis/CHANGELOG.md
+1633754390|Alex Bosworth|M|/balanceofsatoshis/README.md
+1633754390|Alex Bosworth|M|/balanceofsatoshis/bos
+1633754390|Alex Bosworth|M|/balanceofsatoshis/commands/call_raw_api.js
+1633754390|Alex Bosworth|M|/balanceofsatoshis/package-lock.json
+1633754390|Alex Bosworth|M|/balanceofsatoshis/package.json

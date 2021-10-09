@@ -2938,3 +2938,13 @@
 1633445427|Gigi|M|/dergigi.github.io/collections/bitcoin/_posts/2021-01-14-bitcoin-is-time.md
 1633502446|Gigi|A|/dergigi.github.io/assets/files/seetee-onepager.pdf
 1633545081|Gigi|M|/dergigi.github.io/collections/bitcoin/_posts/2019-08-07-proof-of-life.markdown
+1633706637|Gigi|M|/dergigi.github.io/tree.md
+1633706748|Gigi|M|/dergigi.github.io/projects.md
+1633706852|Gigi|M|/dergigi.github.io/tree.md
+1633706867|Gigi|M|/dergigi.github.io/collections/bitcoin/_posts/2021-01-14-bitcoin-is-time.md
+1633706870|Gigi|M|/dergigi.github.io/collections/bitcoin/_posts/2021-06-13-bitcoin-is-an-idea.md
+1633706873|Gigi|M|/dergigi.github.io/collections/bitcoin/_posts/2021-08-02-implications-of-outlawing-bitcoin.md
+1633706993|Gigi|M|/dergigi.github.io/tree.md
+1633798878|Gigi|M|/dergigi.github.io/collections/bitcoin/_posts/2020-11-05-what-is-21ism.md
+1633814885|Gigi|M|/dergigi.github.io/collections/bitcoin/_posts/2020-04-27-dear-family-dear-friends.md
+1633815065|Gigi|M|/dergigi.github.io/_includes/player.html

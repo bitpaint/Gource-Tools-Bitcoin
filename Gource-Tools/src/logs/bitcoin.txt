@@ -66791,3 +66791,6 @@
 1633543302|MarcoFalke|M|/bitcoin/src/Makefile.test.include
 1633543302|MarcoFalke|A|/bitcoin/src/test/script_parse_tests.cpp
 1633543302|MarcoFalke|M|/bitcoin/src/test/util_tests.cpp
+1633622481|João Barbosa|M|/bitcoin/src/qt/bitcoin.cpp
+1633622481|João Barbosa|M|/bitcoin/src/qt/guiutil.cpp
+1633622481|João Barbosa|M|/bitcoin/src/qt/guiutil.h

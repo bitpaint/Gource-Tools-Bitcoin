@@ -15569,3 +15569,8 @@
 1633538976|Andreas Schildbach|M|/bitcoinj/core/src/main/java/org/bitcoinj/store/SPVBlockStore.java
 1633538976|Andreas Schildbach|M|/bitcoinj/tools/src/main/java/org/bitcoinj/tools/BuildCheckpoints.java
 1633544869|Andreas Schildbach|M|/bitcoinj/core/src/test/java/org/bitcoinj/script/ScriptTest.java
+1633791429|Andreas Schildbach|M|/bitcoinj/core/src/main/java/org/bitcoinj/core/SegwitAddress.java
+1633791429|Andreas Schildbach|M|/bitcoinj/core/src/main/java/org/bitcoinj/script/Script.java
+1633791429|Andreas Schildbach|M|/bitcoinj/core/src/main/java/org/bitcoinj/script/ScriptPattern.java
+1633791429|Andreas Schildbach|M|/bitcoinj/core/src/main/java/org/bitcoinj/wallet/Wallet.java
+1633791429|Andreas Schildbach|M|/bitcoinj/core/src/test/java/org/bitcoinj/script/ScriptTest.java
