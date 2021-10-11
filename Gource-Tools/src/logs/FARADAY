@@ -1,0 +1,1043 @@
+1571991639|Carla Kirk-Cohen|A|/FARADAY/faraday/LICENSE
+1572856726|carla|A|/FARADAY/faraday/cmd/terminator/log.go
+1572856726|carla|A|/FARADAY/faraday/cmd/terminator/main.go
+1572856726|carla|A|/FARADAY/faraday/go.mod
+1572856726|carla|A|/FARADAY/faraday/go.sum
+1572856726|carla|A|/FARADAY/faraday/log.go
+1572856726|carla|A|/FARADAY/faraday/terminator.go
+1572856773|carla|A|/FARADAY/faraday/config.go
+1572856773|carla|M|/FARADAY/faraday/go.mod
+1572856773|carla|M|/FARADAY/faraday/go.sum
+1572856773|carla|M|/FARADAY/faraday/terminator.go
+1572936334|carla|A|/FARADAY/faraday/Makefile
+1572936334|carla|A|/FARADAY/faraday/make/testing_flags.mk
+1573118700|carla|A|/FARADAY/faraday/README.md
+1573118700|carla|A|/FARADAY/faraday/.golangci.yml
+1573118700|carla|A|/FARADAY/faraday/.travis.yml
+1576486818|carla|M|/FARADAY/faraday/.golangci.yml
+1576486818|carla|M|/FARADAY/faraday/go.mod
+1576486818|carla|M|/FARADAY/faraday/go.sum
+1576486818|carla|A|/FARADAY/faraday/revenue/revenue.go
+1576486818|carla|A|/FARADAY/faraday/revenue/revenue_test.go
+1576487018|carla|M|/FARADAY/faraday/revenue/revenue.go
+1576487018|carla|M|/FARADAY/faraday/revenue/revenue_test.go
+1576487021|carla|A|/FARADAY/faraday/utils/utils.go
+1576487021|carla|A|/FARADAY/faraday/utils/utils_test.go
+1576487195|carla|M|/FARADAY/faraday/revenue/revenue.go
+1576487195|carla|M|/FARADAY/faraday/revenue/revenue_test.go
+1576762522|carla|A|/FARADAY/faraday/dataset/dataset.go
+1576762522|carla|A|/FARADAY/faraday/dataset/dataset_test.go
+1576762823|carla|M|/FARADAY/faraday/log.go
+1576762823|carla|A|/FARADAY/faraday/recommend/log.go
+1576763138|carla|A|/FARADAY/faraday/recommend/recommend.go
+1576763138|carla|A|/FARADAY/faraday/recommend/recommend_test.go
+1576763138|carla|M|/FARADAY/faraday/.golangci.yml
+1576763138|carla|M|/FARADAY/faraday/config.go
+1576763138|carla|M|/FARADAY/faraday/terminator.go
+1576763138|carla|M|/FARADAY/faraday/config.go
+1580468736|carla|M|/FARADAY/faraday/dataset/dataset.go
+1580468736|carla|M|/FARADAY/faraday/dataset/dataset_test.go
+1580468736|carla|M|/FARADAY/faraday/recommend/recommend.go
+1580468736|carla|M|/FARADAY/faraday/recommend/recommend_test.go
+1580468736|carla|M|/FARADAY/faraday/terminator.go
+1580468752|carla|M|/FARADAY/faraday/dataset/dataset.go
+1580468752|carla|M|/FARADAY/faraday/dataset/dataset_test.go
+1580468811|carla|M|/FARADAY/faraday/dataset/dataset.go
+1580468811|carla|M|/FARADAY/faraday/recommend/recommend.go
+1580468811|carla|M|/FARADAY/faraday/recommend/recommend_test.go
+1580468811|carla|M|/FARADAY/faraday/terminator.go
+1580468841|carla|A|/FARADAY/faraday/dataset/log.go
+1580468841|carla|M|/FARADAY/faraday/log.go
+1580468848|carla|M|/FARADAY/faraday/dataset/dataset.go
+1580468848|carla|M|/FARADAY/faraday/dataset/dataset_test.go
+1580468848|carla|M|/FARADAY/faraday/recommend/recommend_test.go
+1580468868|carla|M|/FARADAY/faraday/recommend/recommend.go
+1580468868|carla|M|/FARADAY/faraday/recommend/recommend_test.go
+1580468868|carla|M|/FARADAY/faraday/terminator.go
+1580468946|carla|M|/FARADAY/faraday/go.mod
+1580468946|carla|M|/FARADAY/faraday/go.sum
+1580468946|carla|A|/FARADAY/faraday/trmrpc/rpc.pb.go
+1580468946|carla|A|/FARADAY/faraday/trmrpc/rpc.proto
+1580469461|carla|M|/FARADAY/faraday/Makefile
+1580469461|carla|A|/FARADAY/faraday/trmrpc/README.md
+1580469461|carla|A|/FARADAY/faraday/trmrpc/gen_protos.sh
+1580469609|carla|M|/FARADAY/faraday/config.go
+1580469609|carla|M|/FARADAY/faraday/log.go
+1580469609|carla|M|/FARADAY/faraday/terminator.go
+1580469609|carla|A|/FARADAY/faraday/trmrpc/close_recommendations.go
+1580469609|carla|A|/FARADAY/faraday/trmrpc/log.go
+1580469609|carla|A|/FARADAY/faraday/trmrpc/rpcserver.go
+1580469611|carla|M|/FARADAY/faraday/Makefile
+1580469611|carla|A|/FARADAY/faraday/cmd/trmcli/close_recommendations.go
+1580469611|carla|A|/FARADAY/faraday/cmd/trmcli/main.go
+1580469611|carla|A|/FARADAY/faraday/cmd/trmcli/utils.go
+1580469611|carla|M|/FARADAY/faraday/go.mod
+1580469611|carla|M|/FARADAY/faraday/go.sum
+1580469619|carla|M|/FARADAY/faraday/recommend/recommend.go
+1581431069|carla|M|/FARADAY/faraday/cmd/trmcli/utils.go
+1581431129|carla|M|/FARADAY/faraday/Makefile
+1581432441|carla|M|/FARADAY/faraday/log.go
+1581432441|carla|A|/FARADAY/faraday/revenue/log.go
+1581437176|carla|M|/FARADAY/faraday/revenue/revenue.go
+1581437176|carla|M|/FARADAY/faraday/revenue/revenue_test.go
+1581437176|carla|M|/FARADAY/faraday/dataset/dataset.go
+1581453446|carla|M|/FARADAY/faraday/dataset/dataset.go
+1581453446|carla|M|/FARADAY/faraday/dataset/dataset_test.go
+1581453446|carla|M|/FARADAY/faraday/recommend/recommend.go
+1581453446|carla|M|/FARADAY/faraday/recommend/recommend_test.go
+1581453446|carla|M|/FARADAY/faraday/revenue/revenue.go
+1581453446|carla|M|/FARADAY/faraday/revenue/revenue_test.go
+1581453737|carla|M|/FARADAY/faraday/revenue/revenue.go
+1581453737|carla|M|/FARADAY/faraday/revenue/revenue_test.go
+1582108224|carla|A|/FARADAY/faraday/trmrpc/revenue_report.go
+1582108224|carla|M|/FARADAY/faraday/trmrpc/rpc.pb.go
+1582108224|carla|M|/FARADAY/faraday/trmrpc/rpc.proto
+1582108224|carla|M|/FARADAY/faraday/trmrpc/rpcserver.go
+1582108245|carla|M|/FARADAY/faraday/cmd/trmcli/main.go
+1582108245|carla|A|/FARADAY/faraday/cmd/trmcli/revenue_report.go
+1582108250|carla|A|/FARADAY/faraday/insights/insights.go
+1582108250|carla|A|/FARADAY/faraday/insights/insights_test.go
+1582108254|carla|A|/FARADAY/faraday/trmrpc/channel_insights.go
+1582108254|carla|M|/FARADAY/faraday/trmrpc/revenue_report.go
+1582108254|carla|M|/FARADAY/faraday/trmrpc/rpc.pb.go
+1582108254|carla|M|/FARADAY/faraday/trmrpc/rpc.proto
+1582108254|carla|M|/FARADAY/faraday/trmrpc/rpcserver.go
+1582108258|carla|A|/FARADAY/faraday/cmd/trmcli/channel_insights.go
+1582108258|carla|M|/FARADAY/faraday/cmd/trmcli/main.go
+1582108258|carla|M|/FARADAY/faraday/cmd/trmcli/utils.go
+1582635981|carla|M|/FARADAY/faraday/recommend/recommend.go
+1582635981|carla|M|/FARADAY/faraday/recommend/recommend_test.go
+1582635981|carla|M|/FARADAY/faraday/trmrpc/close_recommendations.go
+1582638797|carla|M|/FARADAY/faraday/recommend/recommend.go
+1582638797|carla|M|/FARADAY/faraday/recommend/recommend_test.go
+1582638799|carla|M|/FARADAY/faraday/cmd/trmcli/close_recommendations.go
+1582638799|carla|M|/FARADAY/faraday/cmd/trmcli/main.go
+1582638799|carla|M|/FARADAY/faraday/recommend/recommend.go
+1582638799|carla|M|/FARADAY/faraday/recommend/recommend_test.go
+1582638799|carla|M|/FARADAY/faraday/trmrpc/close_recommendations.go
+1582638799|carla|M|/FARADAY/faraday/trmrpc/rpc.pb.go
+1582638799|carla|M|/FARADAY/faraday/trmrpc/rpc.proto
+1582638799|carla|M|/FARADAY/faraday/trmrpc/rpcserver.go
+1582639028|carla|M|/FARADAY/faraday/recommend/recommend.go
+1582639028|carla|M|/FARADAY/faraday/recommend/recommend_test.go
+1582639028|carla|M|/FARADAY/faraday/trmrpc/close_recommendations.go
+1582639315|carla|M|/FARADAY/faraday/cmd/trmcli/close_recommendations.go
+1582639315|carla|M|/FARADAY/faraday/trmrpc/close_recommendations.go
+1582639315|carla|M|/FARADAY/faraday/trmrpc/rpc.pb.go
+1582639315|carla|M|/FARADAY/faraday/trmrpc/rpc.proto
+1583307956|carla|M|/FARADAY/faraday/recommend/recommend.go
+1583307956|carla|M|/FARADAY/faraday/recommend/recommend_test.go
+1583308243|carla|M|/FARADAY/faraday/cmd/trmcli/channel_insights.go
+1583308593|carla|M|/FARADAY/faraday/cmd/trmcli/close_recommendations.go
+1583308593|carla|M|/FARADAY/faraday/trmrpc/close_recommendations.go
+1583308593|carla|M|/FARADAY/faraday/trmrpc/rpc.pb.go
+1583308593|carla|M|/FARADAY/faraday/trmrpc/rpc.proto
+1583420841|carla|M|/FARADAY/faraday/Makefile
+1583420841|carla|M|/FARADAY/faraday/README.md
+1583420841|carla|A|/FARADAY/faraday/cmd/governator/log.go
+1583420841|carla|A|/FARADAY/faraday/cmd/governator/main.go
+1583420841|carla|D|/FARADAY/faraday/cmd/terminator/log.go
+1583420841|carla|D|/FARADAY/faraday/cmd/terminator/main.go
+1583420841|carla|M|/FARADAY/faraday/cmd/trmcli/channel_insights.go
+1583420841|carla|M|/FARADAY/faraday/cmd/trmcli/close_recommendations.go
+1583420841|carla|M|/FARADAY/faraday/cmd/trmcli/revenue_report.go
+1583420841|carla|M|/FARADAY/faraday/cmd/trmcli/utils.go
+1583420841|carla|M|/FARADAY/faraday/config.go
+1583420841|carla|M|/FARADAY/faraday/go.mod
+1583420841|carla|A|/FARADAY/faraday/governator.go
+1583420841|carla|M|/FARADAY/faraday/insights/insights.go
+1583420841|carla|M|/FARADAY/faraday/insights/insights_test.go
+1583420841|carla|M|/FARADAY/faraday/log.go
+1583420841|carla|M|/FARADAY/faraday/recommend/recommend.go
+1583420841|carla|M|/FARADAY/faraday/recommend/recommend_test.go
+1583420841|carla|D|/FARADAY/faraday/terminator.go
+1583420841|carla|M|/FARADAY/faraday/trmrpc/README.md
+1583420841|carla|M|/FARADAY/faraday/trmrpc/channel_insights.go
+1583420841|carla|M|/FARADAY/faraday/trmrpc/close_recommendations.go
+1583420841|carla|M|/FARADAY/faraday/trmrpc/revenue_report.go
+1583420841|carla|M|/FARADAY/faraday/trmrpc/rpcserver.go
+1583420855|carla|M|/FARADAY/faraday/Makefile
+1583420855|carla|M|/FARADAY/faraday/cmd/trmcli/channel_insights.go
+1583420855|carla|M|/FARADAY/faraday/cmd/trmcli/close_recommendations.go
+1583420855|carla|M|/FARADAY/faraday/cmd/trmcli/revenue_report.go
+1583420855|carla|M|/FARADAY/faraday/cmd/trmcli/utils.go
+1583420855|carla|M|/FARADAY/faraday/governator.go
+1583420855|carla|A|/FARADAY/faraday/gvnrpc/README.md
+1583420855|carla|A|/FARADAY/faraday/gvnrpc/channel_insights.go
+1583420855|carla|A|/FARADAY/faraday/gvnrpc/close_recommendations.go
+1583420855|carla|A|/FARADAY/faraday/gvnrpc/gen_protos.sh
+1583420855|carla|A|/FARADAY/faraday/gvnrpc/log.go
+1583420855|carla|A|/FARADAY/faraday/gvnrpc/revenue_report.go
+1583420855|carla|A|/FARADAY/faraday/gvnrpc/rpc.pb.go
+1583420855|carla|A|/FARADAY/faraday/gvnrpc/rpc.proto
+1583420855|carla|A|/FARADAY/faraday/gvnrpc/rpcserver.go
+1583420855|carla|M|/FARADAY/faraday/log.go
+1583420855|carla|D|/FARADAY/faraday/trmrpc/README.md
+1583420855|carla|D|/FARADAY/faraday/trmrpc/channel_insights.go
+1583420855|carla|D|/FARADAY/faraday/trmrpc/close_recommendations.go
+1583420855|carla|D|/FARADAY/faraday/trmrpc/gen_protos.sh
+1583420855|carla|D|/FARADAY/faraday/trmrpc/log.go
+1583420855|carla|D|/FARADAY/faraday/trmrpc/revenue_report.go
+1583420855|carla|D|/FARADAY/faraday/trmrpc/rpc.pb.go
+1583420855|carla|D|/FARADAY/faraday/trmrpc/rpc.proto
+1583420855|carla|D|/FARADAY/faraday/trmrpc/rpcserver.go
+1583420859|carla|M|/FARADAY/faraday/Makefile
+1583420859|carla|A|/FARADAY/faraday/cmd/gvncli/channel_insights.go
+1583420859|carla|A|/FARADAY/faraday/cmd/gvncli/close_recommendations.go
+1583420859|carla|A|/FARADAY/faraday/cmd/gvncli/main.go
+1583420859|carla|A|/FARADAY/faraday/cmd/gvncli/revenue_report.go
+1583420859|carla|A|/FARADAY/faraday/cmd/gvncli/utils.go
+1583420859|carla|D|/FARADAY/faraday/cmd/trmcli/channel_insights.go
+1583420859|carla|D|/FARADAY/faraday/cmd/trmcli/close_recommendations.go
+1583420859|carla|D|/FARADAY/faraday/cmd/trmcli/main.go
+1583420859|carla|D|/FARADAY/faraday/cmd/trmcli/revenue_report.go
+1583420859|carla|D|/FARADAY/faraday/cmd/trmcli/utils.go
+1583830923|carla|M|/FARADAY/faraday/LICENSE
+1583830923|carla|M|/FARADAY/faraday/README.md
+1583830955|carla|M|/FARADAY/faraday/config.go
+1583830959|carla|M|/FARADAY/faraday/cmd/gvncli/channel_insights.go
+1583831368|carla|M|/FARADAY/faraday/README.md
+1584611261|Oliver Gugger|A|/FARADAY/faraday/.gitignore
+1584611261|Oliver Gugger|M|/FARADAY/faraday/cmd/gvncli/main.go
+1584611261|Oliver Gugger|A|/FARADAY/faraday/version.go
+1584611262|Oliver Gugger|M|/FARADAY/faraday/Makefile
+1584611262|Oliver Gugger|M|/FARADAY/faraday/.gitignore
+1584616110|carla|A|/FARADAY/faraday/release.sh
+1585296913|Oliver Gugger|M|/FARADAY/faraday/cmd/gvncli/main.go
+1585297273|Oliver Gugger|A|/FARADAY/faraday/Dockerfile
+1585553146|carla|M|/FARADAY/faraday/.gitignore
+1585553146|carla|M|/FARADAY/faraday/Dockerfile
+1585553146|carla|M|/FARADAY/faraday/Makefile
+1585553146|carla|M|/FARADAY/faraday/README.md
+1585553146|carla|A|/FARADAY/faraday/cmd/faraday/log.go
+1585553146|carla|A|/FARADAY/faraday/cmd/faraday/main.go
+1585553146|carla|A|/FARADAY/faraday/cmd/frcli/channel_insights.go
+1585553146|carla|A|/FARADAY/faraday/cmd/frcli/close_recommendations.go
+1585553146|carla|A|/FARADAY/faraday/cmd/frcli/main.go
+1585553146|carla|A|/FARADAY/faraday/cmd/frcli/revenue_report.go
+1585553146|carla|A|/FARADAY/faraday/cmd/frcli/utils.go
+1585553146|carla|D|/FARADAY/faraday/cmd/governator/log.go
+1585553146|carla|D|/FARADAY/faraday/cmd/governator/main.go
+1585553146|carla|D|/FARADAY/faraday/cmd/gvncli/channel_insights.go
+1585553146|carla|D|/FARADAY/faraday/cmd/gvncli/close_recommendations.go
+1585553146|carla|D|/FARADAY/faraday/cmd/gvncli/main.go
+1585553146|carla|D|/FARADAY/faraday/cmd/gvncli/revenue_report.go
+1585553146|carla|D|/FARADAY/faraday/cmd/gvncli/utils.go
+1585553146|carla|M|/FARADAY/faraday/config.go
+1585553146|carla|A|/FARADAY/faraday/faraday.go
+1585553146|carla|A|/FARADAY/faraday/frdrpc/README.md
+1585553146|carla|A|/FARADAY/faraday/frdrpc/channel_insights.go
+1585553146|carla|A|/FARADAY/faraday/frdrpc/close_recommendations.go
+1585553146|carla|A|/FARADAY/faraday/frdrpc/gen_protos.sh
+1585553146|carla|A|/FARADAY/faraday/frdrpc/log.go
+1585553146|carla|A|/FARADAY/faraday/frdrpc/revenue_report.go
+1585553146|carla|A|/FARADAY/faraday/frdrpc/rpc.pb.go
+1585553146|carla|A|/FARADAY/faraday/frdrpc/rpc.proto
+1585553146|carla|A|/FARADAY/faraday/frdrpc/rpcserver.go
+1585553146|carla|M|/FARADAY/faraday/go.mod
+1585553146|carla|D|/FARADAY/faraday/governator.go
+1585553146|carla|D|/FARADAY/faraday/gvnrpc/README.md
+1585553146|carla|D|/FARADAY/faraday/gvnrpc/channel_insights.go
+1585553146|carla|D|/FARADAY/faraday/gvnrpc/close_recommendations.go
+1585553146|carla|D|/FARADAY/faraday/gvnrpc/gen_protos.sh
+1585553146|carla|D|/FARADAY/faraday/gvnrpc/log.go
+1585553146|carla|D|/FARADAY/faraday/gvnrpc/revenue_report.go
+1585553146|carla|D|/FARADAY/faraday/gvnrpc/rpc.pb.go
+1585553146|carla|D|/FARADAY/faraday/gvnrpc/rpc.proto
+1585553146|carla|D|/FARADAY/faraday/gvnrpc/rpcserver.go
+1585553146|carla|M|/FARADAY/faraday/insights/insights.go
+1585553146|carla|M|/FARADAY/faraday/insights/insights_test.go
+1585553146|carla|M|/FARADAY/faraday/log.go
+1585553146|carla|M|/FARADAY/faraday/recommend/recommend.go
+1585553146|carla|M|/FARADAY/faraday/recommend/recommend_test.go
+1585553146|carla|M|/FARADAY/faraday/release.sh
+1585553146|carla|M|/FARADAY/faraday/version.go
+1585553161|carla|M|/FARADAY/faraday/faraday.go
+1585553161|carla|M|/FARADAY/faraday/frdrpc/log.go
+1585553161|carla|M|/FARADAY/faraday/log.go
+1586173617|Oliver Gugger|M|/FARADAY/faraday/Makefile
+1586173617|Oliver Gugger|A|/FARADAY/faraday/frdrpc/.clang-format
+1586250451|Oliver Gugger|M|/FARADAY/faraday/frdrpc/rpc.pb.go
+1586250451|Oliver Gugger|M|/FARADAY/faraday/frdrpc/rpc.proto
+1586250752|Oliver Gugger|M|/FARADAY/faraday/frdrpc/gen_protos.sh
+1586250752|Oliver Gugger|A|/FARADAY/faraday/frdrpc/rpc.pb.gw.go
+1586250752|Oliver Gugger|A|/FARADAY/faraday/frdrpc/rpc.swagger.json
+1586250752|Oliver Gugger|M|/FARADAY/faraday/go.mod
+1586250758|Oliver Gugger|M|/FARADAY/faraday/config.go
+1586250790|Oliver Gugger|M|/FARADAY/faraday/faraday.go
+1586250790|Oliver Gugger|M|/FARADAY/faraday/frdrpc/rpcserver.go
+1586261464|carla|M|/FARADAY/faraday/.travis.yml
+1586261464|carla|M|/FARADAY/faraday/Makefile
+1586261464|carla|A|/FARADAY/faraday/scripts/install_travis_proto.sh
+1586261509|carla|M|/FARADAY/faraday/.travis.yml
+1586261509|carla|M|/FARADAY/faraday/Makefile
+1587178196|Suheb|M|/FARADAY/faraday/cmd/frcli/close_recommendations.go
+1588144628|carla|M|/FARADAY/faraday/utils/utils.go
+1588144628|carla|M|/FARADAY/faraday/utils/utils_test.go
+1588244092|carla|A|/FARADAY/faraday/fiat/fiat.go
+1588244092|carla|A|/FARADAY/faraday/fiat/fiat_test.go
+1588244092|carla|A|/FARADAY/faraday/fiat/log.go
+1588244092|carla|M|/FARADAY/faraday/log.go
+1588244141|carla|A|/FARADAY/faraday/fiat/coincap_api.go
+1588244141|carla|A|/FARADAY/faraday/fiat/coincap_api_test.go
+1588244141|carla|M|/FARADAY/faraday/fiat/fiat.go
+1588244778|carla|M|/FARADAY/faraday/fiat/coincap_api.go
+1588244778|carla|A|/FARADAY/faraday/fiat/prices.go
+1588244778|carla|A|/FARADAY/faraday/fiat/prices_test.go
+1588244778|carla|A|/FARADAY/faraday/frdrpc/fiat_estimate.go
+1588244778|carla|M|/FARADAY/faraday/frdrpc/rpc.pb.go
+1588244778|carla|M|/FARADAY/faraday/frdrpc/rpc.pb.gw.go
+1588244778|carla|M|/FARADAY/faraday/frdrpc/rpc.proto
+1588244778|carla|M|/FARADAY/faraday/frdrpc/rpc.swagger.json
+1588244778|carla|M|/FARADAY/faraday/frdrpc/rpcserver.go
+1588244784|carla|A|/FARADAY/faraday/cmd/frcli/fiat_estimate.go
+1588244784|carla|M|/FARADAY/faraday/cmd/frcli/main.go
+1588755866|carla|M|/FARADAY/faraday/go.mod
+1588755866|carla|M|/FARADAY/faraday/go.sum
+1588769643|carla|A|/FARADAY/faraday/accounting/report.go
+1588770017|carla|M|/FARADAY/faraday/fiat/prices.go
+1588770017|carla|M|/FARADAY/faraday/fiat/prices_test.go
+1588770174|carla|M|/FARADAY/faraday/fiat/prices.go
+1588773399|carla|M|/FARADAY/faraday/fiat/coincap_api.go
+1588773399|carla|M|/FARADAY/faraday/fiat/coincap_api_test.go
+1588773399|carla|M|/FARADAY/faraday/fiat/fiat.go
+1588773399|carla|M|/FARADAY/faraday/fiat/fiat_test.go
+1588773399|carla|M|/FARADAY/faraday/fiat/prices.go
+1588773399|carla|M|/FARADAY/faraday/fiat/prices_test.go
+1589372582|carla|M|/FARADAY/faraday/fiat/coincap_api.go
+1589372582|carla|M|/FARADAY/faraday/fiat/fiat.go
+1589372582|carla|M|/FARADAY/faraday/fiat/prices.go
+1589372582|carla|M|/FARADAY/faraday/fiat/prices_test.go
+1589372582|carla|M|/FARADAY/faraday/go.mod
+1589372582|carla|M|/FARADAY/faraday/go.sum
+1589373007|carla|M|/FARADAY/faraday/frdrpc/fiat_estimate.go
+1589373007|carla|M|/FARADAY/faraday/frdrpc/rpc.pb.go
+1589373007|carla|M|/FARADAY/faraday/frdrpc/rpc.proto
+1589373007|carla|M|/FARADAY/faraday/frdrpc/rpc.swagger.json
+1589460551|carla|M|/FARADAY/faraday/fiat/prices.go
+1589460551|carla|M|/FARADAY/faraday/fiat/prices_test.go
+1589461156|Oliver Gugger|M|/FARADAY/faraday/config.go
+1589461156|Oliver Gugger|M|/FARADAY/faraday/faraday.go
+1589461208|Oliver Gugger|M|/FARADAY/faraday/config.go
+1589463598|Oliver Gugger|M|/FARADAY/faraday/faraday.go
+1589463599|Oliver Gugger|M|/FARADAY/faraday/frdrpc/rpcserver.go
+1589463599|Oliver Gugger|M|/FARADAY/faraday/cmd/frcli/main.go
+1589463599|Oliver Gugger|M|/FARADAY/faraday/cmd/frcli/utils.go
+1589532659|Oliver Gugger|M|/FARADAY/faraday/cmd/frcli/main.go
+1589532659|Oliver Gugger|M|/FARADAY/faraday/cmd/frcli/utils.go
+1589532659|Oliver Gugger|M|/FARADAY/faraday/go.mod
+1589980725|carla|M|/FARADAY/faraday/accounting/report.go
+1589980725|carla|A|/FARADAY/faraday/accounting/conversions.go
+1589980725|carla|M|/FARADAY/faraday/accounting/report.go
+1589980904|carla|M|/FARADAY/faraday/accounting/conversions.go
+1589980904|carla|A|/FARADAY/faraday/accounting/docs.md
+1589980904|carla|A|/FARADAY/faraday/accounting/entries.go
+1589980904|carla|A|/FARADAY/faraday/accounting/entries_test.go
+1589980904|carla|M|/FARADAY/faraday/accounting/report.go
+1589980904|carla|M|/FARADAY/faraday/go.mod
+1589980904|carla|M|/FARADAY/faraday/go.sum
+1589980939|carla|M|/FARADAY/faraday/accounting/docs.md
+1589980939|carla|M|/FARADAY/faraday/accounting/entries.go
+1589980939|carla|M|/FARADAY/faraday/accounting/entries_test.go
+1589980939|carla|M|/FARADAY/faraday/accounting/report.go
+1589982203|carla|M|/FARADAY/faraday/accounting/docs.md
+1589982203|carla|M|/FARADAY/faraday/accounting/entries.go
+1589982203|carla|M|/FARADAY/faraday/accounting/entries_test.go
+1589982203|carla|M|/FARADAY/faraday/accounting/report.go
+1589982203|carla|M|/FARADAY/faraday/go.mod
+1589982203|carla|M|/FARADAY/faraday/go.sum
+1589982288|carla|A|/FARADAY/faraday/accounting/filter.go
+1589982288|carla|A|/FARADAY/faraday/accounting/filter_test.go
+1589982320|carla|M|/FARADAY/faraday/accounting/conversions.go
+1589982320|carla|A|/FARADAY/faraday/accounting/on_chain.go
+1589982346|carla|M|/FARADAY/faraday/frdrpc/fiat_estimate.go
+1589982348|carla|A|/FARADAY/faraday/frdrpc/node_report.go
+1589982348|carla|M|/FARADAY/faraday/frdrpc/revenue_report.go
+1589982348|carla|M|/FARADAY/faraday/frdrpc/rpc.pb.go
+1589982348|carla|M|/FARADAY/faraday/frdrpc/rpc.pb.gw.go
+1589982348|carla|M|/FARADAY/faraday/frdrpc/rpc.proto
+1589982348|carla|M|/FARADAY/faraday/frdrpc/rpc.swagger.json
+1589982348|carla|M|/FARADAY/faraday/frdrpc/rpcserver.go
+1589982348|carla|A|/FARADAY/faraday/frdrpc/validate.go
+1589982385|carla|A|/FARADAY/faraday/cmd/frcli/csv.go
+1589982385|carla|M|/FARADAY/faraday/cmd/frcli/main.go
+1589982385|carla|A|/FARADAY/faraday/cmd/frcli/node_report.go
+1590400658|carla|M|/FARADAY/faraday/accounting/filter.go
+1590400658|carla|M|/FARADAY/faraday/accounting/filter_test.go
+1590401070|carla|M|/FARADAY/faraday/accounting/docs.md
+1590401070|carla|M|/FARADAY/faraday/accounting/entries.go
+1590401070|carla|M|/FARADAY/faraday/accounting/entries_test.go
+1590401070|carla|M|/FARADAY/faraday/accounting/report.go
+1590401072|carla|A|/FARADAY/faraday/accounting/off_chain.go
+1590407360|carla|A|/FARADAY/faraday/paginater/paginater.go
+1590407360|carla|A|/FARADAY/faraday/paginater/paginater_test.go
+1590407360|carla|M|/FARADAY/faraday/revenue/revenue.go
+1590407360|carla|M|/FARADAY/faraday/revenue/revenue_test.go
+1590407713|carla|M|/FARADAY/faraday/frdrpc/node_report.go
+1590407713|carla|M|/FARADAY/faraday/frdrpc/rpc.pb.go
+1590407713|carla|M|/FARADAY/faraday/frdrpc/rpc.proto
+1590407713|carla|M|/FARADAY/faraday/frdrpc/rpc.swagger.json
+1590407713|carla|M|/FARADAY/faraday/frdrpc/rpcserver.go
+1590571345|carla|M|/FARADAY/faraday/accounting/entries.go
+1590571547|carla|M|/FARADAY/faraday/.gitignore
+1590757154|carla|M|/FARADAY/faraday/accounting/entries.go
+1590757168|carla|M|/FARADAY/faraday/accounting/docs.md
+1590757168|carla|M|/FARADAY/faraday/accounting/entries.go
+1590757168|carla|M|/FARADAY/faraday/accounting/entries_test.go
+1590757168|carla|M|/FARADAY/faraday/accounting/report.go
+1590757196|carla|M|/FARADAY/faraday/accounting/off_chain.go
+1590757197|carla|M|/FARADAY/faraday/frdrpc/node_report.go
+1590757197|carla|M|/FARADAY/faraday/frdrpc/rpc.pb.go
+1590757197|carla|M|/FARADAY/faraday/frdrpc/rpc.proto
+1590757197|carla|M|/FARADAY/faraday/frdrpc/rpc.swagger.json
+1590757197|carla|M|/FARADAY/faraday/frdrpc/rpcserver.go
+1590758018|carla|M|/FARADAY/faraday/accounting/docs.md
+1591176658|carla|M|/FARADAY/faraday/accounting/off_chain.go
+1591176658|carla|M|/FARADAY/faraday/accounting/on_chain.go
+1591348801|Oliver Gugger|M|/FARADAY/faraday/version.go
+1591354884|carla|M|/FARADAY/faraday/accounting/off_chain.go
+1591354884|carla|A|/FARADAY/faraday/accounting/off_chain_test.go
+1591354884|carla|M|/FARADAY/faraday/frdrpc/node_report.go
+1591354884|carla|M|/FARADAY/faraday/frdrpc/rpcserver.go
+1591354884|carla|M|/FARADAY/faraday/accounting/filter.go
+1591354884|carla|M|/FARADAY/faraday/accounting/filter_test.go
+1591354884|carla|M|/FARADAY/faraday/accounting/conversions.go
+1591354884|carla|M|/FARADAY/faraday/accounting/docs.md
+1591354884|carla|M|/FARADAY/faraday/accounting/entries.go
+1591354884|carla|M|/FARADAY/faraday/accounting/entries_test.go
+1591354884|carla|M|/FARADAY/faraday/accounting/report.go
+1591354884|carla|M|/FARADAY/faraday/accounting/docs.md
+1591354884|carla|M|/FARADAY/faraday/accounting/off_chain.go
+1591354884|carla|M|/FARADAY/faraday/accounting/off_chain_test.go
+1591354884|carla|M|/FARADAY/faraday/frdrpc/node_report.go
+1591354884|carla|M|/FARADAY/faraday/frdrpc/rpc.pb.go
+1591354884|carla|M|/FARADAY/faraday/frdrpc/rpc.proto
+1591354884|carla|M|/FARADAY/faraday/frdrpc/rpc.swagger.json
+1592379775|carla|M|/FARADAY/faraday/README.md
+1592379775|carla|M|/FARADAY/faraday/config.go
+1592379775|carla|M|/FARADAY/faraday/faraday.go
+1592379775|carla|M|/FARADAY/faraday/frdrpc/rpcserver.go
+1592379775|carla|M|/FARADAY/faraday/go.mod
+1592379775|carla|M|/FARADAY/faraday/go.sum
+1592379775|carla|M|/FARADAY/faraday/frdrpc/channel_insights.go
+1592379775|carla|M|/FARADAY/faraday/frdrpc/node_report.go
+1592379775|carla|M|/FARADAY/faraday/accounting/entries.go
+1592379775|carla|M|/FARADAY/faraday/accounting/entries_test.go
+1592379775|carla|M|/FARADAY/faraday/accounting/on_chain.go
+1592379775|carla|M|/FARADAY/faraday/frdrpc/node_report.go
+1592379775|carla|M|/FARADAY/faraday/frdrpc/revenue_report.go
+1592379775|carla|M|/FARADAY/faraday/frdrpc/rpcserver.go
+1592379775|carla|M|/FARADAY/faraday/go.mod
+1592379775|carla|M|/FARADAY/faraday/insights/insights.go
+1592379775|carla|M|/FARADAY/faraday/insights/insights_test.go
+1592379775|carla|M|/FARADAY/faraday/revenue/revenue.go
+1592379775|carla|M|/FARADAY/faraday/revenue/revenue_test.go
+1592379775|carla|M|/FARADAY/faraday/accounting/entries.go
+1592379775|carla|M|/FARADAY/faraday/accounting/entries_test.go
+1592379775|carla|M|/FARADAY/faraday/accounting/off_chain.go
+1592379775|carla|M|/FARADAY/faraday/accounting/off_chain_test.go
+1592379775|carla|M|/FARADAY/faraday/frdrpc/channel_insights.go
+1592379775|carla|M|/FARADAY/faraday/frdrpc/node_report.go
+1592379775|carla|M|/FARADAY/faraday/frdrpc/revenue_report.go
+1592379775|carla|M|/FARADAY/faraday/frdrpc/rpcserver.go
+1592379775|carla|M|/FARADAY/faraday/revenue/revenue.go
+1592379775|carla|M|/FARADAY/faraday/revenue/revenue_test.go
+1592379775|carla|M|/FARADAY/faraday/accounting/entries.go
+1592379775|carla|M|/FARADAY/faraday/accounting/entries_test.go
+1592379775|carla|M|/FARADAY/faraday/accounting/filter.go
+1592379775|carla|M|/FARADAY/faraday/accounting/filter_test.go
+1592379775|carla|M|/FARADAY/faraday/accounting/off_chain.go
+1592379775|carla|M|/FARADAY/faraday/accounting/off_chain_test.go
+1592379775|carla|M|/FARADAY/faraday/frdrpc/node_report.go
+1592379775|carla|M|/FARADAY/faraday/frdrpc/rpcserver.go
+1592379775|carla|M|/FARADAY/faraday/accounting/entries.go
+1592379775|carla|M|/FARADAY/faraday/accounting/entries_test.go
+1592379775|carla|M|/FARADAY/faraday/accounting/filter.go
+1592379775|carla|M|/FARADAY/faraday/accounting/filter_test.go
+1592379775|carla|M|/FARADAY/faraday/accounting/off_chain.go
+1592379775|carla|M|/FARADAY/faraday/accounting/off_chain_test.go
+1592379775|carla|M|/FARADAY/faraday/frdrpc/node_report.go
+1592379775|carla|M|/FARADAY/faraday/frdrpc/rpcserver.go
+1592379776|carla|M|/FARADAY/faraday/accounting/conversions.go
+1592379776|carla|M|/FARADAY/faraday/accounting/entries.go
+1592379776|carla|M|/FARADAY/faraday/accounting/entries_test.go
+1592379776|carla|M|/FARADAY/faraday/accounting/filter.go
+1592379776|carla|M|/FARADAY/faraday/accounting/filter_test.go
+1592379776|carla|M|/FARADAY/faraday/accounting/on_chain.go
+1592379776|carla|M|/FARADAY/faraday/frdrpc/node_report.go
+1592379776|carla|M|/FARADAY/faraday/frdrpc/rpcserver.go
+1592380196|carla|M|/FARADAY/faraday/accounting/conversions.go
+1592380196|carla|M|/FARADAY/faraday/accounting/entries.go
+1592380196|carla|M|/FARADAY/faraday/accounting/entries_test.go
+1592380196|carla|M|/FARADAY/faraday/accounting/report.go
+1592383318|carla|M|/FARADAY/faraday/frdrpc/rpc.pb.go
+1592383318|carla|M|/FARADAY/faraday/frdrpc/rpc.pb.gw.go
+1592383318|carla|M|/FARADAY/faraday/frdrpc/rpc.swagger.json
+1592383318|carla|M|/FARADAY/faraday/scripts/install_travis_proto.sh
+1592491226|carla|M|/FARADAY/faraday/accounting/docs.md
+1592491226|carla|M|/FARADAY/faraday/accounting/entries.go
+1592491226|carla|M|/FARADAY/faraday/accounting/entries_test.go
+1592491226|carla|M|/FARADAY/faraday/accounting/on_chain.go
+1592491226|carla|M|/FARADAY/faraday/accounting/report.go
+1592491226|carla|M|/FARADAY/faraday/frdrpc/node_report.go
+1592491226|carla|M|/FARADAY/faraday/frdrpc/rpc.pb.go
+1592491226|carla|M|/FARADAY/faraday/frdrpc/rpc.proto
+1592491226|carla|M|/FARADAY/faraday/frdrpc/rpc.swagger.json
+1592491559|carla|M|/FARADAY/faraday/accounting/entries.go
+1592491559|carla|M|/FARADAY/faraday/accounting/entries_test.go
+1592491559|carla|M|/FARADAY/faraday/accounting/filter.go
+1592491559|carla|M|/FARADAY/faraday/accounting/filter_test.go
+1592491559|carla|M|/FARADAY/faraday/accounting/off_chain.go
+1592491559|carla|M|/FARADAY/faraday/accounting/off_chain_test.go
+1592491559|carla|M|/FARADAY/faraday/accounting/on_chain.go
+1592491559|carla|M|/FARADAY/faraday/faraday.go
+1592491559|carla|M|/FARADAY/faraday/frdrpc/node_report.go
+1592491559|carla|M|/FARADAY/faraday/frdrpc/revenue_report.go
+1592491559|carla|M|/FARADAY/faraday/frdrpc/rpcserver.go
+1592491559|carla|M|/FARADAY/faraday/go.mod
+1592491559|carla|M|/FARADAY/faraday/go.sum
+1592491559|carla|M|/FARADAY/faraday/insights/insights.go
+1592491559|carla|M|/FARADAY/faraday/insights/insights_test.go
+1592491559|carla|M|/FARADAY/faraday/revenue/revenue.go
+1592491559|carla|M|/FARADAY/faraday/revenue/revenue_test.go
+1592811239|carla|M|/FARADAY/faraday/fiat/coincap_api.go
+1592904639|carla|M|/FARADAY/faraday/fiat/coincap_api.go
+1592904639|carla|M|/FARADAY/faraday/fiat/coincap_api_test.go
+1592905169|carla|M|/FARADAY/faraday/accounting/conversions.go
+1592905169|carla|M|/FARADAY/faraday/accounting/off_chain.go
+1592905169|carla|M|/FARADAY/faraday/accounting/off_chain_test.go
+1592905169|carla|M|/FARADAY/faraday/accounting/on_chain.go
+1592905169|carla|M|/FARADAY/faraday/cmd/frcli/node_report.go
+1592905169|carla|M|/FARADAY/faraday/fiat/prices.go
+1592905169|carla|M|/FARADAY/faraday/frdrpc/fiat_estimate.go
+1592905169|carla|M|/FARADAY/faraday/frdrpc/node_report.go
+1592905169|carla|M|/FARADAY/faraday/frdrpc/rpc.pb.go
+1592905169|carla|M|/FARADAY/faraday/frdrpc/rpc.proto
+1592905169|carla|M|/FARADAY/faraday/frdrpc/rpc.swagger.json
+1592905169|carla|M|/FARADAY/faraday/frdrpc/rpcserver.go
+1592911709|carla|M|/FARADAY/faraday/go.mod
+1592911709|carla|M|/FARADAY/faraday/go.sum
+1593096851|carla|A|/FARADAY/faraday/accounting/config.go
+1593096851|carla|M|/FARADAY/faraday/accounting/off_chain.go
+1593096851|carla|M|/FARADAY/faraday/accounting/on_chain.go
+1593153847|carla|M|/FARADAY/faraday/frdrpc/channel_insights.go
+1593153847|carla|M|/FARADAY/faraday/frdrpc/node_report.go
+1593153847|carla|M|/FARADAY/faraday/frdrpc/revenue_report.go
+1593153847|carla|M|/FARADAY/faraday/frdrpc/rpcserver.go
+1593153847|carla|A|/FARADAY/faraday/lndwrap/lndwrap.go
+1593153940|carla|M|/FARADAY/faraday/accounting/config.go
+1593153940|carla|M|/FARADAY/faraday/frdrpc/node_report.go
+1593154006|carla|M|/FARADAY/faraday/accounting/config.go
+1593154006|carla|M|/FARADAY/faraday/accounting/conversions.go
+1593154006|carla|M|/FARADAY/faraday/accounting/off_chain.go
+1593154006|carla|M|/FARADAY/faraday/accounting/on_chain.go
+1593154006|carla|M|/FARADAY/faraday/cmd/frcli/node_report.go
+1593154006|carla|M|/FARADAY/faraday/frdrpc/node_report.go
+1593154006|carla|M|/FARADAY/faraday/frdrpc/rpc.pb.go
+1593154006|carla|M|/FARADAY/faraday/frdrpc/rpc.proto
+1593154006|carla|M|/FARADAY/faraday/frdrpc/rpc.swagger.json
+1593262032|carla|A|/FARADAY/faraday/resolutions/docs.md
+1593262032|carla|A|/FARADAY/faraday/resolutions/fees.go
+1593262032|carla|A|/FARADAY/faraday/resolutions/fees_test.go
+1593262032|carla|A|/FARADAY/faraday/resolutions/resolutions.go
+1593262032|carla|A|/FARADAY/faraday/resolutions/resolutions_test.go
+1593262040|carla|A|/FARADAY/faraday/chain/client.go
+1593262040|carla|M|/FARADAY/faraday/config.go
+1593262040|carla|M|/FARADAY/faraday/faraday.go
+1593262040|carla|M|/FARADAY/faraday/frdrpc/rpcserver.go
+1593262047|carla|A|/FARADAY/faraday/frdrpc/close_report.go
+1593262047|carla|M|/FARADAY/faraday/frdrpc/rpc.pb.go
+1593262047|carla|M|/FARADAY/faraday/frdrpc/rpc.pb.gw.go
+1593262047|carla|M|/FARADAY/faraday/frdrpc/rpc.proto
+1593262047|carla|M|/FARADAY/faraday/frdrpc/rpc.swagger.json
+1593262047|carla|M|/FARADAY/faraday/frdrpc/rpcserver.go
+1593262054|carla|A|/FARADAY/faraday/cmd/frcli/close_reports.go
+1593262054|carla|M|/FARADAY/faraday/cmd/frcli/main.go
+1593262054|carla|M|/FARADAY/faraday/cmd/frcli/utils.go
+1593420969|carla|M|/FARADAY/faraday/accounting/config.go
+1593420969|carla|M|/FARADAY/faraday/frdrpc/close_report.go
+1593420969|carla|M|/FARADAY/faraday/go.mod
+1593420969|carla|M|/FARADAY/faraday/go.sum
+1593420975|carla|M|/FARADAY/faraday/accounting/config.go
+1593420975|carla|M|/FARADAY/faraday/accounting/off_chain.go
+1593420975|carla|M|/FARADAY/faraday/accounting/off_chain_test.go
+1593420975|carla|M|/FARADAY/faraday/frdrpc/node_report.go
+1593420980|carla|M|/FARADAY/faraday/accounting/config.go
+1593420980|carla|M|/FARADAY/faraday/accounting/docs.md
+1593420980|carla|M|/FARADAY/faraday/accounting/entries.go
+1593420980|carla|M|/FARADAY/faraday/accounting/entries_test.go
+1593420980|carla|M|/FARADAY/faraday/accounting/filter.go
+1593420980|carla|M|/FARADAY/faraday/accounting/filter_test.go
+1593420980|carla|A|/FARADAY/faraday/accounting/log.go
+1593420980|carla|M|/FARADAY/faraday/accounting/off_chain.go
+1593420980|carla|M|/FARADAY/faraday/accounting/off_chain_test.go
+1593420980|carla|M|/FARADAY/faraday/log.go
+1593420983|carla|M|/FARADAY/faraday/accounting/docs.md
+1593420983|carla|M|/FARADAY/faraday/accounting/entries.go
+1593420983|carla|M|/FARADAY/faraday/accounting/entries_test.go
+1593438740|carla|M|/FARADAY/faraday/accounting/on_chain.go
+1595428740|carla|M|/FARADAY/faraday/fiat/coincap_api.go
+1595428740|carla|M|/FARADAY/faraday/fiat/coincap_api_test.go
+1595428749|carla|M|/FARADAY/faraday/frdrpc/rpc.proto
+1595428789|carla|M|/FARADAY/faraday/fiat/coincap_api.go
+1595428789|carla|M|/FARADAY/faraday/fiat/coincap_api_test.go
+1595428789|carla|M|/FARADAY/faraday/fiat/fiat.go
+1595428789|carla|M|/FARADAY/faraday/fiat/prices.go
+1595428789|carla|M|/FARADAY/faraday/fiat/prices_test.go
+1595428797|carla|M|/FARADAY/faraday/fiat/coincap_api.go
+1595428797|carla|M|/FARADAY/faraday/fiat/coincap_api_test.go
+1595428801|carla|M|/FARADAY/faraday/fiat/prices.go
+1595428801|carla|M|/FARADAY/faraday/fiat/prices_test.go
+1595428805|carla|M|/FARADAY/faraday/accounting/conversions.go
+1595428805|carla|M|/FARADAY/faraday/fiat/prices.go
+1595428805|carla|M|/FARADAY/faraday/fiat/prices_test.go
+1595428877|carla|M|/FARADAY/faraday/cmd/frcli/fiat_estimate.go
+1595428877|carla|M|/FARADAY/faraday/fiat/prices.go
+1595428877|carla|A|/FARADAY/faraday/frdrpc/exchange_rate.go
+1595428877|carla|D|/FARADAY/faraday/frdrpc/fiat_estimate.go
+1595428877|carla|M|/FARADAY/faraday/frdrpc/rpc.pb.go
+1595428877|carla|M|/FARADAY/faraday/frdrpc/rpc.pb.gw.go
+1595428877|carla|M|/FARADAY/faraday/frdrpc/rpc.proto
+1595428877|carla|M|/FARADAY/faraday/frdrpc/rpc.swagger.json
+1595428877|carla|M|/FARADAY/faraday/frdrpc/rpcserver.go
+1595428880|carla|M|/FARADAY/faraday/accounting/config.go
+1595428880|carla|M|/FARADAY/faraday/accounting/off_chain_test.go
+1595428888|carla|M|/FARADAY/faraday/accounting/conversions.go
+1595428888|carla|M|/FARADAY/faraday/accounting/entries.go
+1595428888|carla|M|/FARADAY/faraday/accounting/entries_test.go
+1595428888|carla|M|/FARADAY/faraday/accounting/off_chain.go
+1595428888|carla|M|/FARADAY/faraday/accounting/off_chain_test.go
+1595428888|carla|M|/FARADAY/faraday/accounting/on_chain.go
+1595428888|carla|M|/FARADAY/faraday/accounting/report.go
+1595428893|carla|M|/FARADAY/faraday/cmd/frcli/csv.go
+1595428893|carla|M|/FARADAY/faraday/frdrpc/node_report.go
+1595428893|carla|M|/FARADAY/faraday/frdrpc/rpc.pb.go
+1595428893|carla|M|/FARADAY/faraday/frdrpc/rpc.proto
+1595428893|carla|M|/FARADAY/faraday/frdrpc/rpc.swagger.json
+1595428897|carla|M|/FARADAY/faraday/accounting/config.go
+1595428897|carla|M|/FARADAY/faraday/accounting/conversions.go
+1595428897|carla|M|/FARADAY/faraday/accounting/off_chain.go
+1595428897|carla|M|/FARADAY/faraday/accounting/on_chain.go
+1595428897|carla|M|/FARADAY/faraday/frdrpc/node_report.go
+1595428897|carla|M|/FARADAY/faraday/frdrpc/rpc.pb.go
+1595428897|carla|M|/FARADAY/faraday/frdrpc/rpc.proto
+1595428897|carla|M|/FARADAY/faraday/frdrpc/rpc.swagger.json
+1597133236|carla|M|/FARADAY/faraday/config.go
+1597223689|carla|M|/FARADAY/faraday/accounting/config.go
+1597223689|carla|M|/FARADAY/faraday/accounting/entries.go
+1597223689|carla|M|/FARADAY/faraday/accounting/entries_test.go
+1597223689|carla|M|/FARADAY/faraday/accounting/on_chain.go
+1597223689|carla|A|/FARADAY/faraday/accounting/on_chain_test.go
+1597223689|carla|M|/FARADAY/faraday/faraday.go
+1597223689|carla|M|/FARADAY/faraday/go.mod
+1597223689|carla|M|/FARADAY/faraday/go.sum
+1597223693|carla|A|/FARADAY/faraday/fees/fees.go
+1597223693|carla|A|/FARADAY/faraday/fees/fees_test.go
+1597223693|carla|M|/FARADAY/faraday/frdrpc/close_report.go
+1597223693|carla|D|/FARADAY/faraday/resolutions/fees.go
+1597223693|carla|D|/FARADAY/faraday/resolutions/fees_test.go
+1597223693|carla|M|/FARADAY/faraday/resolutions/resolutions.go
+1597223693|carla|M|/FARADAY/faraday/resolutions/resolutions_test.go
+1597223696|carla|M|/FARADAY/faraday/accounting/config.go
+1597223696|carla|M|/FARADAY/faraday/accounting/docs.md
+1597223696|carla|M|/FARADAY/faraday/accounting/entries.go
+1597223696|carla|M|/FARADAY/faraday/accounting/entries_test.go
+1597223696|carla|M|/FARADAY/faraday/accounting/on_chain.go
+1597223696|carla|M|/FARADAY/faraday/accounting/on_chain_test.go
+1597223696|carla|M|/FARADAY/faraday/accounting/report.go
+1597223696|carla|M|/FARADAY/faraday/frdrpc/node_report.go
+1597223696|carla|M|/FARADAY/faraday/frdrpc/rpc.pb.go
+1597223696|carla|M|/FARADAY/faraday/frdrpc/rpc.proto
+1597223696|carla|M|/FARADAY/faraday/frdrpc/rpc.swagger.json
+1597223696|carla|M|/FARADAY/faraday/frdrpc/rpcserver.go
+1597223699|carla|M|/FARADAY/faraday/accounting/entries.go
+1597223699|carla|M|/FARADAY/faraday/accounting/entries_test.go
+1597223701|carla|M|/FARADAY/faraday/accounting/docs.md
+1597223701|carla|M|/FARADAY/faraday/accounting/entries.go
+1597223701|carla|M|/FARADAY/faraday/accounting/entries_test.go
+1597223701|carla|M|/FARADAY/faraday/accounting/on_chain.go
+1597223701|carla|M|/FARADAY/faraday/accounting/on_chain_test.go
+1597223704|carla|M|/FARADAY/faraday/accounting/filter.go
+1597223704|carla|M|/FARADAY/faraday/accounting/filter_test.go
+1597223704|carla|M|/FARADAY/faraday/accounting/on_chain.go
+1597225062|carla|M|/FARADAY/faraday/accounting/entries.go
+1597225062|carla|M|/FARADAY/faraday/accounting/entries_test.go
+1597225063|carla|M|/FARADAY/faraday/frdrpc/rpcserver.go
+1597225329|Joost Jager|M|/FARADAY/faraday/.gitignore
+1597225329|Joost Jager|M|/FARADAY/faraday/Makefile
+1597225329|Joost Jager|A|/FARADAY/faraday/itest/Dockerfile
+1597225329|Joost Jager|A|/FARADAY/faraday/itest/fail_test.go
+1597225329|Joost Jager|A|/FARADAY/faraday/itest/itest.sh
+1597225329|Joost Jager|A|/FARADAY/faraday/itest/itest_setup.sh
+1597225329|Joost Jager|A|/FARADAY/faraday/itest/log.go
+1597225329|Joost Jager|A|/FARADAY/faraday/itest/prefix_writer.go
+1597225329|Joost Jager|A|/FARADAY/faraday/itest/rpc.go
+1597225329|Joost Jager|A|/FARADAY/faraday/itest/setup_test.go
+1597225329|Joost Jager|A|/FARADAY/faraday/itest/test_context.go
+1597225329|Joost Jager|A|/FARADAY/faraday/itest/util.sh
+1597225329|Joost Jager|A|/FARADAY/faraday/run_itest.sh
+1597664771|carla|M|/FARADAY/faraday/.travis.yml
+1597664771|carla|M|/FARADAY/faraday/Makefile
+1597664777|carla|A|/FARADAY/faraday/itest/nodereport_test.go
+1597664777|carla|M|/FARADAY/faraday/itest/test_context.go
+1597664777|carla|M|/FARADAY/faraday/itest/util.sh
+1597820651|carla|M|/FARADAY/faraday/README.md
+1597822338|carla|M|/FARADAY/faraday/cmd/frcli/node_report.go
+1597936392|carla|M|/FARADAY/faraday/README.md
+1597936395|carla|M|/FARADAY/faraday/README.md
+1598272769|carla|M|/FARADAY/faraday/accounting/config.go
+1598272769|carla|M|/FARADAY/faraday/accounting/conversions.go
+1598272769|carla|M|/FARADAY/faraday/frdrpc/exchange_rate.go
+1598272769|carla|M|/FARADAY/faraday/frdrpc/node_report.go
+1598272769|carla|M|/FARADAY/faraday/frdrpc/rpcserver.go
+1598272771|carla|M|/FARADAY/faraday/frdrpc/node_report.go
+1598880046|Oliver Gugger|M|/FARADAY/faraday/go.mod
+1598880046|Oliver Gugger|M|/FARADAY/faraday/go.sum
+1598887184|carla|M|/FARADAY/faraday/frdrpc/revenue_report.go
+1598887184|carla|M|/FARADAY/faraday/revenue/revenue.go
+1598887184|carla|M|/FARADAY/faraday/revenue/revenue_test.go
+1599584097|Oliver Gugger|M|/FARADAY/faraday/itest/Dockerfile
+1599584187|Oliver Gugger|M|/FARADAY/faraday/.travis.yml
+1599587303|Oliver Gugger|M|/FARADAY/faraday/config.go
+1599587303|Oliver Gugger|M|/FARADAY/faraday/faraday.go
+1599587304|Oliver Gugger|M|/FARADAY/faraday/config.go
+1599587304|Oliver Gugger|M|/FARADAY/faraday/faraday.go
+1599588563|Oliver Gugger|M|/FARADAY/faraday/config.go
+1599588570|Oliver Gugger|M|/FARADAY/faraday/config.go
+1599588570|Oliver Gugger|M|/FARADAY/faraday/config.go
+1599588570|Oliver Gugger|M|/FARADAY/faraday/faraday.go
+1599588570|Oliver Gugger|M|/FARADAY/faraday/frdrpc/rpcserver.go
+1599588570|Oliver Gugger|M|/FARADAY/faraday/go.mod
+1599588570|Oliver Gugger|M|/FARADAY/faraday/go.sum
+1599588571|Oliver Gugger|M|/FARADAY/faraday/frdrpc/rpcserver.go
+1599588571|Oliver Gugger|M|/FARADAY/faraday/cmd/frcli/main.go
+1599588571|Oliver Gugger|M|/FARADAY/faraday/cmd/frcli/utils.go
+1599588572|Oliver Gugger|M|/FARADAY/faraday/README.md
+1599588572|Oliver Gugger|M|/FARADAY/faraday/itest/rpc.go
+1599588572|Oliver Gugger|M|/FARADAY/faraday/itest/test_context.go
+1599636260|carla|M|/FARADAY/faraday/cmd/frcli/utils.go
+1599638833|carla|M|/FARADAY/faraday/.travis.yml
+1599638833|carla|M|/FARADAY/faraday/Makefile
+1599638834|carla|M|/FARADAY/faraday/accounting/config.go
+1599638834|carla|M|/FARADAY/faraday/accounting/conversions.go
+1599638834|carla|M|/FARADAY/faraday/accounting/entries.go
+1599638834|carla|M|/FARADAY/faraday/accounting/entries_test.go
+1599638834|carla|M|/FARADAY/faraday/accounting/on_chain.go
+1599638834|carla|M|/FARADAY/faraday/accounting/report.go
+1599638834|carla|M|/FARADAY/faraday/cmd/faraday/log.go
+1599638834|carla|M|/FARADAY/faraday/cmd/frcli/channel_insights.go
+1599638834|carla|M|/FARADAY/faraday/cmd/frcli/close_recommendations.go
+1599638834|carla|M|/FARADAY/faraday/cmd/frcli/close_reports.go
+1599638834|carla|M|/FARADAY/faraday/cmd/frcli/fiat_estimate.go
+1599638834|carla|M|/FARADAY/faraday/cmd/frcli/main.go
+1599638834|carla|M|/FARADAY/faraday/cmd/frcli/node_report.go
+1599638834|carla|M|/FARADAY/faraday/cmd/frcli/revenue_report.go
+1599638834|carla|M|/FARADAY/faraday/cmd/frcli/utils.go
+1599638834|carla|M|/FARADAY/faraday/config.go
+1599638834|carla|M|/FARADAY/faraday/faraday.go
+1599638834|carla|M|/FARADAY/faraday/fiat/coincap_api.go
+1599638834|carla|M|/FARADAY/faraday/frdrpc/close_report.go
+1599638834|carla|M|/FARADAY/faraday/frdrpc/node_report.go
+1599638834|carla|M|/FARADAY/faraday/frdrpc/revenue_report.go
+1599638834|carla|M|/FARADAY/faraday/frdrpc/rpcserver.go
+1599638834|carla|M|/FARADAY/faraday/insights/insights.go
+1599638834|carla|M|/FARADAY/faraday/insights/insights_test.go
+1599638834|carla|M|/FARADAY/faraday/itest/nodereport_test.go
+1599638834|carla|M|/FARADAY/faraday/itest/rpc.go
+1599638834|carla|M|/FARADAY/faraday/itest/test_context.go
+1599638834|carla|M|/FARADAY/faraday/lndwrap/lndwrap.go
+1599638834|carla|M|/FARADAY/faraday/log.go
+1599638834|carla|M|/FARADAY/faraday/resolutions/resolutions.go
+1599640897|carla|M|/FARADAY/faraday/README.md
+1599640897|carla|M|/FARADAY/faraday/cmd/frcli/node_report.go
+1599640897|carla|A|/FARADAY/faraday/frdrpc/node_audit.go
+1599640897|carla|D|/FARADAY/faraday/frdrpc/node_report.go
+1599640897|carla|M|/FARADAY/faraday/frdrpc/rpc.pb.go
+1599640897|carla|M|/FARADAY/faraday/frdrpc/rpc.pb.gw.go
+1599640897|carla|M|/FARADAY/faraday/frdrpc/rpc.proto
+1599640897|carla|M|/FARADAY/faraday/frdrpc/rpc.swagger.json
+1599640897|carla|M|/FARADAY/faraday/frdrpc/rpcserver.go
+1599640897|carla|M|/FARADAY/faraday/itest/nodereport_test.go
+1599640898|carla|M|/FARADAY/faraday/accounting/config.go
+1599640898|carla|M|/FARADAY/faraday/accounting/docs.md
+1599640898|carla|M|/FARADAY/faraday/accounting/entries.go
+1599640898|carla|M|/FARADAY/faraday/accounting/entries_test.go
+1599640936|carla|M|/FARADAY/faraday/README.md
+1599640936|carla|M|/FARADAY/faraday/frdrpc/node_audit.go
+1599640936|carla|M|/FARADAY/faraday/frdrpc/rpcserver.go
+1599652537|Oliver Gugger|M|/FARADAY/faraday/cmd/frcli/main.go
+1599820257|Oliver Gugger|M|/FARADAY/faraday/faraday.go
+1599820257|Oliver Gugger|M|/FARADAY/faraday/go.mod
+1599820257|Oliver Gugger|M|/FARADAY/faraday/go.sum
+1599820405|Oliver Gugger|M|/FARADAY/faraday/config.go
+1599820405|Oliver Gugger|M|/FARADAY/faraday/faraday.go
+1599820405|Oliver Gugger|M|/FARADAY/faraday/config.go
+1599829851|Oliver Gugger|M|/FARADAY/faraday/faraday.go
+1599829851|Oliver Gugger|A|/FARADAY/faraday/frdrpc/macaroons.go
+1599829851|Oliver Gugger|M|/FARADAY/faraday/frdrpc/rpcserver.go
+1599829851|Oliver Gugger|M|/FARADAY/faraday/go.mod
+1599829851|Oliver Gugger|M|/FARADAY/faraday/cmd/frcli/main.go
+1599829851|Oliver Gugger|M|/FARADAY/faraday/cmd/frcli/utils.go
+1599829851|Oliver Gugger|M|/FARADAY/faraday/frdrpc/rpcserver.go
+1599829852|Oliver Gugger|M|/FARADAY/faraday/README.md
+1599829852|Oliver Gugger|M|/FARADAY/faraday/itest/rpc.go
+1599829852|Oliver Gugger|M|/FARADAY/faraday/itest/test_context.go
+1600155396|carla|M|/FARADAY/faraday/README.md
+1600155397|carla|M|/FARADAY/faraday/version.go
+1600195801|André Neves|M|/FARADAY/faraday/README.md
+1600412318|Oliver Gugger|M|/FARADAY/faraday/frdrpc/macaroons.go
+1600412318|Oliver Gugger|M|/FARADAY/faraday/go.mod
+1600412318|Oliver Gugger|M|/FARADAY/faraday/go.sum
+1602487387|carla|M|/FARADAY/faraday/frdrpc/exchange_rate.go
+1602754164|carla|M|/FARADAY/faraday/accounting/report.go
+1602754258|carla|M|/FARADAY/faraday/accounting/entries.go
+1602754258|carla|M|/FARADAY/faraday/accounting/entries_test.go
+1602754258|carla|M|/FARADAY/faraday/accounting/off_chain.go
+1602754258|carla|M|/FARADAY/faraday/accounting/on_chain.go
+1602754258|carla|M|/FARADAY/faraday/accounting/on_chain_test.go
+1602754263|carla|A|/FARADAY/faraday/accounting/categories.go
+1602754263|carla|M|/FARADAY/faraday/accounting/config.go
+1602754263|carla|M|/FARADAY/faraday/accounting/entries.go
+1602754263|carla|M|/FARADAY/faraday/accounting/off_chain.go
+1602754263|carla|M|/FARADAY/faraday/accounting/on_chain.go
+1602754263|carla|M|/FARADAY/faraday/accounting/report.go
+1603797821|carla|M|/FARADAY/faraday/accounting/categories.go
+1603797821|carla|M|/FARADAY/faraday/accounting/config.go
+1603797821|carla|M|/FARADAY/faraday/cmd/frcli/csv.go
+1603797821|carla|M|/FARADAY/faraday/frdrpc/node_audit.go
+1603797821|carla|M|/FARADAY/faraday/frdrpc/rpc.pb.go
+1603797821|carla|M|/FARADAY/faraday/frdrpc/rpc.proto
+1603797821|carla|M|/FARADAY/faraday/frdrpc/rpc.swagger.json
+1603797840|carla|A|/FARADAY/faraday/cmd/frcli/node_audit.go
+1603797840|carla|D|/FARADAY/faraday/cmd/frcli/node_report.go
+1603798752|carla|M|/FARADAY/faraday/cmd/frcli/node_audit.go
+1603798836|carla|M|/FARADAY/faraday/cmd/frcli/node_audit.go
+1604046062|Oliver Gugger|M|/FARADAY/faraday/go.mod
+1604046062|Oliver Gugger|M|/FARADAY/faraday/go.sum
+1604046062|Oliver Gugger|M|/FARADAY/faraday/itest/test_context.go
+1604050167|carla|M|/FARADAY/faraday/version.go
+1605618239|Carsten Otto|M|/FARADAY/faraday/accounting/entries.go
+1605618239|Carsten Otto|M|/FARADAY/faraday/accounting/entries_test.go
+1605618278|Carsten Otto|M|/FARADAY/faraday/accounting/entries.go
+1605619480|Carsten Otto|M|/FARADAY/faraday/README.md
+1605872001|Carsten Otto|M|/FARADAY/faraday/cmd/frcli/close_recommendations.go
+1605872001|Carsten Otto|M|/FARADAY/faraday/cmd/frcli/node_audit.go
+1606116783|carla|M|/FARADAY/faraday/frdrpc/node_audit.go
+1606116806|carla|M|/FARADAY/faraday/frdrpc/node_audit.go
+1606116858|carla|M|/FARADAY/faraday/paginater/paginater.go
+1606396175|carla|M|/FARADAY/faraday/accounting/docs.md
+1606396175|carla|A|/FARADAY/faraday/docs/accounting.md
+1606902543|carla|M|/FARADAY/faraday/cmd/frcli/node_audit.go
+1606902551|carla|A|/FARADAY/faraday/.github/pull_request_template.md
+1606902551|carla|A|/FARADAY/faraday/release_notes.md
+1606902551|carla|M|/FARADAY/faraday/version.go
+1606902553|carla|M|/FARADAY/faraday/release_notes.md
+1609751338|carla|M|/FARADAY/faraday/go.mod
+1609751338|carla|M|/FARADAY/faraday/go.sum
+1609751338|carla|M|/FARADAY/faraday/itest/nodereport_test.go
+1609751338|carla|M|/FARADAY/faraday/itest/test_context.go
+1610037626|Oliver Gugger|M|/FARADAY/faraday/frdrpc/macaroons.go
+1610037626|Oliver Gugger|M|/FARADAY/faraday/go.mod
+1610037626|Oliver Gugger|M|/FARADAY/faraday/go.sum
+1610037627|Oliver Gugger|M|/FARADAY/faraday/frdrpc/macaroons.go
+1610037752|Oliver Gugger|M|/FARADAY/faraday/release_notes.md
+1610745525|Oliver Gugger|M|/FARADAY/faraday/go.mod
+1610745525|Oliver Gugger|M|/FARADAY/faraday/go.sum
+1610973209|Oliver Gugger|M|/FARADAY/faraday/version.go
+1610973276|Oliver Gugger|M|/FARADAY/faraday/release_notes.md
+1611996220|Justin O'Brien|M|/FARADAY/faraday/README.md
+1613379527|Oliver Gugger|M|/FARADAY/faraday/frdrpc/rpcserver.go
+1613379527|Oliver Gugger|M|/FARADAY/faraday/release_notes.md
+1613385942|carla|M|/FARADAY/faraday/frdrpc/rpcserver.go
+1613385942|carla|M|/FARADAY/faraday/release_notes.md
+1615284965|Oliver Gugger|A|/FARADAY/faraday/.github/ISSUE_TEMPLATE/bug_report.md
+1615284965|Oliver Gugger|A|/FARADAY/faraday/.github/ISSUE_TEMPLATE/config.yml
+1615284965|Oliver Gugger|A|/FARADAY/faraday/.github/ISSUE_TEMPLATE/feature_request.md
+1615284965|Oliver Gugger|A|/FARADAY/faraday/.github/ISSUE_TEMPLATE/other.md
+1618390114|carla|M|/FARADAY/faraday/docs/accounting.md
+1619012141|Oliver Gugger|A|/FARADAY/faraday/frdrpc/faraday.pb.go
+1619012141|Oliver Gugger|A|/FARADAY/faraday/frdrpc/faraday.pb.gw.go
+1619012141|Oliver Gugger|A|/FARADAY/faraday/frdrpc/faraday.proto
+1619012141|Oliver Gugger|A|/FARADAY/faraday/frdrpc/faraday.swagger.json
+1619012141|Oliver Gugger|M|/FARADAY/faraday/frdrpc/gen_protos.sh
+1619012141|Oliver Gugger|D|/FARADAY/faraday/frdrpc/rpc.pb.go
+1619012141|Oliver Gugger|D|/FARADAY/faraday/frdrpc/rpc.pb.gw.go
+1619012141|Oliver Gugger|D|/FARADAY/faraday/frdrpc/rpc.proto
+1619012141|Oliver Gugger|D|/FARADAY/faraday/frdrpc/rpc.swagger.json
+1619012143|Oliver Gugger|M|/FARADAY/faraday/frdrpc/faraday.pb.go
+1619012143|Oliver Gugger|M|/FARADAY/faraday/frdrpc/faraday.proto
+1619012143|Oliver Gugger|M|/FARADAY/faraday/frdrpc/gen_protos.sh
+1619012143|Oliver Gugger|A|/FARADAY/faraday/frdrpc/rest-annotations.yaml
+1619012144|Oliver Gugger|M|/FARADAY/faraday/Makefile
+1619012144|Oliver Gugger|A|/FARADAY/faraday/frdrpc/Dockerfile
+1619012144|Oliver Gugger|M|/FARADAY/faraday/frdrpc/faraday.pb.go
+1619012144|Oliver Gugger|M|/FARADAY/faraday/frdrpc/faraday.proto
+1619012144|Oliver Gugger|M|/FARADAY/faraday/frdrpc/gen_protos.sh
+1619012144|Oliver Gugger|A|/FARADAY/faraday/frdrpc/gen_protos_docker.sh
+1619012144|Oliver Gugger|M|/FARADAY/faraday/go.mod
+1619012144|Oliver Gugger|M|/FARADAY/faraday/go.sum
+1619012145|Oliver Gugger|M|/FARADAY/faraday/go.mod
+1619012147|Oliver Gugger|M|/FARADAY/faraday/Dockerfile
+1619012147|Oliver Gugger|M|/FARADAY/faraday/itest/Dockerfile
+1619012148|Oliver Gugger|A|/FARADAY/faraday/.github/workflows/main.yml
+1619012148|Oliver Gugger|D|/FARADAY/faraday/.travis.yml
+1619012148|Oliver Gugger|D|/FARADAY/faraday/scripts/install_travis_proto.sh
+1620205022|carla|M|/FARADAY/faraday/accounting/filter.go
+1620205022|carla|M|/FARADAY/faraday/accounting/off_chain.go
+1620205022|carla|M|/FARADAY/faraday/lndwrap/lndwrap.go
+1620981984|Elle Mouton|M|/FARADAY/faraday/accounting/conversions.go
+1620981984|Elle Mouton|M|/FARADAY/faraday/fiat/coincap_api.go
+1620981984|Elle Mouton|M|/FARADAY/faraday/fiat/coincap_api_test.go
+1620981984|Elle Mouton|M|/FARADAY/faraday/fiat/prices.go
+1620981989|Elle Mouton|A|/FARADAY/faraday/fiat/coindesk_api.go
+1620981989|Elle Mouton|A|/FARADAY/faraday/fiat/coindesk_api_test.go
+1620981989|Elle Mouton|M|/FARADAY/faraday/fiat/prices.go
+1620981989|Elle Mouton|M|/FARADAY/faraday/accounting/config.go
+1620981989|Elle Mouton|M|/FARADAY/faraday/accounting/conversions.go
+1620981989|Elle Mouton|M|/FARADAY/faraday/accounting/off_chain.go
+1620981989|Elle Mouton|M|/FARADAY/faraday/accounting/on_chain.go
+1620981989|Elle Mouton|M|/FARADAY/faraday/cmd/frcli/fiat_estimate.go
+1620981989|Elle Mouton|M|/FARADAY/faraday/cmd/frcli/node_audit.go
+1620981989|Elle Mouton|M|/FARADAY/faraday/cmd/frcli/utils.go
+1620981989|Elle Mouton|M|/FARADAY/faraday/fiat/prices.go
+1620981989|Elle Mouton|M|/FARADAY/faraday/frdrpc/exchange_rate.go
+1620981989|Elle Mouton|M|/FARADAY/faraday/frdrpc/faraday.pb.go
+1620981989|Elle Mouton|M|/FARADAY/faraday/frdrpc/faraday.proto
+1620981989|Elle Mouton|M|/FARADAY/faraday/frdrpc/faraday.swagger.json
+1620981989|Elle Mouton|M|/FARADAY/faraday/frdrpc/node_audit.go
+1620981989|Elle Mouton|M|/FARADAY/faraday/frdrpc/rpcserver.go
+1621242517|Oliver Gugger|D|/FARADAY/faraday/cmd/faraday/log.go
+1621242517|Oliver Gugger|M|/FARADAY/faraday/cmd/faraday/main.go
+1621250181|Oliver Gugger|M|/FARADAY/faraday/faraday.go
+1621250181|Oliver Gugger|M|/FARADAY/faraday/frdrpc/macaroons.go
+1621250181|Oliver Gugger|M|/FARADAY/faraday/frdrpc/rpcserver.go
+1621250181|Oliver Gugger|M|/FARADAY/faraday/go.mod
+1621250181|Oliver Gugger|M|/FARADAY/faraday/go.sum
+1621250181|Oliver Gugger|M|/FARADAY/faraday/log.go
+1621250182|Oliver Gugger|M|/FARADAY/faraday/version.go
+1621258496|Oliver Gugger|M|/FARADAY/faraday/README.md
+1621258496|Oliver Gugger|M|/FARADAY/faraday/go.mod
+1621258496|Oliver Gugger|M|/FARADAY/faraday/go.sum
+1621258496|Oliver Gugger|M|/FARADAY/faraday/itest/Dockerfile
+1621258496|Oliver Gugger|M|/FARADAY/faraday/release_notes.md
+1621413925|carla|M|/FARADAY/faraday/release_notes.md
+1621413986|carla|M|/FARADAY/faraday/release_notes.md
+1621515128|Elle Mouton|M|/FARADAY/faraday/frdrpc/faraday.pb.go
+1621515128|Elle Mouton|M|/FARADAY/faraday/go.mod
+1621515135|Elle Mouton|M|/FARADAY/faraday/accounting/conversions.go
+1621515135|Elle Mouton|M|/FARADAY/faraday/fiat/prices.go
+1622461089|Oliver Gugger|M|/FARADAY/faraday/go.mod
+1622461089|Oliver Gugger|M|/FARADAY/faraday/go.sum
+1622462228|Oliver Gugger|M|/FARADAY/faraday/README.md
+1622462228|Oliver Gugger|M|/FARADAY/faraday/config.go
+1622462228|Oliver Gugger|M|/FARADAY/faraday/faraday.go
+1622462228|Oliver Gugger|M|/FARADAY/faraday/itest/test_context.go
+1622462228|Oliver Gugger|M|/FARADAY/faraday/release_notes.md
+1622462265|Oliver Gugger|M|/FARADAY/faraday/config.go
+1622462265|Oliver Gugger|M|/FARADAY/faraday/faraday.go
+1622462265|Oliver Gugger|M|/FARADAY/faraday/log.go
+1622619819|carla|M|/FARADAY/faraday/release_notes.md
+1622619819|carla|M|/FARADAY/faraday/version.go
+1623975527|Olaoluwa Osuntokun|M|/FARADAY/faraday/go.mod
+1623975527|Olaoluwa Osuntokun|M|/FARADAY/faraday/go.sum
+1627570839|Oliver Gugger|M|/FARADAY/faraday/frdrpc/Dockerfile
+1627570839|Oliver Gugger|M|/FARADAY/faraday/frdrpc/faraday.pb.go
+1627570839|Oliver Gugger|M|/FARADAY/faraday/frdrpc/faraday.pb.gw.go
+1627570839|Oliver Gugger|M|/FARADAY/faraday/frdrpc/faraday.swagger.json
+1627570839|Oliver Gugger|A|/FARADAY/faraday/frdrpc/faraday.yaml
+1627570839|Oliver Gugger|A|/FARADAY/faraday/frdrpc/faraday_grpc.pb.go
+1627570839|Oliver Gugger|M|/FARADAY/faraday/frdrpc/gen_protos.sh
+1627570839|Oliver Gugger|M|/FARADAY/faraday/frdrpc/gen_protos_docker.sh
+1627570839|Oliver Gugger|D|/FARADAY/faraday/frdrpc/rest-annotations.yaml
+1627570839|Oliver Gugger|M|/FARADAY/faraday/frdrpc/rpcserver.go
+1627570839|Oliver Gugger|M|/FARADAY/faraday/go.mod
+1627570839|Oliver Gugger|M|/FARADAY/faraday/go.sum
+1627570839|Oliver Gugger|M|/FARADAY/faraday/release_notes.md
+1630072453|Elle Mouton|M|/FARADAY/faraday/accounting/conversions.go
+1630072453|Elle Mouton|M|/FARADAY/faraday/accounting/entries_test.go
+1630072453|Elle Mouton|M|/FARADAY/faraday/accounting/report.go
+1630072453|Elle Mouton|M|/FARADAY/faraday/fiat/coincap_api.go
+1630072453|Elle Mouton|M|/FARADAY/faraday/fiat/coincap_api_test.go
+1630072453|Elle Mouton|M|/FARADAY/faraday/fiat/coindesk_api.go
+1630072453|Elle Mouton|M|/FARADAY/faraday/fiat/coindesk_api_test.go
+1630072453|Elle Mouton|M|/FARADAY/faraday/fiat/fiat.go
+1630072453|Elle Mouton|M|/FARADAY/faraday/fiat/fiat_test.go
+1630072453|Elle Mouton|M|/FARADAY/faraday/fiat/prices.go
+1630072453|Elle Mouton|M|/FARADAY/faraday/fiat/prices_test.go
+1630072453|Elle Mouton|M|/FARADAY/faraday/frdrpc/exchange_rate.go
+1630072509|Elle Mouton|M|/FARADAY/faraday/accounting/conversions.go
+1630072509|Elle Mouton|M|/FARADAY/faraday/accounting/entries.go
+1630072509|Elle Mouton|M|/FARADAY/faraday/accounting/off_chain.go
+1630072509|Elle Mouton|M|/FARADAY/faraday/accounting/on_chain.go
+1630072509|Elle Mouton|M|/FARADAY/faraday/accounting/report.go
+1630072911|Elle Mouton|M|/FARADAY/faraday/accounting/entries_test.go
+1630072911|Elle Mouton|M|/FARADAY/faraday/accounting/report.go
+1630072911|Elle Mouton|M|/FARADAY/faraday/cmd/frcli/fiat_estimate.go
+1630072911|Elle Mouton|M|/FARADAY/faraday/fiat/prices.go
+1630072911|Elle Mouton|M|/FARADAY/faraday/fiat/prices_test.go
+1630072921|Elle Mouton|M|/FARADAY/faraday/fiat/coincap_api.go
+1630072921|Elle Mouton|M|/FARADAY/faraday/fiat/coincap_api_test.go
+1630072921|Elle Mouton|M|/FARADAY/faraday/fiat/coindesk_api.go
+1630072921|Elle Mouton|M|/FARADAY/faraday/fiat/coindesk_api_test.go
+1630072921|Elle Mouton|M|/FARADAY/faraday/fiat/fiat.go
+1630073214|Elle Mouton|M|/FARADAY/faraday/cmd/frcli/csv.go
+1630073214|Elle Mouton|M|/FARADAY/faraday/cmd/frcli/fiat_estimate.go
+1630073214|Elle Mouton|M|/FARADAY/faraday/cmd/frcli/node_audit.go
+1630073214|Elle Mouton|M|/FARADAY/faraday/docs/accounting.md
+1630073214|Elle Mouton|M|/FARADAY/faraday/fiat/prices.go
+1630073214|Elle Mouton|M|/FARADAY/faraday/frdrpc/exchange_rate.go
+1630073214|Elle Mouton|M|/FARADAY/faraday/frdrpc/faraday.pb.go
+1630073214|Elle Mouton|M|/FARADAY/faraday/frdrpc/faraday.proto
+1630073214|Elle Mouton|M|/FARADAY/faraday/frdrpc/faraday.swagger.json
+1630073214|Elle Mouton|M|/FARADAY/faraday/frdrpc/node_audit.go
+1630073322|Elle Mouton|A|/FARADAY/faraday/fiat/customprices.go
+1630073322|Elle Mouton|M|/FARADAY/faraday/fiat/prices.go
+1630073545|Elle Mouton|M|/FARADAY/faraday/accounting/config.go
+1630073545|Elle Mouton|M|/FARADAY/faraday/accounting/conversions.go
+1630073545|Elle Mouton|M|/FARADAY/faraday/accounting/off_chain.go
+1630073545|Elle Mouton|M|/FARADAY/faraday/accounting/on_chain.go
+1630073545|Elle Mouton|M|/FARADAY/faraday/fiat/prices.go
+1630073545|Elle Mouton|M|/FARADAY/faraday/fiat/prices_test.go
+1630073545|Elle Mouton|M|/FARADAY/faraday/frdrpc/exchange_rate.go
+1630073545|Elle Mouton|M|/FARADAY/faraday/frdrpc/node_audit.go
+1630073545|Elle Mouton|M|/FARADAY/faraday/frdrpc/rpcserver.go
+1630073614|Elle Mouton|M|/FARADAY/faraday/fiat/prices.go
+1630074341|Elle Mouton|M|/FARADAY/faraday/cmd/frcli/csv.go
+1630074341|Elle Mouton|M|/FARADAY/faraday/cmd/frcli/node_audit.go
+1630074464|Elle Mouton|M|/FARADAY/faraday/cmd/frcli/csv.go
+1630074464|Elle Mouton|M|/FARADAY/faraday/cmd/frcli/fiat_estimate.go
+1630074464|Elle Mouton|M|/FARADAY/faraday/cmd/frcli/node_audit.go
+1630074464|Elle Mouton|M|/FARADAY/faraday/cmd/frcli/utils.go
+1630074464|Elle Mouton|M|/FARADAY/faraday/frdrpc/exchange_rate.go
+1630074464|Elle Mouton|M|/FARADAY/faraday/frdrpc/faraday.pb.go
+1630074464|Elle Mouton|M|/FARADAY/faraday/frdrpc/faraday.proto
+1630074464|Elle Mouton|M|/FARADAY/faraday/frdrpc/faraday.swagger.json
+1630074464|Elle Mouton|M|/FARADAY/faraday/frdrpc/node_audit.go
+1630076384|Elle Mouton|M|/FARADAY/faraday/cmd/frcli/fiat_estimate.go
+1630076384|Elle Mouton|M|/FARADAY/faraday/cmd/frcli/node_audit.go
+1630076384|Elle Mouton|M|/FARADAY/faraday/cmd/frcli/utils.go
+1630076384|Elle Mouton|A|/FARADAY/faraday/cmd/frcli/utils_test.go
+1630076401|Elle Mouton|M|/FARADAY/faraday/frdrpc/node_audit.go
+1630480053|carla|M|/FARADAY/faraday/cmd/frcli/fiat_estimate.go
+1630480053|carla|M|/FARADAY/faraday/cmd/frcli/node_audit.go
+1630480053|carla|M|/FARADAY/faraday/fiat/prices.go
+1630480053|carla|M|/FARADAY/faraday/fiat/prices_test.go
+1630480053|carla|M|/FARADAY/faraday/frdrpc/exchange_rate.go
+1630480053|carla|M|/FARADAY/faraday/frdrpc/node_audit.go
+1630480053|carla|M|/FARADAY/faraday/release_notes.md
+1630480054|carla|A|/FARADAY/faraday/fiat/coingecko.go
+1630480055|carla|M|/FARADAY/faraday/fiat/prices.go
+1630480055|carla|M|/FARADAY/faraday/fiat/prices_test.go
+1630480055|carla|M|/FARADAY/faraday/frdrpc/exchange_rate.go
+1630480055|carla|M|/FARADAY/faraday/frdrpc/faraday.pb.go
+1630480055|carla|M|/FARADAY/faraday/frdrpc/faraday.proto
+1630480055|carla|M|/FARADAY/faraday/frdrpc/faraday.swagger.json
+1630480056|carla|M|/FARADAY/faraday/cmd/frcli/fiat_estimate.go
+1630480056|carla|M|/FARADAY/faraday/cmd/frcli/utils.go
+1630480057|carla|M|/FARADAY/faraday/release_notes.md
+1631602188|carla|M|/FARADAY/faraday/faraday.go
+1631602188|carla|M|/FARADAY/faraday/go.mod
+1631602188|carla|M|/FARADAY/faraday/go.sum
+1631602188|carla|M|/FARADAY/faraday/itest/nodereport_test.go
+1631602188|carla|M|/FARADAY/faraday/itest/test_context.go
+1631602188|carla|M|/FARADAY/faraday/lndwrap/lndwrap.go

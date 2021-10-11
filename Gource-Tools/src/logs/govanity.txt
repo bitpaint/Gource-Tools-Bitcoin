@@ -1,5 +1,0 @@
-1423322542|Jimmy Song|A|/govanity/README.md
-1423322542|Jimmy Song|A|/govanity/generate.go
-1423323873|Jimmy Song|M|/govanity/README.md
-1423323873|Jimmy Song|M|/govanity/generate.go
-1423368815|Dave Collins|M|/govanity/generate.go

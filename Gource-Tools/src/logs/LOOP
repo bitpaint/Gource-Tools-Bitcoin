@@ -1,0 +1,1849 @@
+1550282278|Olaoluwa Osuntokun|A|/LOOP/loop/.gitignore
+1550282278|Olaoluwa Osuntokun|A|/LOOP/loop/LICENSE
+1551904234|Joost Jager|M|/LOOP/loop/.gitignore
+1551904234|Joost Jager|A|/LOOP/loop/client/README.md
+1551904234|Joost Jager|A|/LOOP/loop/client/client.go
+1551904234|Joost Jager|A|/LOOP/loop/client/client_test.go
+1551904234|Joost Jager|A|/LOOP/loop/client/config.go
+1551904234|Joost Jager|A|/LOOP/loop/client/executor.go
+1551904234|Joost Jager|A|/LOOP/loop/client/interface.go
+1551904234|Joost Jager|A|/LOOP/loop/client/log.go
+1551904234|Joost Jager|A|/LOOP/loop/client/server_mock_test.go
+1551904234|Joost Jager|A|/LOOP/loop/client/state_type.go
+1551904234|Joost Jager|A|/LOOP/loop/client/store.go
+1551904234|Joost Jager|A|/LOOP/loop/client/store_interface.go
+1551904234|Joost Jager|A|/LOOP/loop/client/store_meta.go
+1551904234|Joost Jager|A|/LOOP/loop/client/store_mock_test.go
+1551904234|Joost Jager|A|/LOOP/loop/client/store_test.go
+1551904234|Joost Jager|A|/LOOP/loop/client/swap.go
+1551904234|Joost Jager|A|/LOOP/loop/client/swap_server_client.go
+1551904234|Joost Jager|A|/LOOP/loop/client/testcontext_test.go
+1551904234|Joost Jager|A|/LOOP/loop/client/uncharge.go
+1551904234|Joost Jager|A|/LOOP/loop/client/uncharge_state.go
+1551904234|Joost Jager|A|/LOOP/loop/client/uncharge_test.go
+1551904234|Joost Jager|A|/LOOP/loop/client/utils.go
+1551904234|Joost Jager|A|/LOOP/loop/cmd/swapcli/main.go
+1551904234|Joost Jager|A|/LOOP/loop/cmd/swapd/daemon.go
+1551904234|Joost Jager|A|/LOOP/loop/cmd/swapd/log.go
+1551904234|Joost Jager|A|/LOOP/loop/cmd/swapd/main.go
+1551904234|Joost Jager|A|/LOOP/loop/cmd/swapd/rpc/gen_protos.sh
+1551904234|Joost Jager|A|/LOOP/loop/cmd/swapd/rpc/swapclient.pb.go
+1551904234|Joost Jager|A|/LOOP/loop/cmd/swapd/rpc/swapclient.proto
+1551904234|Joost Jager|A|/LOOP/loop/cmd/swapd/swapclient_server.go
+1551904234|Joost Jager|A|/LOOP/loop/cmd/swapd/utils.go
+1551904234|Joost Jager|A|/LOOP/loop/cmd/swapd/view.go
+1551904234|Joost Jager|A|/LOOP/loop/go.mod
+1551904234|Joost Jager|A|/LOOP/loop/go.sum
+1551904234|Joost Jager|A|/LOOP/loop/lndclient/chainnotifier_client.go
+1551904234|Joost Jager|A|/LOOP/loop/lndclient/invoices_client.go
+1551904234|Joost Jager|A|/LOOP/loop/lndclient/lightning_client.go
+1551904234|Joost Jager|A|/LOOP/loop/lndclient/lnd_services.go
+1551904234|Joost Jager|A|/LOOP/loop/lndclient/log.go
+1551904234|Joost Jager|A|/LOOP/loop/lndclient/signer_client.go
+1551904234|Joost Jager|A|/LOOP/loop/lndclient/walletkit_client.go
+1551904234|Joost Jager|A|/LOOP/loop/rpc/gen_protos.sh
+1551904234|Joost Jager|A|/LOOP/loop/rpc/server.pb.go
+1551904234|Joost Jager|A|/LOOP/loop/rpc/server.proto
+1551904234|Joost Jager|A|/LOOP/loop/sweep/sweeper.go
+1551904234|Joost Jager|A|/LOOP/loop/test/chainnotifier_mock.go
+1551904234|Joost Jager|A|/LOOP/loop/test/context.go
+1551904234|Joost Jager|A|/LOOP/loop/test/invoices_mock.go
+1551904234|Joost Jager|A|/LOOP/loop/test/keys.go
+1551904234|Joost Jager|A|/LOOP/loop/test/lightning_client_mock.go
+1551904234|Joost Jager|A|/LOOP/loop/test/lnd_services_mock.go
+1551904234|Joost Jager|A|/LOOP/loop/test/log.go
+1551904234|Joost Jager|A|/LOOP/loop/test/signer_mock.go
+1551904234|Joost Jager|A|/LOOP/loop/test/testutils.go
+1551904234|Joost Jager|A|/LOOP/loop/test/timeout.go
+1551904234|Joost Jager|A|/LOOP/loop/test/walletkit_mock.go
+1551904234|Joost Jager|A|/LOOP/loop/utils/config.go
+1551904234|Joost Jager|A|/LOOP/loop/utils/htlc.go
+1551904234|Joost Jager|A|/LOOP/loop/utils/swaplog.go
+1551904234|Joost Jager|A|/LOOP/loop/utils/utils.go
+1551914805|Olaoluwa Osuntokun|A|/LOOP/loop/README.md
+1551914891|Olaoluwa Osuntokun|M|/LOOP/loop/.gitignore
+1551914989|Olaoluwa Osuntokun|M|/LOOP/loop/client/client.go
+1551914989|Olaoluwa Osuntokun|M|/LOOP/loop/client/client_test.go
+1551914989|Olaoluwa Osuntokun|M|/LOOP/loop/client/config.go
+1551914989|Olaoluwa Osuntokun|M|/LOOP/loop/client/executor.go
+1551914989|Olaoluwa Osuntokun|M|/LOOP/loop/client/server_mock_test.go
+1551914989|Olaoluwa Osuntokun|M|/LOOP/loop/client/store.go
+1551914989|Olaoluwa Osuntokun|M|/LOOP/loop/client/store_mock_test.go
+1551914989|Olaoluwa Osuntokun|M|/LOOP/loop/client/store_test.go
+1551914989|Olaoluwa Osuntokun|M|/LOOP/loop/client/swap.go
+1551914989|Olaoluwa Osuntokun|M|/LOOP/loop/client/swap_server_client.go
+1551914989|Olaoluwa Osuntokun|M|/LOOP/loop/client/testcontext_test.go
+1551914989|Olaoluwa Osuntokun|M|/LOOP/loop/client/uncharge.go
+1551914989|Olaoluwa Osuntokun|M|/LOOP/loop/client/uncharge_test.go
+1551914989|Olaoluwa Osuntokun|M|/LOOP/loop/cmd/swapcli/main.go
+1551914989|Olaoluwa Osuntokun|M|/LOOP/loop/cmd/swapd/daemon.go
+1551914989|Olaoluwa Osuntokun|M|/LOOP/loop/cmd/swapd/main.go
+1551914989|Olaoluwa Osuntokun|M|/LOOP/loop/cmd/swapd/swapclient_server.go
+1551914989|Olaoluwa Osuntokun|M|/LOOP/loop/cmd/swapd/utils.go
+1551914989|Olaoluwa Osuntokun|M|/LOOP/loop/cmd/swapd/view.go
+1551914989|Olaoluwa Osuntokun|M|/LOOP/loop/go.mod
+1551914989|Olaoluwa Osuntokun|M|/LOOP/loop/lndclient/chainnotifier_client.go
+1551914989|Olaoluwa Osuntokun|M|/LOOP/loop/lndclient/lnd_services.go
+1551914989|Olaoluwa Osuntokun|M|/LOOP/loop/lndclient/signer_client.go
+1551914989|Olaoluwa Osuntokun|M|/LOOP/loop/lndclient/walletkit_client.go
+1551914989|Olaoluwa Osuntokun|M|/LOOP/loop/rpc/server.pb.go
+1551914989|Olaoluwa Osuntokun|M|/LOOP/loop/rpc/server.proto
+1551914989|Olaoluwa Osuntokun|M|/LOOP/loop/sweep/sweeper.go
+1551914989|Olaoluwa Osuntokun|M|/LOOP/loop/test/lightning_client_mock.go
+1551914989|Olaoluwa Osuntokun|M|/LOOP/loop/test/lnd_services_mock.go
+1551915527|Olaoluwa Osuntokun|D|/LOOP/loop/cmd/swapd/rpc/swapclient.pb.go
+1551915527|Olaoluwa Osuntokun|D|/LOOP/loop/cmd/swapd/rpc/swapclient.proto
+1551915527|Olaoluwa Osuntokun|A|/LOOP/loop/looprpc/client.pb.go
+1551915527|Olaoluwa Osuntokun|A|/LOOP/loop/looprpc/client.proto
+1551915527|Olaoluwa Osuntokun|A|/LOOP/loop/looprpc/gen_protos.sh
+1551915527|Olaoluwa Osuntokun|A|/LOOP/loop/looprpc/server.pb.go
+1551915527|Olaoluwa Osuntokun|A|/LOOP/loop/looprpc/server.proto
+1551915527|Olaoluwa Osuntokun|D|/LOOP/loop/rpc/gen_protos.sh
+1551915527|Olaoluwa Osuntokun|D|/LOOP/loop/rpc/server.pb.go
+1551915527|Olaoluwa Osuntokun|D|/LOOP/loop/rpc/server.proto
+1551915562|Olaoluwa Osuntokun|D|/LOOP/loop/cmd/swapd/rpc/gen_protos.sh
+1551916403|Olaoluwa Osuntokun|M|/LOOP/loop/client/swap_server_client.go
+1551916403|Olaoluwa Osuntokun|M|/LOOP/loop/cmd/swapcli/main.go
+1551916403|Olaoluwa Osuntokun|M|/LOOP/loop/cmd/swapd/daemon.go
+1551916403|Olaoluwa Osuntokun|M|/LOOP/loop/cmd/swapd/swapclient_server.go
+1551916403|Olaoluwa Osuntokun|M|/LOOP/loop/looprpc/client.pb.go
+1551916403|Olaoluwa Osuntokun|M|/LOOP/loop/looprpc/client.proto
+1551916403|Olaoluwa Osuntokun|M|/LOOP/loop/looprpc/server.pb.go
+1551916403|Olaoluwa Osuntokun|M|/LOOP/loop/looprpc/server.proto
+1551916403|Olaoluwa Osuntokun|M|/LOOP/loop/utils/config.go
+1551916663|Olaoluwa Osuntokun|A|/LOOP/loop/cmd/loop/main.go
+1551916663|Olaoluwa Osuntokun|A|/LOOP/loop/cmd/loopd/daemon.go
+1551916663|Olaoluwa Osuntokun|A|/LOOP/loop/cmd/loopd/log.go
+1551916663|Olaoluwa Osuntokun|A|/LOOP/loop/cmd/loopd/main.go
+1551916663|Olaoluwa Osuntokun|A|/LOOP/loop/cmd/loopd/swapclient_server.go
+1551916663|Olaoluwa Osuntokun|A|/LOOP/loop/cmd/loopd/utils.go
+1551916663|Olaoluwa Osuntokun|A|/LOOP/loop/cmd/loopd/view.go
+1551916663|Olaoluwa Osuntokun|D|/LOOP/loop/cmd/swapcli/main.go
+1551916663|Olaoluwa Osuntokun|D|/LOOP/loop/cmd/swapd/daemon.go
+1551916663|Olaoluwa Osuntokun|D|/LOOP/loop/cmd/swapd/log.go
+1551916663|Olaoluwa Osuntokun|D|/LOOP/loop/cmd/swapd/main.go
+1551916663|Olaoluwa Osuntokun|D|/LOOP/loop/cmd/swapd/swapclient_server.go
+1551916663|Olaoluwa Osuntokun|D|/LOOP/loop/cmd/swapd/utils.go
+1551916663|Olaoluwa Osuntokun|D|/LOOP/loop/cmd/swapd/view.go
+1551916675|Olaoluwa Osuntokun|M|/LOOP/loop/.gitignore
+1551919204|Olaoluwa Osuntokun|M|/LOOP/loop/README.md
+1551919276|Olaoluwa Osuntokun|M|/LOOP/loop/README.md
+1551920292|Alex Bosworth|M|/LOOP/loop/README.md
+1551923498|Alex Bosworth|M|/LOOP/loop/README.md
+1551927727|Alex Bosworth|M|/LOOP/loop/README.md
+1551933207|Olaoluwa Osuntokun|D|/LOOP/loop/client/README.md
+1551933207|Olaoluwa Osuntokun|D|/LOOP/loop/client/state_type.go
+1551933207|Olaoluwa Osuntokun|D|/LOOP/loop/client/store.go
+1551933207|Olaoluwa Osuntokun|D|/LOOP/loop/client/store_interface.go
+1551933207|Olaoluwa Osuntokun|D|/LOOP/loop/client/store_meta.go
+1551933207|Olaoluwa Osuntokun|D|/LOOP/loop/client/store_test.go
+1551933207|Olaoluwa Osuntokun|D|/LOOP/loop/client/uncharge_state.go
+1551933207|Olaoluwa Osuntokun|A|/LOOP/loop/loopdb/codec.go
+1551933207|Olaoluwa Osuntokun|A|/LOOP/loop/loopdb/interface.go
+1551933207|Olaoluwa Osuntokun|A|/LOOP/loop/loopdb/log.go
+1551933207|Olaoluwa Osuntokun|A|/LOOP/loop/loopdb/meta.go
+1551933207|Olaoluwa Osuntokun|A|/LOOP/loop/loopdb/store.go
+1551933207|Olaoluwa Osuntokun|A|/LOOP/loop/loopdb/store_test.go
+1551933207|Olaoluwa Osuntokun|A|/LOOP/loop/loopdb/swapcontract.go
+1551933207|Olaoluwa Osuntokun|A|/LOOP/loop/loopdb/swapstate.go
+1551933207|Olaoluwa Osuntokun|A|/LOOP/loop/loopdb/uncharge.go
+1551933240|Olaoluwa Osuntokun|A|/LOOP/loop/swap/fees.go
+1551933240|Olaoluwa Osuntokun|A|/LOOP/loop/swap/htlc.go
+1551933240|Olaoluwa Osuntokun|A|/LOOP/loop/swap/keychain.go
+1551933240|Olaoluwa Osuntokun|A|/LOOP/loop/swap/net.go
+1551933240|Olaoluwa Osuntokun|A|/LOOP/loop/swap/tx.go
+1551933240|Olaoluwa Osuntokun|D|/LOOP/loop/utils/config.go
+1551933240|Olaoluwa Osuntokun|D|/LOOP/loop/utils/htlc.go
+1551933240|Olaoluwa Osuntokun|D|/LOOP/loop/utils/swaplog.go
+1551933240|Olaoluwa Osuntokun|D|/LOOP/loop/utils/utils.go
+1551933241|Olaoluwa Osuntokun|A|/LOOP/loop/client.go
+1551933241|Olaoluwa Osuntokun|D|/LOOP/loop/client/client.go
+1551933241|Olaoluwa Osuntokun|D|/LOOP/loop/client/client_test.go
+1551933241|Olaoluwa Osuntokun|D|/LOOP/loop/client/config.go
+1551933241|Olaoluwa Osuntokun|D|/LOOP/loop/client/executor.go
+1551933241|Olaoluwa Osuntokun|D|/LOOP/loop/client/interface.go
+1551933241|Olaoluwa Osuntokun|D|/LOOP/loop/client/log.go
+1551933241|Olaoluwa Osuntokun|D|/LOOP/loop/client/server_mock_test.go
+1551933241|Olaoluwa Osuntokun|D|/LOOP/loop/client/store_mock_test.go
+1551933241|Olaoluwa Osuntokun|D|/LOOP/loop/client/swap.go
+1551933241|Olaoluwa Osuntokun|D|/LOOP/loop/client/swap_server_client.go
+1551933241|Olaoluwa Osuntokun|D|/LOOP/loop/client/testcontext_test.go
+1551933241|Olaoluwa Osuntokun|D|/LOOP/loop/client/uncharge.go
+1551933241|Olaoluwa Osuntokun|D|/LOOP/loop/client/uncharge_test.go
+1551933241|Olaoluwa Osuntokun|D|/LOOP/loop/client/utils.go
+1551933241|Olaoluwa Osuntokun|A|/LOOP/loop/client_test.go
+1551933241|Olaoluwa Osuntokun|A|/LOOP/loop/config.go
+1551933241|Olaoluwa Osuntokun|A|/LOOP/loop/executor.go
+1551933241|Olaoluwa Osuntokun|A|/LOOP/loop/interface.go
+1551933241|Olaoluwa Osuntokun|M|/LOOP/loop/lndclient/chainnotifier_client.go
+1551933241|Olaoluwa Osuntokun|M|/LOOP/loop/lndclient/lnd_services.go
+1551933241|Olaoluwa Osuntokun|M|/LOOP/loop/lndclient/signer_client.go
+1551933241|Olaoluwa Osuntokun|M|/LOOP/loop/lndclient/walletkit_client.go
+1551933241|Olaoluwa Osuntokun|A|/LOOP/loop/log.go
+1551933241|Olaoluwa Osuntokun|A|/LOOP/loop/server_mock_test.go
+1551933241|Olaoluwa Osuntokun|A|/LOOP/loop/store_mock_test.go
+1551933241|Olaoluwa Osuntokun|A|/LOOP/loop/swap.go
+1551933241|Olaoluwa Osuntokun|A|/LOOP/loop/swap_server_client.go
+1551933241|Olaoluwa Osuntokun|M|/LOOP/loop/test/lightning_client_mock.go
+1551933241|Olaoluwa Osuntokun|A|/LOOP/loop/testcontext_test.go
+1551933241|Olaoluwa Osuntokun|A|/LOOP/loop/uncharge.go
+1551933241|Olaoluwa Osuntokun|A|/LOOP/loop/uncharge_state.go
+1551933241|Olaoluwa Osuntokun|A|/LOOP/loop/uncharge_test.go
+1551933242|Olaoluwa Osuntokun|M|/LOOP/loop/looprpc/client.pb.go
+1551933242|Olaoluwa Osuntokun|M|/LOOP/loop/looprpc/client.proto
+1551933242|Olaoluwa Osuntokun|M|/LOOP/loop/looprpc/server.pb.go
+1551933242|Olaoluwa Osuntokun|M|/LOOP/loop/looprpc/server.proto
+1551933244|Olaoluwa Osuntokun|M|/LOOP/loop/client.go
+1551933244|Olaoluwa Osuntokun|M|/LOOP/loop/client_test.go
+1551933244|Olaoluwa Osuntokun|A|/LOOP/loop/cmd/loop/commands.go
+1551933244|Olaoluwa Osuntokun|M|/LOOP/loop/cmd/loop/main.go
+1551933244|Olaoluwa Osuntokun|M|/LOOP/loop/cmd/loopd/daemon.go
+1551933244|Olaoluwa Osuntokun|M|/LOOP/loop/cmd/loopd/log.go
+1551933244|Olaoluwa Osuntokun|M|/LOOP/loop/cmd/loopd/main.go
+1551933244|Olaoluwa Osuntokun|M|/LOOP/loop/cmd/loopd/swapclient_server.go
+1551933244|Olaoluwa Osuntokun|M|/LOOP/loop/cmd/loopd/utils.go
+1551933244|Olaoluwa Osuntokun|M|/LOOP/loop/cmd/loopd/view.go
+1551933244|Olaoluwa Osuntokun|M|/LOOP/loop/config.go
+1551933244|Olaoluwa Osuntokun|M|/LOOP/loop/executor.go
+1551933244|Olaoluwa Osuntokun|M|/LOOP/loop/interface.go
+1551933244|Olaoluwa Osuntokun|M|/LOOP/loop/loopdb/interface.go
+1551933244|Olaoluwa Osuntokun|A|/LOOP/loop/loopdb/loopout.go
+1551933244|Olaoluwa Osuntokun|M|/LOOP/loop/loopdb/store.go
+1551933244|Olaoluwa Osuntokun|M|/LOOP/loop/loopdb/store_test.go
+1551933244|Olaoluwa Osuntokun|D|/LOOP/loop/loopdb/swapcontract.go
+1551933244|Olaoluwa Osuntokun|D|/LOOP/loop/loopdb/uncharge.go
+1551933244|Olaoluwa Osuntokun|A|/LOOP/loop/loopout.go
+1551933244|Olaoluwa Osuntokun|A|/LOOP/loop/loopout_test.go
+1551933244|Olaoluwa Osuntokun|M|/LOOP/loop/server_mock_test.go
+1551933244|Olaoluwa Osuntokun|M|/LOOP/loop/store_mock_test.go
+1551933244|Olaoluwa Osuntokun|M|/LOOP/loop/swap.go
+1551933244|Olaoluwa Osuntokun|M|/LOOP/loop/swap_server_client.go
+1551933244|Olaoluwa Osuntokun|M|/LOOP/loop/sweep/sweeper.go
+1551933244|Olaoluwa Osuntokun|M|/LOOP/loop/testcontext_test.go
+1551933244|Olaoluwa Osuntokun|D|/LOOP/loop/uncharge.go
+1551933244|Olaoluwa Osuntokun|D|/LOOP/loop/uncharge_test.go
+1551933723|Alex Bosworth|M|/LOOP/loop/README.md
+1551950367|Joost Jager|A|/LOOP/loop/.travis.yml
+1551950367|Joost Jager|A|/LOOP/loop/Makefile
+1551955048|Joost Jager|A|/LOOP/loop/cmd/loopd/config.go
+1551955048|Joost Jager|M|/LOOP/loop/cmd/loopd/daemon.go
+1551955048|Joost Jager|M|/LOOP/loop/cmd/loopd/log.go
+1551955048|Joost Jager|M|/LOOP/loop/cmd/loopd/main.go
+1551955048|Joost Jager|M|/LOOP/loop/cmd/loopd/utils.go
+1551955048|Joost Jager|M|/LOOP/loop/cmd/loopd/view.go
+1551955048|Joost Jager|M|/LOOP/loop/lndclient/lnd_services.go
+1551955735|Joost Jager|M|/LOOP/loop/cmd/loop/main.go
+1551955876|Joost Jager|D|/LOOP/loop/cmd/loop/commands.go
+1551955876|Joost Jager|A|/LOOP/loop/cmd/loop/loopout.go
+1551955876|Joost Jager|A|/LOOP/loop/cmd/loop/monitor.go
+1551955876|Joost Jager|A|/LOOP/loop/cmd/loop/terms.go
+1551992530|Alex Bosworth|M|/LOOP/loop/README.md
+1552024187|Olaoluwa Osuntokun|M|/LOOP/loop/go.mod
+1552024187|Olaoluwa Osuntokun|M|/LOOP/loop/go.sum
+1552024199|Olaoluwa Osuntokun|A|/LOOP/loop/release.sh
+1552430085|Wilmer Paulino|M|/LOOP/loop/cmd/loop/loopout.go
+1552430085|Wilmer Paulino|M|/LOOP/loop/cmd/loop/terms.go
+1552430085|Wilmer Paulino|M|/LOOP/loop/cmd/loopd/swapclient_server.go
+1552430085|Wilmer Paulino|M|/LOOP/loop/looprpc/client.pb.go
+1552430085|Wilmer Paulino|A|/LOOP/loop/looprpc/client.pb.gw.go
+1552430085|Wilmer Paulino|M|/LOOP/loop/looprpc/client.proto
+1552430085|Wilmer Paulino|A|/LOOP/loop/looprpc/client.swagger.json
+1552430085|Wilmer Paulino|M|/LOOP/loop/looprpc/gen_protos.sh
+1552430153|Wilmer Paulino|M|/LOOP/loop/cmd/loopd/config.go
+1552430153|Wilmer Paulino|M|/LOOP/loop/cmd/loopd/daemon.go
+1552430153|Wilmer Paulino|M|/LOOP/loop/go.mod
+1552518664|Alex Bosworth|M|/LOOP/loop/README.md
+1552518664|Alex Bosworth|A|/LOOP/loop/docs/architecture.md
+1552520486|Alex Bosworth|M|/LOOP/loop/cmd/loopd/main.go
+1552692464|Olaoluwa Osuntokun|M|/LOOP/loop/cmd/loop/main.go
+1552692464|Olaoluwa Osuntokun|A|/LOOP/loop/cmd/loop/quote.go
+1552695727|Olaoluwa Osuntokun|M|/LOOP/loop/go.mod
+1552695727|Olaoluwa Osuntokun|M|/LOOP/loop/go.sum
+1552695727|Olaoluwa Osuntokun|M|/LOOP/loop/lndclient/invoices_client.go
+1552695727|Olaoluwa Osuntokun|M|/LOOP/loop/lndclient/lightning_client.go
+1553022149|Alex Bosworth|M|/LOOP/loop/README.md
+1553095517|Alex Bosworth|M|/LOOP/loop/README.md
+1553127314|Olaoluwa Osuntokun|A|/LOOP/loop/version.go
+1553127371|Olaoluwa Osuntokun|M|/LOOP/loop/cmd/loopd/config.go
+1553127371|Olaoluwa Osuntokun|M|/LOOP/loop/cmd/loopd/main.go
+1553127398|Olaoluwa Osuntokun|M|/LOOP/loop/cmd/loop/main.go
+1553128187|Olaoluwa Osuntokun|M|/LOOP/loop/cmd/loop/loopout.go
+1553172110|Joost Jager|M|/LOOP/loop/cmd/loop/loopout.go
+1553185019|conscott|M|/LOOP/loop/README.md
+1553230928|Alex Bosworth|M|/LOOP/loop/cmd/loop/loopout.go
+1553277217|Francisco Calderón|M|/LOOP/loop/cmd/loop/main.go
+1553295724|Olaoluwa Osuntokun|M|/LOOP/loop/cmd/loopd/config.go
+1553295724|Olaoluwa Osuntokun|M|/LOOP/loop/cmd/loopd/daemon.go
+1553295833|Olaoluwa Osuntokun|M|/LOOP/loop/README.md
+1553617551|Joost Jager|M|/LOOP/loop/client.go
+1553617551|Joost Jager|M|/LOOP/loop/client_test.go
+1553617551|Joost Jager|M|/LOOP/loop/cmd/loopd/swapclient_server.go
+1553617551|Joost Jager|M|/LOOP/loop/go.mod
+1553617551|Joost Jager|M|/LOOP/loop/go.sum
+1553617551|Joost Jager|M|/LOOP/loop/loopdb/loopout.go
+1553617551|Joost Jager|M|/LOOP/loop/loopdb/store.go
+1553617551|Joost Jager|M|/LOOP/loop/loopdb/store_test.go
+1553768883|Joost Jager|A|/LOOP/loop/loopdb/loop.go
+1553768883|Joost Jager|M|/LOOP/loop/loopdb/loopout.go
+1553770058|Joost Jager|M|/LOOP/loop/client_test.go
+1553770058|Joost Jager|M|/LOOP/loop/loopdb/interface.go
+1553770058|Joost Jager|M|/LOOP/loop/loopdb/loop.go
+1553770058|Joost Jager|A|/LOOP/loop/loopdb/loopin.go
+1553770058|Joost Jager|M|/LOOP/loop/loopdb/loopout.go
+1553770058|Joost Jager|M|/LOOP/loop/loopdb/store.go
+1553770058|Joost Jager|M|/LOOP/loop/loopdb/store_test.go
+1553770058|Joost Jager|M|/LOOP/loop/loopdb/swapstate.go
+1553770058|Joost Jager|M|/LOOP/loop/loopout.go
+1553770058|Joost Jager|M|/LOOP/loop/store_mock_test.go
+1553770609|Joost Jager|M|/LOOP/loop/client.go
+1553770609|Joost Jager|A|/LOOP/loop/cmd/loop/loopin.go
+1553770609|Joost Jager|M|/LOOP/loop/cmd/loop/loopout.go
+1553770609|Joost Jager|M|/LOOP/loop/cmd/loop/main.go
+1553770609|Joost Jager|M|/LOOP/loop/cmd/loop/terms.go
+1553770609|Joost Jager|M|/LOOP/loop/cmd/loopd/daemon.go
+1553770609|Joost Jager|M|/LOOP/loop/cmd/loopd/swapclient_server.go
+1553770609|Joost Jager|M|/LOOP/loop/interface.go
+1553770609|Joost Jager|M|/LOOP/loop/lndclient/chainnotifier_client.go
+1553770609|Joost Jager|M|/LOOP/loop/lndclient/invoices_client.go
+1553770609|Joost Jager|M|/LOOP/loop/lndclient/lightning_client.go
+1553770609|Joost Jager|A|/LOOP/loop/loopin.go
+1553770609|Joost Jager|A|/LOOP/loop/loopin_test.go
+1553770609|Joost Jager|A|/LOOP/loop/loopin_testcontext_test.go
+1553770609|Joost Jager|M|/LOOP/loop/loopout.go
+1553770609|Joost Jager|M|/LOOP/loop/looprpc/client.pb.go
+1553770609|Joost Jager|M|/LOOP/loop/looprpc/client.proto
+1553770609|Joost Jager|M|/LOOP/loop/looprpc/client.swagger.json
+1553770609|Joost Jager|M|/LOOP/loop/looprpc/server.pb.go
+1553770609|Joost Jager|M|/LOOP/loop/looprpc/server.proto
+1553770609|Joost Jager|M|/LOOP/loop/server_mock_test.go
+1553770609|Joost Jager|M|/LOOP/loop/swap_server_client.go
+1553770609|Joost Jager|M|/LOOP/loop/test/context.go
+1553770609|Joost Jager|M|/LOOP/loop/test/invoices_mock.go
+1553770609|Joost Jager|M|/LOOP/loop/test/lightning_client_mock.go
+1553770609|Joost Jager|M|/LOOP/loop/test/lnd_services_mock.go
+1553770609|Joost Jager|M|/LOOP/loop/test/testutils.go
+1553770609|Joost Jager|M|/LOOP/loop/testcontext_test.go
+1553770609|Joost Jager|M|/LOOP/loop/cmd/loop/terms.go
+1553770609|Joost Jager|M|/LOOP/loop/cmd/loopd/swapclient_server.go
+1554156124|Joost Jager|M|/LOOP/loop/client.go
+1554156124|Joost Jager|M|/LOOP/loop/client_test.go
+1554156124|Joost Jager|M|/LOOP/loop/cmd/loop/loopin.go
+1554156124|Joost Jager|M|/LOOP/loop/cmd/loop/loopout.go
+1554156124|Joost Jager|M|/LOOP/loop/cmd/loopd/swapclient_server.go
+1554156124|Joost Jager|M|/LOOP/loop/interface.go
+1554156124|Joost Jager|M|/LOOP/loop/loopdb/loopin.go
+1554156124|Joost Jager|M|/LOOP/loop/loopdb/store_test.go
+1554156124|Joost Jager|M|/LOOP/loop/loopin.go
+1554156124|Joost Jager|M|/LOOP/loop/looprpc/client.pb.go
+1554156124|Joost Jager|M|/LOOP/loop/looprpc/client.proto
+1554156124|Joost Jager|M|/LOOP/loop/looprpc/client.swagger.json
+1554195251|Joost Jager|M|/LOOP/loop/cmd/loop/loopin.go
+1554195251|Joost Jager|M|/LOOP/loop/looprpc/client.pb.go
+1554195251|Joost Jager|M|/LOOP/loop/looprpc/client.proto
+1554195252|Joost Jager|M|/LOOP/loop/cmd/loop/loopin.go
+1554195252|Joost Jager|M|/LOOP/loop/cmd/loop/loopout.go
+1554195252|Joost Jager|M|/LOOP/loop/cmd/loop/main.go
+1554195252|Joost Jager|M|/LOOP/loop/interface.go
+1554195252|Joost Jager|M|/LOOP/loop/README.md
+1554195280|Joost Jager|M|/LOOP/loop/cmd/loopd/swapclient_server.go
+1554195280|Joost Jager|M|/LOOP/loop/loopdb/swapstate.go
+1554195280|Joost Jager|M|/LOOP/loop/loopin.go
+1554195280|Joost Jager|M|/LOOP/loop/loopin_test.go
+1554195280|Joost Jager|M|/LOOP/loop/looprpc/client.pb.go
+1554195280|Joost Jager|M|/LOOP/loop/looprpc/client.proto
+1554195280|Joost Jager|M|/LOOP/loop/looprpc/client.swagger.json
+1554384813|Joost Jager|M|/LOOP/loop/loopin.go
+1554385742|Joost Jager|M|/LOOP/loop/client.go
+1554385742|Joost Jager|M|/LOOP/loop/cmd/loopd/swapclient_server.go
+1554385742|Joost Jager|M|/LOOP/loop/cmd/loopd/view.go
+1554385742|Joost Jager|M|/LOOP/loop/interface.go
+1554385742|Joost Jager|M|/LOOP/loop/loopin.go
+1554385742|Joost Jager|M|/LOOP/loop/loopin_test.go
+1554385742|Joost Jager|M|/LOOP/loop/loopout.go
+1554385742|Joost Jager|M|/LOOP/loop/swap.go
+1554385742|Joost Jager|M|/LOOP/loop/swap/htlc.go
+1554385742|Joost Jager|M|/LOOP/loop/sweep/sweeper.go
+1554857370|Alex Bosworth|M|/LOOP/loop/README.md
+1554966419|Joost Jager|M|/LOOP/loop/client.go
+1554966419|Joost Jager|M|/LOOP/loop/cmd/loopd/daemon.go
+1554966419|Joost Jager|M|/LOOP/loop/cmd/loopd/view.go
+1555459420|Alex Bosworth|M|/LOOP/loop/README.md
+1555538763|Olaoluwa Osuntokun|M|/LOOP/loop/version.go
+1555626579|Alex Bosworth|M|/LOOP/loop/cmd/loop/main.go
+1555629039|Olaoluwa Osuntokun|M|/LOOP/loop/lndclient/lnd_services.go
+1555629039|Olaoluwa Osuntokun|A|/LOOP/loop/lndclient/macaroon_pouch.go
+1555629086|Olaoluwa Osuntokun|M|/LOOP/loop/lndclient/lnd_services.go
+1555629088|Olaoluwa Osuntokun|M|/LOOP/loop/lndclient/chainnotifier_client.go
+1555629088|Olaoluwa Osuntokun|M|/LOOP/loop/lndclient/invoices_client.go
+1555629088|Olaoluwa Osuntokun|M|/LOOP/loop/lndclient/lightning_client.go
+1555629088|Olaoluwa Osuntokun|M|/LOOP/loop/lndclient/lnd_services.go
+1555629088|Olaoluwa Osuntokun|M|/LOOP/loop/lndclient/signer_client.go
+1555629088|Olaoluwa Osuntokun|M|/LOOP/loop/lndclient/walletkit_client.go
+1555629089|Olaoluwa Osuntokun|M|/LOOP/loop/cmd/loopd/daemon.go
+1555629089|Olaoluwa Osuntokun|M|/LOOP/loop/lndclient/lnd_services.go
+1555629090|Olaoluwa Osuntokun|M|/LOOP/loop/go.mod
+1555629093|Olaoluwa Osuntokun|M|/LOOP/loop/cmd/loopd/config.go
+1555629093|Olaoluwa Osuntokun|M|/LOOP/loop/cmd/loopd/utils.go
+1556155605|Olaoluwa Osuntokun|M|/LOOP/loop/cmd/loopd/daemon.go
+1556678588|Olaoluwa Osuntokun|M|/LOOP/loop/go.mod
+1556678588|Olaoluwa Osuntokun|A|/LOOP/loop/lndclient/basic_client.go
+1556843612|Olaoluwa Osuntokun|M|/LOOP/loop/lndclient/basic_client.go
+1556871446|Joost Jager|M|/LOOP/loop/cmd/loopd/config.go
+1556871446|Joost Jager|M|/LOOP/loop/cmd/loopd/daemon.go
+1556873543|Joost Jager|M|/LOOP/loop/swap/htlc.go
+1556911742|Alex Bosworth|M|/LOOP/loop/version.go
+1558143643|Geoff Taylor|A|/LOOP/loop/DOCKER.md
+1558143643|Geoff Taylor|A|/LOOP/loop/Dockerfile
+1558353429|Joost Jager|M|/LOOP/loop/client.go
+1558353429|Joost Jager|M|/LOOP/loop/client_test.go
+1558353429|Joost Jager|M|/LOOP/loop/interface.go
+1558353429|Joost Jager|M|/LOOP/loop/loopdb/interface.go
+1558353429|Joost Jager|M|/LOOP/loop/loopdb/loop.go
+1558353429|Joost Jager|M|/LOOP/loop/loopdb/store.go
+1558353429|Joost Jager|M|/LOOP/loop/loopdb/store_test.go
+1558353429|Joost Jager|M|/LOOP/loop/loopdb/swapstate.go
+1558353429|Joost Jager|M|/LOOP/loop/loopin.go
+1558353429|Joost Jager|M|/LOOP/loop/loopin_test.go
+1558353429|Joost Jager|M|/LOOP/loop/loopout.go
+1558353429|Joost Jager|M|/LOOP/loop/store_mock_test.go
+1558353429|Joost Jager|M|/LOOP/loop/swap.go
+1558353429|Joost Jager|M|/LOOP/loop/testcontext_test.go
+1558353432|Joost Jager|M|/LOOP/loop/loopdb/log.go
+1558353435|Joost Jager|M|/LOOP/loop/loopdb/meta.go
+1558353435|Joost Jager|M|/LOOP/loop/loopdb/store.go
+1558353435|Joost Jager|M|/LOOP/loop/loopdb/store_test.go
+1558353438|Joost Jager|M|/LOOP/loop/cmd/loopd/view.go
+1558353438|Joost Jager|M|/LOOP/loop/interface.go
+1558353438|Joost Jager|M|/LOOP/loop/loopdb/loop.go
+1558353438|Joost Jager|M|/LOOP/loop/loopdb/meta.go
+1558353438|Joost Jager|A|/LOOP/loop/loopdb/migration_01_costs.go
+1558353438|Joost Jager|M|/LOOP/loop/loopdb/swapstate.go
+1558353438|Joost Jager|M|/LOOP/loop/loopin.go
+1558353438|Joost Jager|M|/LOOP/loop/loopout.go
+1558353438|Joost Jager|M|/LOOP/loop/swap.go
+1558353440|Joost Jager|M|/LOOP/loop/cmd/loop/main.go
+1558353440|Joost Jager|M|/LOOP/loop/cmd/loop/monitor.go
+1558353440|Joost Jager|M|/LOOP/loop/cmd/loopd/swapclient_server.go
+1558353440|Joost Jager|M|/LOOP/loop/looprpc/client.pb.go
+1558353440|Joost Jager|M|/LOOP/loop/looprpc/client.proto
+1558353440|Joost Jager|M|/LOOP/loop/looprpc/client.swagger.json
+1558483489|Valentine Wallace|M|/LOOP/loop/lndclient/basic_client.go
+1558483489|Valentine Wallace|M|/LOOP/loop/lndclient/lnd_services.go
+1558642167|Alex Bosworth|M|/LOOP/loop/version.go
+1559822267|Joost Jager|M|/LOOP/loop/go.mod
+1559822267|Joost Jager|M|/LOOP/loop/go.sum
+1559822267|Joost Jager|M|/LOOP/loop/lndclient/invoices_client.go
+1559822267|Joost Jager|M|/LOOP/loop/lndclient/lightning_client.go
+1559822269|Joost Jager|M|/LOOP/loop/lndclient/lnd_services.go
+1559822269|Joost Jager|M|/LOOP/loop/lndclient/macaroon_pouch.go
+1559822269|Joost Jager|A|/LOOP/loop/lndclient/router_client.go
+1559822269|Joost Jager|M|/LOOP/loop/test/lnd_services_mock.go
+1559822269|Joost Jager|A|/LOOP/loop/test/router_mock.go
+1559861845|Valentine Wallace|M|/LOOP/loop/lndclient/basic_client.go
+1560339397|Joost Jager|M|/LOOP/loop/README.md
+1561455803|Joost Jager|M|/LOOP/loop/cmd/loopd/swapclient_server.go
+1561537062|Olaoluwa Osuntokun|M|/LOOP/loop/version.go
+1561567565|Olaoluwa Osuntokun|M|/LOOP/loop/README.md
+1561567767|Olaoluwa Osuntokun|M|/LOOP/loop/README.md
+1561575316|Wilmer Paulino|M|/LOOP/loop/looprpc/client.pb.go
+1561575316|Wilmer Paulino|M|/LOOP/loop/looprpc/server.pb.go
+1562806846|Wilmer Paulino|M|/LOOP/loop/cmd/loop/quote.go
+1562806846|Wilmer Paulino|M|/LOOP/loop/cmd/loopd/swapclient_server.go
+1562806846|Wilmer Paulino|M|/LOOP/loop/looprpc/client.pb.go
+1562806846|Wilmer Paulino|M|/LOOP/loop/looprpc/client.pb.gw.go
+1562806846|Wilmer Paulino|M|/LOOP/loop/looprpc/client.proto
+1562806846|Wilmer Paulino|M|/LOOP/loop/looprpc/client.swagger.json
+1562806847|Wilmer Paulino|M|/LOOP/loop/cmd/loop/loopout.go
+1562806847|Wilmer Paulino|M|/LOOP/loop/cmd/loopd/swapclient_server.go
+1562806847|Wilmer Paulino|M|/LOOP/loop/loopout.go
+1562806847|Wilmer Paulino|M|/LOOP/loop/looprpc/client.pb.go
+1562806847|Wilmer Paulino|M|/LOOP/loop/looprpc/client.proto
+1562806847|Wilmer Paulino|M|/LOOP/loop/looprpc/client.swagger.json
+1562806848|Wilmer Paulino|M|/LOOP/loop/client.go
+1562806848|Wilmer Paulino|M|/LOOP/loop/loopout.go
+1563908062|Alex Bosworth|M|/LOOP/loop/version.go
+1564487973|Joost Jager|M|/LOOP/loop/loopout.go
+1564487974|Joost Jager|M|/LOOP/loop/client.go
+1564487974|Joost Jager|M|/LOOP/loop/loopin.go
+1564487974|Joost Jager|M|/LOOP/loop/loopout.go
+1564487974|Joost Jager|M|/LOOP/loop/sweep/sweeper.go
+1564563702|Bjorn Olav Jalborg|M|/LOOP/loop/loopout.go
+1564563702|Bjorn Olav Jalborg|M|/LOOP/loop/swap/fees.go
+1564606883|Alex Bosworth|M|/LOOP/loop/version.go
+1565778915|saguywalker|M|/LOOP/loop/README.md
+1567655328|Nigel Christian|M|/LOOP/loop/go.mod
+1567655328|Nigel Christian|M|/LOOP/loop/go.sum
+1567655328|Nigel Christian|M|/LOOP/loop/looprpc/client.pb.go
+1567655328|Nigel Christian|M|/LOOP/loop/looprpc/client.pb.gw.go
+1567655328|Nigel Christian|M|/LOOP/loop/looprpc/client.proto
+1567655328|Nigel Christian|M|/LOOP/loop/looprpc/client.swagger.json
+1567655328|Nigel Christian|M|/LOOP/loop/looprpc/server.pb.go
+1567655515|William O'Beirne|M|/LOOP/loop/README.md
+1567656176|Olaoluwa Osuntokun|M|/LOOP/loop/go.mod
+1567656176|Olaoluwa Osuntokun|M|/LOOP/loop/go.sum
+1568464680|Olaoluwa Osuntokun|M|/LOOP/loop/.travis.yml
+1568464680|Olaoluwa Osuntokun|M|/LOOP/loop/go.mod
+1568464680|Olaoluwa Osuntokun|M|/LOOP/loop/go.sum
+1569225273|Oliver Gugger|M|/LOOP/loop/looprpc/client.pb.go
+1569225273|Oliver Gugger|M|/LOOP/loop/looprpc/client.pb.gw.go
+1569225273|Oliver Gugger|M|/LOOP/loop/looprpc/client.swagger.json
+1569225273|Oliver Gugger|M|/LOOP/loop/looprpc/server.pb.go
+1569225532|Oliver Gugger|M|/LOOP/loop/looprpc/client.pb.go
+1569225532|Oliver Gugger|M|/LOOP/loop/looprpc/client.proto
+1569225532|Oliver Gugger|M|/LOOP/loop/looprpc/client.swagger.json
+1569226114|Oliver Gugger|M|/LOOP/loop/client.go
+1569226114|Oliver Gugger|M|/LOOP/loop/cmd/loopd/swapclient_server.go
+1569226114|Oliver Gugger|M|/LOOP/loop/interface.go
+1569227401|Oliver Gugger|M|/LOOP/loop/cmd/loop/loopin.go
+1569227401|Oliver Gugger|M|/LOOP/loop/cmd/loop/loopout.go
+1569227401|Oliver Gugger|M|/LOOP/loop/cmd/loop/main.go
+1569940728|Wilmer Paulino|M|/LOOP/loop/store_mock_test.go
+1569943277|Wilmer Paulino|M|/LOOP/loop/test/lnd_services_mock.go
+1569943277|Wilmer Paulino|M|/LOOP/loop/test/walletkit_mock.go
+1570028827|Wilmer Paulino|M|/LOOP/loop/loopout.go
+1570028827|Wilmer Paulino|M|/LOOP/loop/loopout_test.go
+1570028827|Wilmer Paulino|M|/LOOP/loop/store_mock_test.go
+1570127671|Alex Bosworth|M|/LOOP/loop/version.go
+1570566500|Johan T. Halseth|M|/LOOP/loop/looprpc/server.pb.go
+1570566500|Johan T. Halseth|M|/LOOP/loop/looprpc/server.proto
+1570566500|Johan T. Halseth|M|/LOOP/loop/cmd/loop/terms.go
+1570566500|Johan T. Halseth|M|/LOOP/loop/cmd/loopd/swapclient_server.go
+1570566500|Johan T. Halseth|M|/LOOP/loop/looprpc/client.pb.go
+1570566500|Johan T. Halseth|M|/LOOP/loop/looprpc/client.proto
+1570566500|Johan T. Halseth|M|/LOOP/loop/looprpc/client.swagger.json
+1570566500|Johan T. Halseth|M|/LOOP/loop/client.go
+1570566500|Johan T. Halseth|M|/LOOP/loop/cmd/loopd/swapclient_server.go
+1570566500|Johan T. Halseth|M|/LOOP/loop/interface.go
+1570566500|Johan T. Halseth|M|/LOOP/loop/loopin.go
+1570566500|Johan T. Halseth|M|/LOOP/loop/looprpc/server.pb.go
+1570566500|Johan T. Halseth|M|/LOOP/loop/looprpc/server.proto
+1570566500|Johan T. Halseth|M|/LOOP/loop/server_mock_test.go
+1570566500|Johan T. Halseth|M|/LOOP/loop/swap_server_client.go
+1570604611|Oliver Gugger|M|/LOOP/loop/Makefile
+1570624541|Oliver Gugger|M|/LOOP/loop/client.go
+1570624541|Oliver Gugger|M|/LOOP/loop/cmd/loop/loopin.go
+1570624541|Oliver Gugger|M|/LOOP/loop/cmd/loop/loopout.go
+1570624541|Oliver Gugger|M|/LOOP/loop/cmd/loop/main.go
+1570624541|Oliver Gugger|M|/LOOP/loop/cmd/loop/quote.go
+1570624541|Oliver Gugger|M|/LOOP/loop/executor.go
+1570624541|Oliver Gugger|M|/LOOP/loop/lndclient/invoices_client.go
+1570624541|Oliver Gugger|M|/LOOP/loop/lndclient/log.go
+1570624541|Oliver Gugger|M|/LOOP/loop/lndclient/router_client.go
+1570624541|Oliver Gugger|M|/LOOP/loop/log.go
+1570624541|Oliver Gugger|M|/LOOP/loop/loopdb/loopin.go
+1570624541|Oliver Gugger|M|/LOOP/loop/loopdb/loopout.go
+1570624541|Oliver Gugger|M|/LOOP/loop/loopin.go
+1570624541|Oliver Gugger|M|/LOOP/loop/loopout_test.go
+1570624541|Oliver Gugger|M|/LOOP/loop/server_mock_test.go
+1570624541|Oliver Gugger|M|/LOOP/loop/store_mock_test.go
+1570624541|Oliver Gugger|M|/LOOP/loop/sweep/sweeper.go
+1570624541|Oliver Gugger|M|/LOOP/loop/test/log.go
+1570624541|Oliver Gugger|M|/LOOP/loop/test/testutils.go
+1570624541|Oliver Gugger|M|/LOOP/loop/test/timeout.go
+1570624541|Oliver Gugger|M|/LOOP/loop/testcontext_test.go
+1570624595|Oliver Gugger|A|/LOOP/loop/.golangci.yml
+1570624595|Oliver Gugger|M|/LOOP/loop/.travis.yml
+1570630446|Oliver Gugger|M|/LOOP/loop/client.go
+1570630446|Oliver Gugger|M|/LOOP/loop/cmd/loop/loopin.go
+1570630446|Oliver Gugger|M|/LOOP/loop/cmd/loop/loopout.go
+1570630446|Oliver Gugger|M|/LOOP/loop/cmd/loop/main.go
+1570630446|Oliver Gugger|M|/LOOP/loop/cmd/loopd/swapclient_server.go
+1570630446|Oliver Gugger|M|/LOOP/loop/interface.go
+1570630446|Oliver Gugger|M|/LOOP/loop/log.go
+1570630446|Oliver Gugger|M|/LOOP/loop/loopin.go
+1570630446|Oliver Gugger|M|/LOOP/loop/loopout.go
+1570630446|Oliver Gugger|M|/LOOP/loop/swap.go
+1570630446|Oliver Gugger|A|/LOOP/loop/swap/log.go
+1570630446|Oliver Gugger|A|/LOOP/loop/swap/type.go
+1570630446|Oliver Gugger|M|/LOOP/loop/testcontext_test.go
+1570822308|Alex Bosworth|M|/LOOP/loop/version.go
+1572189723|Corey Phillips|M|/LOOP/loop/README.md
+1572278958|Oliver Gugger|M|/LOOP/loop/go.mod
+1572278958|Oliver Gugger|M|/LOOP/loop/go.sum
+1572278963|Oliver Gugger|M|/LOOP/loop/client.go
+1572278963|Oliver Gugger|M|/LOOP/loop/cmd/loopd/config.go
+1572278963|Oliver Gugger|M|/LOOP/loop/cmd/loopd/daemon.go
+1572278963|Oliver Gugger|M|/LOOP/loop/cmd/loopd/log.go
+1572278963|Oliver Gugger|M|/LOOP/loop/cmd/loopd/main.go
+1572278963|Oliver Gugger|M|/LOOP/loop/cmd/loopd/swapclient_server.go
+1572278963|Oliver Gugger|M|/LOOP/loop/executor.go
+1572278963|Oliver Gugger|M|/LOOP/loop/lndclient/lightning_client.go
+1572278963|Oliver Gugger|M|/LOOP/loop/lndclient/lnd_services.go
+1572278963|Oliver Gugger|M|/LOOP/loop/lndclient/log.go
+1572278963|Oliver Gugger|M|/LOOP/loop/log.go
+1572278963|Oliver Gugger|M|/LOOP/loop/loopdb/log.go
+1572278963|Oliver Gugger|M|/LOOP/loop/loopin.go
+1572278963|Oliver Gugger|M|/LOOP/loop/loopin_test.go
+1572278963|Oliver Gugger|M|/LOOP/loop/loopout.go
+1572278963|Oliver Gugger|M|/LOOP/loop/loopout_test.go
+1572278963|Oliver Gugger|M|/LOOP/loop/swap.go
+1572278963|Oliver Gugger|M|/LOOP/loop/testcontext_test.go
+1572278963|Oliver Gugger|M|/LOOP/loop/.golangci.yml
+1572709603|Alex Bosworth|M|/LOOP/loop/README.md
+1573725633|Johan T. Halseth|M|/LOOP/loop/go.sum
+1573725687|Johan T. Halseth|M|/LOOP/loop/go.mod
+1573725687|Johan T. Halseth|M|/LOOP/loop/go.sum
+1573831760|Oliver Gugger|M|/LOOP/loop/lndclient/lnd_services.go
+1573863390|Wilmer Paulino|M|/LOOP/loop/go.mod
+1573863390|Wilmer Paulino|M|/LOOP/loop/go.sum
+1573863390|Wilmer Paulino|M|/LOOP/loop/lndclient/walletkit_client.go
+1573863390|Wilmer Paulino|M|/LOOP/loop/test/lnd_services_mock.go
+1573863390|Wilmer Paulino|M|/LOOP/loop/test/walletkit_mock.go
+1574342068|Joost Jager|M|/LOOP/loop/go.sum
+1574342068|Joost Jager|M|/LOOP/loop/lndclient/router_client.go
+1574358420|Johan T. Halseth|M|/LOOP/loop/loopdb/loopout.go
+1574358420|Johan T. Halseth|M|/LOOP/loop/loopdb/meta.go
+1574358420|Johan T. Halseth|M|/LOOP/loop/loopdb/migration_01_costs.go
+1574358420|Johan T. Halseth|A|/LOOP/loop/loopdb/migration_02_swap_publication_deadline.go
+1574358420|Johan T. Halseth|M|/LOOP/loop/loopdb/store.go
+1574358420|Johan T. Halseth|M|/LOOP/loop/loopdb/store_test.go
+1574358421|Johan T. Halseth|M|/LOOP/loop/looprpc/server.pb.go
+1574358421|Johan T. Halseth|M|/LOOP/loop/looprpc/server.proto
+1574358421|Johan T. Halseth|M|/LOOP/loop/interface.go
+1574358421|Johan T. Halseth|M|/LOOP/loop/interface.go
+1574358421|Johan T. Halseth|M|/LOOP/loop/loopout.go
+1574358421|Johan T. Halseth|M|/LOOP/loop/server_mock_test.go
+1574358421|Johan T. Halseth|M|/LOOP/loop/swap_server_client.go
+1574358421|Johan T. Halseth|M|/LOOP/loop/cmd/loopd/swapclient_server.go
+1574358421|Johan T. Halseth|M|/LOOP/loop/looprpc/client.pb.go
+1574358421|Johan T. Halseth|M|/LOOP/loop/looprpc/client.proto
+1574358421|Johan T. Halseth|M|/LOOP/loop/looprpc/client.swagger.json
+1574358421|Johan T. Halseth|M|/LOOP/loop/cmd/loop/loopin.go
+1574358421|Johan T. Halseth|M|/LOOP/loop/cmd/loop/loopout.go
+1574358421|Johan T. Halseth|M|/LOOP/loop/cmd/loop/main.go
+1574362295|Alex Bosworth|M|/LOOP/loop/version.go
+1574716564|Wilmer Paulino|A|/LOOP/loop/lsat/caveat.go
+1574716564|Wilmer Paulino|A|/LOOP/loop/lsat/caveat_test.go
+1574716564|Wilmer Paulino|A|/LOOP/loop/lsat/identifier.go
+1574716564|Wilmer Paulino|A|/LOOP/loop/lsat/identifier_test.go
+1574716564|Wilmer Paulino|A|/LOOP/loop/lsat/satisfier.go
+1574716564|Wilmer Paulino|A|/LOOP/loop/lsat/service.go
+1574716564|Wilmer Paulino|A|/LOOP/loop/lsat/service_test.go
+1574757128|Oliver Gugger|M|/LOOP/loop/client.go
+1574757128|Oliver Gugger|M|/LOOP/loop/cmd/loopd/config.go
+1574757128|Oliver Gugger|M|/LOOP/loop/cmd/loopd/daemon.go
+1574757128|Oliver Gugger|M|/LOOP/loop/cmd/loopd/utils.go
+1574757128|Oliver Gugger|M|/LOOP/loop/cmd/loopd/view.go
+1574757128|Oliver Gugger|M|/LOOP/loop/swap_server_client.go
+1574760536|Oliver Gugger|M|/LOOP/loop/client.go
+1574760536|Oliver Gugger|A|/LOOP/loop/lsat/interceptor.go
+1574760536|Oliver Gugger|A|/LOOP/loop/lsat/store.go
+1574760536|Oliver Gugger|A|/LOOP/loop/lsat/token.go
+1574760536|Oliver Gugger|M|/LOOP/loop/swap_server_client.go
+1574948145|Oliver Gugger|M|/LOOP/loop/lsat/identifier.go
+1575290978|Johan T. Halseth|M|/LOOP/loop/go.mod
+1575290978|Johan T. Halseth|M|/LOOP/loop/go.sum
+1575290978|Johan T. Halseth|M|/LOOP/loop/loopin.go
+1575366121|Oliver Gugger|M|/LOOP/loop/lndclient/invoices_client.go
+1575366121|Oliver Gugger|M|/LOOP/loop/lndclient/lightning_client.go
+1575366121|Oliver Gugger|M|/LOOP/loop/test/invoices_mock.go
+1575366121|Oliver Gugger|M|/LOOP/loop/test/lightning_client_mock.go
+1575376772|Oliver Gugger|M|/LOOP/loop/lndclient/invoices_client.go
+1575376772|Oliver Gugger|M|/LOOP/loop/lndclient/lightning_client.go
+1575541175|Oliver Gugger|M|/LOOP/loop/cmd/loopd/log.go
+1575541175|Oliver Gugger|A|/LOOP/loop/lsat/log.go
+1575620631|Oliver Gugger|M|/LOOP/loop/lsat/interceptor.go
+1575620631|Oliver Gugger|A|/LOOP/loop/lsat/interceptor_test.go
+1575620631|Oliver Gugger|M|/LOOP/loop/lsat/store.go
+1575620631|Oliver Gugger|A|/LOOP/loop/lsat/store_test.go
+1575620631|Oliver Gugger|M|/LOOP/loop/lsat/token.go
+1575620632|Oliver Gugger|M|/LOOP/loop/client.go
+1575620632|Oliver Gugger|M|/LOOP/loop/cmd/loopd/swapclient_server.go
+1575620632|Oliver Gugger|M|/LOOP/loop/config.go
+1575620632|Oliver Gugger|M|/LOOP/loop/looprpc/client.pb.go
+1575620632|Oliver Gugger|M|/LOOP/loop/looprpc/client.pb.gw.go
+1575620632|Oliver Gugger|M|/LOOP/loop/looprpc/client.proto
+1575620632|Oliver Gugger|M|/LOOP/loop/looprpc/client.swagger.json
+1575620632|Oliver Gugger|A|/LOOP/loop/cmd/loop/lsat.go
+1575620632|Oliver Gugger|M|/LOOP/loop/cmd/loop/main.go
+1575620633|Oliver Gugger|M|/LOOP/loop/client.go
+1575620633|Oliver Gugger|M|/LOOP/loop/lsat/interceptor.go
+1575620633|Oliver Gugger|M|/LOOP/loop/lsat/interceptor_test.go
+1575620633|Oliver Gugger|M|/LOOP/loop/swap_server_client.go
+1576137041|Oliver Gugger|M|/LOOP/loop/go.mod
+1576137041|Oliver Gugger|M|/LOOP/loop/go.sum
+1576137041|Oliver Gugger|M|/LOOP/loop/lndclient/lightning_client.go
+1576137041|Oliver Gugger|M|/LOOP/loop/test/lightning_client_mock.go
+1576137041|Oliver Gugger|M|/LOOP/loop/test/lnd_services_mock.go
+1576138534|Oliver Gugger|M|/LOOP/loop/lndclient/signer_client.go
+1576138534|Oliver Gugger|M|/LOOP/loop/test/lnd_services_mock.go
+1576138534|Oliver Gugger|M|/LOOP/loop/test/signer_mock.go
+1576180373|Oliver Gugger|M|/LOOP/loop/lndclient/signer_client.go
+1576180373|Oliver Gugger|M|/LOOP/loop/test/lnd_services_mock.go
+1576180373|Oliver Gugger|M|/LOOP/loop/test/signer_mock.go
+1576186386|Wilmer Paulino|M|/LOOP/loop/lndclient/lightning_client.go
+1576186386|Wilmer Paulino|M|/LOOP/loop/test/lightning_client_mock.go
+1576186386|Wilmer Paulino|M|/LOOP/loop/test/lnd_services_mock.go
+1576186386|Wilmer Paulino|M|/LOOP/loop/test/walletkit_mock.go
+1578056491|Johan T. Halseth|M|/LOOP/loop/.gitignore
+1578056491|Johan T. Halseth|D|/LOOP/loop/cmd/loopd/config.go
+1578056491|Johan T. Halseth|D|/LOOP/loop/cmd/loopd/daemon.go
+1578056491|Johan T. Halseth|D|/LOOP/loop/cmd/loopd/log.go
+1578056491|Johan T. Halseth|D|/LOOP/loop/cmd/loopd/main.go
+1578056491|Johan T. Halseth|D|/LOOP/loop/cmd/loopd/swapclient_server.go
+1578056491|Johan T. Halseth|D|/LOOP/loop/cmd/loopd/utils.go
+1578056491|Johan T. Halseth|D|/LOOP/loop/cmd/loopd/view.go
+1578056491|Johan T. Halseth|A|/LOOP/loop/loopd/config.go
+1578056491|Johan T. Halseth|A|/LOOP/loop/loopd/daemon.go
+1578056491|Johan T. Halseth|A|/LOOP/loop/loopd/log.go
+1578056491|Johan T. Halseth|A|/LOOP/loop/loopd/main.go
+1578056491|Johan T. Halseth|A|/LOOP/loop/loopd/swapclient_server.go
+1578056491|Johan T. Halseth|A|/LOOP/loop/loopd/utils.go
+1578056491|Johan T. Halseth|A|/LOOP/loop/loopd/view.go
+1578056491|Johan T. Halseth|A|/LOOP/loop/cmd/loopd/main.go
+1578056491|Johan T. Halseth|D|/LOOP/loop/loopd/main.go
+1578056491|Johan T. Halseth|A|/LOOP/loop/loopd/start.go
+1578056491|Johan T. Halseth|M|/LOOP/loop/go.mod
+1578056491|Johan T. Halseth|M|/LOOP/loop/go.sum
+1578056491|Johan T. Halseth|M|/LOOP/loop/lndclient/basic_client.go
+1578056491|Johan T. Halseth|M|/LOOP/loop/lndclient/lnd_services.go
+1578056491|Johan T. Halseth|M|/LOOP/loop/lndclient/lnd_services.go
+1578056491|Johan T. Halseth|M|/LOOP/loop/loopd/utils.go
+1578056491|Johan T. Halseth|M|/LOOP/loop/loopd/daemon.go
+1578056491|Johan T. Halseth|M|/LOOP/loop/loopd/daemon.go
+1578056491|Johan T. Halseth|M|/LOOP/loop/loopd/start.go
+1578056492|Johan T. Halseth|M|/LOOP/loop/cmd/loopd/main.go
+1578056492|Johan T. Halseth|M|/LOOP/loop/loopd/daemon.go
+1578056492|Johan T. Halseth|M|/LOOP/loop/loopd/start.go
+1578056492|Johan T. Halseth|M|/LOOP/loop/loopd/daemon.go
+1578056492|Johan T. Halseth|M|/LOOP/loop/loopd/start.go
+1578056492|Johan T. Halseth|M|/LOOP/loop/loopd/utils.go
+1578056492|Johan T. Halseth|M|/LOOP/loop/loopd/view.go
+1578056492|Johan T. Halseth|M|/LOOP/loop/loopd/start.go
+1578400102|Johan T. Halseth|M|/LOOP/loop/looprpc/server.pb.go
+1578400102|Johan T. Halseth|M|/LOOP/loop/looprpc/server.proto
+1578401019|Johan T. Halseth|M|/LOOP/loop/looprpc/client.pb.go
+1578401019|Johan T. Halseth|M|/LOOP/loop/looprpc/client.proto
+1578401019|Johan T. Halseth|M|/LOOP/loop/looprpc/client.swagger.json
+1578401200|Johan T. Halseth|M|/LOOP/loop/cmd/loop/quote.go
+1578401227|Johan T. Halseth|M|/LOOP/loop/cmd/loop/loopout.go
+1578401562|Johan T. Halseth|M|/LOOP/loop/interface.go
+1578401562|Johan T. Halseth|M|/LOOP/loop/loopd/swapclient_server.go
+1578408104|Oliver Gugger|M|/LOOP/loop/lsat/interceptor.go
+1578408104|Oliver Gugger|M|/LOOP/loop/lsat/interceptor_test.go
+1578481107|Johan T. Halseth|M|/LOOP/loop/client.go
+1578481107|Johan T. Halseth|M|/LOOP/loop/server_mock_test.go
+1578481107|Johan T. Halseth|M|/LOOP/loop/swap_server_client.go
+1578654902|Oliver Gugger|M|/LOOP/loop/loopd/config.go
+1578654902|Oliver Gugger|M|/LOOP/loop/lsat/interceptor.go
+1578654908|Oliver Gugger|M|/LOOP/loop/client.go
+1578654908|Oliver Gugger|M|/LOOP/loop/loopd/daemon.go
+1578654908|Oliver Gugger|M|/LOOP/loop/loopd/utils.go
+1578654908|Oliver Gugger|M|/LOOP/loop/loopd/view.go
+1578654908|Oliver Gugger|M|/LOOP/loop/lsat/interceptor.go
+1578654908|Oliver Gugger|M|/LOOP/loop/swap_server_client.go
+1578654908|Oliver Gugger|M|/LOOP/loop/lsat/interceptor_test.go
+1578867639|FreeThinker|M|/LOOP/loop/cmd/loop/loopout.go
+1579043629|Alex Bosworth|M|/LOOP/loop/version.go
+1579102969|Joost Jager|M|/LOOP/loop/client_test.go
+1579102969|Joost Jager|M|/LOOP/loop/loopin_test.go
+1579102969|Joost Jager|M|/LOOP/loop/loopout_test.go
+1579102969|Joost Jager|M|/LOOP/loop/test/lnd_services_mock.go
+1579102969|Joost Jager|M|/LOOP/loop/test/signer_mock.go
+1579102971|Joost Jager|M|/LOOP/loop/loopin_test.go
+1579102973|Joost Jager|M|/LOOP/loop/loopin.go
+1579102973|Joost Jager|M|/LOOP/loop/loopin_test.go
+1579653656|Wilmer Paulino|M|/LOOP/loop/go.mod
+1579653656|Wilmer Paulino|M|/LOOP/loop/go.sum
+1579653656|Wilmer Paulino|M|/LOOP/loop/lndclient/signer_client.go
+1579653656|Wilmer Paulino|M|/LOOP/loop/test/signer_mock.go
+1579688701|Oliver Gugger|M|/LOOP/loop/loopd/config.go
+1579896439|Alex Bosworth|M|/LOOP/loop/version.go
+1580475441|Oliver Gugger|M|/LOOP/loop/loopd/daemon.go
+1580475441|Oliver Gugger|M|/LOOP/loop/loopd/start.go
+1580475441|Oliver Gugger|M|/LOOP/loop/loopd/swapclient_server.go
+1580475442|Oliver Gugger|M|/LOOP/loop/loopd/swapclient_server.go
+1580475442|Oliver Gugger|M|/LOOP/loop/looprpc/client.pb.go
+1580475442|Oliver Gugger|M|/LOOP/loop/looprpc/client.pb.gw.go
+1580475442|Oliver Gugger|M|/LOOP/loop/looprpc/client.proto
+1580475442|Oliver Gugger|M|/LOOP/loop/looprpc/client.swagger.json
+1580475444|Oliver Gugger|M|/LOOP/loop/loopd/daemon.go
+1580475445|Oliver Gugger|M|/LOOP/loop/cmd/loop/main.go
+1580475445|Oliver Gugger|A|/LOOP/loop/cmd/loop/swaps.go
+1580475446|Oliver Gugger|M|/LOOP/loop/cmd/loop/main.go
+1580475446|Oliver Gugger|M|/LOOP/loop/loopd/daemon.go
+1580475448|Oliver Gugger|M|/LOOP/loop/loopd/swapclient_server.go
+1580475448|Oliver Gugger|M|/LOOP/loop/looprpc/client.pb.go
+1580475448|Oliver Gugger|M|/LOOP/loop/looprpc/client.proto
+1580475448|Oliver Gugger|M|/LOOP/loop/looprpc/client.swagger.json
+1580475449|Oliver Gugger|M|/LOOP/loop/cmd/loop/main.go
+1580475449|Oliver Gugger|M|/LOOP/loop/go.mod
+1580475449|Oliver Gugger|M|/LOOP/loop/go.sum
+1580781005|Alex Bosworth|M|/LOOP/loop/version.go
+1580870552|Olaoluwa Osuntokun|M|/LOOP/loop/looprpc/client.proto
+1580870727|Olaoluwa Osuntokun|M|/LOOP/loop/looprpc/client.pb.go
+1580870727|Olaoluwa Osuntokun|M|/LOOP/loop/looprpc/client.pb.gw.go
+1580870727|Olaoluwa Osuntokun|M|/LOOP/loop/looprpc/client.swagger.json
+1580871189|Olaoluwa Osuntokun|M|/LOOP/loop/go.mod
+1580871189|Olaoluwa Osuntokun|M|/LOOP/loop/go.sum
+1580982110|Oliver Gugger|M|/LOOP/loop/lsat/interceptor.go
+1580986089|Oliver Gugger|M|/LOOP/loop/loopd/config.go
+1580986089|Oliver Gugger|M|/LOOP/loop/loopd/daemon.go
+1580986788|Oliver Gugger|M|/LOOP/loop/loopd/daemon.go
+1580994266|Oliver Gugger|M|/LOOP/loop/cmd/loop/quote.go
+1581325981|Oliver Gugger|M|/LOOP/loop/lsat/interceptor.go
+1581325981|Oliver Gugger|M|/LOOP/loop/lsat/interceptor_test.go
+1581325981|Oliver Gugger|M|/LOOP/loop/lsat/store_test.go
+1581356891|Alex Bosworth|M|/LOOP/loop/version.go
+1581364234|Wilmer Paulino|M|/LOOP/loop/lndclient/lightning_client.go
+1581364234|Wilmer Paulino|M|/LOOP/loop/test/lightning_client_mock.go
+1581420744|Joost Jager|M|/LOOP/loop/lndclient/router_client.go
+1581555705|Wilmer Paulino|M|/LOOP/loop/lndclient/signer_client.go
+1581555705|Wilmer Paulino|M|/LOOP/loop/test/signer_mock.go
+1581965945|Joost Jager|M|/LOOP/loop/client.go
+1581965945|Joost Jager|M|/LOOP/loop/interface.go
+1581965945|Joost Jager|M|/LOOP/loop/loopd/swapclient_server.go
+1581965945|Joost Jager|M|/LOOP/loop/loopdb/loopin.go
+1581965945|Joost Jager|M|/LOOP/loop/loopdb/meta.go
+1581965945|Joost Jager|A|/LOOP/loop/loopdb/migration_03_last_hop.go
+1581965945|Joost Jager|M|/LOOP/loop/loopdb/store_test.go
+1581965945|Joost Jager|M|/LOOP/loop/loopin.go
+1581965945|Joost Jager|M|/LOOP/loop/looprpc/client.pb.go
+1581965945|Joost Jager|M|/LOOP/loop/looprpc/client.pb.gw.go
+1581965945|Joost Jager|M|/LOOP/loop/looprpc/client.proto
+1581965945|Joost Jager|M|/LOOP/loop/looprpc/client.swagger.json
+1581965947|Joost Jager|M|/LOOP/loop/cmd/loop/loopin.go
+1581965947|Joost Jager|M|/LOOP/loop/loopin.go
+1581965947|Joost Jager|M|/LOOP/loop/looprpc/server.pb.go
+1581965947|Joost Jager|M|/LOOP/loop/looprpc/server.proto
+1581965947|Joost Jager|M|/LOOP/loop/server_mock_test.go
+1581965947|Joost Jager|M|/LOOP/loop/swap_server_client.go
+1582014439|Oliver Gugger|M|/LOOP/loop/looprpc/client.pb.go
+1582014439|Oliver Gugger|M|/LOOP/loop/looprpc/client.pb.gw.go
+1582014439|Oliver Gugger|M|/LOOP/loop/looprpc/client.proto
+1582014439|Oliver Gugger|M|/LOOP/loop/looprpc/client.swagger.json
+1583336394|Oliver Gugger|M|/LOOP/loop/cmd/loop/quote.go
+1583437647|Alex Bosworth|M|/LOOP/loop/version.go
+1583483428|Oliver Gugger|M|/LOOP/loop/looprpc/client.pb.go
+1583483428|Oliver Gugger|M|/LOOP/loop/looprpc/client.proto
+1583483428|Oliver Gugger|M|/LOOP/loop/looprpc/client.swagger.json
+1583485996|Oliver Gugger|M|/LOOP/loop/client.go
+1583485997|Oliver Gugger|M|/LOOP/loop/cmd/loop/loopin.go
+1583485997|Oliver Gugger|M|/LOOP/loop/cmd/loop/main.go
+1583485997|Oliver Gugger|M|/LOOP/loop/cmd/loop/quote.go
+1583541630|Wilmer Paulino|M|/LOOP/loop/client.go
+1583541630|Wilmer Paulino|M|/LOOP/loop/loopd/config.go
+1583541630|Wilmer Paulino|M|/LOOP/loop/loopd/daemon.go
+1583541630|Wilmer Paulino|M|/LOOP/loop/loopd/utils.go
+1583541630|Wilmer Paulino|M|/LOOP/loop/swap_server_client.go
+1584133400|Alex Bosworth|M|/LOOP/loop/cmd/loop/main.go
+1584140551|Alex Bosworth|M|/LOOP/loop/version.go
+1585760690|Andras Banki-Horvath|M|/LOOP/loop/loopd/swapclient_server.go
+1586203202|Andras Banki-Horvath|M|/LOOP/loop/test/chainnotifier_mock.go
+1586934960|Joost Jager|M|/LOOP/loop/go.mod
+1586934960|Joost Jager|M|/LOOP/loop/go.sum
+1586934960|Joost Jager|M|/LOOP/loop/lndclient/router_client.go
+1586934960|Joost Jager|M|/LOOP/loop/lsat/interceptor.go
+1586934960|Joost Jager|M|/LOOP/loop/lsat/interceptor_test.go
+1586935146|carla|M|/LOOP/loop/.gitignore
+1586935146|carla|M|/LOOP/loop/.travis.yml
+1586935146|carla|M|/LOOP/loop/Makefile
+1586935169|carla|M|/LOOP/loop/cmd/loop/quote.go
+1586954583|Andras Banki-Horvath|M|/LOOP/loop/test/chainnotifier_mock.go
+1587048035|Joost Jager|M|/LOOP/loop/loopout.go
+1587048035|Joost Jager|M|/LOOP/loop/test/context.go
+1587048037|Joost Jager|M|/LOOP/loop/lndclient/router_client.go
+1587048037|Joost Jager|M|/LOOP/loop/loopout.go
+1587048301|Joost Jager|M|/LOOP/loop/lndclient/router_client.go
+1587048301|Joost Jager|M|/LOOP/loop/loopout.go
+1587109218|carla|M|/LOOP/loop/cmd/loop/quote.go
+1587109218|carla|M|/LOOP/loop/loopd/start.go
+1587109218|carla|M|/LOOP/loop/loopd/swapclient_server.go
+1587109218|carla|M|/LOOP/loop/loopout.go
+1587109220|carla|M|/LOOP/loop/loopd/swapclient_server.go
+1587109220|carla|A|/LOOP/loop/loopd/swapclient_server_test.go
+1587110181|carla|M|/LOOP/loop/cmd/loop/loopin.go
+1587110181|carla|M|/LOOP/loop/cmd/loop/quote.go
+1587110181|carla|M|/LOOP/loop/loopd/swapclient_server.go
+1587110181|carla|M|/LOOP/loop/loopd/swapclient_server_test.go
+1587110181|carla|M|/LOOP/loop/looprpc/client.pb.go
+1587110181|carla|M|/LOOP/loop/looprpc/client.proto
+1587110181|carla|M|/LOOP/loop/looprpc/client.swagger.json
+1587110188|carla|M|/LOOP/loop/README.md
+1587477198|Oliver Gugger|M|/LOOP/loop/cmd/loop/loopin.go
+1587477198|Oliver Gugger|M|/LOOP/loop/cmd/loop/loopout.go
+1587477198|Oliver Gugger|M|/LOOP/loop/cmd/loop/main.go
+1587477198|Oliver Gugger|M|/LOOP/loop/cmd/loop/loopout.go
+1587477199|Oliver Gugger|M|/LOOP/loop/README.md
+1587556325|Oliver Gugger|M|/LOOP/loop/client_test.go
+1587556923|Joost Jager|M|/LOOP/loop/go.mod
+1587556923|Joost Jager|M|/LOOP/loop/go.sum
+1587556923|Joost Jager|M|/LOOP/loop/lndclient/router_client.go
+1587715137|Oliver Gugger|M|/LOOP/loop/lndclient/lnd_services.go
+1587715144|Oliver Gugger|M|/LOOP/loop/lndclient/macaroon_pouch.go
+1587715145|Oliver Gugger|M|/LOOP/loop/lndclient/lnd_services.go
+1587715145|Oliver Gugger|M|/LOOP/loop/loopd/start.go
+1587715145|Oliver Gugger|M|/LOOP/loop/lndclient/lnd_services.go
+1587715145|Oliver Gugger|A|/LOOP/loop/lndclient/versioner_client.go
+1587715145|Oliver Gugger|M|/LOOP/loop/test/lnd_services_mock.go
+1587715145|Oliver Gugger|A|/LOOP/loop/test/versioner_mock.go
+1587715414|Oliver Gugger|M|/LOOP/loop/lndclient/lnd_services.go
+1587715414|Oliver Gugger|M|/LOOP/loop/test/lnd_services_mock.go
+1587715479|Oliver Gugger|M|/LOOP/loop/lndclient/lnd_services.go
+1587715479|Oliver Gugger|A|/LOOP/loop/lndclient/lnd_services_test.go
+1587715479|Oliver Gugger|M|/LOOP/loop/test/lnd_services_mock.go
+1587715482|Oliver Gugger|M|/LOOP/loop/client.go
+1587715482|Oliver Gugger|M|/LOOP/loop/loopd/start.go
+1587715817|Oliver Gugger|M|/LOOP/loop/README.md
+1587995012|Joost Jager|M|/LOOP/loop/looprpc/server.proto
+1587997842|Joost Jager|M|/LOOP/loop/go.mod
+1587997842|Joost Jager|M|/LOOP/loop/go.sum
+1587997842|Joost Jager|M|/LOOP/loop/lndclient/router_client.go
+1587997842|Joost Jager|M|/LOOP/loop/loopout.go
+1587997844|Joost Jager|M|/LOOP/loop/client.go
+1587997844|Joost Jager|M|/LOOP/loop/loopd/utils.go
+1587997844|Joost Jager|M|/LOOP/loop/swap_server_client.go
+1587997932|Joost Jager|M|/LOOP/loop/client.go
+1587997932|Joost Jager|M|/LOOP/loop/executor.go
+1587997932|Joost Jager|M|/LOOP/loop/loopd/config.go
+1587997932|Joost Jager|M|/LOOP/loop/loopout.go
+1588082490|Joost Jager|M|/LOOP/loop/looprpc/server.pb.go
+1588082490|Joost Jager|M|/LOOP/loop/looprpc/server.proto
+1588082490|Joost Jager|M|/LOOP/loop/swap_server_client.go
+1588096199|Joost Jager|M|/LOOP/loop/lndclient/router_client.go
+1588193365|Alex Bosworth|M|/LOOP/loop/version.go
+1588593750|carla|M|/LOOP/loop/.travis.yml
+1588609160|Andras Banki-Horvath|M|/LOOP/loop/client.go
+1588609160|Andras Banki-Horvath|M|/LOOP/loop/interface.go
+1588609160|Andras Banki-Horvath|M|/LOOP/loop/loopd/swapclient_server.go
+1588627094|Andras Banki-Horvath|M|/LOOP/loop/loopin.go
+1588627094|Andras Banki-Horvath|M|/LOOP/loop/loopout.go
+1588627094|Andras Banki-Horvath|M|/LOOP/loop/swap.go
+1588627095|Andras Banki-Horvath|M|/LOOP/loop/interface.go
+1588627095|Andras Banki-Horvath|M|/LOOP/loop/loopin.go
+1588627095|Andras Banki-Horvath|M|/LOOP/loop/swap/htlc.go
+1588627095|Andras Banki-Horvath|M|/LOOP/loop/loopd/swapclient_server.go
+1588686545|Andras Banki-Horvath|M|/LOOP/loop/client.go
+1588686545|Andras Banki-Horvath|M|/LOOP/loop/interface.go
+1588686545|Andras Banki-Horvath|M|/LOOP/loop/loopd/swapclient_server.go
+1588686545|Andras Banki-Horvath|M|/LOOP/loop/loopin.go
+1588686545|Andras Banki-Horvath|M|/LOOP/loop/loopin_test.go
+1588686545|Andras Banki-Horvath|M|/LOOP/loop/loopout.go
+1588686545|Andras Banki-Horvath|M|/LOOP/loop/looprpc/client.pb.go
+1588686545|Andras Banki-Horvath|M|/LOOP/loop/looprpc/client.proto
+1588686545|Andras Banki-Horvath|M|/LOOP/loop/looprpc/client.swagger.json
+1588686546|Andras Banki-Horvath|M|/LOOP/loop/loopd/swapclient_server.go
+1588686546|Andras Banki-Horvath|M|/LOOP/loop/loopin.go
+1588686546|Andras Banki-Horvath|M|/LOOP/loop/loopin_test.go
+1588686546|Andras Banki-Horvath|M|/LOOP/loop/cmd/loop/loopin.go
+1588686546|Andras Banki-Horvath|M|/LOOP/loop/cmd/loop/main.go
+1588686546|Andras Banki-Horvath|M|/LOOP/loop/looprpc/server.pb.go
+1588686546|Andras Banki-Horvath|M|/LOOP/loop/looprpc/server.proto
+1588686546|Andras Banki-Horvath|M|/LOOP/loop/swap_server_client.go
+1589268897|Joost Jager|M|/LOOP/loop/loopd/utils.go
+1589302302|Andras Banki-Horvath|M|/LOOP/loop/loopd/swapclient_server.go
+1589310019|Joost Jager|M|/LOOP/loop/version.go
+1589310872|Joost Jager|M|/LOOP/loop/version.go
+1589448817|Joost Jager|M|/LOOP/loop/Makefile
+1589448819|Joost Jager|M|/LOOP/loop/release.sh
+1589837922|Olaoluwa Osuntokun|M|/LOOP/loop/lndclient/lnd_services.go
+1589884631|Joost Jager|M|/LOOP/loop/README.md
+1590044361|carla|M|/LOOP/loop/lndclient/lightning_client.go
+1590044392|carla|M|/LOOP/loop/test/lightning_client_mock.go
+1590044392|carla|M|/LOOP/loop/test/lnd_services_mock.go
+1590044394|carla|M|/LOOP/loop/lndclient/lightning_client.go
+1590052428|Joost Jager|M|/LOOP/loop/loopout_test.go
+1590052430|Joost Jager|M|/LOOP/loop/loopdb/store.go
+1590052432|Joost Jager|M|/LOOP/loop/loopdb/store.go
+1590052916|Joost Jager|M|/LOOP/loop/loopdb/store.go
+1590052918|Joost Jager|M|/LOOP/loop/go.mod
+1590052918|Joost Jager|M|/LOOP/loop/go.sum
+1590052918|Joost Jager|M|/LOOP/loop/lndclient/lnd_services.go
+1590052918|Joost Jager|M|/LOOP/loop/lndclient/router_client.go
+1590052918|Joost Jager|M|/LOOP/loop/loopd/start.go
+1590052918|Joost Jager|M|/LOOP/loop/loopout.go
+1590052920|Joost Jager|M|/LOOP/loop/loopdb/store_test.go
+1590052922|Joost Jager|A|/LOOP/loop/loopdb/raw_db_test.go
+1590052924|Joost Jager|M|/LOOP/loop/client.go
+1590052924|Joost Jager|M|/LOOP/loop/interface.go
+1590052924|Joost Jager|M|/LOOP/loop/loopd/swapclient_server.go
+1590052924|Joost Jager|M|/LOOP/loop/loopd/view.go
+1590052924|Joost Jager|M|/LOOP/loop/loopdb/loopout.go
+1590052924|Joost Jager|M|/LOOP/loop/loopdb/store.go
+1590052924|Joost Jager|M|/LOOP/loop/loopdb/store_test.go
+1590052924|Joost Jager|M|/LOOP/loop/loopout.go
+1590052924|Joost Jager|M|/LOOP/loop/loopout_test.go
+1590052926|Joost Jager|M|/LOOP/loop/cmd/loop/loopout.go
+1590052926|Joost Jager|M|/LOOP/loop/loopd/swapclient_server.go
+1590052926|Joost Jager|M|/LOOP/loop/looprpc/client.pb.go
+1590052926|Joost Jager|M|/LOOP/loop/looprpc/client.proto
+1590052926|Joost Jager|M|/LOOP/loop/looprpc/client.swagger.json
+1590052928|Joost Jager|M|/LOOP/loop/lndclient/router_client.go
+1590084286|Andras Banki-Horvath|M|/LOOP/loop/lndclient/lightning_client.go
+1590084286|Andras Banki-Horvath|M|/LOOP/loop/test/lightning_client_mock.go
+1590084286|Andras Banki-Horvath|M|/LOOP/loop/test/lnd_services_mock.go
+1590084286|Andras Banki-Horvath|M|/LOOP/loop/lndclient/router_client.go
+1590389018|Joost Jager|M|/LOOP/loop/cmd/loop/loopout.go
+1590405393|Oliver Gugger|M|/LOOP/loop/loopd/config.go
+1590405393|Oliver Gugger|M|/LOOP/loop/loopd/start.go
+1590405393|Oliver Gugger|M|/LOOP/loop/loopd/config.go
+1590405393|Oliver Gugger|M|/LOOP/loop/loopd/daemon.go
+1590405393|Oliver Gugger|M|/LOOP/loop/loopd/start.go
+1590405393|Oliver Gugger|M|/LOOP/loop/loopd/utils.go
+1590405393|Oliver Gugger|M|/LOOP/loop/loopd/view.go
+1590405394|Oliver Gugger|M|/LOOP/loop/loopd/daemon.go
+1590405394|Oliver Gugger|M|/LOOP/loop/loopd/start.go
+1590662044|Oliver Gugger|M|/LOOP/loop/cmd/loopd/main.go
+1590662044|Oliver Gugger|M|/LOOP/loop/loopd/daemon.go
+1590662044|Oliver Gugger|M|/LOOP/loop/loopd/start.go
+1590662044|Oliver Gugger|M|/LOOP/loop/loopd/swapclient_server.go
+1590662078|Oliver Gugger|M|/LOOP/loop/loopd/daemon.go
+1590662081|Oliver Gugger|M|/LOOP/loop/cmd/loopd/main.go
+1590662081|Oliver Gugger|A|/LOOP/loop/loopd/run.go
+1590662081|Oliver Gugger|D|/LOOP/loop/loopd/start.go
+1590662081|Oliver Gugger|M|/LOOP/loop/cmd/loop/main.go
+1590662082|Oliver Gugger|M|/LOOP/loop/loopd/config.go
+1591008052|carla|M|/LOOP/loop/go.sum
+1591008096|carla|M|/LOOP/loop/.travis.yml
+1591008096|carla|M|/LOOP/loop/Makefile
+1591176279|Andras Banki-Horvath|M|/LOOP/loop/lndclient/router_client.go
+1591192269|Andras Banki-Horvath|M|/LOOP/loop/go.mod
+1591192269|Andras Banki-Horvath|M|/LOOP/loop/go.sum
+1591294140|Alex Bosworth|M|/LOOP/loop/version.go
+1591613587|carla|M|/LOOP/loop/client.go
+1591613587|carla|M|/LOOP/loop/loopin_test.go
+1591613587|carla|M|/LOOP/loop/loopout_test.go
+1591613587|carla|M|/LOOP/loop/swap.go
+1591613587|carla|M|/LOOP/loop/lndclient/router_client.go
+1591613648|carla|M|/LOOP/loop/client_test.go
+1591613648|carla|M|/LOOP/loop/go.mod
+1591613648|carla|M|/LOOP/loop/go.sum
+1591613648|carla|M|/LOOP/loop/loopout.go
+1591613648|carla|M|/LOOP/loop/loopout_test.go
+1591613648|carla|M|/LOOP/loop/looprpc/server.pb.go
+1591613648|carla|M|/LOOP/loop/looprpc/server.proto
+1591613648|carla|M|/LOOP/loop/server_mock_test.go
+1591613648|carla|M|/LOOP/loop/swap_server_client.go
+1591613648|carla|M|/LOOP/loop/test/context.go
+1591613648|carla|M|/LOOP/loop/testcontext_test.go
+1591902024|Oliver Gugger|M|/LOOP/loop/cmd/loopd/main.go
+1591984210|Alex Bosworth|M|/LOOP/loop/version.go
+1592214682|Joost Jager|M|/LOOP/loop/README.md
+1592215029|Joost Jager|M|/LOOP/loop/lndclient/lnd_services.go
+1592225899|Joost Jager|M|/LOOP/loop/go.mod
+1592225899|Joost Jager|M|/LOOP/loop/go.sum
+1592225899|Joost Jager|M|/LOOP/loop/looprpc/client.pb.go
+1592225899|Joost Jager|M|/LOOP/loop/looprpc/client.pb.gw.go
+1592225899|Joost Jager|M|/LOOP/loop/looprpc/client.swagger.json
+1592225899|Joost Jager|M|/LOOP/loop/looprpc/server.pb.go
+1592225901|Joost Jager|M|/LOOP/loop/looprpc/client.pb.go
+1592225901|Joost Jager|M|/LOOP/loop/looprpc/client.proto
+1592225901|Joost Jager|M|/LOOP/loop/looprpc/client.swagger.json
+1592230714|Joost Jager|M|/LOOP/loop/client.go
+1592230714|Joost Jager|M|/LOOP/loop/loopd/config.go
+1592230714|Joost Jager|M|/LOOP/loop/loopd/daemon.go
+1592230714|Joost Jager|M|/LOOP/loop/loopd/utils.go
+1592230714|Joost Jager|M|/LOOP/loop/swap_server_client.go
+1592251053|Wilmer Paulino|M|/LOOP/loop/go.mod
+1592251053|Wilmer Paulino|M|/LOOP/loop/go.sum
+1592251053|Wilmer Paulino|M|/LOOP/loop/lndclient/walletkit_client.go
+1592251053|Wilmer Paulino|M|/LOOP/loop/test/walletkit_mock.go
+1592300231|Joost Jager|M|/LOOP/loop/lndclient/basic_client.go
+1592375349|Joost Jager|M|/LOOP/loop/loopd/swapclient_server.go
+1592376283|carla|M|/LOOP/loop/lndclient/lightning_client.go
+1592376295|carla|M|/LOOP/loop/lndclient/lightning_client.go
+1592376295|carla|M|/LOOP/loop/test/lightning_client_mock.go
+1592376295|carla|M|/LOOP/loop/test/lnd_services_mock.go
+1592376295|carla|M|/LOOP/loop/lndclient/lightning_client.go
+1592376295|carla|M|/LOOP/loop/test/lightning_client_mock.go
+1592376295|carla|M|/LOOP/loop/test/lnd_services_mock.go
+1592376297|carla|M|/LOOP/loop/lndclient/lightning_client.go
+1592376297|carla|M|/LOOP/loop/test/lightning_client_mock.go
+1592376299|carla|M|/LOOP/loop/lndclient/lightning_client.go
+1592376299|carla|M|/LOOP/loop/test/lightning_client_mock.go
+1592376299|carla|M|/LOOP/loop/test/lnd_services_mock.go
+1592376301|carla|M|/LOOP/loop/lndclient/lightning_client.go
+1592376301|carla|M|/LOOP/loop/test/lightning_client_mock.go
+1592376301|carla|M|/LOOP/loop/test/lnd_services_mock.go
+1592376303|carla|M|/LOOP/loop/lndclient/walletkit_client.go
+1592376303|carla|M|/LOOP/loop/test/lnd_services_mock.go
+1592376303|carla|M|/LOOP/loop/test/walletkit_mock.go
+1592483272|Joost Jager|M|/LOOP/loop/client.go
+1592483272|Joost Jager|M|/LOOP/loop/client_test.go
+1592483272|Joost Jager|M|/LOOP/loop/config.go
+1592483272|Joost Jager|M|/LOOP/loop/executor.go
+1592483272|Joost Jager|M|/LOOP/loop/go.mod
+1592483272|Joost Jager|M|/LOOP/loop/go.sum
+1592483272|Joost Jager|D|/LOOP/loop/lndclient/basic_client.go
+1592483272|Joost Jager|D|/LOOP/loop/lndclient/chainnotifier_client.go
+1592483272|Joost Jager|D|/LOOP/loop/lndclient/invoices_client.go
+1592483272|Joost Jager|D|/LOOP/loop/lndclient/lightning_client.go
+1592483272|Joost Jager|D|/LOOP/loop/lndclient/lnd_services.go
+1592483272|Joost Jager|D|/LOOP/loop/lndclient/lnd_services_test.go
+1592483272|Joost Jager|D|/LOOP/loop/lndclient/log.go
+1592483272|Joost Jager|D|/LOOP/loop/lndclient/macaroon_pouch.go
+1592483272|Joost Jager|D|/LOOP/loop/lndclient/router_client.go
+1592483272|Joost Jager|D|/LOOP/loop/lndclient/signer_client.go
+1592483272|Joost Jager|D|/LOOP/loop/lndclient/versioner_client.go
+1592483272|Joost Jager|D|/LOOP/loop/lndclient/walletkit_client.go
+1592483272|Joost Jager|M|/LOOP/loop/loopd/daemon.go
+1592483272|Joost Jager|M|/LOOP/loop/loopd/log.go
+1592483272|Joost Jager|M|/LOOP/loop/loopd/run.go
+1592483272|Joost Jager|M|/LOOP/loop/loopd/swapclient_server.go
+1592483272|Joost Jager|M|/LOOP/loop/loopd/utils.go
+1592483272|Joost Jager|M|/LOOP/loop/loopd/view.go
+1592483272|Joost Jager|M|/LOOP/loop/loopin.go
+1592483272|Joost Jager|M|/LOOP/loop/loopin_test.go
+1592483272|Joost Jager|M|/LOOP/loop/loopout.go
+1592483272|Joost Jager|M|/LOOP/loop/loopout_test.go
+1592483272|Joost Jager|M|/LOOP/loop/lsat/interceptor.go
+1592483272|Joost Jager|M|/LOOP/loop/lsat/interceptor_test.go
+1592483272|Joost Jager|M|/LOOP/loop/swap.go
+1592483272|Joost Jager|D|/LOOP/loop/swap/net.go
+1592483272|Joost Jager|M|/LOOP/loop/swap/tx.go
+1592483272|Joost Jager|M|/LOOP/loop/sweep/sweeper.go
+1592483272|Joost Jager|M|/LOOP/loop/test/context.go
+1592483272|Joost Jager|M|/LOOP/loop/test/invoices_mock.go
+1592483272|Joost Jager|M|/LOOP/loop/test/lightning_client_mock.go
+1592483272|Joost Jager|M|/LOOP/loop/test/lnd_services_mock.go
+1592483272|Joost Jager|M|/LOOP/loop/test/router_mock.go
+1592483272|Joost Jager|M|/LOOP/loop/test/versioner_mock.go
+1592483272|Joost Jager|M|/LOOP/loop/test/walletkit_mock.go
+1592483272|Joost Jager|M|/LOOP/loop/testcontext_test.go
+1592909158|Joost Jager|M|/LOOP/loop/loopdb/swapstate.go
+1592909158|Joost Jager|M|/LOOP/loop/loopout_test.go
+1592909160|Joost Jager|M|/LOOP/loop/loopdb/raw_db_test.go
+1593005287|Joost Jager|M|/LOOP/loop/go.sum
+1593005287|Joost Jager|M|/LOOP/loop/loopdb/meta.go
+1593005287|Joost Jager|A|/LOOP/loop/loopdb/migration_04_updates.go
+1593005287|Joost Jager|A|/LOOP/loop/loopdb/migration_04_updates_test.go
+1593005287|Joost Jager|M|/LOOP/loop/loopdb/store.go
+1593005289|Joost Jager|M|/LOOP/loop/loopdb/store.go
+1593005289|Joost Jager|M|/LOOP/loop/loopdb/store_test.go
+1593005289|Joost Jager|M|/LOOP/loop/loopdb/swapstate.go
+1593005290|Joost Jager|M|/LOOP/loop/client_test.go
+1593005292|Joost Jager|M|/LOOP/loop/client_test.go
+1593005292|Joost Jager|M|/LOOP/loop/loopout.go
+1593005292|Joost Jager|M|/LOOP/loop/loopout_test.go
+1593005292|Joost Jager|M|/LOOP/loop/test/context.go
+1593081547|Joost Jager|M|/LOOP/loop/loopdb/swapstate.go
+1593087760|Joost Jager|M|/LOOP/loop/loopin.go
+1593087762|Joost Jager|M|/LOOP/loop/loopin.go
+1593087764|Joost Jager|M|/LOOP/loop/loopin.go
+1593087766|Joost Jager|M|/LOOP/loop/loopdb/swapstate.go
+1593087766|Joost Jager|M|/LOOP/loop/loopin.go
+1593087766|Joost Jager|M|/LOOP/loop/loopin_test.go
+1593087768|Joost Jager|M|/LOOP/loop/loopin.go
+1593087768|Joost Jager|M|/LOOP/loop/loopin_test.go
+1593087768|Joost Jager|M|/LOOP/loop/store_mock_test.go
+1593529144|Joost Jager|M|/LOOP/loop/loopin.go
+1593529144|Joost Jager|M|/LOOP/loop/loopout.go
+1593529144|Joost Jager|M|/LOOP/loop/looprpc/server.pb.go
+1593529144|Joost Jager|M|/LOOP/loop/looprpc/server.proto
+1593529144|Joost Jager|M|/LOOP/loop/swap_server_client.go
+1593529146|Joost Jager|M|/LOOP/loop/client.go
+1593529146|Joost Jager|M|/LOOP/loop/client_test.go
+1593529146|Joost Jager|M|/LOOP/loop/interface.go
+1593529146|Joost Jager|M|/LOOP/loop/loopd/swapclient_server.go
+1593529148|Joost Jager|M|/LOOP/loop/client.go
+1593529148|Joost Jager|M|/LOOP/loop/loopin.go
+1593529148|Joost Jager|M|/LOOP/loop/loopin_test.go
+1593529148|Joost Jager|M|/LOOP/loop/loopout.go
+1593529148|Joost Jager|M|/LOOP/loop/loopout_test.go
+1593529150|Joost Jager|M|/LOOP/loop/client.go
+1593529150|Joost Jager|M|/LOOP/loop/cmd/loop/loopin.go
+1593529150|Joost Jager|M|/LOOP/loop/cmd/loop/loopout.go
+1593529150|Joost Jager|M|/LOOP/loop/interface.go
+1593529150|Joost Jager|M|/LOOP/loop/loopd/swapclient_server.go
+1593529150|Joost Jager|M|/LOOP/loop/loopin.go
+1593529150|Joost Jager|M|/LOOP/loop/loopout.go
+1593529150|Joost Jager|M|/LOOP/loop/looprpc/client.pb.go
+1593529150|Joost Jager|M|/LOOP/loop/looprpc/client.proto
+1593529150|Joost Jager|M|/LOOP/loop/looprpc/client.swagger.json
+1593694661|Joost Jager|M|/LOOP/loop/version.go
+1593711466|Alex Bosworth|M|/LOOP/loop/README.md
+1594733183|Joost Jager|M|/LOOP/loop/cmd/loop/terms.go
+1594733183|Joost Jager|M|/LOOP/loop/loopd/swapclient_server.go
+1594733183|Joost Jager|M|/LOOP/loop/looprpc/client.pb.go
+1594733183|Joost Jager|M|/LOOP/loop/looprpc/client.proto
+1594733183|Joost Jager|M|/LOOP/loop/looprpc/client.swagger.json
+1594747590|Joost Jager|M|/LOOP/loop/cmd/loop/loopin.go
+1594747590|Joost Jager|M|/LOOP/loop/cmd/loop/loopout.go
+1594747590|Joost Jager|M|/LOOP/loop/cmd/loop/main.go
+1594747590|Joost Jager|M|/LOOP/loop/cmd/loop/quote.go
+1594747590|Joost Jager|M|/LOOP/loop/loopd/swapclient_server.go
+1594747590|Joost Jager|M|/LOOP/loop/looprpc/client.pb.go
+1594747590|Joost Jager|M|/LOOP/loop/looprpc/client.proto
+1594747590|Joost Jager|M|/LOOP/loop/looprpc/client.swagger.json
+1594926126|carla|M|/LOOP/loop/client.go
+1594926126|carla|M|/LOOP/loop/loopin.go
+1594926126|carla|M|/LOOP/loop/loopout.go
+1594926126|carla|M|/LOOP/loop/looprpc/server.pb.go
+1594926126|carla|M|/LOOP/loop/looprpc/server.proto
+1594926126|carla|M|/LOOP/loop/server_mock_test.go
+1594926126|carla|M|/LOOP/loop/swap_server_client.go
+1594926126|carla|A|/LOOP/loop/updates.go
+1594927811|Joost Jager|M|/LOOP/loop/loopout_test.go
+1594927813|Joost Jager|M|/LOOP/loop/looprpc/server.pb.go
+1594927813|Joost Jager|M|/LOOP/loop/looprpc/server.proto
+1594927815|Joost Jager|M|/LOOP/loop/cmd/loop/terms.go
+1594927815|Joost Jager|M|/LOOP/loop/interface.go
+1594927815|Joost Jager|M|/LOOP/loop/loopd/swapclient_server.go
+1594927815|Joost Jager|M|/LOOP/loop/looprpc/client.pb.go
+1594927815|Joost Jager|M|/LOOP/loop/looprpc/client.proto
+1594927815|Joost Jager|M|/LOOP/loop/looprpc/client.swagger.json
+1594927815|Joost Jager|M|/LOOP/loop/swap_server_client.go
+1594927816|Joost Jager|M|/LOOP/loop/client.go
+1594927816|Joost Jager|M|/LOOP/loop/interface.go
+1594927816|Joost Jager|M|/LOOP/loop/loopd/swapclient_server.go
+1594927816|Joost Jager|M|/LOOP/loop/loopout.go
+1594927816|Joost Jager|M|/LOOP/loop/loopout_test.go
+1594927816|Joost Jager|M|/LOOP/loop/server_mock_test.go
+1594927816|Joost Jager|M|/LOOP/loop/swap_server_client.go
+1594995029|Gabriel Comte|M|/LOOP/loop/looprpc/client.pb.go
+1594995029|Gabriel Comte|M|/LOOP/loop/looprpc/client.proto
+1594995029|Gabriel Comte|M|/LOOP/loop/looprpc/client.swagger.json
+1595348311|Alex Bosworth|M|/LOOP/loop/version.go
+1596093342|carla|M|/LOOP/loop/cmd/loop/main.go
+1596093342|carla|M|/LOOP/loop/loopd/swapclient_server.go
+1596093342|carla|M|/LOOP/loop/looprpc/client.pb.go
+1596093342|carla|M|/LOOP/loop/looprpc/client.proto
+1596093342|carla|M|/LOOP/loop/looprpc/client.swagger.json
+1596444958|carla|M|/LOOP/loop/interface.go
+1596444958|carla|A|/LOOP/loop/labels/labels.go
+1596444958|carla|A|/LOOP/loop/labels/labels_test.go
+1596444958|carla|M|/LOOP/loop/loopdb/loop.go
+1596444958|carla|M|/LOOP/loop/loopdb/loopin.go
+1596444958|carla|M|/LOOP/loop/loopdb/store.go
+1596444958|carla|M|/LOOP/loop/loopdb/store_test.go
+1596444958|carla|M|/LOOP/loop/loopin.go
+1596444958|carla|M|/LOOP/loop/loopout.go
+1596445256|carla|M|/LOOP/loop/loopd/swapclient_server.go
+1596445256|carla|M|/LOOP/loop/looprpc/client.pb.go
+1596445256|carla|M|/LOOP/loop/looprpc/client.proto
+1596445256|carla|M|/LOOP/loop/looprpc/client.swagger.json
+1596537062|carla|M|/LOOP/loop/cmd/loop/loopin.go
+1596537062|carla|M|/LOOP/loop/cmd/loop/loopout.go
+1596565686|carla|M|/LOOP/loop/client_test.go
+1596565686|carla|M|/LOOP/loop/loopdb/loopout.go
+1596565686|carla|M|/LOOP/loop/loopdb/store.go
+1596565686|carla|M|/LOOP/loop/loopdb/store_test.go
+1596565686|carla|M|/LOOP/loop/loopout.go
+1596565686|carla|M|/LOOP/loop/loopout_test.go
+1596565686|carla|M|/LOOP/loop/test/context.go
+1596565749|carla|M|/LOOP/loop/client_test.go
+1596565749|carla|M|/LOOP/loop/interface.go
+1596565749|carla|M|/LOOP/loop/loopd/swapclient_server.go
+1596565749|carla|M|/LOOP/loop/loopout.go
+1596565749|carla|M|/LOOP/loop/looprpc/client.pb.go
+1596565749|carla|M|/LOOP/loop/looprpc/client.proto
+1596565749|carla|M|/LOOP/loop/looprpc/client.swagger.json
+1596565796|carla|M|/LOOP/loop/cmd/loop/loopout.go
+1597089482|Alex Bosworth|M|/LOOP/loop/version.go
+1597320664|carla|M|/LOOP/loop/loopd/config.go
+1597320664|carla|M|/LOOP/loop/loopd/run.go
+1597320664|carla|M|/LOOP/loop/loopd/utils.go
+1597389939|carla|M|/LOOP/loop/go.mod
+1597389939|carla|M|/LOOP/loop/go.sum
+1597389939|carla|M|/LOOP/loop/sweep/sweeper.go
+1597389939|carla|M|/LOOP/loop/test/lightning_client_mock.go
+1597389939|carla|M|/LOOP/loop/test/lnd_services_mock.go
+1597389939|carla|M|/LOOP/loop/test/signer_mock.go
+1597389952|carla|M|/LOOP/loop/loopd/run.go
+1597441325|Kartik Shah|M|/LOOP/loop/README.md
+1597692378|Kartik Shah|M|/LOOP/loop/README.md
+1597779346|carla|M|/LOOP/loop/loopd/config.go
+1597779733|carla|M|/LOOP/loop/loopd/config.go
+1597779733|carla|M|/LOOP/loop/loopd/run.go
+1597949788|Alex Bosworth|M|/LOOP/loop/loopout.go
+1598301628|Alex Bosworth|M|/LOOP/loop/loopout.go
+1598381163|Alex Bosworth|M|/LOOP/loop/loopout.go
+1598538107|Andras Banki-Horvath|M|/LOOP/loop/client.go
+1598538107|Andras Banki-Horvath|M|/LOOP/loop/loopd/view.go
+1598538107|Andras Banki-Horvath|M|/LOOP/loop/loopin_test.go
+1598538107|Andras Banki-Horvath|M|/LOOP/loop/swap.go
+1598538107|Andras Banki-Horvath|M|/LOOP/loop/swap/htlc.go
+1598538111|Andras Banki-Horvath|M|/LOOP/loop/loopin.go
+1598538111|Andras Banki-Horvath|M|/LOOP/loop/swap/htlc.go
+1598538111|Andras Banki-Horvath|M|/LOOP/loop/sweep/sweeper.go
+1598538111|Andras Banki-Horvath|M|/LOOP/loop/loopin.go
+1598538111|Andras Banki-Horvath|M|/LOOP/loop/loopout.go
+1598538111|Andras Banki-Horvath|M|/LOOP/loop/sweep/sweeper.go
+1598538112|Andras Banki-Horvath|A|/LOOP/loop/swap/htlc_test.go
+1598551433|Alex Bosworth|M|/LOOP/loop/version.go
+1598822649|Alex Bosworth|M|/LOOP/loop/release.sh
+1598872838|Joost Jager|M|/LOOP/loop/go.mod
+1598872838|Joost Jager|M|/LOOP/loop/go.sum
+1599040107|carla|A|/LOOP/loop/liquidity/liquidity.go
+1599040107|carla|A|/LOOP/loop/liquidity/liquidity_test.go
+1599040107|carla|A|/LOOP/loop/liquidity/restrictions.go
+1599040107|carla|A|/LOOP/loop/liquidity/threshold_rule.go
+1599040107|carla|A|/LOOP/loop/liquidity/threshold_rule_test.go
+1599040107|carla|M|/LOOP/loop/loopd/daemon.go
+1599040107|carla|M|/LOOP/loop/loopd/swapclient_server.go
+1599040107|carla|M|/LOOP/loop/loopd/utils.go
+1599040215|carla|M|/LOOP/loop/loopd/swapclient_server.go
+1599040215|carla|M|/LOOP/loop/looprpc/client.pb.go
+1599040215|carla|M|/LOOP/loop/looprpc/client.pb.gw.go
+1599040215|carla|M|/LOOP/loop/looprpc/client.proto
+1599040215|carla|M|/LOOP/loop/looprpc/client.swagger.json
+1599040797|carla|A|/LOOP/loop/cmd/loop/liquidity.go
+1599040797|carla|M|/LOOP/loop/cmd/loop/main.go
+1599122201|carla|A|/LOOP/loop/liquidity/balances.go
+1599122201|carla|M|/LOOP/loop/liquidity/threshold_rule.go
+1599122201|carla|M|/LOOP/loop/liquidity/threshold_rule_test.go
+1599122202|carla|M|/LOOP/loop/liquidity/balances.go
+1599122202|carla|A|/LOOP/loop/liquidity/suggestions.go
+1599122202|carla|M|/LOOP/loop/liquidity/threshold_rule.go
+1599122202|carla|M|/LOOP/loop/liquidity/threshold_rule_test.go
+1599122203|carla|M|/LOOP/loop/liquidity/balances.go
+1599122203|carla|M|/LOOP/loop/liquidity/liquidity.go
+1599122203|carla|M|/LOOP/loop/liquidity/liquidity_test.go
+1599122203|carla|M|/LOOP/loop/loopd/utils.go
+1599122204|carla|M|/LOOP/loop/loopd/swapclient_server.go
+1599122204|carla|M|/LOOP/loop/looprpc/client.pb.go
+1599122204|carla|M|/LOOP/loop/looprpc/client.pb.gw.go
+1599122204|carla|M|/LOOP/loop/looprpc/client.proto
+1599122204|carla|M|/LOOP/loop/looprpc/client.swagger.json
+1599122205|carla|M|/LOOP/loop/cmd/loop/liquidity.go
+1599122205|carla|M|/LOOP/loop/cmd/loop/main.go
+1599132359|Oliver Gugger|M|/LOOP/loop/loopd/daemon.go
+1599132359|Oliver Gugger|M|/LOOP/loop/loopd/run.go
+1599135591|Oliver Gugger|M|/LOOP/loop/go.mod
+1599135591|Oliver Gugger|M|/LOOP/loop/go.sum
+1599135591|Oliver Gugger|M|/LOOP/loop/loopd/config.go
+1599135591|Oliver Gugger|M|/LOOP/loop/loopd/daemon.go
+1599135591|Oliver Gugger|M|/LOOP/loop/loopd/run.go
+1599135595|Oliver Gugger|M|/LOOP/loop/cmd/loop/main.go
+1599135618|Oliver Gugger|M|/LOOP/loop/cmd/loop/main.go
+1599136420|Oliver Gugger|M|/LOOP/loop/README.md
+1599231984|Tom Dickman|M|/LOOP/loop/Dockerfile
+1599673904|Alex Bosworth|M|/LOOP/loop/version.go
+1599674041|Andras Banki-Horvath|M|/LOOP/loop/loopdb/codec.go
+1599674041|Andras Banki-Horvath|A|/LOOP/loop/loopdb/codec_test.go
+1599674041|Andras Banki-Horvath|M|/LOOP/loop/loopdb/loop.go
+1599674041|Andras Banki-Horvath|A|/LOOP/loop/loopdb/protocol_version.go
+1599674041|Andras Banki-Horvath|A|/LOOP/loop/loopdb/protocol_version_test.go
+1599674041|Andras Banki-Horvath|M|/LOOP/loop/loopdb/store.go
+1599674041|Andras Banki-Horvath|M|/LOOP/loop/swap_server_client.go
+1599674041|Andras Banki-Horvath|M|/LOOP/loop/client.go
+1599674041|Andras Banki-Horvath|M|/LOOP/loop/loopd/view.go
+1599674041|Andras Banki-Horvath|M|/LOOP/loop/loopdb/protocol_version.go
+1599674041|Andras Banki-Horvath|M|/LOOP/loop/loopdb/protocol_version_test.go
+1599674041|Andras Banki-Horvath|M|/LOOP/loop/loopin.go
+1599674041|Andras Banki-Horvath|M|/LOOP/loop/loopout.go
+1599674041|Andras Banki-Horvath|M|/LOOP/loop/looprpc/server.pb.go
+1599674041|Andras Banki-Horvath|M|/LOOP/loop/looprpc/server.proto
+1599674041|Andras Banki-Horvath|M|/LOOP/loop/swap.go
+1599674041|Andras Banki-Horvath|M|/LOOP/loop/client_test.go
+1599674041|Andras Banki-Horvath|M|/LOOP/loop/loopin_test.go
+1599807738|carla|A|/LOOP/loop/release_notes.md
+1599807738|carla|M|/LOOP/loop/version.go
+1599807761|carla|A|/LOOP/loop/.github/pull_request_template.md
+1599819612|Oliver Gugger|M|/LOOP/loop/go.mod
+1599819612|Oliver Gugger|M|/LOOP/loop/go.sum
+1599819612|Oliver Gugger|M|/LOOP/loop/loopd/run.go
+1599819893|Oliver Gugger|M|/LOOP/loop/go.mod
+1599819893|Oliver Gugger|M|/LOOP/loop/loopd/config.go
+1599819893|Oliver Gugger|M|/LOOP/loop/loopd/daemon.go
+1599819893|Oliver Gugger|A|/LOOP/loop/loopd/macaroons.go
+1599819935|Oliver Gugger|M|/LOOP/loop/cmd/loop/main.go
+1599819939|Oliver Gugger|M|/LOOP/loop/loopd/daemon.go
+1599820057|Oliver Gugger|M|/LOOP/loop/README.md
+1599826998|Oliver Gugger|M|/LOOP/loop/release_notes.md
+1600332357|Oliver Gugger|M|/LOOP/loop/loopd/config.go
+1600341894|Joost Jager|M|/LOOP/loop/loopdb/protocol_version.go
+1600341894|Joost Jager|M|/LOOP/loop/loopdb/protocol_version_test.go
+1600341894|Joost Jager|M|/LOOP/loop/loopin.go
+1600341894|Joost Jager|M|/LOOP/loop/loopin_testcontext_test.go
+1600341894|Joost Jager|M|/LOOP/loop/loopout_test.go
+1600341894|Joost Jager|M|/LOOP/loop/looprpc/server.pb.go
+1600341894|Joost Jager|M|/LOOP/loop/looprpc/server.proto
+1600341894|Joost Jager|M|/LOOP/loop/release_notes.md
+1600341894|Joost Jager|M|/LOOP/loop/server_mock_test.go
+1600341894|Joost Jager|M|/LOOP/loop/swap_server_client.go
+1600341894|Joost Jager|M|/LOOP/loop/test/lnd_services_mock.go
+1600341894|Joost Jager|M|/LOOP/loop/testcontext_test.go
+1600412296|Oliver Gugger|M|/LOOP/loop/go.mod
+1600412296|Oliver Gugger|M|/LOOP/loop/go.sum
+1600412296|Oliver Gugger|M|/LOOP/loop/loopd/macaroons.go
+1601457330|carla|M|/LOOP/loop/loopd/macaroons.go
+1601462789|carla|M|/LOOP/loop/liquidity/liquidity.go
+1601462789|carla|M|/LOOP/loop/liquidity/liquidity_test.go
+1601462789|carla|M|/LOOP/loop/loopd/swapclient_server.go
+1601462789|carla|M|/LOOP/loop/loopd/utils.go
+1601462790|carla|M|/LOOP/loop/go.mod
+1601462790|carla|M|/LOOP/loop/liquidity/liquidity.go
+1601462790|carla|M|/LOOP/loop/liquidity/liquidity_test.go
+1601462790|carla|M|/LOOP/loop/loopd/utils.go
+1601462791|carla|M|/LOOP/loop/liquidity/liquidity.go
+1601462791|carla|M|/LOOP/loop/liquidity/liquidity_test.go
+1601462792|carla|M|/LOOP/loop/liquidity/liquidity.go
+1601462792|carla|M|/LOOP/loop/liquidity/liquidity_test.go
+1601462792|carla|A|/LOOP/loop/liquidity/log.go
+1601462792|carla|M|/LOOP/loop/loopd/log.go
+1601462792|carla|M|/LOOP/loop/loopd/utils.go
+1601462793|carla|M|/LOOP/loop/liquidity/liquidity.go
+1601462793|carla|M|/LOOP/loop/liquidity/liquidity_test.go
+1601462794|carla|M|/LOOP/loop/liquidity/liquidity.go
+1601462794|carla|M|/LOOP/loop/liquidity/liquidity_test.go
+1601462794|carla|M|/LOOP/loop/loopd/utils.go
+1601462795|carla|M|/LOOP/loop/liquidity/liquidity.go
+1601462795|carla|M|/LOOP/loop/liquidity/liquidity_test.go
+1601462795|carla|M|/LOOP/loop/liquidity/suggestions.go
+1601462795|carla|M|/LOOP/loop/loopd/utils.go
+1601462795|carla|M|/LOOP/loop/loopd/swapclient_server.go
+1601462795|carla|M|/LOOP/loop/looprpc/client.pb.go
+1601462795|carla|M|/LOOP/loop/looprpc/client.proto
+1601462795|carla|M|/LOOP/loop/looprpc/client.swagger.json
+1601462796|carla|M|/LOOP/loop/cmd/loop/liquidity.go
+1601462796|carla|M|/LOOP/loop/cmd/loop/main.go
+1601462797|carla|M|/LOOP/loop/cmd/loop/liquidity.go
+1601462797|carla|M|/LOOP/loop/cmd/loop/main.go
+1601465186|carla|M|/LOOP/loop/release_notes.md
+1602263301|Alex Bosworth|M|/LOOP/loop/release_notes.md
+1602263301|Alex Bosworth|M|/LOOP/loop/version.go
+1602499511|carla|M|/LOOP/loop/go.sum
+1602502492|carla|M|/LOOP/loop/labels/labels.go
+1602502492|carla|M|/LOOP/loop/loopd/swapclient_server.go
+1602502492|carla|M|/LOOP/loop/loopdb/loopin.go
+1602502492|carla|M|/LOOP/loop/loopin.go
+1602502492|carla|M|/LOOP/loop/loopout.go
+1602502493|carla|M|/LOOP/loop/liquidity/liquidity_test.go
+1602502494|carla|M|/LOOP/loop/go.sum
+1602502494|carla|M|/LOOP/loop/labels/labels.go
+1602502494|carla|M|/LOOP/loop/liquidity/liquidity.go
+1602502494|carla|M|/LOOP/loop/liquidity/liquidity_test.go
+1602502494|carla|M|/LOOP/loop/loopdb/swapstate.go
+1602502494|carla|M|/LOOP/loop/test/lightning_client_mock.go
+1602502494|carla|M|/LOOP/loop/liquidity/liquidity.go
+1602502494|carla|M|/LOOP/loop/liquidity/liquidity_test.go
+1602502495|carla|M|/LOOP/loop/go.mod
+1602502495|carla|A|/LOOP/loop/liquidity/autoloop_test.go
+1602502495|carla|A|/LOOP/loop/liquidity/autoloop_testcontext_test.go
+1602502495|carla|M|/LOOP/loop/liquidity/liquidity.go
+1602502495|carla|M|/LOOP/loop/liquidity/liquidity_test.go
+1602502495|carla|M|/LOOP/loop/loopd/daemon.go
+1602502495|carla|M|/LOOP/loop/loopd/swapclient_server.go
+1602502495|carla|M|/LOOP/loop/loopd/utils.go
+1602502496|carla|M|/LOOP/loop/liquidity/liquidity.go
+1602502496|carla|M|/LOOP/loop/loopd/swapclient_server.go
+1602502496|carla|M|/LOOP/loop/looprpc/client.pb.go
+1602502496|carla|M|/LOOP/loop/looprpc/client.proto
+1602502496|carla|M|/LOOP/loop/looprpc/client.swagger.json
+1602502497|carla|M|/LOOP/loop/cmd/loop/liquidity.go
+1602502498|carla|M|/LOOP/loop/release_notes.md
+1602570535|Oliver Gugger|M|/LOOP/loop/version.go
+1602570535|Oliver Gugger|M|/LOOP/loop/looprpc/server.pb.go
+1602570535|Oliver Gugger|M|/LOOP/loop/looprpc/server.proto
+1602570535|Oliver Gugger|M|/LOOP/loop/swap_server_client.go
+1602570846|Oliver Gugger|M|/LOOP/loop/release_notes.md
+1602750359|Oliver Gugger|A|/LOOP/loop/labels/lnd_labels.go
+1602751212|Oliver Gugger|M|/LOOP/loop/go.mod
+1602751212|Oliver Gugger|M|/LOOP/loop/go.sum
+1602751212|Oliver Gugger|M|/LOOP/loop/loopin.go
+1602751212|Oliver Gugger|M|/LOOP/loop/loopout.go
+1602751212|Oliver Gugger|M|/LOOP/loop/test/walletkit_mock.go
+1602751213|Oliver Gugger|M|/LOOP/loop/release_notes.md
+1602762807|carla|M|/LOOP/loop/.travis.yml
+1602762807|carla|M|/LOOP/loop/Makefile
+1602762807|carla|M|/LOOP/loop/liquidity/liquidity.go
+1602762807|carla|M|/LOOP/loop/loopd/daemon.go
+1602762807|carla|M|/LOOP/loop/loopd/macaroons.go
+1602762807|carla|A|/LOOP/loop/loopd/register_default.go
+1602762807|carla|M|/LOOP/loop/loopd/swapclient_server.go
+1602762807|carla|A|/LOOP/loop/loopd/swapclient_server_debug.go
+1602762807|carla|A|/LOOP/loop/looprpc/debug.pb.go
+1602762807|carla|A|/LOOP/loop/looprpc/debug.proto
+1603392412|carla|M|/LOOP/loop/release_notes.md
+1603394117|carla|M|/LOOP/loop/release_notes.md
+1603751899|Alex Bosworth|M|/LOOP/loop/README.md
+1603814501|Alex Bosworth|M|/LOOP/loop/release_notes.md
+1603814501|Alex Bosworth|M|/LOOP/loop/version.go
+1604050601|Oliver Gugger|M|/LOOP/loop/go.mod
+1604050601|Oliver Gugger|M|/LOOP/loop/go.sum
+1604394542|carla|M|/LOOP/loop/README.md
+1604394542|carla|A|/LOOP/loop/docs/autoloop.md
+1604655776|Oliver Gugger|M|/LOOP/loop/Makefile
+1604655777|Oliver Gugger|M|/LOOP/loop/Makefile
+1604655779|Oliver Gugger|M|/LOOP/loop/looprpc/client.pb.go
+1604655779|Oliver Gugger|M|/LOOP/loop/looprpc/client.proto
+1604655779|Oliver Gugger|M|/LOOP/loop/looprpc/client.swagger.json
+1604655780|Oliver Gugger|M|/LOOP/loop/looprpc/client.pb.go
+1604655780|Oliver Gugger|M|/LOOP/loop/looprpc/client.proto
+1604655780|Oliver Gugger|M|/LOOP/loop/looprpc/client.swagger.json
+1604655781|Oliver Gugger|M|/LOOP/loop/version.go
+1604655783|Oliver Gugger|M|/LOOP/loop/client_test.go
+1604655783|Oliver Gugger|M|/LOOP/loop/interface.go
+1604655783|Oliver Gugger|M|/LOOP/loop/loopin.go
+1604655783|Oliver Gugger|M|/LOOP/loop/loopin_test.go
+1604655783|Oliver Gugger|M|/LOOP/loop/loopout.go
+1604655783|Oliver Gugger|M|/LOOP/loop/server_mock_test.go
+1604655783|Oliver Gugger|M|/LOOP/loop/swap_server_client.go
+1604655783|Oliver Gugger|M|/LOOP/loop/version.go
+1604923052|Oliver Gugger|M|/LOOP/loop/loopd/swapclient_server.go
+1604923052|Oliver Gugger|M|/LOOP/loop/version.go
+1604923053|Oliver Gugger|M|/LOOP/loop/liquidity/autoloop_test.go
+1604923053|Oliver Gugger|M|/LOOP/loop/liquidity/liquidity.go
+1604923053|Oliver Gugger|M|/LOOP/loop/liquidity/liquidity_test.go
+1604923053|Oliver Gugger|M|/LOOP/loop/cmd/loop/loopin.go
+1604923053|Oliver Gugger|M|/LOOP/loop/cmd/loop/loopout.go
+1604923053|Oliver Gugger|M|/LOOP/loop/cmd/loop/main.go
+1604923054|Oliver Gugger|M|/LOOP/loop/release_notes.md
+1605209456|Alex Bosworth|M|/LOOP/loop/release_notes.md
+1605209456|Alex Bosworth|M|/LOOP/loop/version.go
+1606139530|carla|M|/LOOP/loop/docs/autoloop.md
+1606820795|carla|M|/LOOP/loop/liquidity/autoloop_test.go
+1606820795|carla|M|/LOOP/loop/liquidity/autoloop_testcontext_test.go
+1606820795|carla|M|/LOOP/loop/liquidity/liquidity.go
+1606820795|carla|M|/LOOP/loop/liquidity/liquidity_test.go
+1606820795|carla|M|/LOOP/loop/loopd/swapclient_server.go
+1606820797|carla|M|/LOOP/loop/loopd/swapclient_server.go
+1606820797|carla|M|/LOOP/loop/looprpc/client.pb.go
+1606820797|carla|M|/LOOP/loop/looprpc/client.proto
+1606820797|carla|M|/LOOP/loop/looprpc/client.swagger.json
+1606829843|carla|M|/LOOP/loop/cmd/loop/liquidity.go
+1607418756|carla|M|/LOOP/loop/docs/autoloop.md
+1607418759|carla|M|/LOOP/loop/release_notes.md
+1607447753|Alex Bosworth|M|/LOOP/loop/release_notes.md
+1607447753|Alex Bosworth|M|/LOOP/loop/version.go
+1610037201|Oliver Gugger|M|/LOOP/loop/go.mod
+1610037201|Oliver Gugger|M|/LOOP/loop/go.sum
+1610037201|Oliver Gugger|M|/LOOP/loop/liquidity/liquidity.go
+1610037201|Oliver Gugger|M|/LOOP/loop/loopd/macaroons.go
+1610037201|Oliver Gugger|M|/LOOP/loop/swap_server_client.go
+1610037201|Oliver Gugger|M|/LOOP/loop/loopd/macaroons.go
+1610037364|Oliver Gugger|M|/LOOP/loop/release_notes.md
+1610608381|carla|M|/LOOP/loop/go.mod
+1610608381|carla|M|/LOOP/loop/go.sum
+1610608381|carla|M|/LOOP/loop/loopd/run.go
+1610608381|carla|M|/LOOP/loop/test/router_mock.go
+1610608509|carla|M|/LOOP/loop/loopd/run.go
+1610608513|carla|M|/LOOP/loop/release_notes.md
+1612335287|carla|M|/LOOP/loop/liquidity/autoloop_test.go
+1612335287|carla|M|/LOOP/loop/liquidity/liquidity.go
+1612335287|carla|M|/LOOP/loop/loopd/swapclient_server.go
+1612335288|carla|M|/LOOP/loop/cmd/loop/liquidity.go
+1612335288|carla|M|/LOOP/loop/docs/autoloop.md
+1612335288|carla|M|/LOOP/loop/loopd/swapclient_server.go
+1612335288|carla|M|/LOOP/loop/looprpc/client.pb.go
+1612335288|carla|M|/LOOP/loop/looprpc/client.proto
+1612335288|carla|M|/LOOP/loop/looprpc/client.swagger.json
+1612335288|carla|M|/LOOP/loop/release_notes.md
+1612335289|carla|M|/LOOP/loop/liquidity/autoloop_testcontext_test.go
+1612335289|carla|M|/LOOP/loop/liquidity/liquidity.go
+1612335289|carla|M|/LOOP/loop/loopd/utils.go
+1612335290|carla|M|/LOOP/loop/labels/labels.go
+1612335290|carla|M|/LOOP/loop/liquidity/autoloop_test.go
+1612335290|carla|M|/LOOP/loop/liquidity/liquidity.go
+1612335290|carla|M|/LOOP/loop/liquidity/liquidity_test.go
+1612335290|carla|M|/LOOP/loop/liquidity/autoloop_testcontext_test.go
+1612335290|carla|M|/LOOP/loop/liquidity/liquidity.go
+1612335290|carla|M|/LOOP/loop/liquidity/liquidity_test.go
+1612335290|carla|M|/LOOP/loop/loopd/utils.go
+1612335291|carla|M|/LOOP/loop/liquidity/liquidity.go
+1612526142|Oliver Gugger|M|/LOOP/loop/DOCKER.md
+1612526145|Oliver Gugger|M|/LOOP/loop/loopd/config.go
+1612526145|Oliver Gugger|M|/LOOP/loop/loopd/run.go
+1612526145|Oliver Gugger|M|/LOOP/loop/release_notes.md
+1612769903|carla|M|/LOOP/loop/cmd/loop/liquidity.go
+1612769903|carla|M|/LOOP/loop/liquidity/liquidity.go
+1612769903|carla|M|/LOOP/loop/liquidity/liquidity_test.go
+1612769903|carla|M|/LOOP/loop/loopd/swapclient_server.go
+1612769903|carla|M|/LOOP/loop/release_notes.md
+1612769939|carla|M|/LOOP/loop/docs/autoloop.md
+1612769939|carla|M|/LOOP/loop/liquidity/liquidity.go
+1612769939|carla|M|/LOOP/loop/liquidity/liquidity_test.go
+1612769939|carla|M|/LOOP/loop/release_notes.md
+1612769941|carla|M|/LOOP/loop/liquidity/liquidity.go
+1612769942|carla|M|/LOOP/loop/liquidity/liquidity.go
+1612769942|carla|M|/LOOP/loop/liquidity/liquidity_test.go
+1612769942|carla|A|/LOOP/loop/liquidity/reasons.go
+1612769942|carla|M|/LOOP/loop/loopd/swapclient_server.go
+1612769943|carla|M|/LOOP/loop/cmd/loop/liquidity.go
+1612769943|carla|M|/LOOP/loop/loopd/swapclient_server.go
+1612769943|carla|M|/LOOP/loop/looprpc/client.pb.go
+1612769943|carla|M|/LOOP/loop/looprpc/client.proto
+1612769943|carla|M|/LOOP/loop/looprpc/client.swagger.json
+1612769944|carla|M|/LOOP/loop/docs/autoloop.md
+1612769944|carla|M|/LOOP/loop/release_notes.md
+1612903360|Alex Bosworth|M|/LOOP/loop/release_notes.md
+1612903360|Alex Bosworth|M|/LOOP/loop/version.go
+1613065129|Andras Banki-Horvath|M|/LOOP/loop/loopd/config.go
+1613065292|Andras Banki-Horvath|M|/LOOP/loop/release_notes.md
+1613067197|Alex Bosworth|M|/LOOP/loop/release_notes.md
+1613067197|Alex Bosworth|M|/LOOP/loop/version.go
+1613352315|rockstardev|M|/LOOP/loop/README.md
+1613475108|carla|M|/LOOP/loop/liquidity/liquidity.go
+1613475108|carla|D|/LOOP/loop/liquidity/suggestions.go
+1613475108|carla|M|/LOOP/loop/liquidity/threshold_rule.go
+1613475108|carla|M|/LOOP/loop/liquidity/threshold_rule_test.go
+1613552136|carla|M|/LOOP/loop/liquidity/balances.go
+1613552136|carla|M|/LOOP/loop/liquidity/liquidity.go
+1613552136|carla|M|/LOOP/loop/liquidity/reasons.go
+1613552138|carla|A|/LOOP/loop/liquidity/interface.go
+1613552138|carla|M|/LOOP/loop/liquidity/liquidity.go
+1613552190|carla|M|/LOOP/loop/liquidity/autoloop_test.go
+1613552190|carla|M|/LOOP/loop/liquidity/balances.go
+1613552190|carla|M|/LOOP/loop/liquidity/liquidity.go
+1613552190|carla|M|/LOOP/loop/liquidity/liquidity_test.go
+1613552192|carla|M|/LOOP/loop/loopd/swapclient_server.go
+1613552192|carla|M|/LOOP/loop/looprpc/client.pb.go
+1613552192|carla|M|/LOOP/loop/looprpc/client.proto
+1613552192|carla|M|/LOOP/loop/looprpc/client.swagger.json
+1613563976|carla|M|/LOOP/loop/cmd/loop/liquidity.go
+1613563976|carla|M|/LOOP/loop/loopd/swapclient_server.go
+1613563980|carla|M|/LOOP/loop/docs/autoloop.md
+1613563980|carla|M|/LOOP/loop/release_notes.md
+1614242971|carla|M|/LOOP/loop/cmd/loop/loopout.go
+1614768599|carla|M|/LOOP/loop/loopin.go
+1614768599|carla|M|/LOOP/loop/loopin_test.go
+1614768599|carla|M|/LOOP/loop/release_notes.md
+1614768599|carla|M|/LOOP/loop/test/walletkit_mock.go
+1614845675|carla|M|/LOOP/loop/liquidity/autoloop_test.go
+1614845675|carla|M|/LOOP/loop/liquidity/autoloop_testcontext_test.go
+1614845675|carla|A|/LOOP/loop/liquidity/fees.go
+1614845675|carla|M|/LOOP/loop/liquidity/interface.go
+1614845675|carla|M|/LOOP/loop/liquidity/liquidity.go
+1614845675|carla|M|/LOOP/loop/liquidity/liquidity_test.go
+1614845675|carla|M|/LOOP/loop/loopd/swapclient_server.go
+1614845677|carla|M|/LOOP/loop/liquidity/fees.go
+1614845677|carla|M|/LOOP/loop/liquidity/liquidity_test.go
+1614845677|carla|M|/LOOP/loop/liquidity/reasons.go
+1614845677|carla|M|/LOOP/loop/loopd/swapclient_server.go
+1614845677|carla|M|/LOOP/loop/looprpc/client.pb.go
+1614845677|carla|M|/LOOP/loop/looprpc/client.proto
+1614845677|carla|M|/LOOP/loop/looprpc/client.swagger.json
+1614845692|carla|M|/LOOP/loop/loopd/swapclient_server.go
+1614845692|carla|M|/LOOP/loop/looprpc/client.pb.go
+1614845692|carla|M|/LOOP/loop/looprpc/client.proto
+1614845692|carla|M|/LOOP/loop/looprpc/client.swagger.json
+1614845711|carla|M|/LOOP/loop/cmd/loop/liquidity.go
+1614846082|carla|M|/LOOP/loop/liquidity/fees.go
+1614846082|carla|M|/LOOP/loop/liquidity/liquidity.go
+1614846082|carla|M|/LOOP/loop/liquidity/liquidity_test.go
+1614846084|carla|M|/LOOP/loop/docs/autoloop.md
+1614846084|carla|M|/LOOP/loop/release_notes.md
+1614927755|carla|M|/LOOP/loop/liquidity/liquidity.go
+1614927755|carla|M|/LOOP/loop/liquidity/liquidity_test.go
+1614930807|carla|M|/LOOP/loop/liquidity/liquidity.go
+1614930807|carla|M|/LOOP/loop/liquidity/liquidity_test.go
+1614930807|carla|M|/LOOP/loop/release_notes.md
+1614935248|carla|M|/LOOP/loop/Dockerfile
+1614935248|carla|M|/LOOP/loop/release_notes.md
+1614980509|Alex Bosworth|M|/LOOP/loop/release_notes.md
+1614980509|Alex Bosworth|M|/LOOP/loop/version.go
+1615141405|yyforyongyu|M|/LOOP/loop/loopd/swapclient_server.go
+1615141405|yyforyongyu|M|/LOOP/loop/looprpc/client.pb.go
+1615141405|yyforyongyu|M|/LOOP/loop/looprpc/client.proto
+1615141405|yyforyongyu|M|/LOOP/loop/looprpc/client.swagger.json
+1615196442|Elle Mouton|M|/LOOP/loop/loopd/swapclient_server.go
+1615196442|Elle Mouton|M|/LOOP/loop/loopd/swapclient_server_test.go
+1615196514|Elle Mouton|M|/LOOP/loop/loopd/swapclient_server.go
+1615196514|Elle Mouton|M|/LOOP/loop/loopd/swapclient_server_test.go
+1615205329|yyforyongyu|M|/LOOP/loop/cmd/loop/loopin.go
+1615205329|yyforyongyu|M|/LOOP/loop/cmd/loop/loopout.go
+1615205329|yyforyongyu|M|/LOOP/loop/cmd/loop/main.go
+1615205329|yyforyongyu|M|/LOOP/loop/cmd/loop/quote.go
+1615205329|yyforyongyu|M|/LOOP/loop/release_notes.md
+1615284460|Oliver Gugger|A|/LOOP/loop/.github/ISSUE_TEMPLATE/bug_report.md
+1615284460|Oliver Gugger|A|/LOOP/loop/.github/ISSUE_TEMPLATE/config.yml
+1615284460|Oliver Gugger|A|/LOOP/loop/.github/ISSUE_TEMPLATE/feature_request.md
+1615284460|Oliver Gugger|A|/LOOP/loop/.github/ISSUE_TEMPLATE/other.md
+1615968750|Elle Mouton|M|/LOOP/loop/client.go
+1615968750|Elle Mouton|M|/LOOP/loop/config.go
+1615968750|Elle Mouton|M|/LOOP/loop/loopd/swapclient_server.go
+1615968750|Elle Mouton|M|/LOOP/loop/loopd/swapclient_server_test.go
+1616113253|Justin O'Brien|M|/LOOP/loop/README.md
+1616116692|Justin O'Brien|M|/LOOP/loop/README.md
+1616176298|Oliver Gugger|A|/LOOP/loop/regtest/README.md
+1616176298|Oliver Gugger|A|/LOOP/loop/regtest/docker-compose.yml
+1616176298|Oliver Gugger|A|/LOOP/loop/regtest/regtest.sh
+1616176298|Oliver Gugger|M|/LOOP/loop/README.md
+1616176298|Oliver Gugger|M|/LOOP/loop/release_notes.md
+1616353817|Justin OBrien|M|/LOOP/loop/README.md
+1616353817|Justin OBrien|A|/LOOP/loop/docs/faqs.md
+1616591610|carla|M|/LOOP/loop/liquidity/liquidity_test.go
+1616664418|carla|M|/LOOP/loop/liquidity/interface.go
+1616664418|carla|M|/LOOP/loop/liquidity/liquidity.go
+1616664418|carla|M|/LOOP/loop/liquidity/liquidity_test.go
+1616664420|carla|M|/LOOP/loop/release_notes.md
+1616702836|Alex Bosworth|M|/LOOP/loop/release_notes.md
+1616702836|Alex Bosworth|M|/LOOP/loop/version.go
+1617829488|yyforyongyu|M|/LOOP/loop/cmd/loop/main.go
+1617959303|yyforyongyu|M|/LOOP/loop/loopout_test.go
+1618912622|Elle Mouton|M|/LOOP/loop/.travis.yml
+1618912622|Elle Mouton|M|/LOOP/loop/Dockerfile
+1618912622|Elle Mouton|M|/LOOP/loop/go.mod
+1619622987|Oliver Gugger|M|/LOOP/loop/loopd/daemon.go
+1619622987|Oliver Gugger|M|/LOOP/loop/loopd/macaroons.go
+1619622987|Oliver Gugger|M|/LOOP/loop/loopdb/store.go
+1619622987|Oliver Gugger|M|/LOOP/loop/release_notes.md
+1619683275|Oliver Gugger|M|/LOOP/loop/client.go
+1619683275|Oliver Gugger|M|/LOOP/loop/cmd/loop/lsat.go
+1619683275|Oliver Gugger|M|/LOOP/loop/config.go
+1619683275|Oliver Gugger|M|/LOOP/loop/go.mod
+1619683275|Oliver Gugger|M|/LOOP/loop/go.sum
+1619683275|Oliver Gugger|M|/LOOP/loop/loopd/config.go
+1619683275|Oliver Gugger|M|/LOOP/loop/loopd/log.go
+1619683275|Oliver Gugger|M|/LOOP/loop/release_notes.md
+1619683275|Oliver Gugger|M|/LOOP/loop/swap_server_client.go
+1619683279|Oliver Gugger|D|/LOOP/loop/lsat/caveat.go
+1619683279|Oliver Gugger|D|/LOOP/loop/lsat/caveat_test.go
+1619683279|Oliver Gugger|D|/LOOP/loop/lsat/identifier.go
+1619683279|Oliver Gugger|D|/LOOP/loop/lsat/identifier_test.go
+1619683279|Oliver Gugger|D|/LOOP/loop/lsat/interceptor.go
+1619683279|Oliver Gugger|D|/LOOP/loop/lsat/interceptor_test.go
+1619683279|Oliver Gugger|D|/LOOP/loop/lsat/log.go
+1619683279|Oliver Gugger|D|/LOOP/loop/lsat/satisfier.go
+1619683279|Oliver Gugger|D|/LOOP/loop/lsat/service.go
+1619683279|Oliver Gugger|D|/LOOP/loop/lsat/service_test.go
+1619683279|Oliver Gugger|D|/LOOP/loop/lsat/store.go
+1619683279|Oliver Gugger|D|/LOOP/loop/lsat/store_test.go
+1619683279|Oliver Gugger|D|/LOOP/loop/lsat/token.go
+1619689136|Andras Banki-Horvath|M|/LOOP/loop/executor.go
+1619709876|Alex Bosworth|M|/LOOP/loop/release_notes.md
+1619709876|Alex Bosworth|M|/LOOP/loop/version.go
+1620820844|carla|M|/LOOP/loop/loopout_test.go
+1620820844|carla|M|/LOOP/loop/test/lnd_services_mock.go
+1620820844|carla|M|/LOOP/loop/test/walletkit_mock.go
+1620820859|yyforyongyu|M|/LOOP/loop/loopout_test.go
+1620821368|carla|M|/LOOP/loop/loopout.go
+1620821368|carla|M|/LOOP/loop/loopout_test.go
+1621427081|Oliver Gugger|M|/LOOP/loop/go.mod
+1621427081|Oliver Gugger|M|/LOOP/loop/go.sum
+1621427081|Oliver Gugger|M|/LOOP/loop/loopd/daemon.go
+1621427081|Oliver Gugger|M|/LOOP/loop/loopd/log.go
+1621427081|Oliver Gugger|M|/LOOP/loop/loopd/macaroons.go
+1621427081|Oliver Gugger|M|/LOOP/loop/loopd/run.go
+1621427123|Oliver Gugger|M|/LOOP/loop/go.mod
+1621427123|Oliver Gugger|M|/LOOP/loop/go.sum
+1621427123|Oliver Gugger|M|/LOOP/loop/loopd/run.go
+1621427123|Oliver Gugger|M|/LOOP/loop/release_notes.md
+1621427128|Oliver Gugger|M|/LOOP/loop/version.go
+1621427128|Oliver Gugger|M|/LOOP/loop/client.go
+1621441000|Alex Bosworth|M|/LOOP/loop/release_notes.md
+1621838412|carla|M|/LOOP/loop/loopdb/protocol_version.go
+1621838412|carla|M|/LOOP/loop/loopdb/protocol_version_test.go
+1621838412|carla|M|/LOOP/loop/looprpc/server.pb.go
+1621838412|carla|M|/LOOP/loop/looprpc/server.proto
+1621838413|carla|M|/LOOP/loop/server_mock_test.go
+1621838413|carla|M|/LOOP/loop/swap_server_client.go
+1621838413|carla|M|/LOOP/loop/loopout.go
+1621838414|carla|M|/LOOP/loop/client.go
+1621838414|carla|M|/LOOP/loop/executor.go
+1621838414|carla|M|/LOOP/loop/loopin_testcontext_test.go
+1621838414|carla|M|/LOOP/loop/loopout.go
+1621838414|carla|M|/LOOP/loop/loopout_test.go
+1621838414|carla|M|/LOOP/loop/testcontext_test.go
+1621838415|carla|M|/LOOP/loop/executor.go
+1621838763|carla|M|/LOOP/loop/client_test.go
+1621838763|carla|M|/LOOP/loop/loopout.go
+1621838763|carla|M|/LOOP/loop/loopout_test.go
+1621838763|carla|M|/LOOP/loop/server_mock_test.go
+1621838765|carla|M|/LOOP/loop/looprpc/server.pb.go
+1621838765|carla|M|/LOOP/loop/looprpc/server.proto
+1621838766|carla|M|/LOOP/loop/release_notes.md
+1622503437|Maurice Poirrier|M|/LOOP/loop/docs/autoloop.md
+1622566951|Alex Bosworth|M|/LOOP/loop/release_notes.md
+1622566951|Alex Bosworth|M|/LOOP/loop/version.go
+1622710345|carla|M|/LOOP/loop/looprpc/server.pb.go
+1622710345|carla|M|/LOOP/loop/looprpc/server.proto
+1622710869|carla|M|/LOOP/loop/release_notes.md
+1623056508|carla|M|/LOOP/loop/loopin_test.go
+1623056508|carla|M|/LOOP/loop/loopin_testcontext_test.go
+1623162242|carla|M|/LOOP/loop/go.mod
+1623162242|carla|M|/LOOP/loop/go.sum
+1623162244|carla|M|/LOOP/loop/loopin.go
+1623162244|carla|M|/LOOP/loop/loopin_testcontext_test.go
+1623253004|Alex Bosworth|M|/LOOP/loop/release_notes.md
+1623253004|Alex Bosworth|M|/LOOP/loop/version.go
+1623975544|Olaoluwa Osuntokun|M|/LOOP/loop/go.mod
+1623975544|Olaoluwa Osuntokun|M|/LOOP/loop/go.sum
+1626161828|Oliver Gugger|M|/LOOP/loop/looprpc/client.pb.go
+1626161828|Oliver Gugger|M|/LOOP/loop/looprpc/client.proto
+1626161828|Oliver Gugger|M|/LOOP/loop/looprpc/gen_protos.sh
+1626161828|Oliver Gugger|A|/LOOP/loop/looprpc/rest-annotations.yaml
+1626161828|Oliver Gugger|M|/LOOP/loop/looprpc/server.pb.go
+1626161828|Oliver Gugger|M|/LOOP/loop/looprpc/server.proto
+1626162088|Oliver Gugger|M|/LOOP/loop/Makefile
+1626162088|Oliver Gugger|M|/LOOP/loop/go.mod
+1626162088|Oliver Gugger|A|/LOOP/loop/looprpc/.clang-format
+1626162088|Oliver Gugger|A|/LOOP/loop/looprpc/Dockerfile
+1626162088|Oliver Gugger|M|/LOOP/loop/looprpc/client.pb.go
+1626162088|Oliver Gugger|M|/LOOP/loop/looprpc/client.proto
+1626162088|Oliver Gugger|M|/LOOP/loop/looprpc/client.swagger.json
+1626162088|Oliver Gugger|M|/LOOP/loop/looprpc/debug.pb.go
+1626162088|Oliver Gugger|M|/LOOP/loop/looprpc/debug.proto
+1626162088|Oliver Gugger|M|/LOOP/loop/looprpc/gen_protos.sh
+1626162088|Oliver Gugger|A|/LOOP/loop/looprpc/gen_protos_docker.sh
+1626162088|Oliver Gugger|M|/LOOP/loop/looprpc/server.pb.go
+1626162088|Oliver Gugger|M|/LOOP/loop/looprpc/server.proto
+1626206668|Oliver Gugger|M|/LOOP/loop/loopd/config.go
+1626271733|Oliver Gugger|M|/LOOP/loop/looprpc/client.pb.go
+1626271733|Oliver Gugger|M|/LOOP/loop/looprpc/client.proto
+1626271733|Oliver Gugger|M|/LOOP/loop/looprpc/client.swagger.json
+1626276114|Oliver Gugger|M|/LOOP/loop/cmd/loop/loopout.go
+1626276114|Oliver Gugger|M|/LOOP/loop/loopd/swapclient_server.go
+1626346556|Oliver Gugger|M|/LOOP/loop/release_notes.md
+1626424097|carla|M|/LOOP/loop/looprpc/server.pb.go
+1626424097|carla|M|/LOOP/loop/looprpc/server.proto
+1626683314|carla|M|/LOOP/loop/client.go
+1626683314|carla|M|/LOOP/loop/client_test.go
+1626683314|carla|M|/LOOP/loop/loopin.go
+1626683314|carla|M|/LOOP/loop/loopin_test.go
+1626683314|carla|M|/LOOP/loop/loopout.go
+1626683315|carla|M|/LOOP/loop/release_notes.md
+1626798426|Alex Bosworth|M|/LOOP/loop/release_notes.md
+1626798426|Alex Bosworth|M|/LOOP/loop/version.go
+1627570926|Oliver Gugger|M|/LOOP/loop/go.mod
+1627570926|Oliver Gugger|M|/LOOP/loop/go.sum
+1627570926|Oliver Gugger|M|/LOOP/loop/loopd/daemon.go
+1627570926|Oliver Gugger|M|/LOOP/loop/loopd/swapclient_server.go
+1627570926|Oliver Gugger|M|/LOOP/loop/looprpc/Dockerfile
+1627570926|Oliver Gugger|M|/LOOP/loop/looprpc/client.pb.go
+1627570926|Oliver Gugger|M|/LOOP/loop/looprpc/client.pb.gw.go
+1627570926|Oliver Gugger|M|/LOOP/loop/looprpc/client.swagger.json
+1627570926|Oliver Gugger|A|/LOOP/loop/looprpc/client.yaml
+1627570926|Oliver Gugger|A|/LOOP/loop/looprpc/client_grpc.pb.go
+1627570926|Oliver Gugger|M|/LOOP/loop/looprpc/debug.pb.go
+1627570926|Oliver Gugger|A|/LOOP/loop/looprpc/debug_grpc.pb.go
+1627570926|Oliver Gugger|M|/LOOP/loop/looprpc/gen_protos.sh
+1627570926|Oliver Gugger|M|/LOOP/loop/looprpc/gen_protos_docker.sh
+1627570926|Oliver Gugger|D|/LOOP/loop/looprpc/rest-annotations.yaml
+1627570926|Oliver Gugger|M|/LOOP/loop/looprpc/server.pb.go
+1627570926|Oliver Gugger|A|/LOOP/loop/looprpc/server_grpc.pb.go
+1627570926|Oliver Gugger|M|/LOOP/loop/release_notes.md
+1627644132|Andras Banki-Horvath|M|/LOOP/loop/client.go
+1627644132|Andras Banki-Horvath|M|/LOOP/loop/interface.go
+1627644132|Andras Banki-Horvath|M|/LOOP/loop/loopd/macaroons.go
+1627644132|Andras Banki-Horvath|M|/LOOP/loop/loopd/swapclient_server.go
+1627644132|Andras Banki-Horvath|M|/LOOP/loop/loopdb/protocol_version.go
+1627644132|Andras Banki-Horvath|M|/LOOP/loop/loopdb/protocol_version_test.go
+1627644132|Andras Banki-Horvath|M|/LOOP/loop/loopin.go
+1627644132|Andras Banki-Horvath|M|/LOOP/loop/looprpc/client.pb.go
+1627644132|Andras Banki-Horvath|M|/LOOP/loop/looprpc/client.pb.gw.go
+1627644132|Andras Banki-Horvath|M|/LOOP/loop/looprpc/client.proto
+1627644132|Andras Banki-Horvath|M|/LOOP/loop/looprpc/client.swagger.json
+1627644132|Andras Banki-Horvath|M|/LOOP/loop/looprpc/client.yaml
+1627644132|Andras Banki-Horvath|M|/LOOP/loop/looprpc/client_grpc.pb.go
+1627644132|Andras Banki-Horvath|A|/LOOP/loop/looprpc/common.pb.go
+1627644132|Andras Banki-Horvath|A|/LOOP/loop/looprpc/common.proto
+1627644132|Andras Banki-Horvath|M|/LOOP/loop/looprpc/server.pb.go
+1627644132|Andras Banki-Horvath|M|/LOOP/loop/looprpc/server.proto
+1627644132|Andras Banki-Horvath|M|/LOOP/loop/looprpc/server_grpc.pb.go
+1627644132|Andras Banki-Horvath|M|/LOOP/loop/server_mock_test.go
+1627644132|Andras Banki-Horvath|M|/LOOP/loop/swap_server_client.go
+1627644132|Andras Banki-Horvath|M|/LOOP/loop/client.go
+1627644132|Andras Banki-Horvath|M|/LOOP/loop/interface.go
+1627644132|Andras Banki-Horvath|M|/LOOP/loop/loopd/swapclient_server.go
+1627644132|Andras Banki-Horvath|M|/LOOP/loop/loopin.go
+1627644132|Andras Banki-Horvath|M|/LOOP/loop/looprpc/client.pb.go
+1627644132|Andras Banki-Horvath|M|/LOOP/loop/looprpc/client.proto
+1627644132|Andras Banki-Horvath|M|/LOOP/loop/server_mock_test.go
+1627644132|Andras Banki-Horvath|M|/LOOP/loop/swap_server_client.go
+1627644133|Andras Banki-Horvath|M|/LOOP/loop/cmd/loop/loopin.go
+1627644133|Andras Banki-Horvath|M|/LOOP/loop/cmd/loop/quote.go
+1627644133|Andras Banki-Horvath|M|/LOOP/loop/release_notes.md
+1627930005|Alex Bosworth|M|/LOOP/loop/release_notes.md
+1627930005|Alex Bosworth|M|/LOOP/loop/version.go
+1627989515|Oliver Gugger|M|/LOOP/loop/looprpc/Dockerfile
+1627989515|Oliver Gugger|M|/LOOP/loop/looprpc/gen_protos.sh
+1627989515|Oliver Gugger|A|/LOOP/loop/looprpc/swapclient.pb.json.go
+1627989584|Oliver Gugger|M|/LOOP/loop/.travis.yml
+1627989584|Oliver Gugger|M|/LOOP/loop/Makefile
+1628180392|Martin Habovstiak|M|/LOOP/loop/loopd/run.go
+1628180392|Martin Habovstiak|M|/LOOP/loop/release_notes.md
+1628576367|Martin Habovštiak|M|/LOOP/loop/loopd/run.go
+1628576732|Martin Habovstiak|M|/LOOP/loop/loopd/run.go
+1628576732|Martin Habovstiak|M|/LOOP/loop/loopd/run.go

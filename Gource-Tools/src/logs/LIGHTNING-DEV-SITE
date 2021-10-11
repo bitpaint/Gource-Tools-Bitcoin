@@ -1,0 +1,317 @@
+1498284114|Max Fang|A|/LIGHTNING-DEV-SITE/lightning-dev-site/README.md
+1498509469|Max Fang|A|/LIGHTNING-DEV-SITE/lightning-dev-site/error.html
+1498509469|Max Fang|A|/LIGHTNING-DEV-SITE/lightning-dev-site/index.html
+1498512265|Max Fang|A|/LIGHTNING-DEV-SITE/lightning-dev-site/.gitignore
+1498512265|Max Fang|A|/LIGHTNING-DEV-SITE/lightning-dev-site/404.html
+1498512265|Max Fang|A|/LIGHTNING-DEV-SITE/lightning-dev-site/Gemfile
+1498512265|Max Fang|A|/LIGHTNING-DEV-SITE/lightning-dev-site/Gemfile.lock
+1498512265|Max Fang|A|/LIGHTNING-DEV-SITE/lightning-dev-site/_config.yml
+1498512265|Max Fang|A|/LIGHTNING-DEV-SITE/lightning-dev-site/_posts/2017-06-26-welcome-to-jekyll.markdown
+1498512265|Max Fang|A|/LIGHTNING-DEV-SITE/lightning-dev-site/about.md
+1498512265|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/error.html
+1498512265|Max Fang|D|/LIGHTNING-DEV-SITE/lightning-dev-site/index.html
+1498512265|Max Fang|A|/LIGHTNING-DEV-SITE/lightning-dev-site/index.md
+1498514544|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/.gitignore
+1498514544|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_config.yml
+1498514544|Max Fang|A|/LIGHTNING-DEV-SITE/lightning-dev-site/_layouts/home.html
+1498518128|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_config.yml
+1498518128|Max Fang|A|/LIGHTNING-DEV-SITE/lightning-dev-site/_includes/header.html
+1498518128|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_layouts/home.html
+1498518128|Max Fang|A|/LIGHTNING-DEV-SITE/lightning-dev-site/_pages/contribute.md
+1498518128|Max Fang|A|/LIGHTNING-DEV-SITE/lightning-dev-site/_pages/docs.md
+1498518128|Max Fang|A|/LIGHTNING-DEV-SITE/lightning-dev-site/_pages/resources.md
+1498518128|Max Fang|A|/LIGHTNING-DEV-SITE/lightning-dev-site/_pages/tutorial.md
+1498518128|Max Fang|D|/LIGHTNING-DEV-SITE/lightning-dev-site/about.md
+1498600604|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/README.md
+1498600604|Max Fang|A|/LIGHTNING-DEV-SITE/lightning-dev-site/s3_website.yml
+1498603591|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_pages/tutorial.md
+1498605388|Max Fang|A|/LIGHTNING-DEV-SITE/lightning-dev-site/_pages/installation.md
+1498678843|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_config.yml
+1498686349|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_layouts/home.html
+1498686349|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_pages/installation.md
+1498686349|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_pages/tutorial.md
+1498688086|Max Fang|A|/LIGHTNING-DEV-SITE/lightning-dev-site/_pages/docker-guide.md
+1498688303|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_pages/contribute.md
+1498688303|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_pages/installation.md
+1498695989|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_includes/header.html
+1498695989|Max Fang|A|/LIGHTNING-DEV-SITE/lightning-dev-site/_pages/tutorial01.md
+1498700315|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_config.yml
+1498700315|Max Fang|D|/LIGHTNING-DEV-SITE/lightning-dev-site/_pages/tutorial01.md
+1498700315|Max Fang|A|/LIGHTNING-DEV-SITE/lightning-dev-site/tutorial/01-lncli.md
+1498868054|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_pages/installation.md
+1498868054|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/tutorial/01-lncli.md
+1499131887|Max Fang|A|/LIGHTNING-DEV-SITE/lightning-dev-site/tutorial/02-web-client.md
+1499131934|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/tutorial/01-lncli.md
+1499131976|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_pages/installation.md
+1499131976|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_pages/tutorial.md
+1499381157|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/README.md
+1499381188|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_pages/tutorial.md
+1499381188|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/tutorial/02-web-client.md
+1499381188|Max Fang|A|/LIGHTNING-DEV-SITE/lightning-dev-site/tutorial/03-rpc-client.md
+1499761570|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_pages/tutorial.md
+1499761570|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/tutorial/01-lncli.md
+1499761570|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/tutorial/02-web-client.md
+1499761570|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/tutorial/03-rpc-client.md
+1499761570|Max Fang|A|/LIGHTNING-DEV-SITE/lightning-dev-site/tutorial/04-webapp-integration.md
+1499970976|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_pages/installation.md
+1499970976|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/tutorial/01-lncli.md
+1499970976|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/tutorial/03-rpc-client.md
+1500073784|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/README.md
+1500073784|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_pages/installation.md
+1500428996|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_config.yml
+1500457917|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_includes/header.html
+1500457917|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_layouts/home.html
+1500457917|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_pages/installation.md
+1500459707|Max Fang|A|/LIGHTNING-DEV-SITE/lightning-dev-site/_includes/head.html
+1500459707|Max Fang|A|/LIGHTNING-DEV-SITE/lightning-dev-site/assets/lightning-theme.css
+1500495003|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_includes/header.html
+1500495003|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_layouts/home.html
+1500495003|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_pages/installation.md
+1500507225|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/tutorial/02-web-client.md
+1500682568|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_pages/resources.md
+1500682593|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_layouts/home.html
+1500683800|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_pages/resources.md
+1500927810|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_config.yml
+1500927861|Max Fang|A|/LIGHTNING-DEV-SITE/lightning-dev-site/_includes/footer.html
+1500927861|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_includes/head.html
+1500927861|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_includes/header.html
+1500927861|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_pages/resources.md
+1500927861|Max Fang|A|/LIGHTNING-DEV-SITE/lightning-dev-site/_sass/.DS_Store
+1500927861|Max Fang|A|/LIGHTNING-DEV-SITE/lightning-dev-site/_sass/minima.scss
+1500927861|Max Fang|A|/LIGHTNING-DEV-SITE/lightning-dev-site/_sass/minima/.DS_Store
+1500927861|Max Fang|A|/LIGHTNING-DEV-SITE/lightning-dev-site/_sass/minima/_base.scss
+1500927861|Max Fang|A|/LIGHTNING-DEV-SITE/lightning-dev-site/_sass/minima/_layout.scss
+1500927861|Max Fang|D|/LIGHTNING-DEV-SITE/lightning-dev-site/assets/lightning-theme.css
+1500928989|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_layouts/home.html
+1500928989|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_sass/minima.scss
+1500928989|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_sass/minima/_layout.scss
+1500929117|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_config.yml
+1501101033|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_pages/resources.md
+1501103320|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_config.yml
+1501103320|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_layouts/home.html
+1501103320|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_pages/installation.md
+1501103320|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_pages/resources.md
+1501103320|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_pages/tutorial.md
+1501103320|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/tutorial/01-lncli.md
+1501103320|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/tutorial/02-web-client.md
+1501103320|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/tutorial/03-rpc-client.md
+1501103320|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/tutorial/04-webapp-integration.md
+1501290022|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_includes/head.html
+1501290022|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_sass/minima/_layout.scss
+1501556157|Max Fang|A|/LIGHTNING-DEV-SITE/lightning-dev-site/update_and_render.sh
+1501556179|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/README.md
+1501556250|Max Fang|A|/LIGHTNING-DEV-SITE/lightning-dev-site/render.py
+1501556250|Max Fang|A|/LIGHTNING-DEV-SITE/lightning-dev-site/templates/jekyll_header.md
+1501556934|Max Fang|D|/LIGHTNING-DEV-SITE/lightning-dev-site/_pages/installation.md
+1501556934|Max Fang|A|/LIGHTNING-DEV-SITE/lightning-dev-site/guides/installation.md
+1501556934|Max Fang|A|/LIGHTNING-DEV-SITE/lightning-dev-site/guides/javascript-grpc.md
+1501556934|Max Fang|A|/LIGHTNING-DEV-SITE/lightning-dev-site/guides/python-grpc.md
+1501557191|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_layouts/home.html
+1501557191|Max Fang|D|/LIGHTNING-DEV-SITE/lightning-dev-site/_pages/docker-guide.md
+1501557191|Max Fang|D|/LIGHTNING-DEV-SITE/lightning-dev-site/_pages/docs.md
+1501557191|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_pages/tutorial.md
+1501557191|Max Fang|A|/LIGHTNING-DEV-SITE/lightning-dev-site/guides/docker-guide.md
+1501557191|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/guides/installation.md
+1501557191|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/tutorial/01-lncli.md
+1501559041|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/render.py
+1501559041|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/update_and_render.sh
+1501559069|Max Fang|D|/LIGHTNING-DEV-SITE/lightning-dev-site/guides/docker-guide.md
+1501559069|Max Fang|A|/LIGHTNING-DEV-SITE/lightning-dev-site/guides/docker.md
+1501559069|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/guides/installation.md
+1501559069|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/tutorial/01-lncli.md
+1501718011|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/render.py
+1501718011|Max Fang|A|/LIGHTNING-DEV-SITE/lightning-dev-site/templates/base.md
+1501718011|Max Fang|A|/LIGHTNING-DEV-SITE/lightning-dev-site/templates/installation_footer.md
+1501718011|Max Fang|D|/LIGHTNING-DEV-SITE/lightning-dev-site/templates/jekyll_header.md
+1501725350|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_config.yml
+1501725380|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/guides/docker.md
+1501725380|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/guides/installation.md
+1501725380|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/guides/javascript-grpc.md
+1501725380|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/guides/python-grpc.md
+1501725380|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/templates/installation_footer.md
+1501804004|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/tutorial/01-lncli.md
+1501804024|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/guides/javascript-grpc.md
+1501804024|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/guides/python-grpc.md
+1501805748|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_includes/header.html
+1501805748|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_layouts/home.html
+1501805748|Max Fang|A|/LIGHTNING-DEV-SITE/lightning-dev-site/guides/index.md
+1501805748|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/guides/installation.md
+1501805748|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/templates/installation_footer.md
+1501806150|Max Fang|A|/LIGHTNING-DEV-SITE/lightning-dev-site/_includes/icon-github.html
+1501818965|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/README.md
+1501818965|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_config.yml
+1501818965|Max Fang|A|/LIGHTNING-DEV-SITE/lightning-dev-site/deploy.sh
+1502138627|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_includes/head.html
+1502138627|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_includes/header.html
+1502138627|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_sass/minima/_base.scss
+1502146954|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_layouts/home.html
+1502146954|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_pages/resources.md
+1502152716|Max Fang|D|/LIGHTNING-DEV-SITE/lightning-dev-site/s3_website.yml
+1502153062|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/render.py
+1502153062|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/update_and_render.sh
+1502153135|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/README.md
+1502155750|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_pages/resources.md
+1502214760|Max Fang|A|/LIGHTNING-DEV-SITE/lightning-dev-site/_pages/overview.md
+1502214790|Max Fang|D|/LIGHTNING-DEV-SITE/lightning-dev-site/_pages/tutorial.md
+1502214790|Max Fang|A|/LIGHTNING-DEV-SITE/lightning-dev-site/tutorial/index.md
+1502243780|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_pages/overview.md
+1502256845|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/guides/installation.md
+1502256845|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/guides/javascript-grpc.md
+1502256845|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/guides/python-grpc.md
+1502256845|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/update_and_render.sh
+1502326709|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_pages/overview.md
+1502332993|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_pages/overview.md
+1502406421|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/guides/installation.md
+1502406421|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/tutorial/01-lncli.md
+1502423405|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_pages/overview.md
+1502423975|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_sass/minima/_base.scss
+1502494034|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_layouts/home.html
+1502494034|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_pages/overview.md
+1502494034|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/guides/index.md
+1502494034|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/tutorial/04-webapp-integration.md
+1502494034|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/tutorial/index.md
+1502497906|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_layouts/home.html
+1502497906|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_pages/overview.md
+1502503845|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/tutorial/01-lncli.md
+1502503845|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/tutorial/02-web-client.md
+1502505211|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/guides/javascript-grpc.md
+1502505211|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/guides/python-grpc.md
+1502505211|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/tutorial/03-rpc-client.md
+1502508637|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_includes/head.html
+1502508637|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_includes/header.html
+1502508637|Max Fang|A|/LIGHTNING-DEV-SITE/lightning-dev-site/assets/dropdown.css
+1502508750|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_includes/header.html
+1502674660|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_layouts/home.html
+1502674660|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_pages/resources.md
+1503330375|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_layouts/home.html
+1503330375|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_pages/resources.md
+1503330375|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/tutorial/01-lncli.md
+1503330375|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/tutorial/02-web-client.md
+1503330375|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/tutorial/03-rpc-client.md
+1503330375|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/tutorial/04-webapp-integration.md
+1503522879|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_layouts/home.html
+1503593464|James O'Beirne|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_pages/overview.md
+1503692813|Grant T. Olson|M|/LIGHTNING-DEV-SITE/lightning-dev-site/tutorial/01-lncli.md
+1503694100|Grant T. Olson|M|/LIGHTNING-DEV-SITE/lightning-dev-site/tutorial/01-lncli.md
+1503694636|Grant T. Olson|M|/LIGHTNING-DEV-SITE/lightning-dev-site/tutorial/02-web-client.md
+1503695239|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/guides/docker.md
+1503695239|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/guides/installation.md
+1503695239|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/update_and_render.sh
+1503695641|Grant T. Olson|M|/LIGHTNING-DEV-SITE/lightning-dev-site/tutorial/02-web-client.md
+1503786958|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/README.md
+1503786958|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_pages/resources.md
+1503787293|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/tutorial/03-rpc-client.md
+1504160641|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_pages/overview.md
+1504833734|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_layouts/home.html
+1510812235|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_pages/resources.md
+1512345702|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_pages/resources.md
+1512947578|Chad Barraford|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_pages/overview.md
+1513853035|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/guides/docker.md
+1513853035|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/guides/installation.md
+1513853035|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/guides/python-grpc.md
+1513859904|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_pages/resources.md
+1513945811|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/guides/installation.md
+1514068434|Andreas Tasch|M|/LIGHTNING-DEV-SITE/lightning-dev-site/tutorial/01-lncli.md
+1514124745|Mimmo Cosenza|M|/LIGHTNING-DEV-SITE/lightning-dev-site/tutorial/01-lncli.md
+1514196753|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/tutorial/01-lncli.md
+1514244560|Andreas Tasch|M|/LIGHTNING-DEV-SITE/lightning-dev-site/tutorial/01-lncli.md
+1515032030|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_layouts/home.html
+1515032030|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_pages/resources.md
+1515032030|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/tutorial/01-lncli.md
+1515032030|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/tutorial/02-web-client.md
+1515032030|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/tutorial/03-rpc-client.md
+1515032030|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/tutorial/04-webapp-integration.md
+1515712549|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_layouts/home.html
+1515712549|Max Fang|A|/LIGHTNING-DEV-SITE/lightning-dev-site/_pages/lapps.md
+1515712549|Max Fang|A|/LIGHTNING-DEV-SITE/lightning-dev-site/assets/lapps/lnd_desktop_app.png
+1515712549|Max Fang|A|/LIGHTNING-DEV-SITE/lightning-dev-site/assets/lapps/zap.png
+1515822914|Alex|M|/LIGHTNING-DEV-SITE/lightning-dev-site/guides/installation.md
+1515822914|Alex|M|/LIGHTNING-DEV-SITE/lightning-dev-site/tutorial/01-lncli.md
+1516005753|Daniel McNally|M|/LIGHTNING-DEV-SITE/lightning-dev-site/guides/javascript-grpc.md
+1516651359|Tankred Hase|M|/LIGHTNING-DEV-SITE/lightning-dev-site/tutorial/01-lncli.md
+1516652605|Tankred Hase|M|/LIGHTNING-DEV-SITE/lightning-dev-site/tutorial/01-lncli.md
+1516652627|Tankred Hase|M|/LIGHTNING-DEV-SITE/lightning-dev-site/tutorial/01-lncli.md
+1516665333|Tankred Hase|M|/LIGHTNING-DEV-SITE/lightning-dev-site/tutorial/01-lncli.md
+1517186421|Chad Barraford|M|/LIGHTNING-DEV-SITE/lightning-dev-site/guides/installation.md
+1517187575|Andreas Tasch|M|/LIGHTNING-DEV-SITE/lightning-dev-site/guides/installation.md
+1517319485|Eric Carmichael|M|/LIGHTNING-DEV-SITE/lightning-dev-site/tutorial/01-lncli.md
+1517345851|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_pages/lapps.md
+1517348002|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_pages/lapps.md
+1517350115|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_pages/lapps.md
+1517350115|Max Fang|A|/LIGHTNING-DEV-SITE/lightning-dev-site/assets/lapps/lnd.fun.png
+1517350115|Max Fang|A|/LIGHTNING-DEV-SITE/lightning-dev-site/assets/lapps/thunderdice.png
+1517350115|Max Fang|A|/LIGHTNING-DEV-SITE/lightning-dev-site/assets/lapps/yalls.png
+1518717905|Daniel McNally|M|/LIGHTNING-DEV-SITE/lightning-dev-site/guides/docker.md
+1518717905|Daniel McNally|M|/LIGHTNING-DEV-SITE/lightning-dev-site/guides/javascript-grpc.md
+1518717905|Daniel McNally|M|/LIGHTNING-DEV-SITE/lightning-dev-site/guides/python-grpc.md
+1519945086|Alex Gessner|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_pages/overview.md
+1520029587|Alex Gessner|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_pages/overview.md
+1520029587|Alex Gessner|M|/LIGHTNING-DEV-SITE/lightning-dev-site/guides/docker.md
+1520029587|Alex Gessner|M|/LIGHTNING-DEV-SITE/lightning-dev-site/guides/javascript-grpc.md
+1520029587|Alex Gessner|M|/LIGHTNING-DEV-SITE/lightning-dev-site/guides/python-grpc.md
+1520029587|Alex Gessner|M|/LIGHTNING-DEV-SITE/lightning-dev-site/tutorial/01-lncli.md
+1520029587|Alex Gessner|M|/LIGHTNING-DEV-SITE/lightning-dev-site/tutorial/04-webapp-integration.md
+1520060767|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/guides/docker.md
+1520060767|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/guides/installation.md
+1520060767|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/guides/javascript-grpc.md
+1520060767|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/guides/python-grpc.md
+1520066168|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_pages/lapps.md
+1521014502|bryanvu|M|/LIGHTNING-DEV-SITE/lightning-dev-site/guides/installation.md
+1521014502|bryanvu|M|/LIGHTNING-DEV-SITE/lightning-dev-site/tutorial/01-lncli.md
+1521073326|bryanvu|M|/LIGHTNING-DEV-SITE/lightning-dev-site/tutorial/02-web-client.md
+1521165872|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/tutorial/01-lncli.md
+1522702511|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_pages/lapps.md
+1522805906|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/guides/docker.md
+1522805906|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/guides/installation.md
+1522805906|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/guides/javascript-grpc.md
+1522805906|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/guides/python-grpc.md
+1523316767|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_layouts/home.html
+1523316767|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_pages/resources.md
+1523316767|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/tutorial/01-lncli.md
+1523316767|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/tutorial/02-web-client.md
+1523316767|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/tutorial/03-rpc-client.md
+1523316767|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/tutorial/04-webapp-integration.md
+1523316892|Max Fang|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_pages/lapps.md
+1533357986|Valentine Wallace|M|/LIGHTNING-DEV-SITE/lightning-dev-site/tutorial/01-lncli.md
+1534405509|Michael Rooke|M|/LIGHTNING-DEV-SITE/lightning-dev-site/tutorial/01-lncli.md
+1534405509|Michael Rooke|M|/LIGHTNING-DEV-SITE/lightning-dev-site/tutorial/02-web-client.md
+1534405509|Michael Rooke|M|/LIGHTNING-DEV-SITE/lightning-dev-site/tutorial/03-rpc-client.md
+1544671325|Olaoluwa Osuntokun|M|/LIGHTNING-DEV-SITE/lightning-dev-site/README.md
+1544671341|Olaoluwa Osuntokun|M|/LIGHTNING-DEV-SITE/lightning-dev-site/guides/docker.md
+1544671341|Olaoluwa Osuntokun|M|/LIGHTNING-DEV-SITE/lightning-dev-site/guides/installation.md
+1544671341|Olaoluwa Osuntokun|M|/LIGHTNING-DEV-SITE/lightning-dev-site/guides/javascript-grpc.md
+1544671341|Olaoluwa Osuntokun|M|/LIGHTNING-DEV-SITE/lightning-dev-site/guides/python-grpc.md
+1544671797|Olaoluwa Osuntokun|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_pages/contribute.md
+1544673649|Olaoluwa Osuntokun|M|/LIGHTNING-DEV-SITE/lightning-dev-site/guides/installation.md
+1567261670|openoms|M|/LIGHTNING-DEV-SITE/lightning-dev-site/README.md
+1567273233|openoms|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_pages/contribute.md
+1567622279|openoms|M|/LIGHTNING-DEV-SITE/lightning-dev-site/guides/javascript-grpc.md
+1567622279|openoms|M|/LIGHTNING-DEV-SITE/lightning-dev-site/guides/python-grpc.md
+1567845967|openoms|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_pages/overview.md
+1567846017|openoms|M|/LIGHTNING-DEV-SITE/lightning-dev-site/tutorial/01-lncli.md
+1568206181|openoms|M|/LIGHTNING-DEV-SITE/lightning-dev-site/guides/installation.md
+1568206230|openoms|M|/LIGHTNING-DEV-SITE/lightning-dev-site/tutorial/01-lncli.md
+1568211823|openoms|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_pages/overview.md
+1568213724|openoms|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_pages/overview.md
+1568213888|openoms|M|/LIGHTNING-DEV-SITE/lightning-dev-site/tutorial/01-lncli.md
+1568213888|openoms|M|/LIGHTNING-DEV-SITE/lightning-dev-site/tutorial/index.md
+1568214870|openoms|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_pages/lapps.md
+1568218698|openoms|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_pages/lapps.md
+1568218698|openoms|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_pages/resources.md
+1568219536|openoms|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_pages/lapps.md
+1569857209|openoms|M|/LIGHTNING-DEV-SITE/lightning-dev-site/render.py
+1569926531|openoms|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_pages/overview.md
+1569926531|openoms|M|/LIGHTNING-DEV-SITE/lightning-dev-site/guides/installation.md
+1569944008|openoms|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_pages/lapps.md
+1569944008|openoms|M|/LIGHTNING-DEV-SITE/lightning-dev-site/assets/lapps/lnd_desktop_app.png
+1569944008|openoms|M|/LIGHTNING-DEV-SITE/lightning-dev-site/assets/lapps/zap.png
+1569954605|openoms|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_pages/overview.md
+1570033878|openoms|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_pages/lapps.md
+1570167999|bryanvu|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_layouts/home.html
+1570292322|openoms|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_pages/lapps.md
+1570294367|bryanvu|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_layouts/home.html
+1572299153|openoms|M|/LIGHTNING-DEV-SITE/lightning-dev-site/guides/docker.md
+1572299177|openoms|M|/LIGHTNING-DEV-SITE/lightning-dev-site/guides/installation.md
+1572300997|openoms|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_config.yml
+1572300997|openoms|M|/LIGHTNING-DEV-SITE/lightning-dev-site/_includes/footer.html
+1582179798|Olaoluwa Osuntokun|M|/LIGHTNING-DEV-SITE/lightning-dev-site/tutorial/01-lncli.md

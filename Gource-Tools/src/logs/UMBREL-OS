@@ -1,0 +1,670 @@
+1582098244|BT|A|/UMBREL-OS/umbrel-OS/LICENSE
+1582098244|BT|A|/UMBREL-OS/umbrel-OS/README.md
+1582098445|BT|M|/UMBREL-OS/umbrel-OS/README.md
+1582108755|Mayank|M|/UMBREL-OS/umbrel-OS/README.md
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/.gitignore
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/build.sh
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/config
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/depends
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/export-image/00-allow-rerun/00-run.sh
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/export-image/01-set-sources/01-run.sh
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/export-image/02-network/01-run.sh
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/export-image/02-network/files/resolv.conf
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/export-image/03-set-partuuid/00-run.sh
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/export-image/04-finalise/01-run.sh
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/export-image/prerun.sh
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/export-noobs/00-release/00-run.sh
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/export-noobs/00-release/files/OS.png
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/export-noobs/00-release/files/marketing/slides_vga/A.png
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/export-noobs/00-release/files/marketing/slides_vga/B.png
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/export-noobs/00-release/files/marketing/slides_vga/C.png
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/export-noobs/00-release/files/marketing/slides_vga/D.png
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/export-noobs/00-release/files/marketing/slides_vga/E.png
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/export-noobs/00-release/files/marketing/slides_vga/F.png
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/export-noobs/00-release/files/marketing/slides_vga/G.png
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/export-noobs/00-release/files/os.json
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/export-noobs/00-release/files/partition_setup.sh
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/export-noobs/00-release/files/partitions.json
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/export-noobs/00-release/files/release_notes.txt
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/export-noobs/prerun.sh
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/scripts/common
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/scripts/dependencies_check
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/scripts/remove-comments.sed
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage0/00-configure-apt/00-run.sh
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage0/00-configure-apt/files/51cache
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage0/00-configure-apt/files/raspberrypi.gpg.key
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage0/00-configure-apt/files/raspi.list
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage0/00-configure-apt/files/sources.list
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage0/01-locale/00-debconf
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage0/01-locale/00-packages
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage0/02-firmware/01-packages
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage0/files/raspberrypi.gpg
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage0/prerun.sh
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage1/00-boot-files/00-run.sh
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage1/00-boot-files/files/cmdline.txt
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage1/00-boot-files/files/config.txt
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage1/01-sys-tweaks/00-patches/01-bashrc.diff
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage1/01-sys-tweaks/00-patches/series
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage1/01-sys-tweaks/00-run.sh
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage1/01-sys-tweaks/files/fstab
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage1/01-sys-tweaks/files/noclear.conf
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage1/02-net-tweaks/00-packages
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage1/02-net-tweaks/00-run.sh
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage1/03-install-packages/00-packages
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage1/prerun.sh
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage2/00-copies-and-fills/01-packages
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage2/00-copies-and-fills/02-run.sh
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage2/01-sys-tweaks/00-debconf
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage2/01-sys-tweaks/00-packages
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage2/01-sys-tweaks/00-packages-nr
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage2/01-sys-tweaks/00-patches/01-useradd.diff
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage2/01-sys-tweaks/00-patches/02-swap.diff
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage2/01-sys-tweaks/00-patches/04-inputrc.diff
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage2/01-sys-tweaks/00-patches/05-path.diff
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage2/01-sys-tweaks/00-patches/07-resize-init.diff
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage2/01-sys-tweaks/00-patches/series
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage2/01-sys-tweaks/01-run.sh
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage2/01-sys-tweaks/files/50raspi
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage2/01-sys-tweaks/files/90-qemu.rules
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage2/01-sys-tweaks/files/console-setup
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage2/01-sys-tweaks/files/rc.local
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage2/01-sys-tweaks/files/resize2fs_once
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage2/01-sys-tweaks/files/ttyoutput.conf
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage2/02-net-tweaks/00-packages
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage2/02-net-tweaks/01-run.sh
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage2/02-net-tweaks/files/wait.conf
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage2/02-net-tweaks/files/wpa_supplicant.conf
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage2/03-accept-mathematica-eula/00-debconf
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage2/03-set-timezone/02-run.sh
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage2/04-docker-compose/00-packages
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage2/04-docker-compose/01-run.sh
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage2/05-prepare-home-dir/01-run.sh
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage2/06-fix-docker-perms/01-run.sh
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage2/07-pip-install-deps/01-run.sh
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage2/EXPORT_IMAGE
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage2/prerun.sh
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage3/00-install-packages/00-debconf
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage3/00-install-packages/00-packages
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage3/00-install-packages/00-packages-nr
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage3/00-install-packages/01-run.sh
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage3/01-tweaks/00-run.sh
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage3/SKIP
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage3/prerun.sh
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage4/00-install-packages/00-debconf
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage4/00-install-packages/00-packages
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage4/00-install-packages/00-packages-nr
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage4/00-install-packages/01-packages
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage4/00-install-packages/02-packages
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage4/01-console-autologin/00-run.sh
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage4/02-extras/00-run.sh
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage4/03-magpi/00-run.sh
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage4/03-magpi/files/.gitignore
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage4/04-enable-xcompmgr/00-run.sh
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage4/EXPORT_IMAGE
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage4/EXPORT_NOOBS
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage4/SKIP
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage4/prerun.sh
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage5/00-install-extras/00-packages
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage5/00-install-libreoffice/00-packages
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage5/EXPORT_IMAGE
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage5/EXPORT_NOOBS
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage5/SKIP
+1582517380|nolim1t|A|/UMBREL-OS/umbrel-OS/stage5/prerun.sh
+1582517692|nolim1t|M|/UMBREL-OS/umbrel-OS/config
+1582517778|nolim1t|M|/UMBREL-OS/umbrel-OS/README.md
+1582518108|nolim1t|A|/UMBREL-OS/umbrel-OS/.github/workflows/release.yml
+1582518246|nolim1t|M|/UMBREL-OS/umbrel-OS/.github/workflows/release.yml
+1582518425|nolim1t|M|/UMBREL-OS/umbrel-OS/.github/workflows/release.yml
+1582518911|nolim1t|M|/UMBREL-OS/umbrel-OS/.github/workflows/release.yml
+1582521239|nolim1t|D|/UMBREL-OS/umbrel-OS/stage3/00-install-packages/00-debconf
+1582521239|nolim1t|D|/UMBREL-OS/umbrel-OS/stage3/00-install-packages/00-packages
+1582521239|nolim1t|D|/UMBREL-OS/umbrel-OS/stage3/00-install-packages/00-packages-nr
+1582521239|nolim1t|D|/UMBREL-OS/umbrel-OS/stage3/00-install-packages/01-run.sh
+1582521239|nolim1t|D|/UMBREL-OS/umbrel-OS/stage3/01-tweaks/00-run.sh
+1582521239|nolim1t|D|/UMBREL-OS/umbrel-OS/stage3/SKIP
+1582521239|nolim1t|D|/UMBREL-OS/umbrel-OS/stage3/prerun.sh
+1582521239|nolim1t|D|/UMBREL-OS/umbrel-OS/stage4/00-install-packages/00-debconf
+1582521239|nolim1t|D|/UMBREL-OS/umbrel-OS/stage4/00-install-packages/00-packages
+1582521239|nolim1t|D|/UMBREL-OS/umbrel-OS/stage4/00-install-packages/00-packages-nr
+1582521239|nolim1t|D|/UMBREL-OS/umbrel-OS/stage4/00-install-packages/01-packages
+1582521239|nolim1t|D|/UMBREL-OS/umbrel-OS/stage4/00-install-packages/02-packages
+1582521239|nolim1t|D|/UMBREL-OS/umbrel-OS/stage4/01-console-autologin/00-run.sh
+1582521239|nolim1t|D|/UMBREL-OS/umbrel-OS/stage4/02-extras/00-run.sh
+1582521239|nolim1t|D|/UMBREL-OS/umbrel-OS/stage4/03-magpi/00-run.sh
+1582521239|nolim1t|D|/UMBREL-OS/umbrel-OS/stage4/03-magpi/files/.gitignore
+1582521239|nolim1t|D|/UMBREL-OS/umbrel-OS/stage4/04-enable-xcompmgr/00-run.sh
+1582521239|nolim1t|D|/UMBREL-OS/umbrel-OS/stage4/EXPORT_IMAGE
+1582521239|nolim1t|D|/UMBREL-OS/umbrel-OS/stage4/EXPORT_NOOBS
+1582521239|nolim1t|D|/UMBREL-OS/umbrel-OS/stage4/SKIP
+1582521239|nolim1t|D|/UMBREL-OS/umbrel-OS/stage4/prerun.sh
+1582521239|nolim1t|D|/UMBREL-OS/umbrel-OS/stage5/00-install-extras/00-packages
+1582521239|nolim1t|D|/UMBREL-OS/umbrel-OS/stage5/00-install-libreoffice/00-packages
+1582521239|nolim1t|D|/UMBREL-OS/umbrel-OS/stage5/EXPORT_IMAGE
+1582521239|nolim1t|D|/UMBREL-OS/umbrel-OS/stage5/EXPORT_NOOBS
+1582521239|nolim1t|D|/UMBREL-OS/umbrel-OS/stage5/SKIP
+1582521239|nolim1t|D|/UMBREL-OS/umbrel-OS/stage5/prerun.sh
+1582525518|nolim1t|M|/UMBREL-OS/umbrel-OS/.github/workflows/release.yml
+1582528029|nolim1t|M|/UMBREL-OS/umbrel-OS/.github/workflows/release.yml
+1582530589|nolim1t|M|/UMBREL-OS/umbrel-OS/.github/workflows/release.yml
+1582532328|nolim1t|M|/UMBREL-OS/umbrel-OS/.github/workflows/release.yml
+1582535139|nolim1t|M|/UMBREL-OS/umbrel-OS/README.md
+1582567974|BT|M|/UMBREL-OS/umbrel-OS/.github/workflows/release.yml
+1582604848|nolim1t|M|/UMBREL-OS/umbrel-OS/.github/workflows/release.yml
+1582613868|nolim1t|M|/UMBREL-OS/umbrel-OS/README.md
+1582620076|nolim1t|M|/UMBREL-OS/umbrel-OS/README.md
+1582625143|BT|A|/UMBREL-OS/umbrel-OS/CODE_OF_CONDUCT.md
+1582689085|nolim1t|A|/UMBREL-OS/umbrel-OS/CONTRIBUTING.md
+1582713771|BT|M|/UMBREL-OS/umbrel-OS/.github/workflows/release.yml
+1582782577|nolim1t|M|/UMBREL-OS/umbrel-OS/stage2/04-docker-compose/01-run.sh
+1582782577|nolim1t|A|/UMBREL-OS/umbrel-OS/stage2/04-docker-compose/files/docker-compose.yml
+1582795424|nolim1t|A|/UMBREL-OS/umbrel-OS/stage2/04-docker-compose/files/umbrel-createwallet.py
+1582795424|nolim1t|A|/UMBREL-OS/umbrel-OS/stage2/04-docker-compose/files/umbrel-unlock.py
+1582795521|nolim1t|M|/UMBREL-OS/umbrel-OS/stage2/04-docker-compose/01-run.sh
+1582795656|nolim1t|D|/UMBREL-OS/umbrel-OS/stage2/07-pip-install-deps/01-run.sh
+1582797805|nolim1t|A|/UMBREL-OS/umbrel-OS/stage2/07-configure-LND/01-run.sh
+1582797805|nolim1t|A|/UMBREL-OS/umbrel-OS/stage2/07-configure-LND/files/lnd.conf
+1582797935|nolim1t|M|/UMBREL-OS/umbrel-OS/stage2/04-docker-compose/files/umbrel-createwallet.py
+1582797935|nolim1t|M|/UMBREL-OS/umbrel-OS/stage2/04-docker-compose/files/umbrel-unlock.py
+1582797959|nolim1t|M|/UMBREL-OS/umbrel-OS/stage2/04-docker-compose/files/docker-compose.yml
+1582798812|nolim1t|A|/UMBREL-OS/umbrel-OS/stage2/04-docker-compose/files/compose-service
+1582799287|nolim1t|M|/UMBREL-OS/umbrel-OS/stage2/04-docker-compose/01-run.sh
+1582800626|nolim1t|M|/UMBREL-OS/umbrel-OS/stage2/04-docker-compose/01-run.sh
+1582800626|nolim1t|M|/UMBREL-OS/umbrel-OS/stage2/04-docker-compose/files/compose-service
+1582801297|nolim1t|M|/UMBREL-OS/umbrel-OS/stage2/04-docker-compose/01-run.sh
+1582803652|nolim1t|M|/UMBREL-OS/umbrel-OS/stage2/04-docker-compose/01-run.sh
+1582820592|nolim1t|M|/UMBREL-OS/umbrel-OS/stage2/04-docker-compose/01-run.sh
+1582859413|nolim1t|M|/UMBREL-OS/umbrel-OS/stage2/04-docker-compose/01-run.sh
+1582859606|nolim1t|M|/UMBREL-OS/umbrel-OS/stage2/04-docker-compose/01-run.sh
+1582863668|nolim1t|M|/UMBREL-OS/umbrel-OS/stage2/04-docker-compose/01-run.sh
+1582865941|nolim1t|M|/UMBREL-OS/umbrel-OS/stage2/04-docker-compose/01-run.sh
+1582866361|nolim1t|M|/UMBREL-OS/umbrel-OS/stage2/01-sys-tweaks/files/rc.local
+1582866498|nolim1t|M|/UMBREL-OS/umbrel-OS/stage2/01-sys-tweaks/files/rc.local
+1582866589|nolim1t|M|/UMBREL-OS/umbrel-OS/README.md
+1582971336|nolim1t|M|/UMBREL-OS/umbrel-OS/stage2/04-docker-compose/01-run.sh
+1583046796|nolim1t|M|/UMBREL-OS/umbrel-OS/stage2/01-sys-tweaks/files/rc.local
+1583046853|nolim1t|M|/UMBREL-OS/umbrel-OS/stage2/01-sys-tweaks/files/rc.local
+1583047641|nolim1t|M|/UMBREL-OS/umbrel-OS/stage2/01-sys-tweaks/01-run.sh
+1583047708|nolim1t|M|/UMBREL-OS/umbrel-OS/stage2/01-sys-tweaks/01-run.sh
+1583047948|nolim1t|M|/UMBREL-OS/umbrel-OS/README.md
+1583048835|nolim1t|M|/UMBREL-OS/umbrel-OS/stage2/01-sys-tweaks/files/rc.local
+1583048991|nolim1t|M|/UMBREL-OS/umbrel-OS/stage2/01-sys-tweaks/01-run.sh
+1583049085|nolim1t|M|/UMBREL-OS/umbrel-OS/stage2/01-sys-tweaks/files/rc.local
+1583049175|nolim1t|M|/UMBREL-OS/umbrel-OS/README.md
+1583049306|nolim1t|M|/UMBREL-OS/umbrel-OS/stage2/05-prepare-home-dir/01-run.sh
+1583049932|nolim1t|M|/UMBREL-OS/umbrel-OS/stage2/07-configure-LND/files/lnd.conf
+1583050328|nolim1t|A|/UMBREL-OS/umbrel-OS/stage2/08-configure-bitcoind/01-run.sh
+1583050328|nolim1t|A|/UMBREL-OS/umbrel-OS/stage2/08-configure-bitcoind/files/bitcoin.conf
+1583050468|nolim1t|M|/UMBREL-OS/umbrel-OS/stage2/08-configure-bitcoind/01-run.sh
+1583057066|nolim1t|A|/UMBREL-OS/umbrel-OS/stage2/09-configure-tor/01-run.sh
+1583057066|nolim1t|A|/UMBREL-OS/umbrel-OS/stage2/09-configure-tor/files/torrc
+1583085853|nolim1t|M|/UMBREL-OS/umbrel-OS/README.md
+1583147618|nolim1t|M|/UMBREL-OS/umbrel-OS/stage2/04-docker-compose/01-run.sh
+1583147618|nolim1t|M|/UMBREL-OS/umbrel-OS/stage2/05-prepare-home-dir/01-run.sh
+1583147618|nolim1t|M|/UMBREL-OS/umbrel-OS/stage2/06-fix-docker-perms/01-run.sh
+1583165145|nolim1t|M|/UMBREL-OS/umbrel-OS/stage2/06-fix-docker-perms/01-run.sh
+1583165349|nolim1t|M|/UMBREL-OS/umbrel-OS/stage2/09-configure-tor/01-run.sh
+1583206465|nolim1t|M|/UMBREL-OS/umbrel-OS/stage2/08-configure-bitcoind/files/bitcoin.conf
+1583206531|nolim1t|M|/UMBREL-OS/umbrel-OS/stage2/08-configure-bitcoind/files/bitcoin.conf
+1583207068|nolim1t|A|/UMBREL-OS/umbrel-OS/stage2/10-prepare-nginx/01-run.sh
+1583207068|nolim1t|A|/UMBREL-OS/umbrel-OS/stage2/10-prepare-nginx/files/conf.d/default.conf
+1583207068|nolim1t|A|/UMBREL-OS/umbrel-OS/stage2/10-prepare-nginx/files/log/.gitkeep
+1583207068|nolim1t|A|/UMBREL-OS/umbrel-OS/stage2/10-prepare-nginx/files/mime.types
+1583207068|nolim1t|A|/UMBREL-OS/umbrel-OS/stage2/10-prepare-nginx/files/nginx.conf
+1583207068|nolim1t|A|/UMBREL-OS/umbrel-OS/stage2/10-prepare-nginx/files/www/index.html
+1583207310|nolim1t|M|/UMBREL-OS/umbrel-OS/stage2/05-prepare-home-dir/01-run.sh
+1583207310|nolim1t|M|/UMBREL-OS/umbrel-OS/stage2/08-configure-bitcoind/01-run.sh
+1583207909|nolim1t|M|/UMBREL-OS/umbrel-OS/stage2/01-sys-tweaks/files/rc.local
+1583208231|nolim1t|M|/UMBREL-OS/umbrel-OS/stage2/04-docker-compose/01-run.sh
+1583208231|nolim1t|A|/UMBREL-OS/umbrel-OS/stage2/04-docker-compose/files/build/lnd-unlock/Dockerfile
+1583208231|nolim1t|A|/UMBREL-OS/umbrel-OS/stage2/04-docker-compose/files/build/lnd-unlock/unlock.sh
+1583208231|nolim1t|M|/UMBREL-OS/umbrel-OS/stage2/04-docker-compose/files/docker-compose.yml
+1583208231|nolim1t|M|/UMBREL-OS/umbrel-OS/stage2/04-docker-compose/files/umbrel-createwallet.py
+1583208231|nolim1t|M|/UMBREL-OS/umbrel-OS/stage2/04-docker-compose/files/umbrel-unlock.py
+1583209710|nolim1t|M|/UMBREL-OS/umbrel-OS/stage2/10-prepare-nginx/01-run.sh
+1583463424|nolim1t|M|/UMBREL-OS/umbrel-OS/stage2/04-docker-compose/files/compose-service
+1583464758|nolim1t|M|/UMBREL-OS/umbrel-OS/stage2/04-docker-compose/files/umbrel-createwallet.py
+1583465176|nolim1t|M|/UMBREL-OS/umbrel-OS/stage2/04-docker-compose/files/umbrel-createwallet.py
+1583470760|nolim1t|M|/UMBREL-OS/umbrel-OS/stage2/04-docker-compose/files/compose-service
+1583471224|nolim1t|M|/UMBREL-OS/umbrel-OS/stage2/04-docker-compose/files/compose-service
+1583471794|nolim1t|M|/UMBREL-OS/umbrel-OS/stage2/04-docker-compose/01-run.sh
+1583471794|nolim1t|D|/UMBREL-OS/umbrel-OS/stage2/04-docker-compose/files/build/lnd-unlock/Dockerfile
+1583471794|nolim1t|D|/UMBREL-OS/umbrel-OS/stage2/04-docker-compose/files/build/lnd-unlock/unlock.sh
+1583471794|nolim1t|D|/UMBREL-OS/umbrel-OS/stage2/04-docker-compose/files/docker-compose.yml
+1583471847|nolim1t|M|/UMBREL-OS/umbrel-OS/stage2/05-prepare-home-dir/01-run.sh
+1583471881|nolim1t|M|/UMBREL-OS/umbrel-OS/stage2/04-docker-compose/01-run.sh
+1583472119|nolim1t|M|/UMBREL-OS/umbrel-OS/stage2/07-configure-LND/01-run.sh
+1583472223|nolim1t|M|/UMBREL-OS/umbrel-OS/stage2/08-configure-bitcoind/01-run.sh
+1583472305|nolim1t|D|/UMBREL-OS/umbrel-OS/stage2/10-prepare-nginx/01-run.sh
+1583472305|nolim1t|D|/UMBREL-OS/umbrel-OS/stage2/10-prepare-nginx/files/conf.d/default.conf
+1583472305|nolim1t|D|/UMBREL-OS/umbrel-OS/stage2/10-prepare-nginx/files/log/.gitkeep
+1583472305|nolim1t|D|/UMBREL-OS/umbrel-OS/stage2/10-prepare-nginx/files/mime.types
+1583472305|nolim1t|D|/UMBREL-OS/umbrel-OS/stage2/10-prepare-nginx/files/nginx.conf
+1583472305|nolim1t|D|/UMBREL-OS/umbrel-OS/stage2/10-prepare-nginx/files/www/index.html
+1583473402|nolim1t|M|/UMBREL-OS/umbrel-OS/stage2/01-sys-tweaks/files/rc.local
+1583934124|nolim1t|M|/UMBREL-OS/umbrel-OS/stage2/04-docker-compose/files/compose-service
+1584015630|nolim1t|M|/UMBREL-OS/umbrel-OS/README.md
+1584016018|nolim1t|M|/UMBREL-OS/umbrel-OS/README.md
+1585751678|nolim1t|D|/UMBREL-OS/umbrel-OS/stage2/08-configure-bitcoind/01-run.sh
+1585751678|nolim1t|D|/UMBREL-OS/umbrel-OS/stage2/08-configure-bitcoind/files/bitcoin.conf
+1585751678|nolim1t|A|/UMBREL-OS/umbrel-OS/stage2/08-set-bitcoind-perms/01-run.sh
+1586245342|nolim1t|M|/UMBREL-OS/umbrel-OS/stage2/01-sys-tweaks/files/rc.local
+1587976482|Mayank|M|/UMBREL-OS/umbrel-OS/CONTRIBUTING.md
+1587976482|Mayank|M|/UMBREL-OS/umbrel-OS/README.md
+1590085446|Mayank|M|/UMBREL-OS/umbrel-OS/stage2/04-docker-compose/01-run.sh
+1590701253|Mayank|M|/UMBREL-OS/umbrel-OS/README.md
+1590736428|BT|M|/UMBREL-OS/umbrel-OS/.github/workflows/release.yml
+1590737389|BT|M|/UMBREL-OS/umbrel-OS/.github/workflows/release.yml
+1590743938|Mayank Chhabra|M|/UMBREL-OS/umbrel-OS/README.md
+1590905622|BT|A|/UMBREL-OS/umbrel-OS/.github/workflows/on-tag-only.yml
+1590905622|BT|D|/UMBREL-OS/umbrel-OS/.github/workflows/release.yml
+1590920842|nolim1t|M|/UMBREL-OS/umbrel-OS/stage2/01-sys-tweaks/files/rc.local
+1590920899|nolim1t|M|/UMBREL-OS/umbrel-OS/stage2/01-sys-tweaks/files/rc.local
+1590938703|nolim1t|M|/UMBREL-OS/umbrel-OS/stage2/04-docker-compose/01-run.sh
+1590938738|nolim1t|M|/UMBREL-OS/umbrel-OS/stage2/01-sys-tweaks/files/rc.local
+1590945658|nolim1t|M|/UMBREL-OS/umbrel-OS/stage2/01-sys-tweaks/files/rc.local
+1590998384|nolim1t|M|/UMBREL-OS/umbrel-OS/stage2/04-docker-compose/01-run.sh
+1590998384|nolim1t|D|/UMBREL-OS/umbrel-OS/stage2/04-docker-compose/files/umbrel-createwallet.py
+1590998384|nolim1t|D|/UMBREL-OS/umbrel-OS/stage2/04-docker-compose/files/umbrel-unlock.py
+1590999086|nolim1t|M|/UMBREL-OS/umbrel-OS/README.md
+1591584738|Mayank|D|/UMBREL-OS/umbrel-OS/stage2/04-docker-compose/00-packages
+1591584738|Mayank|D|/UMBREL-OS/umbrel-OS/stage2/04-docker-compose/01-run.sh
+1591584738|Mayank|D|/UMBREL-OS/umbrel-OS/stage2/04-docker-compose/files/compose-service
+1591584738|Mayank|A|/UMBREL-OS/umbrel-OS/stage2/04-install-docker/00-run.sh
+1591584738|Mayank|A|/UMBREL-OS/umbrel-OS/stage2/05-docker-compose/01-run.sh
+1591584738|Mayank|A|/UMBREL-OS/umbrel-OS/stage2/05-docker-compose/files/compose-service
+1591584738|Mayank|D|/UMBREL-OS/umbrel-OS/stage2/05-prepare-home-dir/01-run.sh
+1591584738|Mayank|D|/UMBREL-OS/umbrel-OS/stage2/06-fix-docker-perms/01-run.sh
+1591584738|Mayank|A|/UMBREL-OS/umbrel-OS/stage2/06-prepare-home-dir/01-run.sh
+1591587590|Mayank|A|/UMBREL-OS/umbrel-OS/stage2/05-docker-compose/00-packages
+1591712293|nolim1t|M|/UMBREL-OS/umbrel-OS/stage2/01-sys-tweaks/files/rc.local
+1591800498|nolim1t|D|/UMBREL-OS/umbrel-OS/stage2/07-configure-LND/01-run.sh
+1591800498|nolim1t|D|/UMBREL-OS/umbrel-OS/stage2/07-configure-LND/files/lnd.conf
+1591800498|nolim1t|A|/UMBREL-OS/umbrel-OS/stage2/07-set-bitcoind-perms/01-run.sh
+1591800498|nolim1t|A|/UMBREL-OS/umbrel-OS/stage2/08-configure-tor/01-run.sh
+1591800498|nolim1t|A|/UMBREL-OS/umbrel-OS/stage2/08-configure-tor/files/torrc
+1591800498|nolim1t|D|/UMBREL-OS/umbrel-OS/stage2/08-set-bitcoind-perms/01-run.sh
+1591800498|nolim1t|D|/UMBREL-OS/umbrel-OS/stage2/09-configure-tor/01-run.sh
+1591800498|nolim1t|D|/UMBREL-OS/umbrel-OS/stage2/09-configure-tor/files/torrc
+1593625412|Mayank|M|/UMBREL-OS/umbrel-OS/stage0/00-configure-apt/00-run.sh
+1593627615|Mayank|M|/UMBREL-OS/umbrel-OS/stage0/00-configure-apt/00-run.sh
+1593627615|Mayank|M|/UMBREL-OS/umbrel-OS/stage2/05-docker-compose/01-run.sh
+1593628285|Mayank|M|/UMBREL-OS/umbrel-OS/stage2/05-docker-compose/00-packages
+1593636539|Mayank|M|/UMBREL-OS/umbrel-OS/stage2/05-docker-compose/00-packages
+1593700698|Mayank|M|/UMBREL-OS/umbrel-OS/depends
+1593700698|Mayank|M|/UMBREL-OS/umbrel-OS/stage0/00-configure-apt/00-run.sh
+1593700698|Mayank|M|/UMBREL-OS/umbrel-OS/stage2/05-docker-compose/00-packages
+1593700698|Mayank|M|/UMBREL-OS/umbrel-OS/stage2/05-docker-compose/01-run.sh
+1593701799|Mayank|M|/UMBREL-OS/umbrel-OS/depends
+1593701799|Mayank|M|/UMBREL-OS/umbrel-OS/stage0/00-configure-apt/00-run.sh
+1593702005|Mayank|M|/UMBREL-OS/umbrel-OS/depends
+1593702005|Mayank|M|/UMBREL-OS/umbrel-OS/stage0/00-configure-apt/00-run.sh
+1593703378|Mayank|M|/UMBREL-OS/umbrel-OS/stage0/00-configure-apt/00-run.sh
+1593703378|Mayank|M|/UMBREL-OS/umbrel-OS/stage2/05-docker-compose/01-run.sh
+1593704381|Mayank|M|/UMBREL-OS/umbrel-OS/stage0/00-configure-apt/00-run.sh
+1593707665|Mayank|M|/UMBREL-OS/umbrel-OS/stage0/00-configure-apt/00-run.sh
+1593707665|Mayank|M|/UMBREL-OS/umbrel-OS/stage2/01-sys-tweaks/files/rc.local
+1593710423|Mayank|M|/UMBREL-OS/umbrel-OS/stage0/00-configure-apt/00-run.sh
+1593710423|Mayank|M|/UMBREL-OS/umbrel-OS/stage2/05-docker-compose/01-run.sh
+1593713290|Mayank|M|/UMBREL-OS/umbrel-OS/stage0/00-configure-apt/00-run.sh
+1593714300|Mayank|M|/UMBREL-OS/umbrel-OS/stage0/00-configure-apt/00-run.sh
+1593715280|Mayank|M|/UMBREL-OS/umbrel-OS/stage0/00-configure-apt/00-run.sh
+1593716592|Mayank|M|/UMBREL-OS/umbrel-OS/stage0/00-configure-apt/00-run.sh
+1593741987|Mayank|M|/UMBREL-OS/umbrel-OS/stage0/00-configure-apt/00-run.sh
+1593741987|Mayank|M|/UMBREL-OS/umbrel-OS/stage2/05-docker-compose/01-run.sh
+1593749782|Mayank|M|/UMBREL-OS/umbrel-OS/stage2/01-sys-tweaks/files/rc.local
+1593749782|Mayank|M|/UMBREL-OS/umbrel-OS/stage2/05-docker-compose/01-run.sh
+1593751756|Mayank|M|/UMBREL-OS/umbrel-OS/stage2/05-docker-compose/01-run.sh
+1593758188|Mayank|M|/UMBREL-OS/umbrel-OS/stage2/05-docker-compose/01-run.sh
+1593760267|Mayank|A|/UMBREL-OS/umbrel-OS/.github/workflows/on-push.yml
+1593760267|Mayank|A|/UMBREL-OS/umbrel-OS/build-test.sh
+1593760332|Mayank|M|/UMBREL-OS/umbrel-OS/.github/workflows/on-push.yml
+1593760714|Mayank|M|/UMBREL-OS/umbrel-OS/build-test.sh
+1593760868|Mayank|M|/UMBREL-OS/umbrel-OS/build-test.sh
+1593760960|Mayank|M|/UMBREL-OS/umbrel-OS/build-test.sh
+1593761117|Mayank|M|/UMBREL-OS/umbrel-OS/build-test.sh
+1593761238|Mayank|M|/UMBREL-OS/umbrel-OS/build-test.sh
+1593761747|Mayank|M|/UMBREL-OS/umbrel-OS/.github/workflows/on-push.yml
+1593761747|Mayank|M|/UMBREL-OS/umbrel-OS/build-test.sh
+1593761747|Mayank|M|/UMBREL-OS/umbrel-OS/stage2/05-docker-compose/01-run.sh
+1593761779|Mayank|M|/UMBREL-OS/umbrel-OS/.github/workflows/on-push.yml
+1593761859|Mayank|M|/UMBREL-OS/umbrel-OS/.github/workflows/on-push.yml
+1593762164|Mayank|M|/UMBREL-OS/umbrel-OS/.github/workflows/on-tag-only.yml
+1593762164|Mayank|M|/UMBREL-OS/umbrel-OS/build-test.sh
+1593762164|Mayank|M|/UMBREL-OS/umbrel-OS/stage2/01-sys-tweaks/files/rc.local
+1593762356|Mayank|M|/UMBREL-OS/umbrel-OS/stage2/05-docker-compose/01-run.sh
+1593773127|Mayank|M|/UMBREL-OS/umbrel-OS/stage2/01-sys-tweaks/files/rc.local
+1593840155|Mayank|M|/UMBREL-OS/umbrel-OS/stage2/01-sys-tweaks/files/rc.local
+1593857725|Mayank|M|/UMBREL-OS/umbrel-OS/build-test.sh
+1593858603|Mayank|M|/UMBREL-OS/umbrel-OS/stage2/01-sys-tweaks/files/rc.local
+1593858603|Mayank|M|/UMBREL-OS/umbrel-OS/stage2/05-docker-compose/01-run.sh
+1593919811|Mayank|M|/UMBREL-OS/umbrel-OS/build-test.sh
+1593920066|Mayank|M|/UMBREL-OS/umbrel-OS/build-test.sh
+1593920161|Mayank|M|/UMBREL-OS/umbrel-OS/build-test.sh
+1593920421|Mayank|M|/UMBREL-OS/umbrel-OS/build-test.sh
+1593921404|Mayank|M|/UMBREL-OS/umbrel-OS/build-test.sh
+1593921444|Mayank|M|/UMBREL-OS/umbrel-OS/build-test.sh
+1593921871|Mayank|M|/UMBREL-OS/umbrel-OS/build-test.sh
+1593921991|Mayank|M|/UMBREL-OS/umbrel-OS/build-test.sh
+1593922267|Mayank|M|/UMBREL-OS/umbrel-OS/build-test.sh
+1593922381|Mayank|M|/UMBREL-OS/umbrel-OS/build-test.sh
+1593922661|Mayank|M|/UMBREL-OS/umbrel-OS/build-test.sh
+1593922739|Mayank|M|/UMBREL-OS/umbrel-OS/build-test.sh
+1593922874|Mayank|M|/UMBREL-OS/umbrel-OS/build-test.sh
+1593923004|Mayank|M|/UMBREL-OS/umbrel-OS/build-test.sh
+1593923258|Mayank|M|/UMBREL-OS/umbrel-OS/build-test.sh
+1593923494|Mayank|M|/UMBREL-OS/umbrel-OS/build-test.sh
+1593923627|Mayank|M|/UMBREL-OS/umbrel-OS/build-test.sh
+1593923838|Mayank|M|/UMBREL-OS/umbrel-OS/build-test.sh
+1593923903|Mayank|M|/UMBREL-OS/umbrel-OS/build-test.sh
+1593924132|Mayank|M|/UMBREL-OS/umbrel-OS/build-test.sh
+1593924271|Mayank|M|/UMBREL-OS/umbrel-OS/build-test.sh
+1593924415|Mayank|M|/UMBREL-OS/umbrel-OS/build-test.sh
+1593924554|Mayank|M|/UMBREL-OS/umbrel-OS/build-test.sh
+1593924722|Mayank|M|/UMBREL-OS/umbrel-OS/build-test.sh
+1593925068|Mayank|M|/UMBREL-OS/umbrel-OS/build-test.sh
+1593925996|Mayank|M|/UMBREL-OS/umbrel-OS/build-test.sh
+1593926014|Mayank|M|/UMBREL-OS/umbrel-OS/build-test.sh
+1593927156|Mayank|M|/UMBREL-OS/umbrel-OS/build-test.sh
+1593928141|Mayank|M|/UMBREL-OS/umbrel-OS/build-test.sh
+1593928396|Mayank|M|/UMBREL-OS/umbrel-OS/build-test.sh
+1593928522|Mayank|M|/UMBREL-OS/umbrel-OS/build-test.sh
+1593928710|Mayank|M|/UMBREL-OS/umbrel-OS/build-test.sh
+1593928793|Mayank|M|/UMBREL-OS/umbrel-OS/build-test.sh
+1593928886|Mayank|M|/UMBREL-OS/umbrel-OS/build-test.sh
+1593928956|Mayank|M|/UMBREL-OS/umbrel-OS/build-test.sh
+1593930127|Mayank|M|/UMBREL-OS/umbrel-OS/build-test.sh
+1593930580|Mayank|M|/UMBREL-OS/umbrel-OS/build-test.sh
+1593930679|Mayank|M|/UMBREL-OS/umbrel-OS/build-test.sh
+1593930828|Mayank|M|/UMBREL-OS/umbrel-OS/build-test.sh
+1593931232|Mayank|M|/UMBREL-OS/umbrel-OS/stage2/05-docker-compose/01-run.sh
+1593931318|Mayank|M|/UMBREL-OS/umbrel-OS/stage2/05-docker-compose/01-run.sh
+1593944999|Mayank|M|/UMBREL-OS/umbrel-OS/stage2/05-docker-compose/01-run.sh
+1593945204|Mayank|M|/UMBREL-OS/umbrel-OS/stage2/05-docker-compose/01-run.sh
+1593945904|Mayank|M|/UMBREL-OS/umbrel-OS/.github/workflows/on-tag-only.yml
+1593946173|Mayank|M|/UMBREL-OS/umbrel-OS/.github/workflows/on-tag-only.yml
+1593946209|Mayank|M|/UMBREL-OS/umbrel-OS/stage2/05-docker-compose/01-run.sh
+1593946264|Mayank|M|/UMBREL-OS/umbrel-OS/.github/workflows/on-tag-only.yml
+1593946305|Mayank|M|/UMBREL-OS/umbrel-OS/stage2/05-docker-compose/01-run.sh
+1593946541|Mayank|M|/UMBREL-OS/umbrel-OS/stage2/05-docker-compose/01-run.sh
+1593972641|Mayank|M|/UMBREL-OS/umbrel-OS/.github/workflows/on-tag-only.yml
+1593973133|Mayank|M|/UMBREL-OS/umbrel-OS/stage2/05-docker-compose/01-run.sh
+1593973879|Mayank|M|/UMBREL-OS/umbrel-OS/.github/workflows/on-tag-only.yml
+1593974084|Mayank|M|/UMBREL-OS/umbrel-OS/stage2/05-docker-compose/01-run.sh
+1593974325|Mayank|M|/UMBREL-OS/umbrel-OS/.github/workflows/on-tag-only.yml
+1593974458|Mayank|M|/UMBREL-OS/umbrel-OS/.github/workflows/on-push.yml
+1593974550|Mayank|M|/UMBREL-OS/umbrel-OS/stage2/05-docker-compose/01-run.sh
+1594007046|Mayank|M|/UMBREL-OS/umbrel-OS/.github/workflows/on-push.yml
+1594007046|Mayank|M|/UMBREL-OS/umbrel-OS/.github/workflows/on-tag-only.yml
+1594007046|Mayank|M|/UMBREL-OS/umbrel-OS/build-test.sh
+1594007296|Mayank|M|/UMBREL-OS/umbrel-OS/.github/workflows/on-push.yml
+1594007296|Mayank|M|/UMBREL-OS/umbrel-OS/.github/workflows/on-tag-only.yml
+1594007353|Mayank|M|/UMBREL-OS/umbrel-OS/.github/workflows/on-push.yml
+1594007390|Mayank|M|/UMBREL-OS/umbrel-OS/.github/workflows/on-push.yml
+1594007641|Mayank|M|/UMBREL-OS/umbrel-OS/.github/workflows/on-push.yml
+1594008092|Mayank|M|/UMBREL-OS/umbrel-OS/.github/workflows/on-push.yml
+1594008092|Mayank|M|/UMBREL-OS/umbrel-OS/.github/workflows/on-tag-only.yml
+1594008141|Mayank|M|/UMBREL-OS/umbrel-OS/.github/workflows/on-push.yml
+1594008264|Mayank|M|/UMBREL-OS/umbrel-OS/.github/workflows/on-push.yml
+1594009081|Mayank|M|/UMBREL-OS/umbrel-OS/.github/workflows/on-push.yml
+1594009081|Mayank|M|/UMBREL-OS/umbrel-OS/build-test.sh
+1594009117|BT|M|/UMBREL-OS/umbrel-OS/stage2/05-docker-compose/files/compose-service
+1594009816|Mayank|M|/UMBREL-OS/umbrel-OS/.github/workflows/on-push.yml
+1594009816|Mayank|M|/UMBREL-OS/umbrel-OS/.github/workflows/on-tag-only.yml
+1594009816|Mayank|M|/UMBREL-OS/umbrel-OS/build.sh
+1594018900|Mayank|M|/UMBREL-OS/umbrel-OS/stage2/05-docker-compose/01-run.sh
+1594032680|Mayank|D|/UMBREL-OS/umbrel-OS/.github/workflows/on-push.yml
+1594032680|Mayank|M|/UMBREL-OS/umbrel-OS/.github/workflows/on-tag-only.yml
+1594032680|Mayank|D|/UMBREL-OS/umbrel-OS/build-test.sh
+1594032680|Mayank|M|/UMBREL-OS/umbrel-OS/stage2/05-docker-compose/01-run.sh
+1594032909|Mayank|M|/UMBREL-OS/umbrel-OS/stage2/01-sys-tweaks/files/rc.local
+1594060576|Mayank|M|/UMBREL-OS/umbrel-OS/stage2/01-sys-tweaks/files/rc.local
+1594060576|Mayank|M|/UMBREL-OS/umbrel-OS/stage2/02-net-tweaks/00-packages
+1594060576|Mayank|D|/UMBREL-OS/umbrel-OS/stage2/06-prepare-home-dir/01-run.sh
+1594060576|Mayank|D|/UMBREL-OS/umbrel-OS/stage2/07-set-bitcoind-perms/01-run.sh
+1594060576|Mayank|D|/UMBREL-OS/umbrel-OS/stage2/08-configure-tor/01-run.sh
+1594060576|Mayank|D|/UMBREL-OS/umbrel-OS/stage2/08-configure-tor/files/torrc
+1594061774|Mayank|M|/UMBREL-OS/umbrel-OS/README.md
+1594061774|Mayank|M|/UMBREL-OS/umbrel-OS/stage2/01-sys-tweaks/files/rc.local
+1594061774|Mayank|M|/UMBREL-OS/umbrel-OS/stage2/05-docker-compose/01-run.sh
+1594093083|Mayank|A|/UMBREL-OS/umbrel-OS/.github/workflows/on-push.yml
+1594093083|Mayank|M|/UMBREL-OS/umbrel-OS/.github/workflows/on-tag-only.yml
+1594093311|Mayank|M|/UMBREL-OS/umbrel-OS/.github/workflows/on-push.yml
+1594093438|Mayank|M|/UMBREL-OS/umbrel-OS/.github/workflows/on-push.yml
+1594188719|Mayank|M|/UMBREL-OS/umbrel-OS/stage2/05-docker-compose/01-run.sh
+1594189207|Mayank|M|/UMBREL-OS/umbrel-OS/stage2/05-docker-compose/01-run.sh
+1594205907|Mayank|M|/UMBREL-OS/umbrel-OS/stage2/05-docker-compose/01-run.sh
+1594801638|Mayank Chhabra|M|/UMBREL-OS/umbrel-OS/.github/workflows/on-tag-only.yml
+1594801638|Mayank Chhabra|M|/UMBREL-OS/umbrel-OS/stage2/05-docker-compose/00-packages
+1594801638|Mayank Chhabra|M|/UMBREL-OS/umbrel-OS/stage2/05-docker-compose/01-run.sh
+1594801638|Mayank Chhabra|M|/UMBREL-OS/umbrel-OS/stage2/05-docker-compose/files/compose-service
+1595175264|Luke Childs|M|/UMBREL-OS/umbrel-OS/config
+1595175395|Luke Childs|M|/UMBREL-OS/umbrel-OS/.github/workflows/on-push.yml
+1595175395|Luke Childs|M|/UMBREL-OS/umbrel-OS/.github/workflows/on-tag-only.yml
+1595175395|Luke Childs|M|/UMBREL-OS/umbrel-OS/build.sh
+1595175395|Luke Childs|M|/UMBREL-OS/umbrel-OS/config
+1595175395|Luke Childs|M|/UMBREL-OS/umbrel-OS/stage2/EXPORT_IMAGE
+1595176109|Luke Childs|M|/UMBREL-OS/umbrel-OS/README.md
+1595176878|Luke Childs|M|/UMBREL-OS/umbrel-OS/README.md
+1595176961|Luke Childs|M|/UMBREL-OS/umbrel-OS/README.md
+1595327619|Mayank Chhabra|M|/UMBREL-OS/umbrel-OS/README.md
+1595560428|Mayank Chhabra|M|/UMBREL-OS/umbrel-OS/config
+1595575643|Mayank Chhabra|M|/UMBREL-OS/umbrel-OS/README.md
+1595575643|Mayank Chhabra|M|/UMBREL-OS/umbrel-OS/build.sh
+1595575643|Mayank Chhabra|M|/UMBREL-OS/umbrel-OS/config
+1595575643|Mayank Chhabra|M|/UMBREL-OS/umbrel-OS/stage2/05-docker-compose/00-packages
+1595575643|Mayank Chhabra|M|/UMBREL-OS/umbrel-OS/stage2/05-docker-compose/01-run.sh
+1595579239|Mayank Chhabra|M|/UMBREL-OS/umbrel-OS/.github/workflows/on-push.yml
+1595579239|Mayank Chhabra|M|/UMBREL-OS/umbrel-OS/.github/workflows/on-tag-only.yml
+1595579239|Mayank Chhabra|M|/UMBREL-OS/umbrel-OS/build.sh
+1595755207|Aaron Dewes|M|/UMBREL-OS/umbrel-OS/stage2/05-docker-compose/01-run.sh
+1595824828|Luke Childs|M|/UMBREL-OS/umbrel-OS/stage2/01-sys-tweaks/files/rc.local
+1595824828|Luke Childs|A|/UMBREL-OS/umbrel-OS/stage2/06-umbrel-details/00-packages
+1595824828|Luke Childs|A|/UMBREL-OS/umbrel-OS/stage2/06-umbrel-details/01-run.sh
+1595824828|Luke Childs|A|/UMBREL-OS/umbrel-OS/stage2/06-umbrel-details/files/umbrel-details
+1595930252|Aaron Dewes|M|/UMBREL-OS/umbrel-OS/depends
+1595930252|Aaron Dewes|M|/UMBREL-OS/umbrel-OS/export-image/00-allow-rerun/00-run.sh
+1595930252|Aaron Dewes|M|/UMBREL-OS/umbrel-OS/scripts/common
+1595930252|Aaron Dewes|M|/UMBREL-OS/umbrel-OS/stage0/00-configure-apt/00-run.sh
+1595930252|Aaron Dewes|M|/UMBREL-OS/umbrel-OS/stage0/00-configure-apt/files/sources.list
+1595930252|Aaron Dewes|A|/UMBREL-OS/umbrel-OS/stage0/files/debian.gpg
+1595930252|Aaron Dewes|D|/UMBREL-OS/umbrel-OS/stage0/files/raspberrypi.gpg
+1595930252|Aaron Dewes|M|/UMBREL-OS/umbrel-OS/stage0/prerun.sh
+1595930252|Aaron Dewes|M|/UMBREL-OS/umbrel-OS/stage1/00-boot-files/files/config.txt
+1595930252|Aaron Dewes|D|/UMBREL-OS/umbrel-OS/stage2/00-copies-and-fills/01-packages
+1595930252|Aaron Dewes|D|/UMBREL-OS/umbrel-OS/stage2/00-copies-and-fills/02-run.sh
+1595930252|Aaron Dewes|A|/UMBREL-OS/umbrel-OS/stage2/00-sys-tweaks/00-debconf
+1595930252|Aaron Dewes|A|/UMBREL-OS/umbrel-OS/stage2/00-sys-tweaks/00-packages
+1595930252|Aaron Dewes|A|/UMBREL-OS/umbrel-OS/stage2/00-sys-tweaks/00-packages-nr
+1595930252|Aaron Dewes|A|/UMBREL-OS/umbrel-OS/stage2/00-sys-tweaks/00-patches/01-useradd.diff
+1595930252|Aaron Dewes|A|/UMBREL-OS/umbrel-OS/stage2/00-sys-tweaks/00-patches/02-swap.diff
+1595930252|Aaron Dewes|A|/UMBREL-OS/umbrel-OS/stage2/00-sys-tweaks/00-patches/04-inputrc.diff
+1595930252|Aaron Dewes|A|/UMBREL-OS/umbrel-OS/stage2/00-sys-tweaks/00-patches/05-path.diff
+1595930252|Aaron Dewes|A|/UMBREL-OS/umbrel-OS/stage2/00-sys-tweaks/00-patches/07-resize-init.diff
+1595930252|Aaron Dewes|A|/UMBREL-OS/umbrel-OS/stage2/00-sys-tweaks/00-patches/series
+1595930252|Aaron Dewes|A|/UMBREL-OS/umbrel-OS/stage2/00-sys-tweaks/01-run.sh
+1595930252|Aaron Dewes|A|/UMBREL-OS/umbrel-OS/stage2/00-sys-tweaks/files/50raspi
+1595930252|Aaron Dewes|A|/UMBREL-OS/umbrel-OS/stage2/00-sys-tweaks/files/90-qemu.rules
+1595930252|Aaron Dewes|A|/UMBREL-OS/umbrel-OS/stage2/00-sys-tweaks/files/console-setup
+1595930252|Aaron Dewes|A|/UMBREL-OS/umbrel-OS/stage2/00-sys-tweaks/files/rc.local
+1595930252|Aaron Dewes|A|/UMBREL-OS/umbrel-OS/stage2/00-sys-tweaks/files/resize2fs_once
+1595930252|Aaron Dewes|A|/UMBREL-OS/umbrel-OS/stage2/00-sys-tweaks/files/ttyoutput.conf
+1595930252|Aaron Dewes|A|/UMBREL-OS/umbrel-OS/stage2/01-net-tweaks/00-packages
+1595930252|Aaron Dewes|A|/UMBREL-OS/umbrel-OS/stage2/01-net-tweaks/01-run.sh
+1595930252|Aaron Dewes|A|/UMBREL-OS/umbrel-OS/stage2/01-net-tweaks/files/wait.conf
+1595930252|Aaron Dewes|A|/UMBREL-OS/umbrel-OS/stage2/01-net-tweaks/files/wpa_supplicant.conf
+1595930252|Aaron Dewes|D|/UMBREL-OS/umbrel-OS/stage2/01-sys-tweaks/00-debconf
+1595930252|Aaron Dewes|D|/UMBREL-OS/umbrel-OS/stage2/01-sys-tweaks/00-packages
+1595930252|Aaron Dewes|D|/UMBREL-OS/umbrel-OS/stage2/01-sys-tweaks/00-packages-nr
+1595930252|Aaron Dewes|D|/UMBREL-OS/umbrel-OS/stage2/01-sys-tweaks/00-patches/01-useradd.diff
+1595930252|Aaron Dewes|D|/UMBREL-OS/umbrel-OS/stage2/01-sys-tweaks/00-patches/02-swap.diff
+1595930252|Aaron Dewes|D|/UMBREL-OS/umbrel-OS/stage2/01-sys-tweaks/00-patches/04-inputrc.diff
+1595930252|Aaron Dewes|D|/UMBREL-OS/umbrel-OS/stage2/01-sys-tweaks/00-patches/05-path.diff
+1595930252|Aaron Dewes|D|/UMBREL-OS/umbrel-OS/stage2/01-sys-tweaks/00-patches/07-resize-init.diff
+1595930252|Aaron Dewes|D|/UMBREL-OS/umbrel-OS/stage2/01-sys-tweaks/00-patches/series
+1595930252|Aaron Dewes|D|/UMBREL-OS/umbrel-OS/stage2/01-sys-tweaks/01-run.sh
+1595930252|Aaron Dewes|D|/UMBREL-OS/umbrel-OS/stage2/01-sys-tweaks/files/50raspi
+1595930252|Aaron Dewes|D|/UMBREL-OS/umbrel-OS/stage2/01-sys-tweaks/files/90-qemu.rules
+1595930252|Aaron Dewes|D|/UMBREL-OS/umbrel-OS/stage2/01-sys-tweaks/files/console-setup
+1595930252|Aaron Dewes|D|/UMBREL-OS/umbrel-OS/stage2/01-sys-tweaks/files/rc.local
+1595930252|Aaron Dewes|D|/UMBREL-OS/umbrel-OS/stage2/01-sys-tweaks/files/resize2fs_once
+1595930252|Aaron Dewes|D|/UMBREL-OS/umbrel-OS/stage2/01-sys-tweaks/files/ttyoutput.conf
+1595930252|Aaron Dewes|A|/UMBREL-OS/umbrel-OS/stage2/02-accept-mathematica-eula/00-debconf
+1595930252|Aaron Dewes|D|/UMBREL-OS/umbrel-OS/stage2/02-net-tweaks/00-packages
+1595930252|Aaron Dewes|D|/UMBREL-OS/umbrel-OS/stage2/02-net-tweaks/01-run.sh
+1595930252|Aaron Dewes|D|/UMBREL-OS/umbrel-OS/stage2/02-net-tweaks/files/wait.conf
+1595930252|Aaron Dewes|D|/UMBREL-OS/umbrel-OS/stage2/02-net-tweaks/files/wpa_supplicant.conf
+1595930252|Aaron Dewes|D|/UMBREL-OS/umbrel-OS/stage2/03-accept-mathematica-eula/00-debconf
+1595930252|Aaron Dewes|M|/UMBREL-OS/umbrel-OS/stage2/05-docker-compose/01-run.sh
+1596016963|Mayank Chhabra|M|/UMBREL-OS/umbrel-OS/README.md
+1596016963|Mayank Chhabra|M|/UMBREL-OS/umbrel-OS/stage2/00-sys-tweaks/files/rc.local
+1596016963|Mayank Chhabra|M|/UMBREL-OS/umbrel-OS/stage2/05-docker-compose/01-run.sh
+1596016963|Mayank Chhabra|D|/UMBREL-OS/umbrel-OS/stage2/05-docker-compose/files/compose-service
+1596016963|Mayank Chhabra|A|/UMBREL-OS/umbrel-OS/stage2/05-docker-compose/files/umbrel
+1596016963|Mayank Chhabra|A|/UMBREL-OS/umbrel-OS/stage2/06-set-env-variables/00-patches/01-profile.diff
+1596016963|Mayank Chhabra|A|/UMBREL-OS/umbrel-OS/stage2/06-set-env-variables/00-patches/series
+1596016963|Mayank Chhabra|A|/UMBREL-OS/umbrel-OS/stage2/06-set-env-variables/01-run.sh
+1596016963|Mayank Chhabra|A|/UMBREL-OS/umbrel-OS/stage2/06-set-env-variables/files/umbrel
+1596016963|Mayank Chhabra|D|/UMBREL-OS/umbrel-OS/stage2/06-umbrel-details/00-packages
+1596016963|Mayank Chhabra|D|/UMBREL-OS/umbrel-OS/stage2/06-umbrel-details/01-run.sh
+1596016963|Mayank Chhabra|D|/UMBREL-OS/umbrel-OS/stage2/06-umbrel-details/files/umbrel-details
+1596016963|Mayank Chhabra|A|/UMBREL-OS/umbrel-OS/stage2/07-umbrel-details/00-packages
+1596016963|Mayank Chhabra|A|/UMBREL-OS/umbrel-OS/stage2/07-umbrel-details/01-run.sh
+1596016963|Mayank Chhabra|A|/UMBREL-OS/umbrel-OS/stage2/07-umbrel-details/files/umbrel-details
+1596018344|Mayank Chhabra|M|/UMBREL-OS/umbrel-OS/stage2/00-sys-tweaks/files/rc.local
+1596019075|Aaron Dewes|M|/UMBREL-OS/umbrel-OS/export-image/04-finalise/01-run.sh
+1596224354|Mayank Chhabra|M|/UMBREL-OS/umbrel-OS/config
+1596224354|Mayank Chhabra|M|/UMBREL-OS/umbrel-OS/stage2/05-docker-compose/01-run.sh
+1596224617|Mayank Chhabra|M|/UMBREL-OS/umbrel-OS/stage2/06-set-env-variables/files/umbrel
+1596534878|Mayank Chhabra|M|/UMBREL-OS/umbrel-OS/README.md
+1596534878|Mayank Chhabra|M|/UMBREL-OS/umbrel-OS/stage2/00-sys-tweaks/files/rc.local
+1596534878|Mayank Chhabra|M|/UMBREL-OS/umbrel-OS/stage2/05-docker-compose/01-run.sh
+1596534878|Mayank Chhabra|M|/UMBREL-OS/umbrel-OS/stage2/05-docker-compose/files/umbrel
+1596534878|Mayank Chhabra|M|/UMBREL-OS/umbrel-OS/stage2/07-umbrel-details/files/umbrel-details
+1596942589|Mayank Chhabra|M|/UMBREL-OS/umbrel-OS/stage2/00-sys-tweaks/files/rc.local
+1596942589|Mayank Chhabra|M|/UMBREL-OS/umbrel-OS/stage2/05-docker-compose/01-run.sh
+1596942589|Mayank Chhabra|D|/UMBREL-OS/umbrel-OS/stage2/05-docker-compose/files/umbrel
+1596943616|Mayank Chhabra|M|/UMBREL-OS/umbrel-OS/stage2/05-docker-compose/00-packages
+1596943616|Mayank Chhabra|D|/UMBREL-OS/umbrel-OS/stage2/07-umbrel-details/00-packages
+1596943616|Mayank Chhabra|D|/UMBREL-OS/umbrel-OS/stage2/07-umbrel-details/01-run.sh
+1596943616|Mayank Chhabra|D|/UMBREL-OS/umbrel-OS/stage2/07-umbrel-details/files/umbrel-details
+1596946840|Mayank Chhabra|D|/UMBREL-OS/umbrel-OS/CODE_OF_CONDUCT.md
+1596946840|Mayank Chhabra|D|/UMBREL-OS/umbrel-OS/CONTRIBUTING.md
+1596946840|Mayank Chhabra|M|/UMBREL-OS/umbrel-OS/README.md
+1596969806|Mayank Chhabra|M|/UMBREL-OS/umbrel-OS/.github/workflows/on-push.yml
+1596969806|Mayank Chhabra|M|/UMBREL-OS/umbrel-OS/config
+1596969806|Mayank Chhabra|D|/UMBREL-OS/umbrel-OS/stage2/04-install-docker/00-run.sh
+1596969806|Mayank Chhabra|A|/UMBREL-OS/umbrel-OS/stage2/04-install-umbrel/00-packages
+1596969806|Mayank Chhabra|A|/UMBREL-OS/umbrel-OS/stage2/04-install-umbrel/01-run.sh
+1596969806|Mayank Chhabra|D|/UMBREL-OS/umbrel-OS/stage2/05-docker-compose/00-packages
+1596969806|Mayank Chhabra|D|/UMBREL-OS/umbrel-OS/stage2/05-docker-compose/01-run.sh
+1596969806|Mayank Chhabra|A|/UMBREL-OS/umbrel-OS/stage2/05-set-umbrel-os-version/00-patches/01-profile.diff
+1596969806|Mayank Chhabra|A|/UMBREL-OS/umbrel-OS/stage2/05-set-umbrel-os-version/00-patches/series
+1596969806|Mayank Chhabra|A|/UMBREL-OS/umbrel-OS/stage2/05-set-umbrel-os-version/01-run.sh
+1596969806|Mayank Chhabra|A|/UMBREL-OS/umbrel-OS/stage2/05-set-umbrel-os-version/files/umbrel
+1596969806|Mayank Chhabra|D|/UMBREL-OS/umbrel-OS/stage2/06-set-env-variables/00-patches/01-profile.diff
+1596969806|Mayank Chhabra|D|/UMBREL-OS/umbrel-OS/stage2/06-set-env-variables/00-patches/series
+1596969806|Mayank Chhabra|D|/UMBREL-OS/umbrel-OS/stage2/06-set-env-variables/01-run.sh
+1596969806|Mayank Chhabra|D|/UMBREL-OS/umbrel-OS/stage2/06-set-env-variables/files/umbrel
+1596982970|Mayank Chhabra|M|/UMBREL-OS/umbrel-OS/stage2/04-install-umbrel/01-run.sh
+1596983067|Mayank Chhabra|M|/UMBREL-OS/umbrel-OS/config
+1596997358|Mayank Chhabra|M|/UMBREL-OS/umbrel-OS/.github/workflows/on-tag-only.yml
+1597210846|Aaron Dewes|M|/UMBREL-OS/umbrel-OS/stage2/00-sys-tweaks/01-run.sh
+1597210846|Aaron Dewes|M|/UMBREL-OS/umbrel-OS/stage2/04-install-umbrel/01-run.sh
+1597218327|Aaron Dewes|M|/UMBREL-OS/umbrel-OS/build.sh
+1597218327|Aaron Dewes|M|/UMBREL-OS/umbrel-OS/config
+1597218327|Aaron Dewes|M|/UMBREL-OS/umbrel-OS/export-image/04-finalise/01-run.sh
+1597218327|Aaron Dewes|M|/UMBREL-OS/umbrel-OS/scripts/common
+1597218327|Aaron Dewes|D|/UMBREL-OS/umbrel-OS/stage2/02-accept-mathematica-eula/00-debconf
+1597218327|Aaron Dewes|A|/UMBREL-OS/umbrel-OS/stage2/02-set-timezone/02-run.sh
+1597218327|Aaron Dewes|A|/UMBREL-OS/umbrel-OS/stage2/03-install-umbrel/00-packages
+1597218327|Aaron Dewes|A|/UMBREL-OS/umbrel-OS/stage2/03-install-umbrel/01-run.sh
+1597218327|Aaron Dewes|D|/UMBREL-OS/umbrel-OS/stage2/03-set-timezone/02-run.sh
+1597218327|Aaron Dewes|D|/UMBREL-OS/umbrel-OS/stage2/04-install-umbrel/00-packages
+1597218327|Aaron Dewes|D|/UMBREL-OS/umbrel-OS/stage2/04-install-umbrel/01-run.sh
+1597218327|Aaron Dewes|A|/UMBREL-OS/umbrel-OS/stage2/04-set-umbrel-os-version/00-patches/01-profile.diff
+1597218327|Aaron Dewes|A|/UMBREL-OS/umbrel-OS/stage2/04-set-umbrel-os-version/00-patches/series
+1597218327|Aaron Dewes|A|/UMBREL-OS/umbrel-OS/stage2/04-set-umbrel-os-version/01-run.sh
+1597218327|Aaron Dewes|A|/UMBREL-OS/umbrel-OS/stage2/04-set-umbrel-os-version/files/umbrel
+1597218327|Aaron Dewes|D|/UMBREL-OS/umbrel-OS/stage2/05-set-umbrel-os-version/00-patches/01-profile.diff
+1597218327|Aaron Dewes|D|/UMBREL-OS/umbrel-OS/stage2/05-set-umbrel-os-version/00-patches/series
+1597218327|Aaron Dewes|D|/UMBREL-OS/umbrel-OS/stage2/05-set-umbrel-os-version/01-run.sh
+1597218327|Aaron Dewes|D|/UMBREL-OS/umbrel-OS/stage2/05-set-umbrel-os-version/files/umbrel
+1597226878|Aaron Dewes|M|/UMBREL-OS/umbrel-OS/build.sh
+1597226878|Aaron Dewes|M|/UMBREL-OS/umbrel-OS/stage2/03-install-umbrel/01-run.sh
+1597252817|Mayank Chhabra|M|/UMBREL-OS/umbrel-OS/stage2/00-sys-tweaks/files/rc.local
+1597252817|Mayank Chhabra|M|/UMBREL-OS/umbrel-OS/stage2/03-install-umbrel/01-run.sh
+1597488195|Mayank Chhabra|M|/UMBREL-OS/umbrel-OS/config
+1597507523|Mayank Chhabra|M|/UMBREL-OS/umbrel-OS/stage1/00-boot-files/files/cmdline.txt
+1597511282|Mayank Chhabra|M|/UMBREL-OS/umbrel-OS/config
+1597511876|Mayank Chhabra|M|/UMBREL-OS/umbrel-OS/stage2/00-sys-tweaks/00-patches/07-resize-init.diff
+1597578358|Mayank Chhabra|M|/UMBREL-OS/umbrel-OS/config
+1597659857|Aaron Dewes|M|/UMBREL-OS/umbrel-OS/stage2/00-sys-tweaks/00-packages
+1598025915|BT|A|/UMBREL-OS/umbrel-OS/stage2/08-patch-avahi-daemon-config/01-run
+1598038313|Mayank Chhabra|M|/UMBREL-OS/umbrel-OS/config
+1598098559|Mayank Chhabra|M|/UMBREL-OS/umbrel-OS/stage2/03-install-umbrel/01-run.sh
+1598098559|Mayank Chhabra|D|/UMBREL-OS/umbrel-OS/stage2/08-patch-avahi-daemon-config/01-run
+1598331248|Mayank Chhabra|M|/UMBREL-OS/umbrel-OS/stage1/00-boot-files/files/cmdline.txt
+1598331248|Mayank Chhabra|M|/UMBREL-OS/umbrel-OS/stage2/00-sys-tweaks/00-patches/07-resize-init.diff
+1598516710|Luke Childs|M|/UMBREL-OS/umbrel-OS/stage2/00-sys-tweaks/00-packages
+1598516710|Luke Childs|D|/UMBREL-OS/umbrel-OS/stage2/00-sys-tweaks/00-patches/02-swap.diff
+1598516710|Luke Childs|M|/UMBREL-OS/umbrel-OS/stage2/00-sys-tweaks/00-patches/series
+1598516816|Mayank Chhabra|M|/UMBREL-OS/umbrel-OS/config
+1598692488|Mayank Chhabra|M|/UMBREL-OS/umbrel-OS/config
+1598812695|Mayank Chhabra|M|/UMBREL-OS/umbrel-OS/config
+1598819225|Mayank Chhabra|M|/UMBREL-OS/umbrel-OS/README.md
+1598882195|Mayank Chhabra|M|/UMBREL-OS/umbrel-OS/config
+1599104697|Mayank Chhabra|M|/UMBREL-OS/umbrel-OS/config
+1599369334|Mayank Chhabra|M|/UMBREL-OS/umbrel-OS/config
+1599661739|Mayank Chhabra|M|/UMBREL-OS/umbrel-OS/config
+1599903845|Aaron Dewes|M|/UMBREL-OS/umbrel-OS/stage2/00-sys-tweaks/00-packages
+1599903845|Aaron Dewes|M|/UMBREL-OS/umbrel-OS/stage2/00-sys-tweaks/00-packages-nr
+1600089763|Aaron Dewes|M|/UMBREL-OS/umbrel-OS/depends
+1600147704|Mayank Chhabra|M|/UMBREL-OS/umbrel-OS/README.md
+1600166799|Mayank Chhabra|M|/UMBREL-OS/umbrel-OS/LICENSE
+1600240068|Aaron Dewes|M|/UMBREL-OS/umbrel-OS/stage2/00-sys-tweaks/00-packages
+1601296786|Mayank Chhabra|M|/UMBREL-OS/umbrel-OS/config
+1601353028|Mayank Chhabra|M|/UMBREL-OS/umbrel-OS/README.md
+1602075846|Luke Childs|M|/UMBREL-OS/umbrel-OS/config
+1602140154|Luke Childs|M|/UMBREL-OS/umbrel-OS/config
+1602153267|Aaron Dewes|M|/UMBREL-OS/umbrel-OS/.github/workflows/on-push.yml
+1602153267|Aaron Dewes|M|/UMBREL-OS/umbrel-OS/.github/workflows/on-tag-only.yml
+1602153820|Aaron Dewes|M|/UMBREL-OS/umbrel-OS/stage2/03-install-umbrel/01-run.sh
+1603017033|Mayank Chhabra|M|/UMBREL-OS/umbrel-OS/README.md
+1603293849|Mayank Chhabra|M|/UMBREL-OS/umbrel-OS/README.md
+1604494645|Aaron Dewes|M|/UMBREL-OS/umbrel-OS/README.md
+1604502444|Mircea Vesa|M|/UMBREL-OS/umbrel-OS/stage1/00-boot-files/files/cmdline.txt
+1604502444|Mircea Vesa|M|/UMBREL-OS/umbrel-OS/stage2/00-sys-tweaks/00-patches/07-resize-init.diff
+1605274870|Mayank Chhabra|M|/UMBREL-OS/umbrel-OS/config
+1606399648|Luke Childs|M|/UMBREL-OS/umbrel-OS/config
+1606729174|Aaron Dewes|M|/UMBREL-OS/umbrel-OS/README.md
+1609342143|Luke Childs|M|/UMBREL-OS/umbrel-OS/config
+1609664458|Mayank Chhabra|M|/UMBREL-OS/umbrel-OS/config
+1610355033|Aaron Dewes|M|/UMBREL-OS/umbrel-OS/stage2/03-install-umbrel/00-packages
+1611131169|Aaron Dewes|M|/UMBREL-OS/umbrel-OS/stage1/00-boot-files/files/cmdline.txt
+1611131169|Aaron Dewes|M|/UMBREL-OS/umbrel-OS/stage2/00-sys-tweaks/00-patches/07-resize-init.diff
+1611131341|Mayank Chhabra|M|/UMBREL-OS/umbrel-OS/config
+1611307735|Aaron Dewes|M|/UMBREL-OS/umbrel-OS/depends
+1612520442|Aaron Dewes|M|/UMBREL-OS/umbrel-OS/stage2/00-sys-tweaks/00-packages
+1613387407|Aaron Dewes|M|/UMBREL-OS/umbrel-OS/stage1/00-boot-files/files/cmdline.txt
+1613387407|Aaron Dewes|M|/UMBREL-OS/umbrel-OS/stage2/00-sys-tweaks/00-patches/07-resize-init.diff
+1614180587|Luke Childs|M|/UMBREL-OS/umbrel-OS/stage2/00-sys-tweaks/00-packages
+1614180695|Luke Childs|M|/UMBREL-OS/umbrel-OS/config
+1614445118|Luke Childs|M|/UMBREL-OS/umbrel-OS/config
+1614526777|Luke Childs|M|/UMBREL-OS/umbrel-OS/config
+1615026226|Downet|M|/UMBREL-OS/umbrel-OS/README.md
+1615026693|Luke Childs|M|/UMBREL-OS/umbrel-OS/stage1/00-boot-files/files/cmdline.txt
+1615026693|Luke Childs|M|/UMBREL-OS/umbrel-OS/stage2/00-sys-tweaks/00-patches/07-resize-init.diff
+1616767539|Luke Childs|M|/UMBREL-OS/umbrel-OS/config
+1619182271|Luke Childs|M|/UMBREL-OS/umbrel-OS/config
+1619205515|Luke Childs|M|/UMBREL-OS/umbrel-OS/config
+1619285220|Luke Childs|M|/UMBREL-OS/umbrel-OS/config
+1620044970|Luke Childs|M|/UMBREL-OS/umbrel-OS/config
+1623336824|Mayank Chhabra|M|/UMBREL-OS/umbrel-OS/config
+1623500668|Luke Childs|M|/UMBREL-OS/umbrel-OS/config
+1624620999|Luke Childs|M|/UMBREL-OS/umbrel-OS/config
+1624975762|Luke Childs|M|/UMBREL-OS/umbrel-OS/stage2/01-net-tweaks/01-run.sh
+1624975784|Luke Childs|M|/UMBREL-OS/umbrel-OS/config
+1628258877|Mayank Chhabra|M|/UMBREL-OS/umbrel-OS/config
+1629472371|Luke Childs|M|/UMBREL-OS/umbrel-OS/config
+1631549937|Luke Childs|M|/UMBREL-OS/umbrel-OS/config
+1633371145|Luke Childs|M|/UMBREL-OS/umbrel-OS/config

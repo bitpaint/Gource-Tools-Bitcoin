@@ -1,0 +1,67 @@
+1597198969|fiatjaf|A|/SPARKO/sparko/.gitignore
+1597198969|fiatjaf|A|/SPARKO/sparko/.gitmodules
+1597198969|fiatjaf|A|/SPARKO/sparko/Makefile
+1597198969|fiatjaf|A|/SPARKO/sparko/README.md
+1597198969|fiatjaf|A|/SPARKO/sparko/auth.go
+1597198969|fiatjaf|A|/SPARKO/sparko/go.mod
+1597198969|fiatjaf|A|/SPARKO/sparko/go.sum
+1597198969|fiatjaf|A|/SPARKO/sparko/helpers.go
+1597198969|fiatjaf|A|/SPARKO/sparko/invoicewithdescriptionhash.go
+1597198969|fiatjaf|A|/SPARKO/sparko/listen.go
+1597198969|fiatjaf|A|/SPARKO/sparko/main.go
+1597198969|fiatjaf|A|/SPARKO/sparko/permissions.go
+1597198969|fiatjaf|A|/SPARKO/sparko/rpc.go
+1597198969|fiatjaf|A|/SPARKO/sparko/spark-wallet
+1597198969|fiatjaf|A|/SPARKO/sparko/stream.go
+1597202064|fiatjaf|M|/SPARKO/sparko/main.go
+1597202064|fiatjaf|A|/SPARKO/sparko/spark-methods.go
+1597202940|fiatjaf|M|/SPARKO/sparko/auth.go
+1597202940|fiatjaf|M|/SPARKO/sparko/listen.go
+1597202940|fiatjaf|M|/SPARKO/sparko/main.go
+1597202940|fiatjaf|M|/SPARKO/sparko/rpc.go
+1597203712|fiatjaf|M|/SPARKO/sparko/main.go
+1597203712|fiatjaf|M|/SPARKO/sparko/spark-methods.go
+1601686143|fiatjaf|M|/SPARKO/sparko/Makefile
+1601686143|fiatjaf|D|/SPARKO/sparko/invoicewithdescriptionhash.go
+1601686143|fiatjaf|A|/SPARKO/sparko/invoicewithdescriptionhash/cmd/Makefile
+1601686143|fiatjaf|A|/SPARKO/sparko/invoicewithdescriptionhash/cmd/main.go
+1601686143|fiatjaf|A|/SPARKO/sparko/invoicewithdescriptionhash/method.go
+1601686143|fiatjaf|M|/SPARKO/sparko/main.go
+1604360672|fiatjaf|M|/SPARKO/sparko/go.mod
+1604360672|fiatjaf|M|/SPARKO/sparko/go.sum
+1604360683|fiatjaf|M|/SPARKO/sparko/invoicewithdescriptionhash/cmd/Makefile
+1604360683|fiatjaf|M|/SPARKO/sparko/invoicewithdescriptionhash/method.go
+1606064746|fiatjaf|M|/SPARKO/sparko/main.go
+1606065888|fiatjaf|M|/SPARKO/sparko/Makefile
+1606065888|fiatjaf|M|/SPARKO/sparko/go.mod
+1606065888|fiatjaf|M|/SPARKO/sparko/go.sum
+1606065888|fiatjaf|M|/SPARKO/sparko/main.go
+1606066118|fiatjaf|M|/SPARKO/sparko/auth.go
+1606066218|fiatjaf|M|/SPARKO/sparko/main.go
+1606777070|Will Schmid|M|/SPARKO/sparko/README.md
+1606820484|fiatjaf|M|/SPARKO/sparko/.gitignore
+1606820484|fiatjaf|M|/SPARKO/sparko/Makefile
+1606944230|fiatjaf|M|/SPARKO/sparko/spark-methods.go
+1610884061|Robert Edström|M|/SPARKO/sparko/.gitmodules
+1610907718|Robert Edström|A|/SPARKO/sparko/Dockerfile
+1610907791|Robert Edström|M|/SPARKO/sparko/spark-wallet
+1611068699|Robert Edström|M|/SPARKO/sparko/spark-methods.go
+1611087830|Robert Edström|M|/SPARKO/sparko/spark-methods.go
+1616877135|fiatjaf|M|/SPARKO/sparko/spark-wallet
+1616877535|fiatjaf|M|/SPARKO/sparko/main.go
+1621796330|fiatjaf|M|/SPARKO/sparko/main.go
+1621796409|fiatjaf|M|/SPARKO/sparko/Dockerfile
+1621796409|fiatjaf|M|/SPARKO/sparko/Makefile
+1621796409|fiatjaf|M|/SPARKO/sparko/go.mod
+1621796409|fiatjaf|M|/SPARKO/sparko/go.sum
+1621796409|fiatjaf|M|/SPARKO/sparko/main.go
+1624125470|fiatjaf|M|/SPARKO/sparko/spark-methods.go
+1626946661|nathanael|M|/SPARKO/sparko/Makefile
+1626946661|nathanael|M|/SPARKO/sparko/spark-wallet
+1628701559|fiatjaf|M|/SPARKO/sparko/Makefile
+1628701559|fiatjaf|M|/SPARKO/sparko/go.mod
+1628701559|fiatjaf|M|/SPARKO/sparko/go.sum
+1628701559|fiatjaf|M|/SPARKO/sparko/invoicewithdescriptionhash/cmd/Makefile
+1628701559|fiatjaf|M|/SPARKO/sparko/invoicewithdescriptionhash/cmd/main.go
+1628701559|fiatjaf|M|/SPARKO/sparko/main.go
+1628701559|fiatjaf|M|/SPARKO/sparko/spark-wallet

@@ -1,6 +1,0 @@
-1596137614|Amiti Uttarwar|A|/TheBitcoinZine/README.md
-1596141517|Amiti Uttarwar|A|/TheBitcoinZine/Genesis.pdf
-1596141517|Amiti Uttarwar|M|/TheBitcoinZine/README.md
-1596141592|Amiti Uttarwar|M|/TheBitcoinZine/README.md
-1601555037|Stacie|A|/TheBitcoinZine/Issue_02.pdf
-1629663104|Stacie|A|/TheBitcoinZine/Issue_03.pdf

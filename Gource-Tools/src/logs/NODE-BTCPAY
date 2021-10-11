@@ -1,0 +1,116 @@
+1523901921|Tim Akinbo|A|/NODE-BTCPAY/node-btcpay/.gitignore
+1523901921|Tim Akinbo|A|/NODE-BTCPAY/node-btcpay/LICENSE
+1523901921|Tim Akinbo|A|/NODE-BTCPAY/node-btcpay/README.md
+1523901921|Tim Akinbo|A|/NODE-BTCPAY/node-btcpay/client.js
+1523901921|Tim Akinbo|A|/NODE-BTCPAY/node-btcpay/cryptography.js
+1523901921|Tim Akinbo|A|/NODE-BTCPAY/node-btcpay/index.js
+1523901921|Tim Akinbo|A|/NODE-BTCPAY/node-btcpay/package.json
+1525610154|nicolas.dorier|M|/NODE-BTCPAY/node-btcpay/README.md
+1525610154|nicolas.dorier|M|/NODE-BTCPAY/node-btcpay/client.js
+1525614157|nicolas.dorier|M|/NODE-BTCPAY/node-btcpay/README.md
+1525614157|nicolas.dorier|M|/NODE-BTCPAY/node-btcpay/client.js
+1539871776|Daniel Lutz|M|/NODE-BTCPAY/node-btcpay/README.md
+1540991107|Daniel Lutz|M|/NODE-BTCPAY/node-btcpay/.gitignore
+1540991107|Daniel Lutz|M|/NODE-BTCPAY/node-btcpay/README.md
+1540991107|Daniel Lutz|M|/NODE-BTCPAY/node-btcpay/client.js
+1540991107|Daniel Lutz|M|/NODE-BTCPAY/node-btcpay/cryptography.js
+1540991107|Daniel Lutz|A|/NODE-BTCPAY/node-btcpay/package-lock.json
+1540991107|Daniel Lutz|M|/NODE-BTCPAY/node-btcpay/package.json
+1546291888|Nadav Ivgi|M|/NODE-BTCPAY/node-btcpay/README.md
+1555616370|Christoph Ott|M|/NODE-BTCPAY/node-btcpay/client.js
+1557965604|Christoph Ott|M|/NODE-BTCPAY/node-btcpay/.gitignore
+1557965604|Christoph Ott|D|/NODE-BTCPAY/node-btcpay/client.js
+1557965604|Christoph Ott|D|/NODE-BTCPAY/node-btcpay/cryptography.js
+1557965604|Christoph Ott|D|/NODE-BTCPAY/node-btcpay/index.js
+1557965604|Christoph Ott|M|/NODE-BTCPAY/node-btcpay/package-lock.json
+1557965604|Christoph Ott|M|/NODE-BTCPAY/node-btcpay/package.json
+1557965604|Christoph Ott|A|/NODE-BTCPAY/node-btcpay/src/core/client.ts
+1557965604|Christoph Ott|A|/NODE-BTCPAY/node-btcpay/src/core/cryptography.ts
+1557965604|Christoph Ott|A|/NODE-BTCPAY/node-btcpay/src/index.ts
+1557965604|Christoph Ott|A|/NODE-BTCPAY/node-btcpay/src/models/invoice.ts
+1557965604|Christoph Ott|A|/NODE-BTCPAY/node-btcpay/src/models/rate.ts
+1557965604|Christoph Ott|A|/NODE-BTCPAY/node-btcpay/tests/sample.js
+1557965604|Christoph Ott|A|/NODE-BTCPAY/node-btcpay/tests/sample.ts
+1557965604|Christoph Ott|A|/NODE-BTCPAY/node-btcpay/tsconfig.json
+1557965604|Christoph Ott|A|/NODE-BTCPAY/node-btcpay/tslint.json
+1558061973|Jonathan Underwood|M|/NODE-BTCPAY/node-btcpay/package-lock.json
+1558061973|Jonathan Underwood|M|/NODE-BTCPAY/node-btcpay/package.json
+1558061973|Jonathan Underwood|M|/NODE-BTCPAY/node-btcpay/src/core/client.ts
+1558061973|Jonathan Underwood|M|/NODE-BTCPAY/node-btcpay/src/core/cryptography.ts
+1558061973|Jonathan Underwood|M|/NODE-BTCPAY/node-btcpay/src/index.ts
+1558061973|Jonathan Underwood|M|/NODE-BTCPAY/node-btcpay/src/models/invoice.ts
+1558061973|Jonathan Underwood|M|/NODE-BTCPAY/node-btcpay/src/models/rate.ts
+1558061973|Jonathan Underwood|M|/NODE-BTCPAY/node-btcpay/tests/sample.js
+1558061973|Jonathan Underwood|M|/NODE-BTCPAY/node-btcpay/tests/sample.ts
+1558061973|Jonathan Underwood|M|/NODE-BTCPAY/node-btcpay/tsconfig.json
+1558061973|Jonathan Underwood|M|/NODE-BTCPAY/node-btcpay/tslint.json
+1558064742|Tim Akinbo|M|/NODE-BTCPAY/node-btcpay/README.md
+1558064742|Tim Akinbo|M|/NODE-BTCPAY/node-btcpay/package-lock.json
+1558064742|Tim Akinbo|M|/NODE-BTCPAY/node-btcpay/package.json
+1558364510|Jonathan Underwood|M|/NODE-BTCPAY/node-btcpay/package-lock.json
+1558364510|Jonathan Underwood|M|/NODE-BTCPAY/node-btcpay/package.json
+1558400235|junderw|M|/NODE-BTCPAY/node-btcpay/src/core/client.ts
+1558400235|junderw|M|/NODE-BTCPAY/node-btcpay/tsconfig.json
+1558400235|junderw|M|/NODE-BTCPAY/node-btcpay/tslint.json
+1558400245|junderw|M|/NODE-BTCPAY/node-btcpay/.gitignore
+1558400245|junderw|A|/NODE-BTCPAY/node-btcpay/jest.json
+1558400245|junderw|M|/NODE-BTCPAY/node-btcpay/package-lock.json
+1558400245|junderw|M|/NODE-BTCPAY/node-btcpay/package.json
+1558400245|junderw|M|/NODE-BTCPAY/node-btcpay/src/core/client.ts
+1558400245|junderw|A|/NODE-BTCPAY/node-btcpay/src/models/client.ts
+1558400245|junderw|M|/NODE-BTCPAY/node-btcpay/src/models/invoice.ts
+1558400245|junderw|M|/NODE-BTCPAY/node-btcpay/src/models/rate.ts
+1558400245|junderw|A|/NODE-BTCPAY/node-btcpay/tests/core/client.spec.ts
+1558400245|junderw|A|/NODE-BTCPAY/node-btcpay/tests/core/cryptography.spec.ts
+1558400245|junderw|A|/NODE-BTCPAY/node-btcpay/tests/index.spec.ts
+1558400245|junderw|D|/NODE-BTCPAY/node-btcpay/tests/sample.js
+1558400245|junderw|D|/NODE-BTCPAY/node-btcpay/tests/sample.ts
+1558400245|junderw|M|/NODE-BTCPAY/node-btcpay/package-lock.json
+1558400245|junderw|M|/NODE-BTCPAY/node-btcpay/package.json
+1558400245|junderw|M|/NODE-BTCPAY/node-btcpay/tests/core/client.spec.ts
+1558400246|junderw|M|/NODE-BTCPAY/node-btcpay/tests/core/client.spec.ts
+1558400246|junderw|M|/NODE-BTCPAY/node-btcpay/tests/core/client.spec.ts
+1558401559|junderw|M|/NODE-BTCPAY/node-btcpay/tests/core/client.spec.ts
+1563100386|dependabot[bot]|M|/NODE-BTCPAY/node-btcpay/package-lock.json
+1563100750|Tim Akinbo|M|/NODE-BTCPAY/node-btcpay/package.json
+1565468554|Patrick Lemke|M|/NODE-BTCPAY/node-btcpay/README.md
+1567174338|nicolas.dorier|M|/NODE-BTCPAY/node-btcpay/package-lock.json
+1567174338|nicolas.dorier|M|/NODE-BTCPAY/node-btcpay/package.json
+1567174707|dependabot[bot]|M|/NODE-BTCPAY/node-btcpay/package-lock.json
+1567175950|junderw|M|/NODE-BTCPAY/node-btcpay/package-lock.json
+1567175950|junderw|M|/NODE-BTCPAY/node-btcpay/package.json
+1569584926|Jonathan Underwood|M|/NODE-BTCPAY/node-btcpay/src/core/client.ts
+1569584926|Jonathan Underwood|M|/NODE-BTCPAY/node-btcpay/src/models/client.ts
+1569621900|Tim Akinbo|M|/NODE-BTCPAY/node-btcpay/package-lock.json
+1569621900|Tim Akinbo|M|/NODE-BTCPAY/node-btcpay/package.json
+1569623869|Tim Akinbo|M|/NODE-BTCPAY/node-btcpay/package-lock.json
+1569623869|Tim Akinbo|M|/NODE-BTCPAY/node-btcpay/src/core/client.ts
+1588309051|dependabot[bot]|M|/NODE-BTCPAY/node-btcpay/package-lock.json
+1588309065|dependabot[bot]|M|/NODE-BTCPAY/node-btcpay/package-lock.json
+1592513958|Tim Akinbo|M|/NODE-BTCPAY/node-btcpay/README.md
+1612249359|pixelcookie11|M|/NODE-BTCPAY/node-btcpay/README.md
+1612282850|Jonathan Underwood|A|/NODE-BTCPAY/node-btcpay/docker/Dockerfile
+1612282850|Jonathan Underwood|A|/NODE-BTCPAY/node-btcpay/docker/README.md
+1612282850|Jonathan Underwood|A|/NODE-BTCPAY/node-btcpay/docker/build.sh
+1612282850|Jonathan Underwood|A|/NODE-BTCPAY/node-btcpay/docker/build_stage2.sh
+1612282850|Jonathan Underwood|A|/NODE-BTCPAY/node-btcpay/docker/registerAdmin.js
+1612282850|Jonathan Underwood|A|/NODE-BTCPAY/node-btcpay/docker/start_btcpay.sh
+1612282850|Jonathan Underwood|A|/NODE-BTCPAY/node-btcpay/docker/start_everything.sh
+1612282850|Jonathan Underwood|M|/NODE-BTCPAY/node-btcpay/package.json
+1612282850|Jonathan Underwood|M|/NODE-BTCPAY/node-btcpay/tests/core/client.spec.ts
+1612350227|Tim Akinbo|M|/NODE-BTCPAY/node-btcpay/package-lock.json
+1612350227|Tim Akinbo|M|/NODE-BTCPAY/node-btcpay/package.json
+1612432414|Jonathan Underwood|A|/NODE-BTCPAY/node-btcpay/.github/workflows/main_ci.yml
+1612649374|Aryan J|M|/NODE-BTCPAY/node-btcpay/src/models/invoice.ts
+1612686833|Aryan J|M|/NODE-BTCPAY/node-btcpay/src/models/invoice.ts
+1612748417|Jonathan Underwood|M|/NODE-BTCPAY/node-btcpay/tests/index.spec.ts
+1615245597|dependabot[bot]|M|/NODE-BTCPAY/node-btcpay/package-lock.json
+1620743352|dependabot[bot]|M|/NODE-BTCPAY/node-btcpay/package-lock.json
+1620743540|dependabot[bot]|M|/NODE-BTCPAY/node-btcpay/package-lock.json
+1620743577|dependabot[bot]|M|/NODE-BTCPAY/node-btcpay/package-lock.json
+1620745389|Andrew Camilleri|M|/NODE-BTCPAY/node-btcpay/package-lock.json
+1620745389|Andrew Camilleri|M|/NODE-BTCPAY/node-btcpay/package.json
+1620745389|Andrew Camilleri|M|/NODE-BTCPAY/node-btcpay/src/core/cryptography.ts
+1620745389|Andrew Camilleri|M|/NODE-BTCPAY/node-btcpay/tests/core/client.spec.ts
+1620747294|Tim Akinbo|M|/NODE-BTCPAY/node-btcpay/package-lock.json
+1620747294|Tim Akinbo|M|/NODE-BTCPAY/node-btcpay/package.json
